@@ -1,3 +1,4 @@
+import chromadb.config
 from langchain_chroma import Chroma
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain.text_splitter import RecursiveCharacterTextSplitter
@@ -9,7 +10,6 @@ from config import DATA_DIR, PERSIST_DIR, CHUNK_SIZE, CHUNK_OVERLAP
 import datetime
 import os
 
-
 def format_docs(docs):
     return "\n\n".join(doc.page_content for doc in docs)
 
@@ -19,7 +19,13 @@ async def create_rag_chain():
     persist_path = PERSIST_DIR / f"{model_name}_c{CHUNK_SIZE}_o{CHUNK_OVERLAP}_ub"
 
     if persist_path.exists():
-        vectorstore = Chroma(persist_directory=str(persist_path), embedding_function=embedding_model)
+        vectorstore = Chroma(
+            persist_directory=str(persist_path),
+            embedding_function=embedding_model,
+            client_settings=chromadb.config.Settings(
+                anonymized_telemetry=False
+            )
+        )
     else:
         files = sorted(DATA_DIR.glob("*.md"))
         all_docs = []
