@@ -1,5 +1,7 @@
+/.env
+/data/feedback.db
+/data/vectorstore
+
 .DS_Store
-.env
-data/feedback.db
 __pycache__/
 *~
