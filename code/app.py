@@ -5,6 +5,7 @@ from db import save_interaction
 from rag_pipeline import create_rag_chain
 from rss_reader import get_rss_items
 from custom_data_layer import CustomDataLayer
+from free_seats import get_occupancy_data, make_plotly_figure
 # from website_search import search_ub_website
 
 
@@ -42,8 +43,9 @@ async def on_message(message: cl.Message):
     session_id = cl.user_session.get("id") or "unknown"
     cl.user_session.set("session_id", session_id)
 
-    # Special command: RSS feed
-    if user_input.lower() == "neues aus der ub":
+    # RSS feed
+    news_keywords = ["news", "neues", "neuigkeiten", "aktuelles", "nachrichten"]
+    if any(keyword in user_input.lower() for keyword in news_keywords):
         items = get_rss_items()
         if not items:
             await Message(content="Keine Neuigkeiten gefunden.").send()
@@ -52,7 +54,25 @@ async def on_message(message: cl.Message):
             await Message(content=news).send()
             await save_interaction(session_id, user_input, news)
         return
+    # Free seats
+    seat_keywords = ["sitzplatz", "sitzplätze", "arbeitsplatz", "arbeitsplätze", "arbeitsplätzen",
+                     "plätze", "freier platz", "freie plätze", "seats", "workspaces"]
+    if any(keyword in user_input.lower() for keyword in seat_keywords):
+        try:
+            data = get_occupancy_data()
+            areas = data["areas"]
+            fig = make_plotly_figure(areas)
 
+            await cl.Message(
+                content=f"📅 Zuletzt aktualisiert: {data['lastupdated']}",
+                elements=[
+                    cl.Plotly(name="Bibliotheksauslastung", figure=fig, display="inline", size="large")
+                ]
+            ).send()
+            await save_interaction(session_id, user_input, "Sitzplatzdiagramm angezeigt.")
+        except Exception as e:
+            await cl.Message(content=f"❌ Fehler beim Abrufen der Sitzplatzdaten: {str(e)}").send()
+        return
     # RAG Response
     rag_chain = cl.user_session.get("chain")
     full_answer = ""

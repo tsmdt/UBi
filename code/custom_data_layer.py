@@ -64,7 +64,8 @@ class CustomDataLayer(BaseDataLayer):
         return self.feedback.pop(feedback_id, None) is not None
 
     async def create_element(self, element_dict: ElementDict) -> None:
-        self.elements[element_dict["id"]] = element_dict
+        element_id = element_dict["id"] if isinstance(element_dict, dict) else element_dict.id
+        self.elements[element_id] = element_dict
 
     async def get_element(self, thread_id: str, element_id: str) -> Optional[ElementDict]:
         return self.elements.get(element_id)
