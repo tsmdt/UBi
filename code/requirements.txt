@@ -10,6 +10,7 @@ langchain_community==0.3.25
 langchain_core==0.3.65
 langchain_openai==0.3.23
 markdown==3.8.2
+plotly==5.20.0
 Requests==2.32.4
 tqdm==4.66.5
 unstructured==0.17.2
