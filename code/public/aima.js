@@ -89,3 +89,69 @@ monitorAndHideDiv();
 window.setTermsCookie = setTermsCookie;
 window.checkTermsAccepted = checkTermsAccepted;
 window.setCookieConfig = setCookieConfig; 
+
+// Imprint and Data Protection Declaration
+window.addEventListener("load", function () {
+  const footer = document.createElement("div");
+  const footerHeight = 18;
+
+  function getIsDarkMode() {
+    return document.documentElement.classList.contains("dark");
+  }
+
+  function getAppBackgroundColor() {
+    // Try to get the real background color from the root or body
+    const root = document.querySelector("#root") || document.body;
+    return getComputedStyle(root).backgroundColor;
+  }
+
+  function updateFooterStyle() {
+    const isDark = getIsDarkMode();
+
+    Object.assign(footer.style, {
+      position: "fixed",
+      bottom: "0",
+      left: "0",
+      width: "100%",
+      background: getAppBackgroundColor(),
+      color: isDark ? "#ccc" : "#999",
+      borderTop: `1px solid ${isDark ? "#444" : "#eee"}`,
+      fontSize: "10px",
+      zIndex: "1000",
+      height: `${footerHeight}px`,
+      display: "flex",
+      justifyContent: "center",
+      alignItems: "center",
+      gap: "10px"
+    });
+
+    footer.querySelectorAll("a").forEach(link => {
+      link.style.color = isDark ? "#ccc" : "#999";
+      link.style.margin = "0 5px";
+      link.style.textDecoration = "none";
+    });
+  }
+
+  footer.innerHTML = `
+    <span>
+      © 2025 UB Mannheim
+      <a href="https://www.bib.uni-mannheim.de/impressum/" target="_blank">Impressum</a>
+      <a href="https://www.uni-mannheim.de/datenschutzerklaerung/" target="_blank">Datenschutz</a>
+    </span>
+  `;
+
+  document.body.appendChild(footer);
+  updateFooterStyle();
+
+  const appWrapper = document.querySelector("#root") || document.body;
+  appWrapper.style.paddingBottom = `${footerHeight + 6}px`;
+
+  const observer = new MutationObserver(() => updateFooterStyle());
+  observer.observe(document.documentElement, {
+    attributes: true,
+    attributeFilter: ["class"]
+  });
+
+  // Slight delay to ensure styles are computed correctly after load
+  setTimeout(updateFooterStyle, 50);
+});
