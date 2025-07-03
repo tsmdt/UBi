@@ -2,6 +2,7 @@ from pathlib import Path
 
 ENV_PATH = Path("../.env")
 DATA_DIR = Path("../data/markdown_processed")
+URLS_TO_CRAWL = Path("../data/urls.txt")
 PERSIST_DIR = Path("../data/vectorstore")
 CHUNK_SIZE = 1000
 CHUNK_OVERLAP = 0
