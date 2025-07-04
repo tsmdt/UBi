@@ -6,8 +6,7 @@ from openai import OpenAI
 from dotenv import set_key, load_dotenv
 from config import (
     ENV_PATH,
-    DATA_DIR,
-    USE_OPENAI_VECTORSTORE
+    DATA_DIR
 )
 
 # === OpenAI Vectorstore Functions ===
@@ -39,11 +38,17 @@ def get_all_vectorstore_files(client: OpenAI, vectorstore_id: str):
     all_files = []
     after = None
     while True:
-        response = client.vector_stores.files.list(
-            vector_store_id=str(vectorstore_id),
-            limit=100,
-            after=after
-        )
+        if after is not None:
+            response = client.vector_stores.files.list(
+                vector_store_id=str(vectorstore_id),
+                limit=100,
+                after=after
+            )
+        else:
+            response = client.vector_stores.files.list(
+                vector_store_id=str(vectorstore_id),
+                limit=100
+            )
         files = list(response)
         if not files:
             break
@@ -90,12 +95,12 @@ def upload_files_to_openAI_vectorstore(
                     file_id=vectorstore_filenames[filename]
                 )
                 # Delete file from OpenAI storage
-                print(f"Deleting old {filename} from vectorstore ...")
+                print(f"[bold]Deleting old {filename} from vectorstore ...")
                 client.files.delete(
                     file_id=vectorstore_filenames[filename]
                 )
             except Exception as e:
-                print(f"Error deleting {filename} from vectorstore: {e}")
+                print(f"[bold]Error deleting {filename} from vectorstore: {e}")
 
         # Upload the file
         try:
@@ -120,12 +125,12 @@ def initialize_vectorstore():
     Create or load an OpenAI vectorstore and upload all files from
     DATA_DIR to it if they were updated previously.
     """
-    if not USE_OPENAI_VECTORSTORE:
-        print("Aborting: OpenAI vectorstore is disabled in config.py")
-        return
-
     # Load config from .env
     load_dotenv(str(ENV_PATH))
+    USE_OPENAI_VECTORSTORE = True if os.getenv("USE_OPENAI_VECTORSTORE") == "True" else False
+    if not USE_OPENAI_VECTORSTORE:
+        print("Aborting: OpenAI vectorstore is disabled in .env")
+        return
     OPENAI_VECTORSTORE_ID = os.getenv("OPENAI_VECTORSTORE_ID")
     DATA_DIR_UPDATED = True if os.getenv("DATA_DIR_UPDATED") == "True" else False
 
@@ -151,5 +156,8 @@ def initialize_vectorstore():
                 files_to_upload=all_md_files,
                 vectorstore_id=str(OPENAI_VECTORSTORE_ID)
             )
+            
+            # Reset DATA_DIR_UPDATED
+            set_key(ENV_PATH, "DATA_DIR_UPDATED", "False")
     except Exception as e:
         print(f'Error: {e}')
