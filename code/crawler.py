@@ -64,8 +64,7 @@ def backup_dir_with_timestamp(dir_path):
         timestamp = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')
         backup_path = path.parent / f"{path.name}_backup_{timestamp}"
         shutil.copytree(path, backup_path)
-        print(f"[bold]===\n[Backup Markdown Folder]")
-        print(f"[bold]{dir_path} -> {backup_path}\n===")
+        print(f"[bold][BACKUP] {dir_path} -> {backup_path}\nDone.")
         
 # === Crawler Funtions ===
 def crawl_urls(
@@ -522,7 +521,7 @@ def process_markdown_files_with_llm(
         api_key=os.getenv("OPENAI_API_KEY"),
     )
 
-    print(f"[bold]===\n[Processing Markdown Files with {model_name}]\n===")
+    print(f"[bold][Processing Markdown Files with {model_name}]")
     
     for file_path in tqdm(input_files):
         print(f"Processing {file_path.name}...")
@@ -562,11 +561,14 @@ def process_markdown_files_with_llm(
 def main(model_name, verbose):
     file_path = URLS_TO_CRAWL
     if file_path.exists():
+        print(f"[bold]Using {str(URLS_TO_CRAWL)} to crawl URLs.")
         with file_path.open("r", encoding="utf-8") as f:
             urls = [line.strip() for line in f if line.strip()]
     else:
+        sitemap_url = 'https://www.bib.uni-mannheim.de/xml-sitemap/'
+        print(f"[bold]Crawling all URLs from {sitemap_url}")
         urls = crawl_urls(
-            sitemap_url='https://www.bib.uni-mannheim.de/xml-sitemap/',
+            sitemap_url=sitemap_url,
             filters=[
                 'twitter',
                 'youtube',
@@ -604,7 +606,8 @@ def main(model_name, verbose):
         else:
             print("[bold]No markdown files changed, skipping LLM postprocessing.")
     else:
-        changed_files = []
+        print("[bold red]No URLs found to crawl. Exiting.")
+        return
 
 if __name__ == "__main__":
     main()
