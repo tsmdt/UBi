@@ -559,59 +559,50 @@ def process_markdown_files_with_llm(
     default=True,
     help='Enable verbose output during crawling.'
     )
-@click.option(
-    '--skip-crawl',
-    is_flag=True,
-    default=False,
-    help='Skip crawling and only push to vectorstore.'
-    )
-def main(model_name, verbose, skip_crawl):
+def main(model_name, verbose):
     file_path = URLS_TO_CRAWL
-    if not skip_crawl:
-        if file_path.exists():
-            with file_path.open("r", encoding="utf-8") as f:
-                urls = [line.strip() for line in f if line.strip()]
-        else:
-            urls = crawl_urls(
-                sitemap_url='https://www.bib.uni-mannheim.de/xml-sitemap/',
-                filters=[
-                    'twitter',
-                    'youtube',
-                    'google',
-                    'facebook',
-                    'instagram',
-                    'primo',
-                    'absolventum',
-                    'portal2',
-                    'blog',
-                    'auskunft-und-beratung',
-                    'beschaeftigte-von-a-bis-z',
-                    'aktuelles/events',
-                    'ausstellungen-und-veranstaltungen',
-                    'anmeldung-fuer-schulen',
-                    'fuehrungen',
-                ],
-                save_to_disk=True,
-                url_filename=str(URLS_TO_CRAWL)
+    if file_path.exists():
+        with file_path.open("r", encoding="utf-8") as f:
+            urls = [line.strip() for line in f if line.strip()]
+    else:
+        urls = crawl_urls(
+            sitemap_url='https://www.bib.uni-mannheim.de/xml-sitemap/',
+            filters=[
+                'twitter',
+                'youtube',
+                'google',
+                'facebook',
+                'instagram',
+                'primo',
+                'absolventum',
+                'portal2',
+                'blog',
+                'auskunft-und-beratung',
+                'beschaeftigte-von-a-bis-z',
+                'aktuelles/events',
+                'ausstellungen-und-veranstaltungen',
+                'anmeldung-fuer-schulen',
+                'fuehrungen',
+            ],
+            save_to_disk=True,
+            url_filename=str(URLS_TO_CRAWL)
+        )
+    
+    if urls:
+        changed_files = process_urls(
+            urls=urls,
+            verbose=verbose,
+            output_dir=TEMP_DIR,
+        )
+        if changed_files:
+            process_markdown_files_with_llm(
+                input_dir=TEMP_DIR,
+                output_dir=str(DATA_DIR),
+                model_name=model_name,
+                only_files=changed_files
             )
-        
-        if urls:
-            changed_files = process_urls(
-                urls=urls,
-                verbose=verbose,
-                output_dir=TEMP_DIR,
-            )
-            if changed_files:
-                process_markdown_files_with_llm(
-                    input_dir=TEMP_DIR,
-                    output_dir=str(DATA_DIR),
-                    model_name=model_name,
-                    only_files=changed_files
-                )
-            else:
-                print("[bold]No markdown files changed, skipping LLM postprocessing.")
         else:
-            changed_files = []
+            print("[bold]No markdown files changed, skipping LLM postprocessing.")
     else:
         changed_files = []
 
