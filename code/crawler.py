@@ -188,6 +188,12 @@ def find_specified_tags(
                     return True
         return False
 
+    def li_to_markdown(li: Tag) -> str:
+        if li.find_all('a'):
+            return f'* {parse_a_href(li)}'
+        else:
+            return f'* {li.get_text(strip=True)}'
+
     # Parse HTML
     matched_tags = []
     for element in tag.find_all(True, recursive=True):
@@ -265,7 +271,23 @@ def find_specified_tags(
         # class: teaser-link
         elif 'teaser-link' in class_attr:
             matched_tags.append(parse_a_href(element))
-            
+        
+        # class: accordion-content
+        elif 'accordion-content' in class_attr:
+            # Find the first <ul> inside this element (even if it has a class)
+            ul = element.find('ul')
+            if ul:
+                li_elements = ul.find_all('li', recursive=False)
+                li_elements_clean = []
+                for li in li_elements:
+                    if not isinstance(li, Tag):
+                        continue
+                    li_elements_clean.append(li_to_markdown(li))
+                matched_tags.append('\n' + '\n'.join(li_elements_clean) + '\n')
+            else:
+                # fallback: just get the text
+                matched_tags.append(element.get_text(strip=True))
+        
         # <ul>
         elif element.name == 'ul' and not element.has_attr('class'):
             li_elements = element.find_all('li', recursive=False) if isinstance(element, Tag) else []
@@ -371,7 +393,7 @@ def process_urls(
             classes_to_find = [
                 'uma-address-position', 'uma-address-details',
                 'uma-address-contact', 'button', 'icon',
-                'teaser-link', 'contenttable'
+                'teaser-link', 'contenttable', 'accordion-content'
             ]
             
             # List of tags to ignore
