@@ -4,10 +4,7 @@ from rich import print
 from pathlib import Path
 from openai import OpenAI
 from dotenv import set_key, load_dotenv
-from config import (
-    ENV_PATH,
-    DATA_DIR
-)
+from config import ENV_PATH, DATA_DIR
 
 # === OpenAI Vectorstore Functions ===
 def create_openAI_vectorstore():
@@ -21,14 +18,6 @@ def create_openAI_vectorstore():
 
     # Save vectorestore ID to .env
     set_key(str(ENV_PATH), "OPENAI_VECTORSTORE_ID", vector_store.id)
-    return vector_store
-
-def retrieve_openAI_vectorstore(id):
-    """
-    Retrieve an existing OpenAI vectorstore.
-    """    
-    client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
-    vector_store = client.vector_stores.retrieve(vector_store_id=id)
     return vector_store
 
 def get_all_vectorstore_files(client: OpenAI, vectorstore_id: str):
@@ -59,7 +48,7 @@ def get_all_vectorstore_files(client: OpenAI, vectorstore_id: str):
             break
     return all_files
 
-def upload_files_to_openAI_vectorstore(
+def sync_files_with_vectorstore(
     upload_dir: Path,
     files_to_upload: list[str],
     vectorstore_id: str
@@ -67,7 +56,8 @@ def upload_files_to_openAI_vectorstore(
     """
     Upload markdown files to an existing OpenAI vectorstore.
     Only upload if the file is new or its byte size differs from the one 
-    in the vectorstore.
+    in the vectorstore. Also, delete files from the vectorstore that are 
+    not in files_to_upload.
     """
     client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))    
     md_files = [Path(f"{upload_dir}/{file}") for file in files_to_upload]
@@ -86,8 +76,29 @@ def upload_files_to_openAI_vectorstore(
     else:
         vectorstore_filenames = {}
 
+    # Delete files in vectorstore that are not in files_to_upload
+    files_to_upload_set = set([Path(f).name for f in files_to_upload])
+    vectorstore_filenames_set = set(vectorstore_filenames.keys())
+    files_to_delete = vectorstore_filenames_set - files_to_upload_set
+    if files_to_delete:
+        print(f"[bold red]Deleting {len(files_to_delete)} files from vectorstore that are not in upload list...")
+        for filename in files_to_delete:
+            remote_file_id, _ = vectorstore_filenames[filename]
+            try:
+                client.vector_stores.files.delete(
+                    vector_store_id=str(vectorstore_id),
+                    file_id=remote_file_id
+                )
+                print(f"[bold]Deleted {filename} from vectorstore.")
+                client.files.delete(
+                    file_id=remote_file_id
+                )
+                print(f"[bold]Deleted {filename} from OpenAI storage.")
+            except Exception as e:
+                print(f"[bold]Error deleting {filename} from vectorstore/OpenAI storage: {e}")
+
+    # Upload new or updated files to vectorstore
     print(f"🔄 Uploading {len(md_files)} files to OpenAI vectorstore ...")
-    
     for md_file in tqdm(md_files):
         filename = md_file.name
         local_byte_size = os.path.getsize(md_file)
@@ -96,7 +107,7 @@ def upload_files_to_openAI_vectorstore(
         if filename in vectorstore_filenames:
             remote_file_id, remote_byte_size = vectorstore_filenames[filename]
             if local_byte_size == remote_byte_size:
-                upload_needed = False  # No need to upload if byte size matches
+                upload_needed = False
             else:
                 try:
                     # Unlink file from vectorstore
@@ -120,7 +131,6 @@ def upload_files_to_openAI_vectorstore(
                         file=f,
                         purpose="user_data"
                     )
-                    
                 # Link uploaded file to vectorstore
                 client.vector_stores.files.create(
                     vector_store_id=str(vectorstore_id),
@@ -164,7 +174,7 @@ def initialize_vectorstore():
         if vectorstore_created or DATA_DIR_UPDATED:
             print(f"[bold]Using OpenAI vectorstore: {OPENAI_VECTORSTORE_ID}")
             all_md_files = [f.name for f in Path(DATA_DIR).glob('*.md')]
-            upload_files_to_openAI_vectorstore(
+            sync_files_with_vectorstore(
                 upload_dir=DATA_DIR,
                 files_to_upload=all_md_files,
                 vectorstore_id=str(OPENAI_VECTORSTORE_ID)
