@@ -1,8 +1,10 @@
-from ast import main
 import os
 import re
 import datetime
 import shutil
+import backoff
+import asyncio
+import time
 from pathlib import Path
 from tqdm import tqdm
 from rich import print
@@ -76,7 +78,7 @@ Perform the following tasks on the provided documents that are sourced from the 
 title: title of document
 source_url: URL of document
 category: one of these categories: [Benutzung, Öffnungszeiten, Standorte, Services, Medien, Projekte]
-tags: [a list of precise, descriptive]
+tags: [a list of precise, descriptive keywords]
 language: de, en or other language tags
 ---
 3. Chunk content into semantic blocks of 100–300 words. Remove redundancy and make the file suitable for semantic search or chatbot use.
@@ -94,16 +96,49 @@ language: de
 # First Heading of Markdown Page
 The content of the markdown page..."""
 
+@backoff.on_exception(backoff.expo, Exception, max_tries=3)
+async def process_single_file_async(llm, file_path, output_path, prompt):
+    """
+    Process a single markdown file with retry logic.
+    """
+    content = file_path.read_text(encoding="utf-8")
+    
+    # LLM interaction
+    response = await llm.ainvoke([
+        {
+            "role": "system",
+            "content": prompt
+        },
+        {
+            "role": "user",
+            "content": content
+        }
+    ])
+
+    # Write to output
+    output_file = output_path / file_path.name
+    output_file.write_text(response.content, encoding="utf-8")
+    return file_path.name
 
 def process_markdown_files_with_llm(
     input_dir: str,
     output_dir: str,
     model_name: str = "gpt-4o-mini-2024-07-18",
-    only_files: list | None = None
+    only_files: list | None = None,
+    max_concurrent: int = 3,
+    delay_between_requests: float = 0.5
     ):
     """
     Post-process markdown files with LLM and add YAML header.
     If only_files is provided, only process those files.
+    
+    Args:
+        input_dir: Directory containing markdown files
+        output_dir: Directory to write processed files
+        model_name: OpenAI model to use
+        only_files: List of specific files to process
+        max_concurrent: Maximum concurrent API requests
+        delay_between_requests: Delay between requests in seconds
     """
     # Backup output_dir if it exists
     if output_dir:
@@ -123,13 +158,70 @@ def process_markdown_files_with_llm(
         model=model_name,
         temperature=0,
         api_key=os.getenv("OPENAI_API_KEY"),
+        max_retries=2, # Rate Limit
     )
 
     print(f"[bold][Processing Markdown Files with {model_name}]")
+    print(f"[bold]Processing {len(input_files)} files with max {max_concurrent} concurrent requests")
     
-    for file_path in tqdm(input_files, desc="LLM Processing"):
-        content = file_path.read_text(encoding="utf-8")
+    # For single file or small batches, use sequential processing to avoid async overhead
+    if len(input_files) <= 2:
+        print("[bold]Using sequential processing for small batch...")
+        process_markdown_files_sequential(llm, input_files, output_path)
+        return
+    
+    async def process_files_async():
+        semaphore = asyncio.Semaphore(max_concurrent)
+        
+        async def process_with_semaphore(file_path):
+            async with semaphore:
+                try:
+                    result = await process_single_file_async(
+                        llm,
+                        file_path,
+                        output_path,
+                        PROMPT_POSTPROCESSING
+                    )
+                    # Add delay between requests to respect rate limits
+                    if delay_between_requests > 0:
+                        await asyncio.sleep(delay_between_requests)
+                    return result
+                except Exception as e:
+                    print(f"❌ Error processing {file_path.name}: {e}")
+                    return None
+        
+        # Create tasks for all files
+        tasks = [process_with_semaphore(file_path) for file_path in input_files]
+        
+        # Process with progress bar
+        completed = 0
+        for coro in tqdm(
+            asyncio.as_completed(tasks),
+            total=len(tasks),
+            desc="LLM Processing"
+            ):
+            result = await coro
+            if result:
+                completed += 1
+        
+        return completed
+    
+    # Run the async processing
+    try:
+        completed_count = asyncio.run(process_files_async())
+        print(f"[bold green]Successfully processed {completed_count}/{len(input_files)} files")
+    except Exception as e:
+        print(f"[bold red]Error during batch processing: {e}")
+        # Fallback to sequential processing
+        print("[bold yellow]Falling back to sequential processing...")
+        process_markdown_files_sequential(llm, input_files, output_path)
+
+def process_markdown_files_sequential(llm, input_files, output_path):
+    """Fallback sequential processing if async fails."""
+    for file_path in tqdm(input_files, desc="LLM Processing (Sequential)"):
         try:
+            content = file_path.read_text(encoding="utf-8")
+            
             # LLM interaction
             response = llm.invoke([
                 {
@@ -145,12 +237,15 @@ def process_markdown_files_with_llm(
             # Write to output
             output_file = output_path / file_path.name
             output_file.write_text(response.content, encoding="utf-8")
+            
+            # Add delay between requests (reduced for better performance)
+            time.sleep(0.2)
 
         except Exception as e:
             print(f"❌ Error processing {file_path.name}: {e}")
-            
-def process_standorte_contacts(
-    data_dir: str = str(DATA_DIR),
+
+def process_standorte(
+    data_path: Path,
     verbose: bool = False
     ):
     """
@@ -158,11 +253,6 @@ def process_standorte_contacts(
     related contact information from linked pages.
     Groups files by base name and only appends contacts to the shortest file in each group.
     """
-    data_path = Path(data_dir)
-    if not data_path.exists():
-        print(f"[bold red]Data directory {data_dir} does not exist!")
-        return
-    
     # Find all markdown files starting with "standorte"
     standorte_files = list(data_path.glob("standorte*.md"))
     
@@ -288,3 +378,54 @@ def process_standorte_contacts(
             print(f"[bold red]Error processing {shortest_file.name}: {e}")
     
     print(f"[bold green]Done. Processed {processed_count} contact files.")
+    
+def process_direktion(
+    data_path: Path,
+    verbose: bool = False
+    ):
+    """
+    Augemnt "ihre-ub_ansprechpersonen_direktion.md"
+    """
+    # Find "direktion" markdown
+    direktion_md = list(data_path.glob("*direktion.md"))[0]
+    md_data = direktion_md.read_text(encoding='utf-8')
+            
+    # Augment the # heading    
+    heading_match = re.search(r"^# .*$", md_data, re.MULTILINE)
+    if heading_match:
+        old_string = heading_match.group(0)
+        new_string = "# Direktion und Leitung der Universitätsbibliothek Mannheim"
+        md_data = re.sub(re.escape(old_string), new_string, md_data)
+    
+    # Augment the profile description
+    profile_match = re.search(
+        r"^Direktorin der Universitätsbibliothek\s*$",
+        md_data,
+        re.MULTILINE
+        )
+    if profile_match:
+        old_string = profile_match.group(0)
+        new_string = "Direktorin und Leiterin der Universitätsbibliothek"
+        md_data = re.sub(re.escape(old_string), new_string, md_data)
+    
+    # Write augmented file
+    direktion_md.write_text(md_data, encoding='utf-8')   
+    print(f"[bold green]Done. Augmented 'Direktion' markdown page.")
+    
+def post_process(
+    data_dir: str = str(DATA_DIR),
+    verbose: bool = False
+    ):
+    """
+    Additional post-processing for already LLM processed markdown files.
+    """
+    data_path = Path(data_dir)
+    if not data_path.exists():
+        print(f"[bold red]Data directory {data_dir} does not exist!")
+        return
+
+    # Process "standorte" files
+    process_standorte(data_path=data_path, verbose=verbose)
+
+    # Augment "direktion" markdown
+    process_direktion(data_path=data_path, verbose=verbose)

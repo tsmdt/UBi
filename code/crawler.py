@@ -404,33 +404,31 @@ def process_urls(
             # Save markdown file only if changed/new
             written_file = utils.write_markdown(url, content_single_page, output_dir)
             if written_file:
-                changed_files.append(written_file)
-                
+                changed_files.append(written_file)                
     return changed_files
-
 
 @click.command()
 @click.option(
-    '--model-name',
+    '--model-name', '-m',
     default='gpt-4.1-mini-2025-04-14',
     help='Model name for LLM postprocessing.'
     )
 @click.option(
-    '--process-only/--no-process-only',
+    '--process-only/--no-process-only', '-p',
     default=False,
     help='Do not crawl URLs; only process existing markdowns instead.'
     )
 @click.option(
-    '--standorte-only/--no-standorte-only',
+    '--additional-processing-only/--no-additional-processing-only', '-a',
     default=False,
     help='Only process standorte.'
     )
 @click.option(
-    '--verbose/--no-verbose',
+    '--verbose/--no-verbose', '-v',
     default=False,
     help='Enable verbose output during crawling.'
     )
-def main(model_name, process_only, standorte_only, verbose):
+def main(model_name, process_only, additional_processing_only, verbose):
     # Track markdown files that have changed for later processing
     changed_files = []
     
@@ -478,7 +476,7 @@ def main(model_name, process_only, standorte_only, verbose):
             return
             
     if changed_files or process_only:
-        if not standorte_only:
+        if not additional_processing_only:
             utils.process_markdown_files_with_llm(
                 input_dir=TEMP_DIR,
                 output_dir=str(DATA_DIR),
@@ -486,11 +484,8 @@ def main(model_name, process_only, standorte_only, verbose):
                 only_files=changed_files if changed_files else None
             )
         
-        # Process standorte contacts after LLM processing
-        utils.process_standorte_contacts(
-            data_dir=str(DATA_DIR),
-            verbose=verbose
-            )
+        # Additional post-processing logic
+        utils.post_process(data_dir=str(DATA_DIR), verbose=verbose)
         
         # Set DATA_DIR_UPDATED flag in .env
         set_key(ENV_PATH, "DATA_DIR_UPDATED", "True")
