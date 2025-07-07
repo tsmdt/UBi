@@ -21,9 +21,9 @@ USE_OPENAI_VECTORSTORE = True if os.getenv("USE_OPENAI_VECTORSTORE") == "True" e
 # === RAG / OpenAI Pipeline Chooser ===
 if USE_OPENAI_VECTORSTORE:
     from openai import AsyncOpenAI
-    from vectorstore_utils import initialize_vectorstore
+    from rag_openai import initialize_vectorstore
 else:
-    from rag_pipeline import create_rag_chain
+    from rag_local import create_rag_chain
 
 # === OpenAI Vectorstore Initialization ===
 if USE_OPENAI_VECTORSTORE:
