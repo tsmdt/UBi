@@ -119,7 +119,7 @@ async def on_message(message: cl.Message):
             response = "Keine Neuigkeiten gefunden."
             await Message(content=response).send()
         else:
-            response = "\n\n".join(f"- **{title}**\n  {link}" for title, link in items)
+            response = "\n\n".join(f"- **{title}**\n  {link}" for title, link, tags in items)
             await Message(content=response).send()
 
         # Add to memory
