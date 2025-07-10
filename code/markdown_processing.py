@@ -11,6 +11,7 @@ from urllib.parse import urlparse
 from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
 from config import ENV_PATH, DATA_DIR
+from prompts import PROMPT_POST_PROCESSING
 
 # === Load Configuration ===
 load_dotenv(ENV_PATH)
@@ -162,33 +163,6 @@ def write_markdown(
     file_path.write_text(new_content, encoding='utf-8')
     return file_path.name
 
-# === Post-Processing ===
-PROMPT_POSTPROCESSING = """You are an expert for preparing markdown documents for Retrieval-Augmented Generation (RAG). 
-Perform the following tasks on the provided documents that are sourced from the website of the Universitätsbibliothek Mannheim:
-1. Clean the structure, improve headings, embed links using markdown syntax. Do not add content to the markdown page itself. Simply refine it.
-2. Add a YAML header (without markdown wrapping!) by using this template:
----
-title: title of document
-source_url: URL of document
-category: one of these categories: [Benutzung, Öffnungszeiten, Standorte, Services, Medien, Projekte]
-tags: [a list of precise, descriptive keywords]
-language: de, en or other language tags
----
-3. Chunk content into semantic blocks of 100–300 words. Remove redundancy and make the file suitable for semantic search or chatbot use.
-4. Return the processed markdown file.
-
-# Example Output
----
-title: Deutscher Reichsanzeiger und Preußischer Staatsanzeiger
-source_url: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/datenangebot-des-fdz/deutscher-reichsanzeiger-und-preussischer-staatsanzeiger/
-category:
-tags: [Forschungsdatenzentrum, Datenangebot des FDZ, Deutscher Reichsanziger und Preussischer Staatsanzeiger, Zeitungen]
-language: de
----
-
-# First Heading of Markdown Page
-The content of the markdown page..."""
-
 @backoff.on_exception(backoff.expo, Exception, max_tries=3)
 async def process_single_file_async(
     llm: ChatOpenAI,
@@ -270,7 +244,7 @@ def process_markdown_files_with_llm(
                         llm,
                         file_path,
                         output_path,
-                        PROMPT_POSTPROCESSING
+                        PROMPT_POST_PROCESSING
                     )
                     # Add delay between requests to respect rate limits
                     if delay_between_requests > 0:
@@ -313,7 +287,7 @@ def process_markdown_files_sequential(llm, input_files, output_path):
             content = file_path.read_text(encoding="utf-8")
             
             # LLM interaction
-            messages = create_llm_messages(PROMPT_POSTPROCESSING, content)
+            messages = create_llm_messages(PROMPT_POST_PROCESSING, content)
             response = llm.invoke(messages)
 
             # Write to output

@@ -17,7 +17,10 @@ def backup_dir_with_timestamp(dir_path):
     path = Path(dir_path)
     if path.exists() and path.is_dir():
         timestamp = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')
-        backup_path = path.parent / f"{path.name}_backup_{timestamp}"
+        backup_dir = path.parent / "backups"
+        if not backup_dir.exists():
+            backup_dir.mkdir(exist_ok=True, parents=True)
+        backup_path = backup_dir / f"{path.name}_backup_{timestamp}"
         shutil.copytree(path, backup_path)
         print(f"[bold cyan][BACKUP] {dir_path} -> {backup_path} ... Done.")
         
