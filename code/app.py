@@ -13,6 +13,7 @@ from terms_conditions import ask_terms_acceptance, check_terms_accepted
 from free_seats import get_occupancy_data, make_plotly_figure
 from conversation_memory import session_memory, MessageRole, create_conversation_context
 from language_detection import detect_language_and_get_name
+from prompts import BASE_SYSTEM_PROMPT
 
 # === .env Configuration ===
 load_dotenv(ENV_PATH)
@@ -49,33 +50,31 @@ async def set_starters(user=None):
     return [
         cl.Starter(
             label="Öffnungszeiten", 
-            message="Ist die Bibliothek jetzt geöffnet?"),
+            message="Welche Bibliotheksbereiche der UB Mannheim haben jetzt geöffnet? Gib mir eine Übersicht über alle Öffnungszeiten der Bibliotheksbereiche und einen Link zur Öffnungszeiten-Webseite."
+            ),
         cl.Starter(
             label="Sitzplätze", 
-            message="Gibt es aktuell freie Sitzplätze in der Bibliothek?"),
+            message="Gibt es aktuell freie Sitzplätze in der Bibliothek?"
+            ),
         cl.Starter(
             label="Services", 
-            message="Liste alle Dienstleistungen an der UB Mannheim auf"),
-        cl.Starter(label="Standorte", message="Standorte der UB Mannheim"),
-        cl.Starter(label="Neuigkeiten", message="Neues aus der UB"),
+            message="Liste alle Dienstleistungen und Services der UB Mannheim für Studierende und Forschende auf."
+            ),
+        cl.Starter(
+            label="Standorte",
+            message="Liste alle Standorte der UB Mannheim mit ihrer fachlichen Ausrichtung und der Webseite auf."
+            ),
+        cl.Starter(
+            label="Neuigkeiten",
+            message="Was für Neuigkeiten gibt es aus der UB Mannheim?"
+            ),
     ]
 
 # === System Prompt for OpenAI Vectorstore Option ===
-def get_instructions(detected_language=None):
+def get_instructions(language="German"):
     today = datetime.datetime.now().strftime('%B %d, %Y')
-    # time = datetime.datetime.now().strftime('%H:%M:%S')
-    return f"""Du bist der virtuelle Assistent der Universitätsbibliothek Mannheim.
-Freundlich, kompetent und unterstützend beantwortest du Fragen zur Nutzung der Bibliothek,
-zu Services, Recherchemöglichkeiten und mehr.
-**Regeln:**
-1. Beantworte Fragen ausschließlich auf Basis der bereitgestellten Dokumente oder Kontexts. Nutze kein allgemeines Vorwissen.
-2. Antworten max. 500 Zeichen lang.
-3. Keine Annahmen, Erfindungen oder Fantasie-URLs.
-4. Keine Buchempfehlungen – verweise stattdessen auf die Primo-Suche: https://primo.bib.uni-mannheim.de
-5. Keine Paperempfehlungen - verweise stattdessen auf die MADOC-Suche: https://madoc.bib.uni-mannheim.de
-6. Keine Datenempfehlungen - verweise stattdessen auf die MADATA-Suche: https://madata.bib.uni-mannheim.de
-7. Antworte immer in der Sprache: {detected_language}.
-8. Heute ist {today}. Nutze das für aktuelle Fragen (z. B. Öffnungszeiten). Verweise auf: https://www.bib.uni-mannheim.de/oeffnungszeiten"""
+    prompt = BASE_SYSTEM_PROMPT.format(today=today)
+    return prompt.replace("{language}", language)
 
 # === Chat Start: Initialize Session Memory and Terms ===
 @cl.on_chat_start
@@ -96,7 +95,7 @@ async def on_chat_start():
     
     # If using RAG, load the chain
     if not USE_OPENAI_VECTORSTORE:
-        rag_chain = await create_rag_chain()
+        rag_chain = await create_rag_chain(debug=False)
         cl.user_session.set("rag_chain", rag_chain)
 
 # === Chat Message Handler ===
@@ -112,7 +111,7 @@ async def on_message(message: cl.Message):
         return
     
     # RSS feed
-    news_keywords = ["news", "neues", "neuigkeiten", "aktuelles", "nachrichten"]
+    news_keywords = ["news", "neuigkeiten", "aktuelles", "nachrichten"]
     if any(keyword in user_input.lower() for keyword in news_keywords):
         items = get_rss_items()
         if not items:
@@ -211,7 +210,7 @@ async def on_message(message: cl.Message):
         # RAG chain logic
         rag_chain = cl.user_session.get("rag_chain")
         if not rag_chain:
-            rag_chain = await create_rag_chain()
+            rag_chain = await create_rag_chain(debug=False)
             cl.user_session.set("rag_chain", rag_chain)
         try:
             # Get conversation context
