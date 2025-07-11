@@ -31,7 +31,7 @@ def make_plotly_figure(areas):
         elif percent >= 50:
             colors.append("#FFA940")  # orange
         else:
-            colors.append("#1ABC9C")  # cooler green
+            colors.append("#002F5C")  # cooler green
 
         percent_text.append(f"{percent}%")
         top_annotations.append(
@@ -53,28 +53,30 @@ def make_plotly_figure(areas):
             text=percent_text,
             textposition="inside",
             insidetextanchor="middle",
-            insidetextfont=dict(size=18, color="white", family="Arial"),
+            insidetextfont=dict(size=14, color="white", family="Arial"),
             hoverinfo="x+y"
         )]
     )
 
     fig.update_layout(
-        title="📊 Sitzplatz-Auslastung in der UB Mannheim",
-        title_font_size=24,
+        title={
+            "text": "Sitzplatz-Auslastung der Bibliotheksbereiche",
+            "font": {"size": 18, "family": "Arial Black, Arial, sans-serif", "color": "black"}
+        },
         plot_bgcolor="white",
         paper_bgcolor="white",
-        font=dict(family="Arial", size=16),
+        font=dict(family="Arial", size=14),
         yaxis=dict(
             title="Belegung in %",
-            title_font_size=18,
-            tickfont_size=15,
+            title_font_size=14,
+            tickfont_size=14,
             range=[0, 100],
             gridcolor='rgba(0,0,0,0.05)',
             zeroline=False,
             showline=False
         ),
         xaxis=dict(
-            tickfont_size=15,
+            tickfont_size=14,
             showline=False
         ),
         height=550,

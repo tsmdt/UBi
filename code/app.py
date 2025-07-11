@@ -146,7 +146,7 @@ async def on_message(message: cl.Message):
             data = get_occupancy_data()
             areas = data["areas"]
             fig = make_plotly_figure(areas)
-            response = f"📅 Zuletzt aktualisiert: {data['lastupdated']}"
+            response = f"Letzte Aktualisierung: {data['lastupdated']}"
             
             await cl.Message(
                 content=response,
