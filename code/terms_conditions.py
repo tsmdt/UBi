@@ -9,7 +9,7 @@ async def ask_terms_acceptance():
     Sie bestätigen:
     ✅ Sie werden keine personenbezogenen Daten eingeben.
     ✅ Ihre Eingaben dürfen zur Verbesserung des Services anonymisiert ausgewertet werden.
-    ✅ Sie verpflichten Ihnen, die Nutzungsbedingungen einzuhalten.
+    ✅ Sie verpflichten sich, die Nutzungsbedingungen einzuhalten.
     Stimmen Sie den Nutzungsbedingungen zu?
     """
     
