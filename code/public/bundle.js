@@ -91,8 +91,9 @@ window.checkTermsAccepted = checkTermsAccepted;
 window.setCookieConfig = setCookieConfig; 
 
 // Imprint and Data Protection Declaration
+let footer; // Move footer to higher scope
 window.addEventListener("load", function () {
-  const footer = document.createElement("div");
+  footer = document.createElement("div");
   const footerHeight = 18;
 
   function getIsDarkMode() {
@@ -192,6 +193,16 @@ window.addEventListener("load", function () {
     console.log("betaHeading shown");
   }
 
+  // Functions to show/hide footer
+  function hideFooter() {
+    if (footer) footer.style.display = "none";
+    console.log("footer hidden");
+  }
+  function showFooter() {
+    if (footer) footer.style.display = "flex";
+    console.log("footer shown");
+  }
+
   // Wait for the readme button to exist
   function waitForReadmeButton() {
     const readmeButton = document.getElementById("readme-button");
@@ -199,13 +210,19 @@ window.addEventListener("load", function () {
       // Initial check
       if (readmeButton.getAttribute("aria-expanded") === "true") {
         hideBetaHeading();
+        hideFooter();
+      } else {
+        showBetaHeading();
+        showFooter();
       }
       // Observe attribute changes
       const observer = new MutationObserver(() => {
         if (readmeButton.getAttribute("aria-expanded") === "true") {
           hideBetaHeading();
+          hideFooter();
         } else {
           showBetaHeading();
+          showFooter();
         }
       });
       observer.observe(readmeButton, { attributes: true, attributeFilter: ["aria-expanded"] });
