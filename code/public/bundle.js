@@ -39,6 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
                             if (button && !button.hasAttribute('data-terms-handled') && button.textContent.trim().startsWith("✅")) {
                                 button.setAttribute('data-terms-handled', 'true');
                                 button.addEventListener('click', function() {
+                                    console.log('Accept terms button clicked (by emoji)');
                                     setTermsCookie();
                                 });
                                 break; // Found the first one, stop searching
@@ -67,6 +68,7 @@ function monitorAndHideDiv() {
         
         const targetDiv = document.querySelector(TARGET_DIV_SELECTOR);
         if (!targetDiv) return;
+        console.log('buttonExists', buttonExists);
         targetDiv.classList.toggle('hidden', buttonExists);
     };
 
@@ -154,6 +156,7 @@ window.addEventListener("load", function () {
 // Add BETA-Version heading at the top center
 window.addEventListener("load", function () {
   const betaHeading = document.createElement("div");
+  betaHeading.id = "beta-heading";
   betaHeading.textContent = "Testversion des KI-Chats der UB Mannheim";
   Object.assign(betaHeading.style, {
     position: "fixed",
@@ -165,7 +168,7 @@ window.addEventListener("load", function () {
     fontWeight: "bold",
     fontSize: "18px",
     color: "rgb(0, 149, 255)",
-    zIndex: "1001",
+    zIndex: "10",
     padding: "25px 0 4px 0",
     letterSpacing: "1px",
     textShadow: "0 0 22px rgba(0, 102, 255, 0.41)"
@@ -176,4 +179,39 @@ window.addEventListener("load", function () {
     "important"
   );
   document.body.appendChild(betaHeading);
+
+  // Functions to show/hide beta heading
+  function hideBetaHeading() {
+    const heading = document.getElementById("beta-heading");
+    if (heading) heading.style.display = "none";
+    console.log("betaHeading hidden");
+  }
+  function showBetaHeading() {
+    const heading = document.getElementById("beta-heading");
+    if (heading) heading.style.display = "block";
+    console.log("betaHeading shown");
+  }
+
+  // Wait for the readme button to exist
+  function waitForReadmeButton() {
+    const readmeButton = document.getElementById("readme-button");
+    if (readmeButton) {
+      // Initial check
+      if (readmeButton.getAttribute("aria-expanded") === "true") {
+        hideBetaHeading();
+      }
+      // Observe attribute changes
+      const observer = new MutationObserver(() => {
+        if (readmeButton.getAttribute("aria-expanded") === "true") {
+          hideBetaHeading();
+        } else {
+          showBetaHeading();
+        }
+      });
+      observer.observe(readmeButton, { attributes: true, attributeFilter: ["aria-expanded"] });
+    } else {
+      setTimeout(waitForReadmeButton, 100); // Try again in 100ms
+    }
+  }
+  waitForReadmeButton();
 });
