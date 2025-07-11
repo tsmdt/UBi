@@ -127,10 +127,10 @@ async def on_message(message: cl.Message):
         items = get_rss_items()
         if not items:
             response = "Keine Neuigkeiten gefunden."
-            await Message(content=response).send()
+            await Message(content=response, author="assistant").send()
         else:
-            response = "\n\n".join(f"- **{title}**\n  {link}" for title, link, tags in items)
-            await Message(content=response).send()
+            response = "\n\n".join(f"- **{title}**\n  {link}" for title, link, _ in items)
+            await Message(content=response, author="assistant").send()
 
         # Add to memory
         session_memory.add_turn(session_id, MessageRole.USER, user_input)
@@ -146,13 +146,14 @@ async def on_message(message: cl.Message):
             data = get_occupancy_data()
             areas = data["areas"]
             fig = make_plotly_figure(areas)
-            response = f"📅 Zuletzt aktualisiert: {data['lastupdated']}"
+            response = f"Letzte Aktualisierung: {data['lastupdated']}"
             
             await cl.Message(
                 content=response,
                 elements=[
                     cl.Plotly(name="Bibliotheksauslastung", figure=fig, display="inline", size="large")
-                ]
+                ],
+                author="assistant"
             ).send()
             
             # Add to memory
@@ -161,7 +162,7 @@ async def on_message(message: cl.Message):
             await save_interaction(session_id, user_input, response)
         except Exception as e:
             error_response = f"❌ Fehler beim Abrufen der Sitzplatzdaten: {str(e)}"
-            await cl.Message(content=error_response).send()
+            await cl.Message(content=error_response, author="assistant").send()
             
             # Add to memory
             session_memory.add_turn(session_id, MessageRole.USER, user_input)
