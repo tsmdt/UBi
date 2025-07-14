@@ -14,7 +14,7 @@ GERMAN_QUESTION_WORDS = [
     'wozu', 'womit', 'wonach', 'wovon', 'wovor', 'worin', 'worüber', 'worunter',
     
     # Time-related question starters
-    'ab', 'seit'
+    'ab', 'seit', 'um',
 
     #modal verbs
     'ist', 'können', 'kannst', 'müssen', 'sollen', 'wollen', 'hat', 'wird',
