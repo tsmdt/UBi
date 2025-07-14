@@ -8,6 +8,7 @@ from typing import List, Dict, Optional, Any
 from dataclasses import dataclass, asdict
 from enum import Enum
 import uuid
+from config import SESSION_MEMORY_CONFIG, RATE_LIMIT_CONFIG
 
 
 class MessageRole(Enum):
@@ -50,15 +51,24 @@ class SessionContext:
     intent: Optional[str] = None
     entities: Optional[Dict[str, Any]] = None
     created_at: datetime.datetime = None
+    # Rate limiting fields
+    total_chars: int = 0
+    total_turns: int = 0
+    request_timestamps: Optional[List[datetime.datetime]] = None
     
     def __post_init__(self):
         if self.created_at is None:
             self.created_at = datetime.datetime.now()
+        if self.request_timestamps is None:
+            self.request_timestamps = []
     
     def to_dict(self) -> Dict[str, Any]:
         return {
             **asdict(self),
-            'created_at': self.created_at.isoformat()
+            'created_at': self.created_at.isoformat(),
+            'request_timestamps': [
+                ts.isoformat() for ts in self.request_timestamps
+            ] if self.request_timestamps else []
         }
 
 
@@ -72,11 +82,24 @@ class SessionMemory:
         self,
         max_turns: int = 10,
         max_tokens: int = 4000,
-        context_window: int = 5
+        context_window: int = 5,
+        # Rate limiting configuration
+        max_chars_per_request: int = 2000,
+        max_chars_per_session: int = 20000,
+        max_turns_per_session: int = 20,
+        max_requests_per_minute: int = 10,
+        rate_limit_window: int = 60
     ):
         self.max_turns = max_turns
         self.max_tokens = max_tokens
         self.context_window = context_window
+        
+        # Rate limiting configuration
+        self.max_chars_per_request = max_chars_per_request
+        self.max_chars_per_session = max_chars_per_session
+        self.max_turns_per_session = max_turns_per_session
+        self.max_requests_per_minute = max_requests_per_minute
+        self.rate_limit_window = rate_limit_window
         
         # Session storage (cleared when session ends)
         self.sessions: Dict[str, List[ConversationTurn]] = {}
@@ -232,10 +255,125 @@ class SessionMemory:
     def get_active_sessions(self) -> List[str]:
         """Get list of active session IDs"""
         return list(self.sessions.keys())
+    
+    def check_rate_limits(
+        self, 
+        session_id: str, 
+        user_input: str
+    ) -> tuple[bool, Optional[str]]:
+        """
+        Check all rate limits for a request
+        
+        Returns:
+            Tuple of (allowed: bool, error_message: Optional[str])
+        """
+        # Initialize session if not exists
+        if session_id not in self.contexts:
+            self.create_session(session_id)
+        
+        context = self.contexts[session_id]
+        
+        # Check character limit per request
+        if len(user_input) > self.max_chars_per_request:
+            msg = (f"Sie haben die maximale Anzahl an Characters pro "
+                   f"Anfrage erreicht ({self.max_chars_per_request} "
+                   f"Zeichen).")
+            return False, msg
+        
+        # Check character limit per session
+        current_session_chars = context.total_chars + len(user_input)
+        if current_session_chars > self.max_chars_per_session:
+            msg = (f"Sie haben die maximale Anzahl an Characters in "
+                   f"dieser Session erreicht ({self.max_chars_per_session} "
+                   f"Zeichen).")
+            return False, msg
+        
+        # Check turn limit per session
+        if context.total_turns >= self.max_turns_per_session:
+            msg = (f"Sie haben die maximale Anzahl an Anfragen für "
+                   f"diese Session erreicht ({self.max_turns_per_session} "
+                   f"Anfragen).")
+            return False, msg
+        
+        # Check rate limiting (requests per minute)
+        current_time = datetime.datetime.now()
+        
+        # Remove timestamps older than the window
+        while (context.request_timestamps and 
+               (current_time - context.request_timestamps[0]).total_seconds() > 
+               self.rate_limit_window):
+            context.request_timestamps.pop(0)
+        
+        # Check if we're over the limit
+        if len(context.request_timestamps) >= self.max_requests_per_minute:
+            return False, ("Zu viele Anfragen. Bitte warten Sie eine Minute, "
+                          "bevor Sie weitere Anfragen senden.")
+        
+        return True, None
+    
+    def record_request(self, session_id: str, user_input: str) -> None:
+        """Record a successful request for rate limiting"""
+        if session_id not in self.contexts:
+            self.create_session(session_id)
+        
+        context = self.contexts[session_id]
+        
+        # Update character count
+        context.total_chars += len(user_input)
+        
+        # Update turn count
+        context.total_turns += 1
+        
+        # Record timestamp for rate limiting
+        context.request_timestamps.append(datetime.datetime.now())
+    
+    def get_rate_limit_stats(self, session_id: str) -> Dict[str, Any]:
+        """Get rate limiting statistics for a session"""
+        if session_id not in self.contexts:
+            return {}
+        
+        context = self.contexts[session_id]
+        current_time = datetime.datetime.now()
+        
+        # Calculate session duration
+        session_duration = (current_time - context.created_at).total_seconds()
+        
+        # Calculate percentages
+        chars_percent = (context.total_chars / self.max_chars_per_session) * 100
+        turns_percent = (context.total_turns / self.max_turns_per_session) * 100
+        
+        # Count recent requests
+        recent_requests = 0
+        for timestamp in context.request_timestamps:
+            if (current_time - timestamp).total_seconds() <= self.rate_limit_window:
+                recent_requests += 1
+        
+        return {
+            "session_id": session_id,
+            "chars_used": context.total_chars,
+            "chars_remaining": max(0, self.max_chars_per_session - context.total_chars),
+            "chars_percent": chars_percent,
+            "turns_used": context.total_turns,
+            "turns_remaining": max(0, self.max_turns_per_session - context.total_turns),
+            "turns_percent": turns_percent,
+            "session_duration_seconds": session_duration,
+            "requests_in_last_minute": recent_requests,
+            "max_requests_per_minute": self.max_requests_per_minute,
+            "rate_limit_percent": (recent_requests / self.max_requests_per_minute) * 100
+        }
 
 
 # Global session memory instance
-session_memory = SessionMemory() 
+session_memory = SessionMemory(
+    max_turns=SESSION_MEMORY_CONFIG["max_turns"],
+    max_tokens=SESSION_MEMORY_CONFIG["max_tokens"],
+    context_window=SESSION_MEMORY_CONFIG["context_window"],
+    max_chars_per_request=RATE_LIMIT_CONFIG["max_chars_per_request"],
+    max_chars_per_session=RATE_LIMIT_CONFIG["max_chars_per_session"],
+    max_turns_per_session=RATE_LIMIT_CONFIG["max_turns_per_session"],
+    max_requests_per_minute=RATE_LIMIT_CONFIG["max_requests_per_minute"],
+    rate_limit_window=RATE_LIMIT_CONFIG["rate_limit_window"]
+) 
 
 
 def create_conversation_context(session_id: str) -> str:
