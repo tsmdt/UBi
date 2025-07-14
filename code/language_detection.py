@@ -2,6 +2,27 @@ from lingua import Language, LanguageDetectorBuilder
 from typing import Optional
 
 
+# German question words for enhanced language detection
+GERMAN_QUESTION_WORDS = [
+    # Basic question words
+    'wer', 'was', 'wann', 'wo', 'warum', 'wie', 'wohin', 'woher', 'wessen',
+    'welcher', 'welche', 'welches', 'welchen',
+    
+    # German-specific question words
+    'wieso', 'weshalb', 'weswegen', 'inwiefern', 'inwieweit',
+    'woran', 'worauf', 'woraus', 'wobei', 'wodurch', 'wofür', 'wogegen',
+    'wozu', 'womit', 'wonach', 'wovon', 'wovor', 'worin', 'worüber', 'worunter',
+    
+    # Time-related question starters
+    'ab', 'seit'
+
+    #modal verbs
+    'ist', 'können', 'kannst', 'müssen', 'sollen', 'wollen', 'hat', 'wird',
+    'hatte', 'hatten', 'werden', 'nenne', 'benenne', 'erkläre', 'zeige',
+    'finde', 'suche', 'gebe', 'gib', 'gibt', 'gibts', 'gibst', 'schreibe',
+]
+
+
 # Build detector with common languages for better performance with at least 10% confidence
 def _build_detector_german():
     """Build language detector with commonly used languages"""
@@ -28,6 +49,26 @@ def _build_detector_rest_common():
 _german_detector = _build_detector_german()
 _english_detector = _build_detector_english()
 _rest_common_detector = _build_detector_rest_common()
+
+def _starts_with_german_question_word(text: str) -> bool:
+    """
+    Check if text starts with a German question word
+    
+    Args:
+        text: Input text to check
+        
+    Returns:
+        True if text starts with a German question word, False otherwise
+    """
+    if not text or not text.strip():
+        return False
+    
+    # Get the first word and convert to lowercase
+    first_word = text.strip().split()[0].lower()
+    
+    # Check if it's a German question word
+    return first_word in GERMAN_QUESTION_WORDS
+
 
 # Check if input is too short for reliable language detection
 def _is_input_too_short(text: str) -> bool:
@@ -87,6 +128,10 @@ def detect_language_and_get_name(
         Detected language name (capitalized) or 'German' as default
     """
     try:
+        # First check if text starts with a German question word
+        if _starts_with_german_question_word(text):
+            return 'German'
+        
         # Check if input is too short for reliable detection
         if _is_input_too_short(text):
             # Try to extend with previous context if session memory available
