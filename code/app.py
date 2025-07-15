@@ -17,6 +17,7 @@ from free_seats import get_occupancy_data, make_plotly_figure
 from conversation_memory import session_memory, MessageRole, create_conversation_context
 from language_detection import detect_language_and_get_name
 from prompts import BASE_SYSTEM_PROMPT
+from session_stats import get_session_usage_message, check_session_warnings
 
 # === .env Configuration ===
 load_dotenv(ENV_PATH)
@@ -119,6 +120,29 @@ async def on_message(message: cl.Message):
     
     if not terms_accepted:
         await ask_terms_acceptance()
+        return
+    
+    # Check rate limits
+    allowed, error_message = session_memory.check_rate_limits(
+        session_id, user_input
+    )
+    if not allowed:
+        await cl.Message(content=error_message, author="assistant").send()
+        return
+    
+    # Record the request if it passes all checks
+    session_memory.record_request(session_id, user_input)
+    
+    # Session statistics command
+    if user_input.lower() == "session stats":
+        stats_message = get_session_usage_message(session_id)
+        await cl.Message(content=stats_message, author="assistant").send()
+        
+        # Check for warnings
+        warning = check_session_warnings(session_id)
+        if warning:
+            await cl.Message(content=warning, author="assistant").send()
+        
         return
     
     # RSS feed
