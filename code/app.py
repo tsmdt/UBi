@@ -18,6 +18,7 @@ from conversation_memory import session_memory, MessageRole, create_conversation
 from phrase_detection import detect_common_phrase
 from prompts import BASE_SYSTEM_PROMPT
 from llm_query_processing import augment_query_with_llm, route_and_detect_language
+from translations import translate
 from session_stats import get_session_usage_message, check_session_warnings
 
 # === .env Configuration ===
@@ -170,10 +171,10 @@ async def on_message(message: cl.Message):
     if route and route.lower() == "news":
         items = get_rss_items()
         if not items:
-            response = "Keine Neuigkeiten gefunden."
+            response = translate("no_news_found", detected_language)
             await Message(content=response, author="assistant").send()
         else:
-            heading = "#### Aktuelle Neuigkeiten aus der UB Mannheim\n\n"
+            heading = translate("news_heading", detected_language)
             body = "\n\n".join(f"- **{title}**\n  {link}" for title, link, _ in items)
             response = heading + body
             await Message(content=response, author="assistant").send()
@@ -189,13 +190,19 @@ async def on_message(message: cl.Message):
         try:
             data = get_occupancy_data()
             areas = data["areas"]
-            fig = make_plotly_figure(areas)
-            response = f"Letzte Aktualisierung: {data['lastupdated']}"
+            
+            # Plot title and labels
+            heading = translate("seats_last_updated", detected_language)
+            response = f"{heading}: {data['lastupdated']}"
+            plot_label = translate("library_capacity", detected_language)
+            
+            # Generate the plot
+            fig = make_plotly_figure(areas, detected_language)
             
             await cl.Message(
                 content=response,
                 elements=[
-                    cl.Plotly(name="Bibliotheksauslastung", figure=fig, display="inline", size="large")
+                    cl.Plotly(name=plot_label, figure=fig, display="inline", size="large")
                 ],
                 author="assistant"
             ).send()
@@ -205,7 +212,7 @@ async def on_message(message: cl.Message):
             session_memory.add_turn(session_id, MessageRole.ASSISTANT, response+f" Data:{data}")
             await save_interaction(session_id, user_input, response)
         except Exception as e:
-            error_response = f"Fehler beim Abrufen der Sitzplatzdaten: {str(e)}"
+            error_response = f"{translate('seats_error', detected_language)}: {str(e)}"
             await cl.Message(content=error_response, author="assistant").send()
             
             # Add to memory
@@ -260,7 +267,7 @@ async def on_message(message: cl.Message):
                     await msg.stream_token(token)
                     full_answer += token
         except Exception as e:
-            error_response = f"Fehler beim Zugriff auf die OpenAI Responses API: {e}"
+            error_response = f"{translate('openai_api_error', detected_language)}: {e}"
             await Message(content=error_response).send()
 
             # Add error to memory
@@ -272,7 +279,8 @@ async def on_message(message: cl.Message):
         if full_answer:
             await msg.update()
         else:
-            await cl.Message(content="Es tut mir leider, aber ich konnte keine Antwort generieren.").send()
+            error_response = f"{translate('response_error', detected_language)}"
+            await cl.Message(content=error_response).send()
         
         # Save interaction
         session_memory.add_turn(session_id, MessageRole.ASSISTANT, full_answer)
@@ -305,7 +313,7 @@ async def on_message(message: cl.Message):
             await save_interaction(session_id, user_input, full_response, augmented_input)
 
         except Exception as e:
-            error_response = f"Fehler bei der Verarbeitung: {str(e)}"
+            error_response = f"{translate('local_rag_error', detected_language)}: {str(e)}"
             await Message(content=error_response).send()
 
             # Add error to memory

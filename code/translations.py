@@ -1,0 +1,129 @@
+TRANSLATIONS = {
+    "no_news_found": {
+        "German": "Keine Neuigkeiten gefunden.",
+        "English": "No news found.",
+        "French": "Aucune nouvelle trouvée.",
+        "Chinese": "未找到新闻。",
+        "Russian": "Новости не найдены.",
+        "Turkish": "Haber bulunamadı.",
+        "Spanish": "No se encontraron noticias.",
+        "Polish": "Nie znaleziono żadnych wiadomości.",
+        "Italian": "Nessuna notizia trovata.",
+        "Danish": "Ingen nyheder fundet."
+    },
+    "news_heading": {
+        "German": "#### Aktuelle Neuigkeiten aus der UB Mannheim\n\n",
+        "English": "#### Latest news from UB Mannheim\n\n",
+        "French": "#### Dernières nouvelles de la UB Mannheim\n\n",
+        "Chinese": "#### 来自曼海姆大学图书馆的最新消息\n\n",
+        "Russian": "#### Последние новости от UB Mannheim\n\n",
+        "Turkish": "#### UB Mannheim'dan en son haberler\n\n",
+        "Spanish": "#### Últimas noticias de UB Mannheim\n\n",
+        "Polish": "#### Najnowsze wiadomości z UB Mannheim\n\n",
+        "Italian": "#### Ultime notizie da UB Mannheim\n\n",
+        "Danish": "#### Seneste nyt fra UB Mannheim\n\n"
+    },
+    "seats_last_updated": {
+        "German": "Letzte Aktualisierung",
+        "English": "Last updated",
+        "French": "Dernière mise à jour",
+        "Chinese": "最后更新",
+        "Russian": "Последнее обновление",
+        "Turkish": "Son güncelleme",
+        "Spanish": "Última actualización",
+        "Polish": "Ostatnia aktualizacja",
+        "Italian": "Ultimo aggiornamento",
+        "Danish": "Sidst opdateret"
+    },
+    "seats_plot_title": {
+        "German": "Bibliotheksauslastung",
+        "English": "Library Utilization",
+        "French": "Taux d'occupation de la bibliothèque",
+        "Chinese": "图书馆使用率",
+        "Russian": "Загруженность библиотеки",
+        "Turkish": "Kütüphane doluluk oranı",
+        "Spanish": "Ocupación de la biblioteca",
+        "Polish": "Obłożenie biblioteki",
+        "Italian": "Occupazione della biblioteca",
+        "Danish": "Bibliotekets udnyttelse"
+    },
+    "seats_label_y_axis": {
+        "German": "Belegung in %",
+        "English": "Occupation in %",
+        "French": "Occupation en %",
+        "Chinese": "使用率 %",
+        "Russian": "Занятость в %",
+        "Turkish": "Doluluk oranı %",
+        "Spanish": "Ocupación en %",
+        "Polish": "Zajętość w %",
+        "Italian": "Occupazione in %",
+        "Danish": "Belægning i %"
+    },
+    "seats_error": {
+        "German": "Fehler beim Abrufen der Sitzplatzdaten",
+        "English": "Error retrieving seat data",
+        "French": "Erreur lors de la récupération des données relatives aux places",
+        "Chinese": "检索座位数据时出错",
+        "Russian": "Ошибка при получении данных о местах",
+        "Turkish": "Koltuk verileri alınırken hata oluştu",
+        "Spanish": "Error al recuperar los datos de los asientos",
+        "Polish": "Błąd podczas pobierania danych o miejscach",
+        "Italian": "Errore nel recupero dei dati dei posti",
+        "Danish": "Fejl ved hentning af pladsdata"
+    },
+    "library_capacity": {
+        "German": "Bibliotheksauslastung",
+        "English": "Library capacity",
+        "French": "Utilisation de la bibliothèque",
+        "Chinese": "图书馆容量",
+        "Russian": "Вместимость библиотеки",
+        "Turkish": "Kütüphane kapasitesi",
+        "Spanish": "Capacidad de la biblioteca",
+        "Polish": "Pojemność biblioteki",
+        "Italian": "Capienza della biblioteca",
+        "Danish": "Bibliotekets kapacitet"
+    },
+    "openai_api_error": {
+        "German": "Fehler beim Zugriff auf die OpenAI Responses API",
+        "English": "Error accessing the OpenAI Responses API",
+        "French": "Erreur d'accès à l'API OpenAI Responses",
+        "Chinese": "访问 OpenAI Responses API 时出错",
+        "Russian": "Ошибка доступа к OpenAI Responses API",
+        "Turkish": "OpenAI Responses API'sine erişilirken hata oluştu",
+        "Spanish": "Error al acceder a la API de respuestas de OpenAI",
+        "Polish": "Błąd podczas uzyskiwania dostępu do interfejsu API OpenAI Responses",
+        "Italian": "Errore durante l'accesso all'API OpenAI Responses",
+        "Danish": "Fejl ved adgang til OpenAI Responses API"
+    },
+    "response_error": {
+        "German": "Es tut mir leider, aber ich konnte keine Antwort generieren.",
+        "English": "I'm sorry, but I couldn't generate an answer.",
+        "French": "Je suis désolé, mais je n'ai pas pu générer de réponse.",
+        "Chinese": "对不起，我无法生成答案。",
+        "Russian": "К сожалению, мне не удалось сгенерировать ответ.",
+        "Turkish": "Üzgünüm, bir cevap oluşturamadım.",
+        "Spanish": "Lo siento, pero no pude generar una respuesta.",
+        "Polish": "Przepraszam, ale nie udało mi się wygenerować odpowiedzi.",
+        "Italian": "Mi dispiace, ma non ho potuto generare una risposta.",
+        "Danish": "Jeg beklager, men jeg kunne ikke generere et svar."
+    },
+    "local_rag_error": {
+        "German": "Fehler bei der lokalen Verarbeitung",
+        "English": "Error during local processing",
+        "French": "Erreur dans le traitement local",
+        "Chinese": "本地处理期间出错",
+        "Russian": "Ошибка при локальной обработке",
+        "Turkish": "Yerel işleme sırasında hata oluştu",
+        "Spanish": "Error durante el procesamiento local",
+        "Polish": "Błąd podczas przetwarzania lokalnego",
+        "Italian": "Errore durante l'elaborazione locale",
+        "Danish": "Fejl under lokal behandling"
+    }
+}
+
+def translate(key, lang="German"):
+    """
+    Return the translation for the given key and language,
+    fallback to German.
+    """
+    return TRANSLATIONS.get(key, {}).get(lang) or TRANSLATIONS.get(key, {}).get("German") or key

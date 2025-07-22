@@ -1,5 +1,6 @@
 import requests
 import plotly.graph_objects as go
+from translations import translate
 
 
 def get_occupancy_data():
@@ -8,7 +9,10 @@ def get_occupancy_data():
     response.raise_for_status()
     return response.json()
 
-def make_plotly_figure(areas):
+def make_plotly_figure(areas, detected_language: str = "German"):
+    """
+    Plot seat availability.
+    """
     sorted_areas = sorted(areas.values(), key=lambda a: a["percent"], reverse=True)
 
     labels = []
@@ -60,14 +64,14 @@ def make_plotly_figure(areas):
 
     fig.update_layout(
         title={
-            "text": "Sitzplatz-Auslastung der Bibliotheksbereiche",
+            "text": translate("seats_plot_title", detected_language),
             "font": {"size": 18, "family": "Arial Black, Arial, sans-serif", "color": "black"}
         },
         plot_bgcolor="white",
         paper_bgcolor="white",
         font=dict(family="Arial", size=14),
         yaxis=dict(
-            title="Belegung in %",
+            title=translate("seats_label_y_axis", detected_language),
             title_font_size=14,
             tickfont_size=14,
             range=[0, 100],
