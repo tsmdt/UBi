@@ -72,8 +72,9 @@ async def route_and_detect_language(
                     return("German", "message")                    
                 if debug:
                     print(f"🚦 [bold]LLM Router classified query as:")
-                    print(f"   - Language: {route_tuple[0]}")
-                    print(f"   - Route category: {route_tuple[1]}")
+                    print(f"   - Query: {user_input}")
+                    print(f"   - Detected Language: {route_tuple[0]}")
+                    print(f"   - Detected Route Category: {route_tuple[1]}")
                 return route_tuple
             except Exception as e:
                 print(f"⚠️  Warning: Could not parse route tuple: {e}")
