@@ -118,7 +118,7 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for the Universi
 - Preserve this language throughout processing
 
 **Category Classification Rules:**
-- 'news': Users requesting actual news content, articles, or current events from library sources
+- 'news': Users requesting SPECIFICALLY actual news content or current events from library sources
 - 'sitzplatz': Questions SPECIFICALLY about seat availability, occupancy levels, or free seats
 - 'message': All other inquiries (locations, directions, services, databases, opening hours, literature searches, etc.)
 
