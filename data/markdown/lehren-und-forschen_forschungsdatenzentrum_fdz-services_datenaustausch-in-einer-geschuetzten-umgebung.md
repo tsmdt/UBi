@@ -3,7 +3,7 @@
 # Datenaustausch in einer geschützten Umgebung (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/datenaustausch-in-einer-geschuetzten-umgebung/)
 
 Daten müssen sicher ausgetauscht werden, wenn sensible Informationen wie personenbezogene, finanz­ielle oder geschäfts­kritische Daten betroffen sind. Dies ist wichtig, um die Privatsphäre und Sicherheit zu schützen, Missbrauch zu verhindern und rechtliche und regulatorische Anforderungen zu erfüllen. Die gemeinsame Nutzung von Daten ist jedoch unerlässlich, um Zusammenarbeit, Innovation und Forschung zu fördern. Ein Datenzugang in den Räumlichkeiten der UB Mannheim (On-Site Data Access) über den**Data Cube**kann einen sicheren Umgang mit sensiblen Daten gewährleisten, der sowohl den Schutz der Daten als auch die Vorteile des Datenaustauschs ermöglicht.
-Eine Terminübersicht über die Nutzung des Data Cube finden Sie in diesem Kalender (https://www2.bib.uni-mannheim.de/open-web-calendar/calendar.html?specification_url=https://www2.bib.uni-mannheim.de/calendars/gwap_emb.yml)
+Eine Terminübersicht über die Nutzung des Data Cube finden Sie in diesem Kalender (https://cal.bib.uni-mannheim.de/calendar.html?specification_url=https://www2.bib.uni-mannheim.de/calendars/gwap_emb.yml)
 
 
 ## Data Cube
@@ -22,7 +22,7 @@ Wenn Sie sensible Daten, z. B. aus einer eigenen Erhebung, in einer geschützte
 * Um Daten des GIP zu nutzen kontaktieren Sie bitte gip@uni-mannheim.de
 * Um Daten des GBP zu nutzen kontaktieren Sie bitte forschungsdaten@uni-mannheim.de
 * Termine zur Nutzung des Data Cube werden nur auf Anfrage vergeben
-* Eine Terminübersicht finden Sie in diesem Kalender (https://www2.bib.uni-mannheim.de/open-web-calendar/calendar.html?specification_url=https://www2.bib.uni-mannheim.de/calendars/gwap_emb.yml)
+* Eine Terminübersicht finden Sie in diesem Kalender (https://cal.bib.uni-mannheim.de/calendar.html?specification_url=https://www2.bib.uni-mannheim.de/calendars/gwap_emb.yml)
 
 Die Nutzung des Data Cube ist von Montag bis Freitag von 09:00 bis 18:00 Uhr möglich. Samstags und sonntags sowie an Feiertagen ist die Nutzung des Data Cube nicht möglich.
 Weitere Informationen zur Nutzung des Data Cube:
@@ -30,7 +30,7 @@ Weitere Informationen zur Nutzung des Data Cube:
 * Um Daten des GIP zu nutzen kontaktieren Sie bitte gip@uni-mannheim.de
 * Um Daten des GBP zu nutzen kontaktieren Sie bitte forschungsdaten@uni-mannheim.de
 * Termine zur Nutzung des Data Cube werden nur auf Anfrage vergeben
-* Eine Terminübersicht finden Sie in diesem Kalender (https://www2.bib.uni-mannheim.de/open-web-calendar/calendar.html?specification_url=https://www2.bib.uni-mannheim.de/calendars/gwap_emb.yml)
+* Eine Terminübersicht finden Sie in diesem Kalender (https://cal.bib.uni-mannheim.de/calendar.html?specification_url=https://www2.bib.uni-mannheim.de/calendars/gwap_emb.yml)
 
 
 

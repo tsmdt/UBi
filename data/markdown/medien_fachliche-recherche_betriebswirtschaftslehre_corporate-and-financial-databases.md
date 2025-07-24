@@ -109,9 +109,10 @@ Access: via WRDS (https://wrds-www.wharton.upenn.edu/login/) (requires registr
 
 **Access:**
 
-* Student-access to the database is provided via remote access to the two terminals. Access is managed via the ILIAS group Finance Databases (https://ilias.uni-mannheim.de/goto.php?target=crs_1227320&client_id=ILIAS). For questions regarding access to Workspace, please contact the subject librarian for business administration (https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/).
-* For academic staff access is available at the Chair of Finance. The terminal can be accessed remotely. Access ist managed via the ILIAS group Finance Databases (https://ilias.uni-mannheim.de/goto.php?target=crs_1227320&client_id=ILIAS). Frequent users can register for a personal account, granting access to the database from their own device without using remote desktop or booking a slot. Further information can be found in the mentioned ILIAS group. For questions, please contact Stefan Scharnowski (https://www.bwl.uni-mannheim.de/theissen/team/postdocs-und-doktoranden/stefan-scharnowski/). 
-* Access to Workspace is limited to faculty and students of the University of Mannheim.
+* Access to Workspace is limited to faculty and students at the University of Mannheim.
+* Frequent users can request a personal account, granting remote access to the database from their own device. Employees of the University of Mannheim and doctoral students can request an account for the duration of the semester. Students can request an account for the duration of 3 months.
+* Short-term remote access is also possible via two virtual terminals. The terminals are managed via the ILIAS group Finance Databases (https://ilias.uni-mannheim.de/goto.php?target=crs_1227320&client_id=ILIAS).  
+* For questions regarding access to Workspace, please contact the subject librarian for business administration (https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/). For questions regarding the ILIAS group, please contact Stefan Scharnowski (https://www.bwl.uni-mannheim.de/theissen/team/postdocs-und-doktoranden/stefan-scharnowski/). 
 
 
 

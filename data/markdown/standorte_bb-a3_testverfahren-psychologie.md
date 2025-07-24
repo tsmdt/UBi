@@ -83,7 +83,7 @@ Der Einsatz für Qualifikations­arbeiten und Forschungs­zwecke ist nicht zulä
 ## Nutzung
 
 Der Zugang zum Testlabor wird über die Infotheke im Bibliotheks­bereich A3 verwaltet, über die Sie auch Raumreservierungen vornehmen lassen können. Der Zutritt ist Montag bis Freitag zwischen 8 und 18 Uhr möglich, das Testlabor verlassen können Sie auch nach 18 Uhr.
-Zum Belegungs­kalender (https://www2.bib.uni-mannheim.de/calendars/testlaboremb)
+Zum Belegungs­kalender (https://cal.bib.uni-mannheim.de/calendar.html?specification_url=https://www2.bib.uni-mannheim.de/calendars/testlabor_emb.yml)
 Wenn Sie dieses Angebot nutzen, verpflichten Sie sich, die folgenden Nutzungs­bedingungen einzuhalten: Es dürfen nur Testpersonen an einer Testung teilnehmen, denen die Datenschutz­hinweise zur Verfügung gestellt wurden und die in die Verarbeitung ihrer personenbezogenen Daten eingewilligt haben.
 Folgende Formulare geben Sie bitte ausgedruckt und unter­schrieben an der Infotheke ab:
 

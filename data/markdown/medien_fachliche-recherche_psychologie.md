@@ -190,7 +190,7 @@ Aufgaben:
 * Mitarbeit im Team Publikations­services und Forschungs­unter­stützung
 * Analysen im Bereich Bibliometrie
 * Adresse: Universität Mannheim, Universitäts­bibliothek, Schloss Schneckenhof West – Raum SN 283, 68161 Mannheim
-* Telefon: +49 621 181-2990
+* Telefon: +49 621 181-3388
 * E-Mail: hendrik.platte@uni-mannheim.de
 * ORCID-ID: 0000-0001-7916-2659 (https://orcid.org/0000-0001-7916-2659)
 VertretungDr. Rudolf Nink (https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-rudolf-nink/)

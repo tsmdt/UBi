@@ -16,10 +16,10 @@ Wenn Sie mehr über die Recherche in Ihrem Fach­gebiet erfahren möchten oder T
 ### Datenbanken
 
 Année PhilologiqueHistorical Abstracts with Full TextHistorische Bibliographie OnlineH-Soz-u-KultWeitereDatenbanken zur Geschichteund zu anderen Fach­gebieten finden Sie über dasDatenbank-Info­system (DBIS).
-Année Philologique (https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=1688)
-Historical Abstracts with Full Text (https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=9777)
-Historische Bibliographie Online (https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=394)
-H-Soz-u-Kult (https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=6837)
+Année Philologique (https://dbis.ur.de/UBMAN/resources/1688)
+Historical Abstracts with Full Text (https://dbis.ur.de/UBMAN/resources/9777)
+Historische Bibliographie Online (https://dbis.ur.de/UBMAN/resources/394)
+H-Soz-u-Kult (https://dbis.ur.de/UBMAN/resources/6837)
 Weitere Datenbanken zur Geschichte (https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=14&libconnect%5Bsort%5D=alph) und zu anderen Fach­gebieten finden Sie über das Datenbank-Info­system (DBIS) (https://dbis.ur.de/UBMAN/).
 
 

@@ -16,6 +16,10 @@ Alle Publikationen von Beschäftigten der Universitäts­bibliothek finden Sie a
 		Metadatenschema für Schulungs­materialien zum Thema Forschungs­daten­management (https://madoc.bib.uni-mannheim.de/70236/1/UAG_Metadatenschema_2025-02.pdf).
 		 Zenodo : , .
 
+* Leonie Bröcher und Thomas Schmidt (2025):
+		OER als Schlüssel zur Data Literacy: Lessons learned aus dem E-Learning-Projekt „MaDaLi²“ der Universität Mannheim (https://madoc.bib.uni-mannheim.de/70467/1/Broecher-Schmidt-OER.pdf).
+		113. BiblioCon in Bremen 2025 = 9. Bibliothekskongress, Bremen, Germany.
+
 * Leonie Bröcher, Thomas Schmidt, Isabella Hartig, Jonathan Schwenzer, Irene Schumm und Niko Baldus (2025):
 		Optimierung eines E-Learning-Angebots durch Studierenden-Interviews und KI-Tools (https://madoc.bib.uni-mannheim.de/69704).
 		In:  Neues Handbuch Hochschul­lehre : Lehren und Lernen effizient gestalten. Band 119, Stuttgart : Franz Steiner Verlag, S. 83–104.
@@ -35,6 +39,10 @@ Alle Publikationen von Beschäftigten der Universitäts­bibliothek finden Sie a
 * Thomas Schmidt, Renat Shigapov, Irene Schumm und Jan Kamlah (2025):
 		Perplexity-inspired metasearch-based alternatives to FAIR GPT: Open-source AI consultants for RDM (https://madoc.bib.uni-mannheim.de/69451/1/2025_Open-Source-AI-consultants-for-RDM.pdf).
 		E-Science-Tage 2025, Heidelberg, Germany.
+
+* Renat Shigapov und Thomas Schmidt (2025):
+		Open-Source-Assistenten für FDM und Open Science: Beratungs­services mit Metasearch und lokalen LLMs (https://madoc.bib.uni-mannheim.de/70468/1/Shigapov-Schmidt-Open-Source.pdf).
+		113. BiblioCon in Bremen 2025 = 9. Bibliothekskongress, Bremen, Germany.
 
 * Renat Shigapov, Thomas Schmidt, Jan Kamlah, Irene Schumm, Jochen Streb und Sibylle Lehmann-Hasemeyer (2025):
 		MBI-KG: A knowledge graph of structured and linked economic research data extrated from the 1937 book „Die Maschinen-Industrie im Deutschen Reich“ (https://madoc.bib.uni-mannheim.de/68485/1/1-s2.0-S2352340924012009_main.pdf).
