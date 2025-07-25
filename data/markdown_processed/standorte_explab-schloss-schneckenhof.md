@@ -1,51 +1,51 @@
 ---
-title: ExpLAB Schloss Schneckenhof
+title: ExpLAB Schloss Schneckenhof - Kreatives Lernen und Arbeiten
 source_url: https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/
 category: Standorte
-tags: [ExpLAB, Schloss Schneckenhof, Raumbuchung, Virtual Reality, Eye Tracking]
+tags: [ExpLAB, kreatives Lernen, Raumbuchung, Virtual Reality, Eye Tracking]
 language: de
 ---
 
 # ExpLAB Schloss Schneckenhof
 
-## Das ExpLAB bietet Platz für kreatives und gemeinschaftliches Lernen und Arbeiten.
+## Kreatives und gemeinschaftliches Lernen und Arbeiten
 
-Mit einer Eye-Tracking-Station, VR-Brillen und Design-Thinking-Tools steht Ihnen eine moderne technische Infrastruktur für Gruppenarbeit, Experimente, Studien- und Abschlussarbeiten zur Verfügung. Passen Sie den Raum Ihren Bedürfnissen an: Es gibt flexible Sitzgelegenheiten, verstellbare Tische, ein großes Whiteboard und eine mobile Stellwand mit integriertem Touchscreen. Für universitäre Vorträge, Workshops und Seminare mit Bezug zu den Angeboten im ExpLAB bieten wir die Möglichkeit einer Raumbuchung. Nutzen Sie dafür unsere [Online-Raumanfrage](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/raumanfrage/).
+Das ExpLAB bietet eine moderne technische Infrastruktur für Gruppenarbeit, Experimente sowie Studien- und Abschlussarbeiten. Es stehen eine Eye-Tracking-Station, VR-Brillen und Design-Thinking-Tools zur Verfügung. Der Raum kann flexibel angepasst werden mit Sitzgelegenheiten, verstellbaren Tischen, einem großen Whiteboard und einer mobilen Stellwand mit integriertem Touchscreen. Für universitäre Vorträge, Workshops und Seminare kann der Raum gebucht werden. Nutzen Sie dafür unsere [Online-Raumanfrage](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/raumanfrage/).
 
 ### Virtual Reality
 
-Virtuelle Technologien (VR, MR) bilden einen Fokus des ExpLABs. Neben zahlreichen Apps stehen VR-Brillen der Hersteller HTC, Meta und Pico zur Verfügung.
+Virtuelle Technologien (VR, MR) sind ein Schwerpunkt des ExpLABs. Neben zahlreichen Apps stehen VR-Brillen der Hersteller HTC, Meta und Pico zur Verfügung. Weitere Informationen finden Sie [hier](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/virtual-reality/).
 
 ### Eye Tracking
 
-Eye Tracking erfasst die menschlichen Augenbewegungen, um Rückschlüsse auf kognitive Verständnisprozesse zu ziehen. Im ExpLAB stehen ein hochwertiger Eye Tracker mit Facial Expression Analysis und Tools zur Messung des Hautleitwiderstands bereit.
+Eye Tracking erfasst menschliche Augenbewegungen, um Rückschlüsse auf kognitive Verständnisprozesse zu ziehen. Im ExpLAB stehen ein hochwertiger Eye Tracker mit Facial Expression Analysis und Tools zur Messung des Hautleitwiderstands bereit. Weitere Informationen finden Sie [hier](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/eye-tracking/).
 
 ### Design Thinking
 
-Design Thinking wird als kreative Arbeitsmethode in Wirtschaft und Forschung eingesetzt und schreibt kollaborative Ideenentwicklung groß. Im ExpLAB bieten wir neben einem Design-Thinking-Toolkit auch Workshops an.
+Design Thinking ist eine kreative Arbeitsmethode, die kollaborative Ideenentwicklung fördert. Im ExpLAB bieten wir ein Design-Thinking-Toolkit sowie Workshops an. Weitere Informationen finden Sie [hier](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/design-thinking/).
 
 ## Hybride Veranstaltungen
 
-Im ExpLAB finden regelmäßig Lehr- und Vortragsveranstaltungen statt, die zum Grundkonzept des Raumes passen. Das ExpLAB ist flexibel bestuhlbar und bietet sich besonders für Workshops an. Der große Präsentationsmonitor mit optionalem Konferenzsystem ermöglicht hybride Veranstaltungen, an denen externe Referentinnen und Referenten beteiligt sind.
+Im ExpLAB finden regelmäßig Lehr- und Vortragsveranstaltungen statt, die zum Grundkonzept des Raumes passen. Der große Präsentationsmonitor mit optionalem Konferenzsystem ermöglicht hybride Veranstaltungen mit externen Referentinnen und Referenten.
 
 ### Raumausstattung
 
-* mobiler Touchscreen-Monitor für Präsentationen (Anschlüsse: HDMI, USB-C)
-* großer Präsentationsmonitor mit Konferenzsystem (Kamera + Raummikrofon), Anschlüsse: DisplayPort, HDMI, USB-C
-* 3 Whiteboards
-* 2 Flipcharts
-* WLAN
-* flexibles Mobiliar (Bestuhlung, Tische)
+- Mobiler Touchscreen-Monitor für Präsentationen (Anschlüsse: HDMI, USB-C)
+- Großer Präsentationsmonitor mit Konferenzsystem (Kamera + Raummikrofon; Anschlüsse: DisplayPort, HDMI, USB-C)
+- 3 Whiteboards
+- 2 Flipcharts
+- WLAN
+- Flexibles Mobiliar (Bestuhlung, Tische)
 
 ## Raumbuchung
 
-Nutzen Sie für die Raumbuchung bitte die [Online-Raumanfrage](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/raumanfrage/) oder schreiben Sie uns eine E-Mail: [explab.ub@uni-mannheim.de](mailto:explab.ub@uni-mannheim.de). Zum [Belegungskalender](https://www2.bib.uni-mannheim.de/open-web-calendar/calendar.html?specification_url=https://www2.bib.uni-mannheim.de/calendars/explab_emb.yml).
+Für die Raumbuchung nutzen Sie bitte die [Online-Raumanfrage](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/raumanfrage/) oder schreiben Sie uns eine E-Mail an [explab.ub@uni-mannheim.de](mailto:explab.ub@uni-mannheim.de). Zum Belegungskalender gelangen Sie [hier](https://cal.bib.uni-mannheim.de/calendar.html?specification_url=https://www2.bib.uni-mannheim.de/calendars/explab_emb.yml).
 
 ## FAQ
 
 ### Wie viele Personen finden im ExpLAB Platz?
 
-Das ExpLAB ist für max. 40 Personen ausgelegt.
+Das ExpLAB ist für maximal 40 Personen ausgelegt.
 
 ### Wann kann ich das ExpLAB nutzen?
 
@@ -57,36 +57,36 @@ Das ExpLAB steht allen Besucher*innen der Bibliothek offen.
 
 ### Wie kann ich das ExpLAB für eine Veranstaltung reservieren?
 
-Nutzen Sie für eine Reservierung bitte unsere [Online-Raumanfrage](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/raumanfrage/).
+Für eine Reservierung nutzen Sie bitte unsere [Online-Raumanfrage](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/raumanfrage/).
 
 ### Für welche Veranstaltungsformate kann das ExpLAB reserviert werden?
 
-Das ExpLAB kann grundsätzlich für alle universitären Veranstaltungen reserviert werden, die einen Bezug zum Raumkonzept haben und/oder die (technische) Ausstattung benötigen. Hierunter verstehen wir zum Beispiel Vortrags- oder Lehrveranstaltungen, (kreative) Workshops, Projekttreffen und hybride Formate. Darüber hinaus kann das ExpLAB auch für Forschungs- und Abschlussarbeiten gebucht werden, um beispielsweise Eye-Tracking-Studien oder Virtual-Reality-Experimente durchzuführen. Für eine reine Besprechung in der Gruppe bieten wir keine Reservierung an.
+Das ExpLAB kann für alle universitären Veranstaltungen reserviert werden, die einen Bezug zum Raumkonzept haben und/oder die technische Ausstattung benötigen, wie Vortrags- oder Lehrveranstaltungen, Workshops, Projekttreffen und hybride Formate. Es kann auch für Forschungs- und Abschlussarbeiten genutzt werden, z.B. für Eye-Tracking-Studien oder Virtual-Reality-Experimente. Eine Reservierung für reine Besprechungen ist nicht möglich.
 
 ### Zu welchen Zeiten kann das ExpLAB für eine Veranstaltung reserviert werden?
 
-Das ExpLAB kann für Veranstaltungen innerhalb der Öffnungszeiten der Bibliothek reserviert werden. Die VR-Brillen und die Eye-Tracking-Station sowie das Konferenzsystem für hybride Veranstaltungen können allerdings nur montags bis freitags bis 18 Uhr genutzt werden.
+Das ExpLAB kann innerhalb der Öffnungszeiten der Bibliothek reserviert werden. Die VR-Brillen und die Eye-Tracking-Station sowie das Konferenzsystem für hybride Veranstaltungen sind jedoch nur montags bis freitags bis 18 Uhr verfügbar.
 
 ### Kann das ExpLAB auch am Wochenende oder an Feiertagen reserviert werden?
 
-Wenn Sie eine Veranstaltung am Wochenende oder an einem Feiertag planen, sprechen Sie uns bitte vorab an: [explab.ub@uni-mannheim.de](mailto:explab.ub@uni-mannheim.de).
+Für Veranstaltungen am Wochenende oder an Feiertagen sprechen Sie uns bitte vorab an: [explab.ub@uni-mannheim.de](mailto:explab.ub@uni-mannheim.de).
 
 ### Ist es möglich, bei einer Veranstaltung im ExpLAB Catering anzubieten?
 
-Während einer Veranstaltung kann im ExpLAB Catering angeboten werden. Die Organisation des Caterings sowie die Beseitigung von Geschirr und möglicher Essensreste im Anschluss liegt in der Verantwortung des/der Veranstalter*in. Außerhalb von Veranstaltungen ist der Verzehr von Essen im ExpLAB nicht gestattet.
+Catering kann während einer Veranstaltung im ExpLAB angeboten werden. Die Organisation des Caterings sowie die Beseitigung von Geschirr und Essensresten liegt in der Verantwortung des/der Veranstalter*in. Außerhalb von Veranstaltungen ist der Verzehr von Essen im ExpLAB nicht gestattet.
 
 ### Wie können Technik und Ausstattung des ExpLABs genutzt werden?
 
-Für die eingeständige Nutzung steht folgende Ausstattung zur freien Verfügung: mobiler Clevertouchmonitor, Design-Thinking-Materialien, Whiteboards und Flipcharts. Der Präsentationsmonitor kann im Rahmen von Veranstaltungen (auch am Wochenende) genutzt werden; die Ausgabe der Fernbedienung nach Absprache vorab erfolgt am InfoCenter im Bibliotheksbereich Schloss Schneckenhof. Für die Nutzung des VR-Equipments ist eine [VR License](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/virtual-reality/#c367023) Voraussetzung. Sprechen Sie uns für die Nutzung der Eye-Tracking-Station direkt an: [explab.ub@uni-mannheim.de](mailto:explab.ub@uni-mannheim.de).
+Für die eigenständige Nutzung stehen folgende Ausstattung zur Verfügung: mobiler Clevertouchmonitor, Design-Thinking-Materialien, Whiteboards und Flipcharts. Der Präsentationsmonitor kann im Rahmen von Veranstaltungen (auch am Wochenende) genutzt werden; die Ausgabe der Fernbedienung erfolgt nach Absprache am InfoCenter im Bibliotheksbereich Schloss Schneckenhof. Für die Nutzung des VR-Equipments ist eine [VR License](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/virtual-reality/#c367023) erforderlich. Für die Nutzung der Eye-Tracking-Station sprechen Sie uns direkt an: [explab.ub@uni-mannheim.de](mailto:explab.ub@uni-mannheim.de).
 
 ### Ist Essen und Trinken im ExpLAB erlaubt?
 
-Wie in allen Bibliotheksbereichen ist das Essen im ExpLAB außerhalb von Veranstaltungen nicht gestattet. Getränke dürfen in wiederverschließbaren Behältern mitgebracht werden.
+Essen ist im ExpLAB außerhalb von Veranstaltungen nicht gestattet. Getränke dürfen in wiederverschließbaren Behältern mitgebracht werden.
 
 ## Kontakt
 
 ### ExpLAB Schloss Schneckenhof
 
-* Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim
-* Telefon: +49 621 181-2948
-* E-Mail: [explab.ub@uni-mannheim.de](mailto:explab.ub@uni-mannheim.de)
+- **Adresse:** Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim
+- **Telefon:** +49 621 181-2948
+- **E-Mail:** [explab.ub@uni-mannheim.de](mailto:explab.ub@uni-mannheim.de)
