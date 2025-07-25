@@ -1,48 +1,45 @@
 ---
-title: Fachliche Recherche im Fach Geschichte
+title: Fachliche Recherche im Bereich Geschichte
 source_url: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/geschichte/
 category: Medien
-tags: [Geschichte, Literatur, Datenbanken, E-Journals, E-Books, Bibliothek, Recherche, wissenschaftliches Arbeiten, Kurse, Tutorials, Fachreferent]
+tags: [Geschichte, Datenbanken, E-Journals, E-Books, wissenschaftliches Arbeiten]
 language: de
 ---
 
-# Fachliche Recherche im Fach Geschichte
+# Fachliche Recherche im Bereich Geschichte
 
-Für das Fach Geschichte bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken und weitere Sucheinstiege. Bei Fragen zur Recherche oder zum wissenschaftlichen Arbeiten können Sie Kurse besuchen oder eine individuelle Beratung in Anspruch nehmen.
+## Literatur, Datenbanken und weitere Sucheinstiege
 
-## Recherchemöglichkeiten
+Für das Fach Geschichte bieten wir Ihnen Literatur, Datenbanken und weitere Sucheinstiege. Wenn Sie mehr über die Recherche in Ihrem Fachgebiet erfahren möchten oder Tipps zum wissenschaftlichen Arbeiten benötigen, können Sie unsere [Kurse](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/) besuchen. Gerne beraten wir Sie auch individuell.
+
+## Recherchieren
 
 ### Datenbanken
 
-Folgende Datenbanken sind für die historische Forschung besonders relevant:
-
-- [Année Philologique](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=1688)
-- [Historical Abstracts with Full Text](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=9777)
-- [Historische Bibliographie Online](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=394)
-- [H-Soz-u-Kult](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=6837)
-
-Weitere Datenbanken zur Geschichte und anderen Fachgebieten finden Sie über das [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/).
+- [Année Philologique](https://dbis.ur.de/UBMAN/resources/1688)
+- [Historical Abstracts with Full Text](https://dbis.ur.de/UBMAN/resources/9777)
+- [Historische Bibliographie Online](https://dbis.ur.de/UBMAN/resources/394)
+- [H-Soz-u-Kult](https://dbis.ur.de/UBMAN/resources/6837)
+- [Weitere Datenbanken zur Geschichte](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=14&libconnect%5Bsort%5D=alph) und zu anderen Fachgebieten finden Sie über das [Datenbank-Informationssystem (DBIS)](https://dbis.ur.de/UBMAN/).
 
 ### E-Journals
 
-Die E-Journals für Geschichte sind in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://rzblx10.uni-regensburg.de/dbinfo/dbliste.php?bib_id=ubman&colors=15&ocolors=40&lett=f&gebiete=26) und im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) verfügbar.
+Die E-Journals für das Fach Geschichte finden Sie in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://rzblx10.uni-regensburg.de/dbinfo/dbliste.php?bib_id=ubman&colors=15&ocolors=40&lett=f&gebiete=26) und im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
 
 ### E-Books
 
-Lizensierte E-Books im Fach Geschichte finden Sie im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB). Informationen zu den Nutzungsbedingungen sind auf der Seite [Hinweise zur E-Book-Nutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/) verfügbar.
+Die lizenzierten E-Books im Fach Geschichte finden Sie in unserem [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB). Weitere Informationen zu den Nutzungsbedingungen finden Sie auf der Seite [Hinweise zur E-Book-Nutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
 
 **Ausgewählte E-Book-Pakete:**
-
 - [De Gruyter Online Geschichte](https://www.degruyter.com/browse?t1=HI)
 - [Kritische Studien zur Geschichtswissenschaft](http://www.vr-elibrary.de/series/ksgw)
 - [Oxford Scholarship Online History](http://www.oxfordscholarship.com/browse?t=OSO:history)
 
 ### Literaturstandorte
 
-- Im [Bibliotheksbereich Schloss Ehrenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/) finden Sie frei zugängliche Literatur zum Fach Geschichte, geordnet nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online). Ausleihen sind hier nur für wissenschaftliches Personal möglich.
-- Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) steht weitere Literatur zur Ausleihe mit ecUM- oder UB-Chipkarte bereit.
-- Die Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel bietet Studierenden und kooperierenden Einrichtungen wichtige Lehrbücher in mehreren Exemplaren zur Ausleihe.
-- Die gesamte Literatur der UB kann im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchiert werden.
+Im [Bibliotheksbereich Schloss Ehrenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/) finden Sie Literatur zum Fach Geschichte, die Sie vor Ort nutzen können. Die Medien sind frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
+
+Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Geschichte, die Sie mit Ihrer ecUM oder UB-Chipkarte ausleihen können. In der Lehrbuchsammlung im Ausleihzentrum stehen Studierenden der Universität Mannheim und kooperierender Einrichtungen die wichtigsten Lehrbücher in vielen Exemplaren zur Ausleihe zur Verfügung. Die an der UB vorhandene Literatur können Sie im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchieren.
 
 ### Forschungseinrichtungen vor Ort
 
@@ -52,23 +49,22 @@ Lizensierte E-Books im Fach Geschichte finden Sie im [Katalog Primo](https://pri
 
 ## Kurse und Tutorials
 
-Die UB bietet regelmäßig Schulungen zur Recherche im Fach Geschichte an. Tutorials sind jederzeit online verfügbar. Individuelle Beratung ist ebenfalls möglich.
+Die UB bietet regelmäßig Schulungen zur Recherche im Fach Geschichte an. Unsere [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/) können Sie jederzeit online absolvieren. Gerne beraten wir Sie auch individuell.
 
 - [Kurse](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
-- [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
 - [Kursreihe Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
 
 ## Wissenschaftliches Arbeiten
 
-Das Historische Institut stellt Richtlinien für das wissenschaftliche Arbeiten bereit:
+Das Historische Institut der Universität Mannheim stellt Richtlinien für das wissenschaftliche Arbeiten zur Verfügung:
 
 - [Leitfaden zur Anfertigung von wissenschaftlichen Arbeiten (PDF)](https://www.phil.uni-mannheim.de/media/Lehrstuehle/phil/historisches_institut/Leitfaden_zur_Anfertigung_wissenschaftlicher_Arbeiten_am_Historischen_Institut.pdf)
 
-In der UB finden Sie zahlreiche Ratgeber, z.B.:
+Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten, zum Beispiel:
 
 - [Standop, Ewald: Die Form der wissenschaftlichen Arbeit](http://primo.bib.uni-mannheim.de/MAN_UB:MAN_ALMA:MAN_ALMA21106572450002561)
 
-Die UB unterstützt mit Schulungs- und Beratungsangeboten:
+Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten:
 
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
 - [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
@@ -80,7 +76,6 @@ Die UB unterstützt mit Schulungs- und Beratungsangeboten:
 Leiter der Abteilung Kommunikation | Fachreferent für Geschichte | E-Learning
 
 **Aufgaben:**
-
 - Kommunikation und Öffentlichkeitsarbeit
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
@@ -88,10 +83,8 @@ Leiter der Abteilung Kommunikation | Fachreferent für Geschichte | E-Learning
 - Konzipierung von Ausstellungen
 - Betreuung des Bereichs E-Learning
 
-**Adresse:**  
-Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
-
+**Adresse:** Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim  
 **Telefon:** +49 621 181-2938  
-**E-Mail:** viktor.boecking@uni-mannheim.de
+**E-Mail:** [viktor.boecking@uni-mannheim.de](mailto:viktor.boecking@uni-mannheim.de)
 
-Vertretung: [Dr. Irene Schumm](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-irene-schumm/)
+**Vertretung:** [Dr. Irene Schumm](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-irene-schumm/)

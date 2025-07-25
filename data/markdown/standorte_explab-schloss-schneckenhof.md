@@ -61,7 +61,7 @@ Der große Präsentations­monitor mit optionalem Konferenz­system ermöglicht 
 ## Raumbuchung
 
 Nutzen Sie für die Raumbuchung bitte die Online-Raumanfrage oder schreiben Sie uns eine E-Mail: explab.ub@uni-mannheim.de.
-Zum Belegungs­kalender (https://www2.bib.uni-mannheim.de/open-web-calendar/calendar.html?specification_url=https://www2.bib.uni-mannheim.de/calendars/explab_emb.yml)
+Zum Belegungs­kalender (https://cal.bib.uni-mannheim.de/calendar.html?specification_url=https://www2.bib.uni-mannheim.de/calendars/explab_emb.yml)
 
 
 ## FAQ
