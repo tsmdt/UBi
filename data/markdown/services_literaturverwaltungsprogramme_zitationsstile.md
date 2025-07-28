@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/services/reference-management-software/citation-styles/</en_url>
 
 
 # Zitations­stile (https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/zitationsstile/)

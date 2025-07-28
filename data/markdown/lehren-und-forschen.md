@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/teaching-and-research/</en_url>
 
 
 # Lehren und forschen (https://www.bib.uni-mannheim.de/lehren-und-forschen/)

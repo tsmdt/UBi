@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/services/library-card/library-card-for-non-university-members/</en_url>
 
 
 # Bibliotheksausweis für Privatpersonen (https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/)

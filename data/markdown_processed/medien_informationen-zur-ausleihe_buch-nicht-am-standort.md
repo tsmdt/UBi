@@ -1,22 +1,21 @@
 ---
-title: Buch nicht am Standort?
-source_url: https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/buch-nicht-am-standort/
+title: Vorgehen, wenn ein Buch nicht am Standort auffindbar ist
+source_url_de: https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/buch-nicht-am-standort/
+source_url_en: https://www.bib.uni-mannheim.de/en/resources/borrow-request-renew/cant-find-a-book-at-its-location/
 category: Medien
-tags: [Buchbestellung, Standort, Ausleihe, Datenschutz, Universitätsbibliothek Mannheim]
+tags: [Buch nicht auffindbar, Ausleihe, Standort, Medien, Datenschutz, Universitätsbibliothek Mannheim]
 language: de
 ---
 
 # Buch nicht am Standort?
 
-Wenn das gewünschte Buch nicht an Ihrem Standort verfügbar ist, können Sie es über ein Bestellformular anfordern. 
+Wenn Sie ein Buch am angegebenen Standort nicht finden können, sind Ihre Angaben in den Pflichtfeldern erforderlich, um das gesuchte Buch für Sie bereitstellen zu können.
 
-## Pflichtangaben zur Bestellung
+Bitte beachten Sie die [Informationen zum Datenschutz](https://www.uni-mannheim.de/datenschutzerklaerung/datenschutzinformationen-der-universitaetsbibliothek/).
 
-Um das gesuchte Buch für Sie bereitzustellen, sind Angaben in den Pflichtfeldern erforderlich:
+## Erforderliche Angaben
 
-- **Angaben zum Titel:** Bitte geben Sie die genauen Informationen zum Buch an.
-- **Angaben zu Ihrer Person:** Ihre Kontaktdaten sind notwendig, um die Bestellung zu bearbeiten.
+- Angaben zum Titel des gesuchten Buches
+- Angaben zu Ihrer Person
 
-## Datenschutzinformationen
-
-Die Informationen zum Datenschutz wurden mir zur Verfügung gestellt. Weitere Details finden Sie in der [Datenschutzerklärung der Universitätsbibliothek Mannheim](https://www.uni-mannheim.de/datenschutzerklaerung/datenschutzinformationen-der-universitaetsbibliothek/).
+Die Informationen zum Datenschutz wurden Ihnen zur Verfügung gestellt.

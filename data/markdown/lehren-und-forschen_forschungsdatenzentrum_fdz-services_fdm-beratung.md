@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/lehren-und-forschen/fdz-home/fdz-services/fdm-beratung-1/</en_url>
 
 
 # Beratung zum Forschungs­daten­management (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/fdm-beratung/)

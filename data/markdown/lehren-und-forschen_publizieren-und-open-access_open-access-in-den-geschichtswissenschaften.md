@@ -1,5 +1,6 @@
 
 
+
 # Open Access in den Geschichts­wissenschaften (https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-in-den-geschichtswissenschaften/)
 
 

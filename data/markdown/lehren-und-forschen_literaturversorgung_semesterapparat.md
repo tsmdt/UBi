@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/teaching-and-research/literature-supply/course-reserves/</en_url>
 
 
 # Semesterapparat (https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/semesterapparat/)

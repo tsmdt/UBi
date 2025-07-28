@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/education-and-economic-and-business-education/</en_url>
 
 
 # Pädagogik und Wirtschafts­pädagogik (https://www.bib.uni-mannheim.de/medien/fachliche-recherche/paedagogik-und-wirtschaftspaedagogik/)

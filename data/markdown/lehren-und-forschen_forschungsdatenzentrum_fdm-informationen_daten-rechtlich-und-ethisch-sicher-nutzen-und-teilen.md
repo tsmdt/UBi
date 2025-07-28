@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/daten-rechtlich-und-ethisch-sicher-nutzen-und-teilen-1/</en_url>
 
 
 # Daten rechtlich und ethisch sicher nutzen und teilen (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/daten-rechtlich-und-ethisch-sicher-nutzen-und-teilen/)

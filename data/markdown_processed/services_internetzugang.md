@@ -1,30 +1,26 @@
 ---
-title: Internetzugang an der Universitätsbibliothek Mannheim
-source_url: https://www.bib.uni-mannheim.de/services/internetzugang/
+title: Internetzugang und VPN an der Universitätsbibliothek Mannheim
+source_url_de: https://www.bib.uni-mannheim.de/services/internetzugang/
+source_url_en: https://www.bib.uni-mannheim.de/en/services/internet-access/
 category: Services
-tags: [Internet, WLAN, eduroam, VPN, Universitätskennung, Fernzugriff, elektronische Medien, Universitätsbibliothek Mannheim]
+tags: [Internet, WLAN, eduroam, VPN, Universitätsbibliothek, Fernzugriff, elektronische Medien, Universitäts-IT]
 language: de
 ---
 
-# Internetzugang an der Universitätsbibliothek Mannheim
+# Internetzugang
 
-## Zugang für Angehörige der Universität Mannheim
+Angehörige der Universität Mannheim haben Zugang zum Internet an den PC-Arbeitsplätzen der Universitätsbibliothek. Mit eigenen Geräten ist eine Verbindung über das WLAN-Netz [eduroam](https://www.uni-mannheim.de/it/anleitungen/wlan/) möglich. Hierfür wird die Universitätskennung benötigt.
 
-Als Angehörige der [Universität Mannheim](https://www.uni-mannheim.de) haben Sie Zugang zum Internet an den PC-Arbeitsplätzen der Bibliothek. Mit Ihren eigenen Geräten können Sie sich über das WLAN-Netz **eduroam** mit dem Internet verbinden. Hierfür benötigen Sie Ihre Universitätskennung.
+Angehörige [kooperierender Einrichtungen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-angehoerige-kooperierender-einrichtungen/#c179498) erhalten ebenfalls Zugang zum Internet an den PC-Arbeitsplätzen und über das WLAN eduroam.
 
-## Zugang für Angehörige kooperierender Einrichtungen und anderer Hochschulen
+Angehörige anderer Hochschulen, die an eduroam teilnehmen, können sich ebenfalls mit dem WLAN verbinden.
 
-Angehörige [kooperierender Einrichtungen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-angehoerige-kooperierender-einrichtungen/#c179498) haben ebenfalls Zugang zum Internet an den PC-Arbeitsplätzen sowie über das WLAN eduroam.
+Weitere Informationen zu eduroam finden Sie bei der [Universitäts-IT](https://www.uni-mannheim.de/it/anleitungen/wlan/).
 
-Angehörige anderer Hochschulen, die am eduroam-Netz teilnehmen, können sich ebenfalls über eduroam mit dem WLAN verbinden.
+# VPN
 
-Weitere Informationen zum WLAN eduroam finden Sie bei der [Universitäts-IT](https://www.uni-mannheim.de/it/anleitungen/wlan/).
+Angehörige der Universität Mannheim können den [VPN-Client der Universitäts-IT](https://www.uni-mannheim.de/it/anleitungen/vpn/) installieren, um von außerhalb des Campus auf lizenzierte elektronische Medien zuzugreifen.
 
-## VPN-Zugang für Fernzugriff
+Ein Teil der lizenzierten elektronischen Medien ist auch ohne VPN-Client über [Shibboleth](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/shibboleth/) im Fernzugriff verfügbar.
 
-Angehörige der Universität Mannheim können den VPN-Client der Universitäts-IT installieren. Mit diesem VPN-Client ist es möglich, von außerhalb des Campus auf lizenzierte elektronische Medien zuzugreifen.
-
-Ein Teil der lizenzierten elektronischen Medien steht auch ohne VPN-Client über [Shibboleth](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/shibboleth/) im Fernzugriff zur Verfügung.
-
-- VPN-Client und Installationsanleitung: [Universitäts-IT VPN](https://www.uni-mannheim.de/it/anleitungen/vpn/)
-- Hinweise zur Nutzung von E-Books und Datenbanken: [E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/)
+Weitere Hinweise zur Nutzung von E-Books und Datenbanken finden Sie [hier](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).

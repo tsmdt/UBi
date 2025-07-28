@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/about/publications/</en_url>
 
 
 # Publikationen (https://www.bib.uni-mannheim.de/ihre-ub/publikationen/)

@@ -1,8 +1,9 @@
 ---
-title: Verfolgungsbedingt entzogenes Kulturgut im Bestand der Universitätsbibliothek Mannheim
-source_url: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/
+title: NS-Raubgut im Bestand der Universitätsbibliothek Mannheim: Provenienzforschung und Restitution
+source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/
+source_url_en: https://www.bib.uni-mannheim.de/en/about-the-library/projects-of-the-library/cultural-assets-seized-as-a-result-of-persecution/ 
 category: Projekte
-tags: [NS-Raubgut, Provenienzforschung, Kulturgut, Universitätsbibliothek Mannheim, Restitution, Looted Cultural Assets, Lost Art]
+tags: [NS-Raubgut, Provenienzforschung, Restitution, Kulturgut, Universitätsbibliothek Mannheim, Lost Art, Looted Cultural Assets, Buchbestände]
 language: de
 ---
 
@@ -10,19 +11,17 @@ language: de
 
 Die Universitätsbibliothek Mannheim untersucht ihre historischen Buchbestände auf Verdachtsfälle von NS-Raubgut, um diese zu erfassen, sichtbar zu machen und sofern möglich zu restituieren.
 
-## Projektübersicht
+**Förderbereich:** „NS-Raubgut“  
+**Förderung:** Deutsches Zentrum für Kulturgutverluste  
+**Laufzeit:** 2024–2026
 
-Das Projekt wird im Förderbereich „NS-Raubgut“ vom Deutschen Zentrum für Kulturgutverluste gefördert und läuft von 2024 bis 2026. Es ist eines von insgesamt 18 geförderten Forschungsprojekten.
+Das Projekt erhält für die Laufzeit von 2024 bis 2026 Mittel vom [Deutschen Zentrum für Kulturgutverluste](https://www.kulturgutverluste.de/) aus dem Förderbereich „NS-Raubgut“. Das Projekt der Universitätsbibliothek Mannheim ist eines von insgesamt 18 geförderten Forschungsprojekten.
 
-Ziel ist es, Raubgut in den Beständen der Universitätsbibliothek zu identifizieren und die Provenienz zu klären. Anschließend soll das Raubgut nach Möglichkeit an die rechtmäßigen Eigentümer*innen bzw. ihre Nachkommen oder Rechtsnachfolger*innen zurückgegeben werden.
+Ziel des Projektes ist es, Raubgut in den Beständen der Universitätsbibliothek zu identifizieren und seine Provenienz zu klären. Anschließend soll das Raubgut nach Möglichkeit an die rechtmäßigen Eigentümer*innen bzw. ihre Nachkommen oder Rechtsnachfolger*innen zurückgegeben werden.
 
-## Vorgehensweise
+Zu diesem Zweck werden die Eingangsjournale der Wissenschaftlichen Stadtbibliothek überprüft, in denen die Erwerbungen inventarisiert wurden. Sollten sich Unstimmigkeiten ergeben, wie etwa auffällige Erwerbungsorte, wird am einzelnen Buch geprüft, ob sich Hinweise auf Vorbesitzer*innen identifizieren lassen. Neben Ex Libris-Aufklebern oder Stempeln können dies Widmungen, Signaturen oder Namenseinträge sein. Die Rechercheergebnisse werden in den Datenbanken [Looted Cultural Assets](https://www.lootedculturalassets.de/) und [Lost Art](https://www.lostart.de/) dokumentiert.
 
-Zur Identifikation werden die Eingangsjournale der Wissenschaftlichen Stadtbibliothek geprüft, in denen die Erwerbungen inventarisiert wurden. Bei Unstimmigkeiten, wie auffälligen Erwerbungsorten, wird das einzelne Buch auf Hinweise zu Vorbesitzer*innen untersucht. Mögliche Hinweise sind Ex Libris-Aufkleber, Stempel, Widmungen, Signaturen oder Namenseinträge.
-
-Die Rechercheergebnisse werden in den Datenbanken [Looted Cultural Assets](https://www.lootedart.com/) und [Lost Art](https://www.lostart.de/) dokumentiert.
-
-## Weiterführende Informationen
+## Weitere Informationen
 
 - [Pressemitteilung](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/pressemitteilung/)
 - [Kooperationspartner](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/partner/)
@@ -33,12 +32,11 @@ Die Rechercheergebnisse werden in den Datenbanken [Looted Cultural Assets](https
 
 ## Kontakt
 
-Bei Fragen zum Projekt wenden Sie sich gerne an:
+Bei Fragen zum Projekt wenden Sie sich bitte an:
 
 **Viktor Boecking, M.A.**  
 Leiter der Abteilung Kommunikation | Fachreferent für Geschichte | E-Learning  
 Universität Mannheim, Universitätsbibliothek  
-Schloss Schneckenhof West – Raum SW 284  
-68161 Mannheim  
+Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim  
 Telefon: +49 621 181-2938  
 E-Mail: [viktor.boecking@uni-mannheim.de](mailto:viktor.boecking@uni-mannheim.de)

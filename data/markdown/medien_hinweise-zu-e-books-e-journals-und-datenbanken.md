@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/resources/information-on-e-books-e-journals-and-databases/</en_url>
 
 
 # Hinweise zu E-Books, E-Journals und Datenbanken (https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/)

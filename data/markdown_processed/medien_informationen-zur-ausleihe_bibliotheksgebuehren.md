@@ -1,25 +1,25 @@
 ---
-title: Bibliotheksgebühren
-source_url: https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/bibliotheksgebuehren/
+title: Bibliotheksgebühren der Universitätsbibliothek Mannheim
+source_url_de: https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/bibliotheksgebuehren/
+source_url_en: https://www.bib.uni-mannheim.de/en/resources/borrow-request-renew/library-fees/
 category: Medien
-tags: [Bibliotheksgebühren, Zahlung, Mahngebühren, ecUM, UB-Chipkarte, Banküberweisung, Fernleihe, Ausleihzentrum Schloss Westflügel]
+tags: [Bibliotheksgebühren, Mahngebühren, Zahlung, Banküberweisung, SB-Terminals, ecUM, UB-Chipkarte, Gebührenordnung]
 language: de
 ---
 
-# Bibliotheksgebühren an der Universitätsbibliothek Mannheim
+# Bibliotheksgebühren
 
-Bibliotheksgebühren können Sie mit Ihrer [ecUM- oder UB-Chipkarte](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) an der Theke im Ausleihzentrum Schloss Westflügel sowie an allen [SB-Terminals](https://www.uni-mannheim.de/it/anleitungen/sb-terminals/) bezahlen.
+Bibliotheksgebühren können Sie mit Ihrer [ecUM](https://www.uni-mannheim.de/ecum/) oder UB-Chipkarte an der Theke im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) sowie an allen [SB-Terminals](https://www.uni-mannheim.de/it/anleitungen/sb-terminals/) bezahlen.
 
-Bei Zahlung per Banküberweisung kann es bis zu 5 Werktage dauern, bis Ihr Bibliothekskonto entlastet wird. Nach Gutschrift der Gebühren erhalten Sie eine E-Mail. Bitte geben Sie bei der Überweisung Ihre ecUM- oder UB-Chipkartennummer an und verwenden Sie folgende Bankverbindung:
+Bei Zahlung per Banküberweisung kann es bis zu 5 Werktage dauern, bis Ihr Bibliothekskonto entlastet ist. Sobald die Gebühren dem Bibliothekskonto gutgeschrieben wurden, erhalten Sie eine E-Mail. Bitte geben Sie bei der Überweisung die Nummer Ihrer ecUM oder UB-Chipkarte an und nutzen Sie folgende Bankverbindung:
 
-**Bankverbindung:**  
-Universität Mannheim  
-Baden-Württembergische Bank  
-IBAN: DE13 6005 0101 7496 5010 68  
-BIC: SOLADEST600  
-Verwendungszweck: z.B. „Mahngebühren UB“ und Ihre ecUM- oder Chipkartennummer
+- **Empfänger:** Universität Mannheim  
+- **Bank:** Baden-Württembergische Bank  
+- **IBAN:** DE13 6005 0101 7496 5010 68  
+- **BIC:** SOLADEST600  
+- **Verwendungszweck:** z. B. „Mahngebühren UB“ und Ihre ecUM- oder Chipkartennummer
 
-## Übersicht der wichtigsten Gebühren
+## Die wichtigsten Gebühren im Überblick
 
 | Gebühr | Betrag |
 | --- | --- |
@@ -29,8 +29,8 @@ Verwendungszweck: z.B. „Mahngebühren UB“ und Ihre ecUM- oder Chipkartennumm
 | Fristüberschreitung bei Kurzausleihen (je Einheit und Tag) | 3,00 Euro |
 | Fernleihe (je Bestelleinheit) | 1,50 Euro |
 | Bibliotheksausweis für Privatpersonen | 25,00 Euro |
-| Ersatz einer ecUM- oder UB-Chipkarte | 15,00 Euro |
+| Ersatz einer ecUM oder UB-Chipkarte | 15,00 Euro |
 | Bearbeitungsgebühr bei Verlust oder Beschädigung von Medien (zuzüglich Ersatzkosten) | 20,00 Euro |
 
-**Wichtiger Hinweis:**  
-Die Erhebung der Bibliotheksgebühren erfolgt auf Grundlage der [Bibliotheksgebührenordnung (PDF, 880 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Medien/Ausleihe/Bibliotheksgebuehrenordnung_ab_2024.pdf).
+**Bitte beachten Sie:**  
+Verbindliche Grundlage für die Erhebung von Bibliotheksgebühren ist die [Bibliotheksgebührenordnung (PDF, 880 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Medien/Ausleihe/Bibliotheksgebuehrenordnung_ab_2024.pdf).

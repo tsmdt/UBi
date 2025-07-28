@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/</en_url>
 
 
 # Fach­liche Recherche (https://www.bib.uni-mannheim.de/medien/fachliche-recherche/)

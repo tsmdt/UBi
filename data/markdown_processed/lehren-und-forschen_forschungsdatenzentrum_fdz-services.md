@@ -1,16 +1,15 @@
 ---
-title: FDZ-Services
-source_url: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/
+title: FDZ-Services: Unterstützung beim Forschungsdatenmanagement
+source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/
+source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/services-of-the-fdz/
 category: Services
-tags: [Forschungsdatenmanagement, FDZ, Datenmanagementpläne, OCR, Spracherkennung, Lizenzierung, MAObjects, MADATA, Datenaustausch, Knowledge Graph, Data Science, Beratung]
+tags: [Forschungsdatenmanagement, FDZ, Datenmanagementpläne, OCR, Sprach­erkennung, Lizenzierung, MADATA, Knowledge Graph, Data Science, Beratung]
 language: de
 ---
 
 # FDZ-Services
 
-Das Forschungsdatenzentrum (FDZ) unterstützt Sie mit verschiedenen Services beim Forschungsdatenmanagement.
-
-## Übersicht der Services
+Das Forschungsdatenzentrum (FDZ) unterstützt Sie mit verschiedenen Services beim Forschungsdatenmanagement:
 
 - [Datenmanagementpläne & RDMO](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/datenmanagementplaene-rdmo/)
 - [Automatisierte Texterkennung – OCR](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/automatisierte-texterkennung-datenerhebung-via-ocr-htr/)
@@ -24,16 +23,9 @@ Das Forschungsdatenzentrum (FDZ) unterstützt Sie mit verschiedenen Services bei
 - [Beratung zum Forschungsdatenmanagement](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/fdm-beratung/)
 - [Research Skills](https://www.bib.uni-mannheim.de/lehren-und-forschen/research-skills/)
 
-## Forschungsdatenzentrum (FDZ) Team und Kontakt
+## Forschungsdatenzentrum (FDZ) – Kontakt
 
-Das FDZ-Team besteht aus Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova und Larissa Will.
-
-- **Adresse:**  
-  Universität Mannheim  
-  Universitätsbibliothek Mannheim  
-  Schloss Schneckenhof West  
-  68161 Mannheim
-
-- **Web:** [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)
-
-- **E-Mail:** forschungsdaten@uni-mannheim.de
+**Team:** Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will  
+**Adresse:** Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim  
+**Web:** [Forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)  
+**E-Mail:** [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)

@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/locations/central-lending-library-schloss-westfluegel/</en_url>
 
 
 # Ausleihzentrum Schloss Westflügel (https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/)

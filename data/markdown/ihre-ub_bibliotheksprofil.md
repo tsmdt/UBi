@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/about/library-profile/</en_url>
 
 
 # Bibliotheksprofil (https://www.bib.uni-mannheim.de/ihre-ub/bibliotheksprofil/)

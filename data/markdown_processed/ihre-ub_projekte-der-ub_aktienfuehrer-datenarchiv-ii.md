@@ -1,39 +1,32 @@
 ---
-title: Aktienführer-Datenarchiv II
-source_url: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/aktienfuehrer-datenarchiv-ii/
+title: Aktienführer-Datenarchiv II – Digitalisierung und Datenbank historischer Börsenpublikationen
+source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/aktienfuehrer-datenarchiv-ii/
+source_url_en: https://www.bib.uni-mannheim.de/en/about/projects-of-the-university-library/aktienfuehrer-datenarchiv-ii/
 category: Projekte
-tags: [Aktienführer, Datenarchiv, Digitalisierung, OCR, Wirtschaftsforschung, Unternehmensprofile, historische Daten, Datenbank, Open Source]
+tags: [Aktienführer, Digitalisierung, Saling’s Börsenpapiere, Datenbank, OCR, Wirtschaftsforschung, Paneldaten, Open Source]
 language: de
 ---
 
 # Aktienführer-Datenarchiv II
 
-## Projektübersicht
+**Kontakt:**  
+[Dr. Irene Schumm](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-irene-schumm/)  
+[Dr. Philipp Zumstein](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-philipp-zumstein/)
 
-Das **Aktienführer-Datenarchiv II** wird von der [Deutschen Forschungsgemeinschaft (DFG)](https://www.dfg.de) gefördert und lief von 2017 bis 2019. Ansprechpartner sind [Dr. Irene Schumm](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-irene-schumm/) und [Dr. Philipp Zumstein](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-philipp-zumstein/).
+**Förderung:** Deutsche Forschungsgemeinschaft (DFG)  
+**Laufzeit:** 2017–2019  
+**Projektseite:** [Aktienführer-Datenarchiv](https://digi.bib.uni-mannheim.de/aktienf%C3%BChrer/data/index.php)
 
-Der Aktienführer aus dem Hoppenstedt-Verlag sowie seine Vorgängerpublikation, Saling‘s Börsenpapiere, bieten standardisierte Informationen zu an deutschen Börsen notierten Unternehmen. Dazu gehören Daten zu Vorständen, Aufsichtsräten, Besitzstruktur und Bilanzen. Aufgrund der langen und regelmäßigen Publikationshistorie seit 1870 sowie der konstant hohen Datenqualität ist der Aktienführer eine bedeutende Datenquelle für die wirtschaftswissenschaftliche Forschung in Deutschland.
+Der Aktienführer aus dem Hoppenstedt-Verlag sowie seine Vorgängerpublikation, Saling‘s Börsenpapiere, bieten in standardisierter Form Informationen zu den an deutschen Börsen notierten Unternehmen. Enthalten sind beispielsweise Daten zu Vorständen, Aufsichtsräten, Besitzstruktur und Bilanzen. Aufgrund der langen und regelmäßigen Publikationshistorie seit 1870 sowie der konstant hohen Datenqualität ist der Aktienführer eine viel genutzte und außergewöhnliche Datenquelle für die wirtschaftswissenschaftliche Forschung mit Deutschlandbezug.
 
-## Ausgangslage und Zielsetzung
+Die Aktienführer-Bände und -CDs sowie die Bände der Vorgängerreihen Saling's Börsenpapiere sind derzeit in mehreren Bibliotheken deutschlandweit verteilt. Die Auswertung historischer Daten ist daher aktuell sehr mühsam und meist nur vor Ort in den verschiedenen Bibliotheken mittels manueller Extraktion und Zusammenführung der Daten möglich. Ziel des Projekts ist es, alle Bände vollständig digital zusammenzuführen.
 
-Die Aktienführer-Bände und -CDs sowie die Vorgängerreihen Saling's Börsenpapiere sind derzeit in mehreren Bibliotheken deutschlandweit verteilt. Die Auswertung historischer Daten ist daher mühsam und meist nur vor Ort durch manuelle Extraktion möglich. Ziel des Projekts ist es, alle Bände vollständig digital zusammenzuführen.
+Nach erfolgreichem Abschluss des Projekts können Wissenschaftler erstmals in den gesamten Unternehmensprofilen der letzten 140 Jahre (1870–2016) komfortabel online navigieren, im Volltext recherchieren, sie auswerten und neue Erkenntnisse gewinnen. Zusätzlich wird die feinstrukturierte Datenbank auf die letzten 60 Jahre (1956–2016) erweitert, was exakte Recherchen und umfangreiche Paneldaten-Exporte ermöglicht.
 
-Nach Abschluss des Fortsetzungsprojekts sollen Wissenschaftler erstmals die Unternehmensprofile der letzten 140 Jahre (1870–2016) online durchsuchen, im Volltext recherchieren und umfangreiche Auswertungen durchführen können. Die feinstrukturierte Datenbank wird zudem um die letzten 60 Jahre (1956–2016) erweitert, um exakte Recherchen und Paneldaten-Exporte zu ermöglichen.
+In der ersten Projektphase wurden die gedruckten Aktienführer-Bände der Jahre 1976–1999 gescannt, die Inhaltsverzeichnisse erschlossen, die Daten strukturiert erfasst und eine Datenbank mit Filter- und Exportmöglichkeiten aufgebaut.
 
-## Projektphasen und Vorgehen
+Im Fortsetzungsprojekt werden alle noch nicht gescannten Print-Bände der Aktienführer bzw. Saling’s Börsenpapiere (1870–1942) digitalisiert, die Inhaltsverzeichnisse erschlossen und mittels automatischer Texterkennung (OCR) im Volltext erfasst. Zwischen 1945 und 1955 ist nur ein Band im Jahr 1953 erschienen, der nur kurze, auf Schreibmaschine getippte Unternehmensprofile enthält. Für eine automatisierte Datenextraktion und einen Import in die bestehende Datenbank sind Bände von vor 1956 aufgrund ihres weniger strukturierten Layouts und inhaltlicher Unterschiede nicht geeignet. Daher erfolgt hier lediglich eine OCR des Fließtextes, um eine Volltextsuche und das Kopieren von Textpassagen zu ermöglichen.
 
-In der ersten Projektphase wurden die gedruckten Aktienführer-Bände der Jahre 1976–1999 gescannt, Inhaltsverzeichnisse erschlossen, Daten strukturiert erfasst und eine Datenbank mit Filter- und Exportmöglichkeiten aufgebaut. ([Aktienführer-Datenarchiv I](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/aktienfuehrer-datenarchiv/))
+Aus den bereits gescannten Print-Bänden 1956–1975 werden, analog zum Projekt [Aktienführer-Datenarchiv I](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/aktienfuehrer-datenarchiv/), die Daten strukturiert erfasst. Eine weitestgehende Automatisierung der einzelnen Schritte wird angestrebt, basierend auf der Ausgabe einer OCR-Software. Ziel ist es, die Erkennungsgenauigkeit, insbesondere bei Zahlen, im Projektverlauf zu verbessern. Zudem werden Tools für eine automatische Strukturierung und Feineinteilung der wichtigen Informationen entwickelt. Die Resultate und die entwickelten Software-Tools werden dokumentiert und als [Open Source](https://github.com/UB-Mannheim/) bereitgestellt.
 
-Im Fortsetzungsprojekt werden alle noch nicht gescannten Print-Bände der Aktienführer und Saling’s Börsenpapiere (1870–1942) digitalisiert, Inhaltsverzeichnisse erschlossen und mittels automatischer Texterkennung (OCR) im Volltext erfasst. Für die Jahre 1945 bis 1955 liegt nur ein Band von 1953 vor, der kurze, maschinengeschriebene Unternehmensprofile enthält. Aufgrund des andersartigen Layouts und inhaltlicher Unterschiede sind Bände vor 1956 für eine automatisierte Datenextraktion nicht geeignet; hier erfolgt nur eine OCR des Fließtextes, um Volltextsuche und Textkopie zu ermöglichen.
-
-Aus den bereits gescannten Print-Bänden von 1956–1975 werden die Daten analog zum ersten Projekt vollständig strukturiert erfasst. Dabei wird eine weitgehende Automatisierung angestrebt, basierend auf OCR-Ausgaben. Ziel ist die Verbesserung der Erkennungsgenauigkeit, insbesondere bei Zahlen, sowie die Entwicklung von Tools zur automatischen Strukturierung und Feineinteilung der Informationen.
-
-Die Ergebnisse und entwickelten Software-Tools werden dokumentiert und nachhaltig als [Open Source](https://github.com/UB-Mannheim/) bereitgestellt.
-
-Abschließend wird die Datenbank um die feingliedrigen Daten der Jahrgänge 2000–2016 erweitert, die auf CD-ROM vorliegen.
-
-## Weiterführende Links
-
-- [Aktienführer-Datenarchiv (Projekt I)](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/aktienfuehrer-datenarchiv/)
-- [Aktienführer-Datenarchiv Online](https://digi.bib.uni-mannheim.de/aktienf%C3%BChrer/data/index.php)
-- [Open Source Software der UB Mannheim](https://github.com/UB-Mannheim/)
+Die Datenbank wird um die feingegliederten Daten der Jahrgänge 2000–2016 erweitert, die auf CD-ROM vorliegen.

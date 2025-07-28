@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/teaching-and-research/literature-supply/bestellservice/</en_url>
 
 
 # Bestellservice (https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/bestellservice/)

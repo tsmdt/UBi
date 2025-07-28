@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/services/library-card/library-card-for-members-of-cooperating-institutions/</en_url>
 
 
 # Bibliotheksausweis für Angehörige kooperierender Einrichtungen (https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-angehoerige-kooperierender-einrichtungen/)

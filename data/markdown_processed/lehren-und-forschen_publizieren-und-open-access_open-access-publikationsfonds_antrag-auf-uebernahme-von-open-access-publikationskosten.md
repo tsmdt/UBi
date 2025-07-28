@@ -1,8 +1,9 @@
 ---
 title: Antrag auf Übernahme von Open-Access-Publikationskosten für Zeitschriftenartikel
-source_url: https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/antrag-auf-uebernahme-von-open-access-publikationskosten/
+source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/antrag-auf-uebernahme-von-open-access-publikationskosten/
+source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/publishing-and-open-access/open-access-publishing-fund/application-for-funding-of-open-access-publication-fees/
 category: Services
-tags: [Open Access, Publikationskosten, Fördervoraussetzungen, Zeitschriftenartikel, Universitätsbibliothek Mannheim]
+tags: [Open Access, Publikationsfonds, Antrag, Zeitschriftenartikel, Fördervoraussetzungen, Publikationskosten, Universitätsbibliothek Mannheim]
 language: de
 ---
 
@@ -12,8 +13,4 @@ Bitte informieren Sie sich vor dem Absenden des Antrags auf der Website des [Ope
 
 ## Persönliche Angaben
 
-*(Hier sind die persönlichen Angaben einzutragen.)*
-
 ## Angaben zum Artikel
-
-*(Hier sind die Angaben zum Artikel einzutragen.)*

@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenarchivierung-und-publikation-1/</en_url>
 
 
 # Datenarchiverung und -publikation (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenarchivierung-und-publikation/)

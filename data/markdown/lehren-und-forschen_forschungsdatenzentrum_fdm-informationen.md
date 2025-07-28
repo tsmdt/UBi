@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/information-on-research-data-management/</en_url>
 
 
 # Informationen zum Forschungs­daten­management (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/)

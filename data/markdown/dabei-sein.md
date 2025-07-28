@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/join-us/</en_url>
 
 
 # Dabei sein (https://www.bib.uni-mannheim.de/dabei-sein/)

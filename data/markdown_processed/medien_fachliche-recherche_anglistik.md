@@ -1,25 +1,26 @@
 ---
-title: Anglistik
-source_url: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/anglistik/
+title: Fachliche Recherche und Ressourcen für Anglistik an der Universitätsbibliothek Mannheim
+source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/anglistik/
+source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/english-and-american-studies/
 category: Medien
-tags: [Anglistik, Literatur, Datenbanken, E-Journals, E-Books, Fachliche Internetquellen, Literaturstandorte, Forschungsinstitute, Kurse, Wissenschaftliches Arbeiten, Universitätsbibliothek Mannheim]
+tags: [Anglistik, Literaturrecherche, Datenbanken, E-Books, E-Journals, Digital Humanities, Kurse, Wissenschaftliches Arbeiten]
 language: de
 ---
 
-# Anglistik
+# Anglistik – Fachliche Recherche an der Universitätsbibliothek Mannheim
 
-Für das Fach Anglistik bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken und Sucheinstiege. Bei Interesse an Recherchemethoden oder wissenschaftlichem Arbeiten können Sie Kurse besuchen oder individuelle Beratung in Anspruch nehmen.
+Für das Fach Anglistik bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken und Rechercheeinstiege. Wenn Sie mehr über die Recherche in Ihrem Fachgebiet erfahren möchten oder Tipps zum wissenschaftlichen Arbeiten benötigen, können Sie die angebotenen Kurse besuchen oder eine individuelle Beratung in Anspruch nehmen.
 
 ## Recherchieren
 
 ### Datenbanken
 
-Datenbanken zur Anglistik und anderen Fachgebieten finden Sie über das [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/browse/subjects/5/?availability-filter-free=on&availability-filter-local=on). Ergänzend sind folgende Fachinformationsdienste relevant:
+Datenbanken zur Anglistik und zu anderen Fachgebieten finden Sie über das [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/browse/subjects/5/?availability-filter-free=on&availability-filter-local=on). Ergänzend stehen folgende Fachinformationsdienste zur Verfügung:
 
-- [FID Allgemeine und Vergleichende Literaturwissenschaft (FID AVL)](https://www.avldigital.de/de/recherchieren/)
-- [FID Linguistik](https://www.linguistik.de/de/)
+- [Fachinformationsdienst Allgemeine und Vergleichende Literaturwissenschaft (FID AVL)](https://www.avldigital.de/de/recherchieren/)
+- [Fachinformationsdienst Linguistik](https://www.linguistik.de/de/)
 
-Weitere Datenbanken zu den Fachgebieten Allgemeines, Allgemeine und vergleichende Sprach- und Literaturwissenschaft, Medien- und Kommunikationswissenschaften sowie Pädagogik sind ebenfalls empfehlenswert:
+Weitere relevante Datenbanken:
 
 - [Allgemeines](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=2)
 - [Allgemeine und vergleichende Sprach- und Literaturwissenschaft](https://www.bib.uni-mannheim.de/medien/datenbanken/?libconnect%5Bsubject%5D=3)
@@ -35,11 +36,19 @@ Direktlinks zu wichtigen Datenbanken:
 
 ### E-Journals
 
-E-Journals für Anglistik sind in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=H) und im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) verfügbar. Ergänzend sind E-Journals aus den Fachgebieten Allgemeines, Allgemeine und vergleichende Sprach- und Literaturwissenschaft, Bildungsgeschichte, Medien- und Kommunikationswissenschaften sowie Pädagogik zu beachten.
+E-Journals für das Fach Anglistik finden Sie in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=H) und im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
+
+Weitere relevante E-Journals:
+
+- [Allgemeines](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=AZ)
+- [Allgemeine und vergleichende Sprach- und Literaturwissenschaft](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=E)
+- [Bildungsgeschichte](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=DD)
+- [Medien- und Kommunikationswissenschaften](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=AP)
+- [Pädagogik](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=D)
 
 ### E-Books
 
-Die Universitätsbibliothek bietet ein breites Angebot an E-Books für Anglistik, die über den [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar und aus dem Uni-Netz zugreifbar sind. Weitere Informationen finden Sie unter [Hinweise zur E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
+Die Universitätsbibliothek bietet ein breites Angebot an E-Books für alle Fachgebiete, einschließlich Anglistik. Die E-Books sind im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar und aus dem Netz der Universität Mannheim zugänglich. Weitere Informationen finden Sie unter [Hinweise zur E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
 
 **Ausgewählte E-Book-Pakete:**
 
@@ -47,6 +56,8 @@ Die Universitätsbibliothek bietet ein breites Angebot an E-Books für Anglistik
 - [Cambridge Companions Online](https://www.cambridge.org/core/what-we-publish/collections/cambridge-companions)
 - [Cambridge Histories](https://www.cambridge.org/core/publications/collections/cambridge-histories)
 - [Drama Online](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=101288&cHash=48cf4bbe6fccbf03b64fd3c85748e686)
+- [Bibliographic Guides](https://www.dramaonlinelibrary.com/bibliographic-guides)
+- [Subject Guides](https://www.dramaonlinelibrary.com/subject-guides)
 - [Eighteenth Century Collections Online (ECCO)](https://dbis.ur.de/frontdoor.php?titel_id=4855)
 - [English Language Women's Literature of the 18. & 19. Centuries](https://kxp.k10plus.de/DB=5.3/xslt/DB=5.3/)
 - [Handbook of Pragmatics Online](https://benjamins.com/online/hop/list/subjects)
@@ -63,37 +74,32 @@ Die Universitätsbibliothek bietet ein breites Angebot an E-Books für Anglistik
 - [Oxford Research Encyclopedia of Literature](https://oxfordre.com/browse?siteToSearch=ORELIT)
 - [Oxford Very Short Introductions](https://primo.bib.uni-mannheim.de/primo-explore/search?query=any,contains,oxford%20Very%20Short%20Introductions&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&facet=tlevel,include,online_resources&offset=0)
 - [Springer eBooks: Literature, Cultural & Media Studies](https://primo.bib.uni-mannheim.de/primo-explore/search?query=any,contains,Springer%20eBooks%20Literature,%20Cultural%20%26%20Media%20Studies&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&offset=0)
-- [Transcript Verlag Open Access](https://www.transcript-verlag.de/open-access/?f=12320&p=1)
+- [Transcript](https://www.transcript-verlag.de/open-access/?f=12320&p=1)
 - [Twentieth Century North American Drama](https://dbis.ur.de//detail.php?bib_id=alle&colors=&ocolors=&lett=fs&tid=0&titel_id=6140)
 
 ### Fachliche Internetquellen
 
-- [Clarin-D](http://clarin-d.de/)
-- [DARIAH-DE](http://de.dariah.eu/)
-- [TAPoR](http://tapor.ca)
-- [Textgrid](http://www.textgrid.de/)
-
-**Digital Humanities**
+**Digital Humanities:**
 
 - [Clarin-D](http://clarin-d.de/)
 - [DARIAH-DE](http://de.dariah.eu/)
 - [TAPoR](http://tapor.ca)
 - [Textgrid](http://www.textgrid.de/)
 
-**KI-Ressourcen**
+**KI-Ressourcen:**
 
 - [Literaturrecherche](https://www.vkkiwa.de/ki-ressourcen/)
 - [Textverstehen](https://www.vkkiwa.de/ki-ressourcen/)
 - [Textproduktion](https://www.vkkiwa.de/ki-ressourcen/)
 - [Textbearbeitung / -korrektur](https://www.vkkiwa.de/ki-ressourcen/)
 
-**Linguistikblogs**
+**Linguistikblogs:**
 
 - [About Words](https://dictionaryblog.cambridge.org/)
 - [language: a feminist guide](https://debuk.wordpress.com/)
 - [Language Log](https://languagelog.ldc.upenn.edu/nll/)
 
-**Literaturblogs**
+**Literaturblogs:**
 
 - [Literary Hub](http://lithub.com/)
 - [Vol. 1 Brooklyn](http://www.vol1brooklyn.com/)
@@ -101,7 +107,7 @@ Die Universitätsbibliothek bietet ein breites Angebot an E-Books für Anglistik
 - [Paris Review Daily](http://www.theparisreview.org/blog/)
 - [LRB Blog](http://www.lrb.co.uk/blog/)
 
-**Podcasts**
+**Podcasts:**
 
 - [Can't Lit](https://cantlit.ca/)
 - [Ceteris never Pluribus: The History of Economic Thought Podcast](https://ceterisneverparibus.net/)
@@ -113,22 +119,22 @@ Die Universitätsbibliothek bietet ein breites Angebot an E-Books für Anglistik
 - [Oxford University Podcasts: Literature](https://podcasts.ox.ac.uk/keywords/literature)
 - [Postcolonial Space](https://postcolonial.net/podcast/)
 - [Queer Lit](https://www.spreaker.com/show/queer-lit)
-- [RaDiHum20 – RAdio for DIgital HUManities](http://wordpress-202005011515.p552970.webspaceconfig.de/)
+- [RaDiHum20](http://wordpress-202005011515.p552970.webspaceconfig.de/)
 - [Research Communication](https://libaac.de/home/full-view-post/detail/News/the-academic-podcast-an-important-tool-for-research-communication/)
 - [TED Talks Language](https://www.ted.com/talks?sort=relevance&topics%5B0%5D=language)
 - [TED Talks Literature](https://www.ted.com/talks?sort=relevance&topics%5B0%5D=literature)
 
-### Literaturstandorte
+## Literaturstandorte
 
-Im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) finden Sie Literatur zum Fach Anglistik zur Nutzung vor Ort. Die Medien sind frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
+Im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) finden Sie Literatur zum Fach Anglistik, die vor Ort genutzt werden kann. Die Medien sind frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
 
-Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Anglistik, die mit der ecUM- oder UB-Chipkarte ausgeliehen werden kann. Die Lehrbuchsammlung im Ausleihzentrum bietet Studierenden und kooperierenden Einrichtungen wichtige Lehrbücher in vielen Exemplaren zur Ausleihe.
+Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Anglistik, die mit ecUM oder UB-Chipkarte ausgeliehen werden kann. In der Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel stehen Studierenden der Universität Mannheim und kooperierender Einrichtungen die wichtigsten Lehrbücher in vielen Exemplaren zur Ausleihe zur Verfügung.
 
-Die vorhandene Literatur kann im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchiert werden.
+Die an der UB vorhandene Literatur kann im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchiert werden.
 
-### Forschungseinrichtungen vor Ort
+## Forschungseinrichtungen vor Ort
 
-- [Bibliothek des DAI Heidelberg](https://dai-heidelberg.de/de/unsere-angebote/bibliothek/) – eBook-Catalogue: [ebooksusa.overdrive.com](https://ebooksusa.overdrive.com/)
+- [Bibliothek des DAI Heidelberg](https://dai-heidelberg.de/de/unsere-angebote/bibliothek/) – [eBook-Catalogue](https://ebooksusa.overdrive.com/)
 - [HULC Lab (Heidelberg)](https://hulclab.eu/)
 - [Leibniz-Institut für Deutsche Sprache (IDS)](http://www1.ids-mannheim.de/bibliothek/) mit Spezialbibliothek zur Linguistik
 - [Mannheim Eye LAB](https://www.phil.uni-mannheim.de/anglistik/abteilungen/anglistik-i/forschung/ma-eye-lab-a-i/)
@@ -136,13 +142,13 @@ Die vorhandene Literatur kann im [Katalog Primo](https://primo.bib.uni-mannheim.
 
 ## Kurse und Tutorials
 
-Die UB bietet regelmäßig Schulungen zur Recherche in der Anglistik an. Tutorials sind jederzeit online verfügbar. Individuelle Beratung ist möglich.
+Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche in der Anglistik an. Tutorials können jederzeit online absolviert werden. Individuelle Beratung ist möglich.
 
 - [Kursangebot](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
 - [Kursreihe Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
 
-Beachten Sie auch die [Tutorials zur MLA International Bibliography](https://ilias.uni-mannheim.de/ilias.php?ref_id=1220595&cmd=view&cmdClass=ilrepositorygui&cmdNode=ye&baseClass=ilRepositoryGUI), der wichtigsten Datenbank für Literatur, Linguistik und Kulturwissenschaft aller modernen Philologien.
+Beachten Sie auch die [Tutorials zur MLA International Bibliography](https://ilias.uni-mannheim.de/ilias.php?ref_id=1220595&cmd=view&cmdClass=ilrepositorygui&cmdNode=ye&baseClass=ilRepositoryGUI), der wichtigsten Datenbank zu Literatur, Linguistik und Kulturwissenschaft aller modernen Philologien.
 
 **Kurse für das Fach Anglistik:**
 
@@ -151,9 +157,7 @@ Beachten Sie auch die [Tutorials zur MLA International Bibliography](https://ili
 
 ## Wissenschaftliches Arbeiten
 
-Die UB bietet zahlreiche Ratgeber zum wissenschaftlichen Arbeiten, z. B. im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) oder in der [Lehrbuchsammlung](https://primo.bib.uni-mannheim.de/primo-explore/search?query=any,contains,AK%2039580&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&facet=local4,include,MAN01-2-WEST&lang=de_DE&mode=Basic&offset=0) (Signatur AK 39580).
-
-Unterstützung bietet die UB mit folgenden Angeboten:
+Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten, z. B. im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) oder in der [Lehrbuchsammlung](https://primo-49man.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,AK%2039580&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&facet=local4,include,MAN01-2-WEST&lang=de_DE&mode=Basic&offset=0) bei AK 39580. Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten:
 
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
 - [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
@@ -167,14 +171,12 @@ Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Ang
 **Aufgaben:**
 
 - Literaturauswahl und -erschließung für die genannten Fächer
-- Vertretung für Politikwissenschaft, Psychologie, Soziologie
+- Vertretung Politikwissenschaft, Psychologie, Soziologie
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
 
-**Kontakt:**
+**Adresse:** Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim  
+**Telefon:** +49 621 181-3053  
+**E-Mail:** [rudolf.nink@uni-mannheim.de](mailto:rudolf.nink@uni-mannheim.de)
 
-- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
-- Telefon: +49 621 181-3053
-- E-Mail: [rudolf.nink@uni-mannheim.de](mailto:rudolf.nink@uni-mannheim.de)
-
-Vertretung: [Dr. Hendrik Platte](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-hendrik-platte/)
+**Vertretung:** [Dr. Hendrik Platte](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-hendrik-platte/)

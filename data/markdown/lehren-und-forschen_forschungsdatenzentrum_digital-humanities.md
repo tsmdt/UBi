@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/lehren-und-forschen/forschungsdatenzentrum/digital-humanities-1/</en_url>
 
 
 # Digitale Methoden in den Geistes­wissenschaften (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/digital-humanities/)

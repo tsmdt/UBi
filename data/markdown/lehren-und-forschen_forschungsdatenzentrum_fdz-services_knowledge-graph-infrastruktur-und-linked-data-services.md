@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/services-of-the-fdz/knowledge-graph-infrastructure-and-linked-data-services/</en_url>
 
 
 # Knowledge Graph Infrastruktur und Linked Data Services (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/knowledge-graph-infrastruktur-und-linked-data-services/)

@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/about/projects-of-the-university-library/linked-open-citation-database/</en_url>
 
 
 # Linked Open Citation Database (LOC-DB) (https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/linked-open-citation-database/)

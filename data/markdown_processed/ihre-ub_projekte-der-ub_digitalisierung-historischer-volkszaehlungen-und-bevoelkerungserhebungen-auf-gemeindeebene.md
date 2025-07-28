@@ -1,19 +1,18 @@
 ---
 title: Digitalisierung historischer Volkszählungen und Bevölkerungserhebungen auf Gemeindeebene
-source_url: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/digitalisierung-historischer-volkszaehlungen-und-bevoelkerungserhebungen-auf-gemeindeebene/
+source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/digitalisierung-historischer-volkszaehlungen-und-bevoelkerungserhebungen-auf-gemeindeebene/
+source_url_en: https://www.bib.uni-mannheim.de/en/about/projects-of-the-university-library/digitalisierung-historischer-volkszaehlungen-und-bevoelkerungserhebungen-auf-gemeindeebene/
 category: Projekte
-tags: [Digitalisierung, Volkszählungen, Bevölkerungserhebungen, Gemeindeebene, OCR, Fritz-Thyssen-Stiftung, Historische Gemeindeverzeichnisse, Deutsches Reich, Bundesrepublik Deutschland, DDR, Statistik, Datenharmonisierung]
+tags: [Digitalisierung, Volkszählungen, Bevölkerungsstatistik, Gemeindeverzeichnisse, OCR, Datenharmonisierung, Fritz-Thyssen-Stiftung, Kooperation]
 language: de
 ---
 
 # Digitalisierung historischer Volkszählungen und Bevölkerungserhebungen auf Gemeindeebene
 
-Die Bevölkerungsentwicklung in einer Region gilt in der aktuellen Forschung als wichtiger Indikator für die Wirtschaftskraft. Eine Zunahme der Bevölkerung wird mit Wirtschaftswachstum assoziiert, während Bevölkerungsabnahme häufig auf eine schrumpfende wirtschaftliche Entwicklung hinweist.
+**Förderung:** Fritz-Thyssen-Stiftung  
+**Laufzeit:** 2017–2018  
+**Digitalisierte Werke:** [Gemeindeverzeichnisse](https://digi.bib.uni-mannheim.de/gemeindeverzeichnisse/)
 
-In einem Kooperationsprojekt mit Prof. Dr. Sebastian Siegloch digitalisiert die Universitätsbibliothek Mannheim ausgewählte historische Gemeindeverzeichnisse des Deutschen Reichs, der Bundesrepublik Deutschland und der DDR. Die digitalisierten Werke sind über die [Digitalisierte Werke](https://digi.bib.uni-mannheim.de/gemeindeverzeichnisse/) abrufbar.
+In der aktuellen Forschung gilt die Bevölkerungsentwicklung in einer Region als Indikator für die Wirtschaftskraft. Bevölkerungszunahme wird mit Wirtschaftswachstum und Bevölkerungsabnahme mit einer schrumpfenden wirtschaftlichen Entwicklung assoziiert.
 
-Mittels OCR-Software werden aus den Bilddateien Volltexte generiert, die anschließend einem Qualitätssicherungsverfahren unterzogen werden. Im letzten Arbeitsschritt werden die bereitgestellten Daten mit Hilfe eines Statistikprogrammes eingelesen und harmonisiert.
-
-## Förderung und Laufzeit
-
-Das Projekt wurde von der Fritz-Thyssen-Stiftung gefördert und lief von 2017 bis 2018.
+In einem Kooperationsprojekt mit Prof. Dr. Sebastian Siegloch werden ausgewählte historische Gemeindeverzeichnisse des Deutschen Reichs, der Bundesrepublik Deutschland und der DDR digitalisiert. Mittels OCR-Software werden aus den Bilddateien Volltexte generiert, die einem Qualitätssicherungsverfahren unterzogen werden. In einem letzten Arbeitsschritt werden die bereitgestellten Daten mit Hilfe eines Statistikprogrammes eingelesen und harmonisiert.

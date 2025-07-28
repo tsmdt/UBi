@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/services-of-the-fdz/licensing-research-data/</en_url>
 
 
 # Lizenzierung von Forschungs­daten (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/lizenzierung-von-forschungsdaten/)

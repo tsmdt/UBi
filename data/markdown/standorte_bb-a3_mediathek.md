@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/locations/a3-library/media-center/</en_url>
 
 
 # Mediathek (https://www.bib.uni-mannheim.de/standorte/bb-a3/mediathek/)

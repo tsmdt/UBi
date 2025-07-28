@@ -1,5 +1,6 @@
 
 
+
 # Verfolgungs­bedingt entzogenes Kulturgut im Bestand der Universitäts­bibliothek Mannheim (https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/)
 
 

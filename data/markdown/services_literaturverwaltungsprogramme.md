@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/services/reference-management-software/</en_url>
 
 
 # Literatur­verwaltungs­programme (https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)

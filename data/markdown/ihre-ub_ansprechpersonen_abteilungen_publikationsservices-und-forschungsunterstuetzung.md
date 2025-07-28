@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/about/contact/departments/publishing-services-and-research-support/</en_url>
 
 
 # Publikations­services und Forschungs­unter­stützung (https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/publikationsservices-und-forschungsunterstuetzung/)

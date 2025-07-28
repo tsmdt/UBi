@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/teaching-and-research/literature-supply/pick-up-authorization/</en_url>
 
 
 # Abholvollmacht (https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/abholvollmacht/)

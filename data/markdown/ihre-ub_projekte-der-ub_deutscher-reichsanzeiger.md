@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/about/projects-of-the-university-library/deutscher-reichsanzeiger/</en_url>
 
 
 # Deutscher Reichsanzeiger (https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/deutscher-reichsanzeiger/)

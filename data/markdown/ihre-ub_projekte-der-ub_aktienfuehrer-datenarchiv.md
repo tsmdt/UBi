@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/about/projects-of-the-university-library/aktienfuehrer-datenarchiv/</en_url>
 
 
 # Aktienführer-Datenarchiv (https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/aktienfuehrer-datenarchiv/)

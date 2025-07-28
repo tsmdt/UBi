@@ -1,12 +1,13 @@
 ---
-title: Bibliotheksprofil der Universitätsbibliothek Mannheim
-source_url: https://www.bib.uni-mannheim.de/ihre-ub/bibliotheksprofil/
-category: Services
-tags: [Universitätsbibliothek Mannheim, Bibliotheksprofil, Serviceangebot, Benutzung, Medienangebot, Kurse, Drittmittelprojekte, Publikationsservices, Sammlungen, Öffentlichkeitsarbeit]
+title: Profil der Universitätsbibliothek Mannheim: Angebote, Zahlen, Sammlungen und Rankings
+source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/bibliotheksprofil/
+source_url_en: https://www.bib.uni-mannheim.de/en/about/library-profile/
+category: Weitere Angebote
+tags: [Bibliotheksprofil, Zahlen und Fakten, Serviceangebot, Medien, Publikationsservices, Rankings, Sammlungen, Öffentlichkeitsarbeit]
 language: de
 ---
 
-# Bibliotheksprofil der Universitätsbibliothek Mannheim
+# Bibliotheksprofil
 
 Die Universitätsbibliothek Mannheim bietet die Informations- und Forschungsinfrastruktur für Wissenschaft, Lehre und Studium an der Universität Mannheim – analog und digital. Auch Bürgerinnen und Bürgern, Behörden und Unternehmen der Metropolregion steht die Bibliothek offen.
 
@@ -14,76 +15,88 @@ Die Universitätsbibliothek Mannheim bietet die Informations- und Forschungsinfr
 
 ### Serviceangebot
 
-Die Bibliotheksbereiche sind an 7 Tagen in der Woche geöffnet, auch an Wochenenden und Feiertagen.  
-- 5 Bibliotheksbereiche  
-- 2.060 Arbeitsplätze  
+In den Bibliotheksbereichen können Sie an 7 Tagen in der Woche lesen und lernen, auch an Wochenenden und Feiertagen.
+
+- 5 Bibliotheksbereiche
+- 2.060 Arbeitsplätze
 
 ### Benutzung
 
-Die Angebote der Universitätsbibliothek werden jährlich intensiv genutzt:  
-- knapp 2 Millionen Bibliotheksbesuche  
-- 6.200 Scanaufträge von Forschenden  
-- 263.000 entliehene Medien  
-- 2,4 Millionen Downloads  
-- 1,1 Millionen Datenbankabfragen  
+So werden die Angebote der Universitätsbibliothek über ein Jahr genutzt:
+
+- knapp 2 Millionen Bibliotheksbesuche
+- 6.200 Scanaufträge von Forschenden
+- 263.000 entliehene Medien
+- 2,4 Millionen Downloads
+- 1,1 Millionen Datenbankabfragen
 
 ### Medienangebot
 
-Die Bibliothek stellt Literatur, Medien und Datenbanken aus allen Fachgebieten bereit – ausleihbar oder zum Lesen vor Ort:  
-- 2,7 Millionen Medien insgesamt  
-- 808.000 Medien im Präsenzbestand  
-- 482.000 E-Books  
-- 811 laufende Print-Zeitschriften  
-- 36.400 E-Journals  
-- 553 Datenbanken  
+In der Universitätsbibliothek finden Sie Literatur, Medien und Datenbanken aus allen Fachgebieten – ausleihbar oder zum Lesen vor Ort.
+
+- 2,7 Millionen Medien insgesamt
+- 808.000 Medien im Präsenzbestand
+- 482.000 E-Books
+- 811 laufende Print-Zeitschriften
+- 36.400 E-Journals
+- 553 Datenbanken
 
 ### Medienzugang
 
-Jährlich werden folgende Medien erworben:  
-- 12.000 konventionelle Medien  
-- 303.000 digitale Medien  
+Die Universitätsbibliothek erwirbt im Lauf eines Jahres:
+
+- 12.000 konventionelle Medien
+- 303.000 digitale Medien
 
 ### Kurse und Beratung
 
-Die UB bietet Kurse, Führungen, Online-Tutorials, fachliche Beratung und Schreibberatung an. Zudem steht sie im Chat und an den Infotheken für Fragen bereit. Im Jahr:  
-- 71.000 Anfragen an den Infotheken  
-- 417 Kursstunden  
-- 220 Veranstaltungen  
-- 4.500 Teilnehmerinnen und Teilnehmer  
+Die Universitätsbibliothek bietet Kurse, Führungen, Online-Tutorials, fachliche Beratung und Schreibberatung an und steht im Chat und an den Infotheken für Ihre Fragen bereit. Das bedeutet im Jahr:
+
+- 71.000 Anfragen an den Infotheken
+- 417 Kursstunden
+- 220 Veranstaltungen
+- 4.500 Teilnehmerinnen und Teilnehmer
 
 ### Drittmittelprojekte
 
-Laufende Projekte der UB werden von verschiedenen Institutionen gefördert, darunter:  
-- [Historische Daten besser nutzen](https://safe-frankfurt.de/de/forschung/forschungsprojekte/details/showproject/finance-and-business-research-from-a-long-term-perspective-utilizing-historical-german-financial-market-and-corporate-data-gerhisfin.html)  
-- [Werkzeuge zur rechtssicheren Präsentation multimedialer Objekte mit Kitodo.Presentation](https://gepris.dfg.de/gepris/projekt/554768123?language=de)  
-- [Business and Economic Research Data Center (BERD-NFDI)](https://www.berd-nfdi.de/)  
+Einige laufende Projekte der Universitätsbibliothek werden von verschiedenen Institutionen gefördert:
+
+- [Historische Daten besser nutzen](https://safe-frankfurt.de/de/forschung/forschungsprojekte/details/showproject/finance-and-business-research-from-a-long-term-perspective-utilizing-historical-german-financial-market-and-corporate-data-gerhisfin.html)
+- [Entwicklung von Werkzeugen zur rechtssicheren Präsentation multimedialer Objekte mit Kitodo.Presentation](https://gepris.dfg.de/gepris/projekt/554768123?language=de)
+- [Business and Economic Research Data Center (BERD-NFDI)](https://www.berd-nfdi.de/)
 
 ### Publikationsservices
 
-Die Universitätsbibliothek berät zu Publizieren und Open Access und unterstützt beim Veröffentlichen von Forschungsergebnissen mit folgenden Services:  
-- [MADOC](https://madoc.bib.uni-mannheim.de/)  
-- [MADATA](https://madata.bib.uni-mannheim.de/)  
-- [MAObjects](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/maobjects/)  
-- [MAJournals](https://majournals.bib.uni-mannheim.de/)  
-- [Open-Access-Publikationsfonds](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/)  
+Die Universitätsbibliothek berät rund um die Themen Publizieren und Open Access und unterstützt mit ihren Services beim Veröffentlichen von Forschungsergebnissen:
 
-## Auszeichnungen und Rankings
+- [MADOC](https://madoc.bib.uni-mannheim.de/)
+- [MADATA](https://madata.bib.uni-mannheim.de/)
+- [MAObjects](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/maobjects/)
+- [MAJournals](https://majournals.bib.uni-mannheim.de/)
+- [Open-Access-Publikationsfonds](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/)
 
-### CHE Ranking
+## CHE Ranking: Universitätsbibliothek Mannheim in der Spitzengruppe
 
-Im [CHE Ranking](https://www.che.de/ranking-deutschland/) wird die Universitätsbibliothek Mannheim seit Jahren in nahezu allen Fachbereichen hervorragend bewertet. Für 2017 erhielt die Bibliotheksausstattung im Fachbereich BWL die Note 1,4 und im Fachbereich Rechtswissenschaft 1,5.
+Im [CHE Ranking](https://www.che.de/ranking-deutschland/) wird die Mannheimer Universitätsbibliothek seit Jahren in nahezu allen Fachbereichen hervorragend bewertet. Für das Jahr 2017 etwa wird die Bibliotheksausstattung im Fachbereich BWL mit 1,4 oder des Fachbereichs Rechtswissenschaft mit 1,5 beurteilt.
 
-### U-Multirank
+## Hervorragende Bewertung bei U-Multirank
 
-Im weltweiten Ranking [U-Multirank](https://www.che.de/en/ranking-international/) erreichten die Bibliotheksausstattungen der Fachbereiche Sozialwissenschaften, BWL und VWL/Recht Spitzenpositionen.
+Im weltweiten Ranking [U-Multirank](https://www.che.de/en/ranking-international/), in dem die Fachbereiche Sozialwissenschaften, BWL und VWL/Recht bewertet werden, haben die jeweiligen Bibliotheksausstattungen Spitzenpositionen erreicht.
 
 ## Sammlungen
 
-Die Universitätsbibliothek Mannheim entstand aus den Institutsbibliotheken und der Zentralbibliothek der 1907 gegründeten Städtischen Handelshochschule. 1932 wurden diese mit der Städtischen Schloßbücherei vereint, die später als Wissenschaftliche Stadtbibliothek Mannheim ausgegliedert wurde. Nach der Auflösung der Handelshochschule 1933 wurden die Bestände an die Universität Heidelberg übergeben und 1946 größtenteils zurückgeführt. Der Ausbau zur Universität 1967 brachte umfangreichen Neuzugang und ältere Bestände aus der aufgelösten Wissenschaftlichen Stadtbibliothek. In den letzten 30 Jahren hat sich der Bestand verdoppelt, mit einem Schwerpunkt auf lizenzpflichtigen Online-Zeitschriften und E-Books.  
-Weitere Informationen zu den [Sammlungen](https://www.bib.uni-mannheim.de/medien/sammlungen/).
+Die Universitätsbibliothek hat ihren Ursprung in den Institutsbibliotheken und der Zentralbibliothek der 1907 gegründeten Städtischen Handelshochschule. 1932 wurden diese Bibliotheken organisatorisch mit der Städtischen Schloßbücherei vereint. Die Schloßbücherei wurde später wieder ausgegliedert als Wissenschaftliche Stadtbibliothek Mannheim.
+
+Nach der Auflösung der Handelshochschule 1933 wurden deren Bibliotheksbestände der Universität Heidelberg übergeben. Die 1946 gegründete Staatliche Wirtschaftshochschule Mannheim erhielt den größten Teil dieser Bücher aus Heidelberg zurück.
+
+Der Ausbau der Wirtschaftshochschule zur Universität 1967 brachte der Bibliothek vermehrten Neuzugang in allen an der Universität vertretenen Fächern sowie einen großen Zuwachs älterer Bestände aus der 1970 aufgelösten Wissenschaftlichen Stadtbibliothek Mannheim.
+
+In den letzten 30 Jahren hat sich der Umfang der Buch- und Medienbestände in der Universitätsbibliothek Mannheim verdoppelt. Seit rund 10 Jahren verschiebt sich der Schwerpunkt bei wissenschaftlichen Zeitschriften immer mehr zu lizenzpflichtigen Online-Angeboten. Ebenso verzeichnet die Bibliothek einen vermehrten Zugang an lizenzpflichtigen E-Books.
+
+Weitere Informationen: [Sammlungen](https://www.bib.uni-mannheim.de/medien/sammlungen/)
 
 ## Öffentlichkeitsarbeit
 
-Die Ansprechpartnerinnen und Ansprechpartner informieren über Dienstleistungen und das Serviceangebot der Universitätsbibliothek. Sie organisieren Ausstellungen und Veranstaltungen, oft in Kooperation mit externen Einrichtungen.  
-Folgen Sie der UB Mannheim auf [Instagram](https://www.instagram.com/ubmannheim/) und [YouTube](https://www.youtube.com/channel/UCrem6eWwR6gwqV35EbRCrRw).  
-Mehr zu [Öffentlichkeitsarbeit](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/oeffentlichkeitsarbeit/) und [Ausstellungen und Veranstaltungen](https://www.bib.uni-mannheim.de/ihre-ub/ausstellungen-und-veranstaltungen/).
+Die [Ansprechpersonen für Öffentlichkeitsarbeit](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/oeffentlichkeitsarbeit/) informieren über die Dienstleistungen und das Serviceangebot der Universitätsbibliothek. Sie organisieren außerdem [Ausstellungen und Veranstaltungen](https://www.bib.uni-mannheim.de/ihre-ub/ausstellungen-und-veranstaltungen/), oft in Kooperation mit externen Einrichtungen.
+
+Folgen Sie der Universitätsbibliothek auf [Instagram](https://www.instagram.com/ubmannheim/) und [YouTube](https://www.youtube.com/channel/UCrem6eWwR6gwqV35EbRCrRw).

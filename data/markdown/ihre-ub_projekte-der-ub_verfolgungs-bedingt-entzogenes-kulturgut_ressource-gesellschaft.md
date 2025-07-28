@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/</en_url>
 
 
 # Bücher der Ressource-Gesellschaft Mannheim (https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/ressource-gesellschaft/)

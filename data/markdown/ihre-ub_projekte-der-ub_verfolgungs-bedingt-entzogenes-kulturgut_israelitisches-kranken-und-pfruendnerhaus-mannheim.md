@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/</en_url>
 
 
 # Israelitisches Kranken- und Pfründnerhaus Mannheim (https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/israelitisches-kranken-und-pfruendnerhaus-mannheim/)

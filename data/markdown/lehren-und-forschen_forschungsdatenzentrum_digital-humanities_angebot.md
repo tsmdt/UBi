@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/lehren-und-forschen/forschungsdatenzentrum/digital-humanities/angebot-1/</en_url>
 
 
 # Unser Angebot (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/digital-humanities/angebot/)

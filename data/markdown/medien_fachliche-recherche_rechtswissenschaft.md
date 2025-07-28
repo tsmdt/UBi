@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/law/</en_url>
 
 
 # Rechts­wissenschaft (https://www.bib.uni-mannheim.de/medien/fachliche-recherche/rechtswissenschaft/)

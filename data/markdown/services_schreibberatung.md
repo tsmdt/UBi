@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/services/academic-writing-consultancy/</en_url>
 
 
 # Schreib­beratung (https://www.bib.uni-mannheim.de/services/schreibberatung/)

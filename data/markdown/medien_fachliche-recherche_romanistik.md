@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/romance-studies/</en_url>
 
 
 # Romanistik (https://www.bib.uni-mannheim.de/medien/fachliche-recherche/romanistik/)

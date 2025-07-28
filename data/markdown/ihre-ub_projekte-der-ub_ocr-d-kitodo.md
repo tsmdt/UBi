@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/about/projects-of-the-university-library/ocr-d-kitodo/</en_url>
 
 
 # OCR-D: Integration von Kitodo und OCR-D zur produktiven Massendigitalisierung (https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/ocr-d-kitodo/)

@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/services/reference-management-software/zotero/</en_url>
 
 
 # Zotero (https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/zotero/)

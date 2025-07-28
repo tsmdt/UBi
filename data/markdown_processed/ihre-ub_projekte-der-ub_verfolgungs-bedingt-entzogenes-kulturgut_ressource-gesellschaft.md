@@ -1,49 +1,42 @@
 ---
-title: Bücher der Ressource-Gesellschaft Mannheim
-source_url: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/ressource-gesellschaft/
+title: Bücher der Ressource-Gesellschaft Mannheim – NS-Raubgut in der Universitätsbibliothek Mannheim
+source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/ressource-gesellschaft/
+source_url_en: https://www.bib.uni-mannheim.de/en/
 category: Projekte
-tags: [Ressource-Gesellschaft Mannheim, NS-Raubgut, jüdische Bibliothek, Kulturgut, Verfolgung, Bibliotheksgeschichte, Hebraica, Judaica, NS-Zeit, Kulturgutschutz, Genozid, Raphael Lemkin]
+tags: [Ressource-Gesellschaft, NS-Raubgut, jüdische Bibliotheken, Kulturgut, Schlossbibliothek, Restitution, Mannheim, Nationalsozialismus]
 language: de
 ---
 
 # Bücher der Ressource-Gesellschaft Mannheim
 
-Mit über 300 aufgefundenen Exemplaren bilden die Bücher der Mannheimer Ressource-Gesellschaft die größte Gruppe von NS-Raubgut, die bisher in den Beständen der UB Mannheim entdeckt wurde. Die Gesellschaft wurde 1828 gegründet und basierte auf einer älteren „Erholungsgesellschaft“. Wie alle jüdischen Institutionen litt auch die Ressource-Gesellschaft seit der Machtergreifung der Nationalsozialisten unter zunehmenden Erschwernissen. Im Jahr 1938 wurde ihre Tätigkeit weitgehend unterbunden, und im August 1939 erfolgte die endgültige Streichung aus dem Vereinsregister.
+Mit bisher über 300 aufgefundenen Exemplaren bilden die Bücher der Mannheimer Ressource-Gesellschaft die größte Gruppe von NS-Raubgut, die bisher in den Beständen der Universitätsbibliothek Mannheim gefunden wurden. Die Gesellschaft wurde 1828 gegründet und baute auf einer älteren sogenannten „Erholungs­gesellschaft“ auf. Wie alle jüdischen Institutionen litt auch die Ressource-Gesellschaft seit der Machtergreifung der Nationalsozialisten unter zunehmenden Erschwerungen. Im Jahr 1938 wurde ihre Tätigkeit weitgehend unterbunden und im August 1939 wurde sie endgültig aus dem Vereinsregister gestrichen.
 
-Drei verschiedene Stempel belegen den langen Zeitraum, in dem die Bibliothek der Ressource-Gesellschaft Teil des jüdischen Kulturlebens in Mannheim war:  
-- Vor 1918: kleiner ovaler Bibliotheksstempel  
-- Bis Ende der 1920er Jahre: größerer ovaler Stempel mit expliziter Namensnennung  
-- Danach: schlichter quadratischer Stempel  
+Drei Stempel belegen den langen Zeitraum, in dem die Bibliothek der Ressource-Gesellschaft Teil des jüdischen Kulturlebens in Mannheim war. Publikationen aus der Zeit vor 1918 tragen einen kleinen ovalen Bibliotheksstempel. Bis Ende der 1920er-Jahre wurde ein größerer ovaler Stempel verwendet, der die Bibliothek explizit im Namen nannte, danach ein schlichter quadratischer Stempel. Außerdem finden sich Zahlen, sowohl handschriftliche als auch gestempelte, die vermutlich Inventarnummern darstellen.
 
-Zudem finden sich handschriftliche und gestempelte Zahlen, vermutlich Inventarnummern. Ein Beispiel ist der Band von Michail Andrejewitsch Iljin, der auf dem Titelblatt den quadratischen Stempel „Ressource-Gesellschaft Mannheim“ und die handschriftliche Nummer 7023 trägt.
+Im Beispielband von Michail Andrejewitsch Iljin findet sich auf dem Titelblatt der quadratische Stempel „Ressource-Gesellschaft Mannheim“ und die handschriftliche Nummer 7023. Die Bibliothek der Ressource-Gesellschaft umfasste Ende der 1920er-Jahre ca. 6.000 Bände. Der Bericht des Direktors der Städtischen Schlossbibliothek über den Buchbestand der Ressource-Gesellschaft im Schloss spricht von 4.000 älteren hebräischen und religiösen Exemplaren und 8.000 Bänden moderner Belletristik. In dieser Zahl sind allerdings auch die Bücher der Lemle-Moses-Klaus-Stiftung und möglicherweise auch der liberaleren Hauptsynagoge, der Patientenbibliotheken des Krankenhauses und des Altersheims sowie der Gemeinde enthalten.
 
-Die Bibliothek umfasste Ende der 1920er Jahre etwa 6.000 Bände. Ein Bericht des Direktors der Städtischen Schlossbibliothek nennt 4.000 ältere hebräische und religiöse Exemplare sowie 8.000 Bände moderner Belletristik. Diese Zahl beinhaltet auch Bücher der Lemle-Moses-Klaus-Stiftung, der liberaleren Hauptsynagoge, Patientenbibliotheken des Krankenhauses und des Altersheims sowie der Gemeinde.
+## Überführung in die Schlossbibliothek
 
-## Herkunft und Beschlagnahme des Bestands
+Wie kam dieser umfangreiche Bestand in die Schlossbibliothek? Als Hypothese wird angenommen, dass die Bücher der Ressource-Gesellschaft von der Gemeinde selbst in die Bibliothek des Altersheims/Krankenhauses in der Collinistraße gebracht und dort Ende 1941 zusammen mit der Patientenbibliothek und weiterem Kulturgut von der SS beschlagnahmt wurden. Anschließend erfolgte die Einlagerung in die Schlossbibliothek. Die Quellenbasis für diese Überlegungen ist dünn, da weder auf Seiten der SS oder Gestapo noch auf Seiten der Opfer eine Überlieferung der Ereignisse erhalten zu sein scheint. Auch der Bericht des Direktors der Städtischen Schlossbücherei, Herbert Stubenrauch, aus dem Jahr 1946 hält lediglich fest:
 
-Die Bücher der Ressource-Gesellschaft gelangten vermutlich von der Gemeinde in die Bibliothek des Altersheims/Krankenhauses in der Collinistraße. Dort wurden sie Ende 1941 zusammen mit der Patientenbibliothek und weiterem Kulturgut von der SS beschlagnahmt und anschließend in der Schlossbibliothek eingelagert. Die Quellenlage zu diesen Ereignissen ist dünn, da weder von Seiten der SS oder Gestapo noch von den Opfern Überlieferungen existieren.
+> Der vom „Sicherheitsdienst“ beschlagnahmte Bücherbesitz der jüdischen „Ressource-Gesellschaft Mannheim“ wurde seitens der Schloßbücherei 1941 in Verwahrhung genommen und dadurch vor der geplanten Vernichtung durch die SS Ludwigshafen gerettet.
 
-Der Bericht des Direktors der Städtischen Schlossbücherei, Herbert Stubenrauch, aus dem Jahr 1946 hält fest:  
-> „Der vom ‚Sicherheitsdienst‘ beschlagnahmte Bücherbesitz der jüdischen ‚Ressource-Gesellschaft Mannheim‘ wurde seitens der Schloßbücherei 1941 in Verwahrung genommen und dadurch vor der geplanten Vernichtung durch die SS Ludwigshafen gerettet.“
+Der größte Teil der Hebraica und Judaica aus diesem Bestand wurde 1946/47 von Rabbi Henry Tavel an das [Hebrew Union College in Cincinnati (Ohio)](https://huc.on.worldcat.org/search?queryString=%22J%C3%BCdische%20Kultusgemeinde%20Mannheim%22) gesandt. Angesichts der Zerstörung jüdischen Lebens in Europa durch die Nationalsozialisten wurden in der Nachkriegszeit jüdische Bücher nach Amerika und Jerusalem geschickt, um diese Kulturgüter zu retten und sie nicht in den Bibliotheken der Täter zu belassen.
 
-Der größte Teil der Hebraica und Judaica aus diesem Bestand wurde 1946/47 von Rabbi Henry Tavel an das [Hebrew Union College in Cincinnati (Ohio)](https://huc.on.worldcat.org/search?queryString=%22J%C3%BCdische%20Kultusgemeinde%20Mannheim%22) gesandt. Angesichts der Zerstörung jüdischen Lebens in Europa durch die Nationalsozialisten wurden jüdische Bücher nach Amerika und Jerusalem gebracht, um sie zu retten und nicht in den Bibliotheken der Täter zu belassen.
+Das Buch „Fünf Jahre, die die Welt veränderten“ weist auf einen unerwarteten Effekt der Aneignung jüdischer Bibliotheken hin. Obwohl Iljins Bücher verbrannt wurden, der [Malik Verlag](https://de.wikipedia.org/wiki/Malik-Verlag) wegen seiner kommunistischen und avantgardistischen Publikationen verfolgt wurde und diese Bücher tendenziell ausgesondert wurden ([Liste des schädlichen oder unerwünschten Schrifttums 1938, Digitalisat Universität Münster](https://sammlungen.ulb.uni-muenster.de/hd/periodical/pageview/2539891)), gelangten sie durch die Beschlagnahmung wieder in den Bestand der Schlossbücherei, da die jüdischen Bibliotheken an den Aussonderungsmaßnahmen nicht beteiligt waren.
 
-## Bedeutung und Zusammensetzung der Bibliothek
+## Bedeutung und Rekonstruktion
 
-Das Buch „Fünf Jahre, die die Welt veränderten“ weist auf einen unerwarteten Effekt der Aneignung jüdischer Bibliotheken hin: Obwohl Werke wie die von Iljin verbrannt wurden und der Malik Verlag wegen seiner kommunistischen und avantgardistischen Publikationen verfolgt wurde (vgl. [Wikipedia](https://de.wikipedia.org/wiki/Malik-Verlag)), gelangten diese Bücher durch die Beschlagnahmung wieder in den Bestand der Schlossbücherei. Die jüdischen Bibliotheken waren an den Aussonderungsmaßnahmen nicht beteiligt.
+Über die Rekonstruktion der Umstände der Beschlagnahme jüdischer Buchbestände in Mannheim in den 1930er- und 1940er-Jahren hinaus ist die Dokumentation und Erforschung der Bibliothek von besonderem Interesse. Neben traditionellen jüdischen Themen und zionistischen Publikationen findet sich unter anderem klassische Unterhaltungsliteratur wie die in der Weimarer Republik beliebten historischen Romane. Neben kommunistischen und sozialistischen Autoren umfasste die Bibliothek auch liberale und bürgerlich-nationale Werke. Diese Auswahl steht stellvertretend für die vielfältige, aber typische Zusammensetzung der städtischen jüdischen Gemeinden im Deutschen Reich vor ihrer Zerstörung durch die Nationalsozialisten.
 
-Die Bibliothek der Ressource-Gesellschaft umfasste neben traditionellen jüdischen Themen und zionistischen Publikationen auch klassische Unterhaltungsliteratur, wie die in der Weimarer Republik beliebten historischen Romane. Sie enthielt kommunistische, sozialistische, liberale und bürgerlich nationale Werke. Diese Auswahl spiegelt die vielfältige, aber typische Zusammensetzung der städtischen jüdischen Gemeinden im Deutschen Reich vor der Zerstörung durch die Nationalsozialisten wider.
+Raphael Lemkin fasste unter seinem Begriff des Genozids auch Maßnahmen wie die Zerstörung von Kulturgütern, die systematische Verdrängung der Jüd*innen aus dem öffentlichen Raum, den Raub jüdischen Eigentums und ihren Ausschluss aus dem Wirtschaftsleben zusammen. Diese Maßnahmen zielten darauf ab, die wirtschaftliche, soziale und kulturelle Integrität der Gruppe zu zerstören. Dadurch waren sie als Gruppe innerhalb der Gesellschaft weniger in der Lage, sich gegen Bedrängnisse zu wehren, und Möglichkeiten des Zusammenhalts und der Solidarität wurden verhindert. Diese Formen symbolischer Gewalt, die der Ausgrenzung und Abwertung dienten, bereiteten auch die physische und biologische Verfolgung und Vernichtung vor.
 
-## Kontext der Zerstörung jüdischen Kulturguts
-
-Raphael Lemkin fasste unter dem Begriff des Genozids auch Maßnahmen wie die Zerstörung von Kulturgütern, die systematische Verdrängung der Jüd*innen aus dem öffentlichen Raum, den Raub jüdischen Eigentums und den Ausschluss aus dem Wirtschaftsleben zusammen. Diese zielten darauf ab, die wirtschaftliche, soziale und kulturelle Integrität der Gruppe zu zerstören, ihre Widerstandsfähigkeit zu schwächen und Solidarität zu verhindern. Diese symbolische Gewalt bereitete die physische und biologische Verfolgung und Vernichtung vor.
-
-Die Verdrängung von Autoren wie Michael Iljin und die Zerstörung von Bibliotheken und Kultureinrichtungen waren Teil der Vernichtung jüdischen Lebens im Nationalsozialismus. Die Rekonstruktion und Bewahrung dieser Bibliotheksbestände sowie die Erinnerung an ihre Beschlagnahme und Zerstörung sind Versuche, dieses Unrecht nicht in Vergessenheit geraten zu lassen.
+Die Verdrängung von Autoren wie Michael Iljin im Einzelnen und die Zerstörung von Bibliotheken und Kultureinrichtungen im Großen waren Teil der Zerstörung jüdischen Lebens im Nationalsozialismus. Die Rekonstruktion und Bewahrung dieser Bibliotheksbestände ist ebenso wie die Erinnerung an ihre Beschlagnahme und Zerstörung ein Versuch, dieses Unrecht nicht in Vergessenheit geraten zu lassen.
 
 ## Weiterführende Literatur und Quellen
 
-- Bilsky, Leora. „Cultural Genocide and Restitution: The Early Wave of Jewish Cultural Restitution in the Aftermath of World War II“. *International Journal of Cultural Property* 27, Nr. 3 (August 2020): 349–74. [https://doi.org/10.1017/S0940739120000235](https://doi.org/10.1017/S0940739120000235)  
-- Gallas, Elisabeth. „Das Leichenhaus der Bücher“: Kulturrestitution und jüdisches Geschichtsdenken nach 1945. 2., durchgesehene Auflage. Schriften des Simon-Dubnow-Instituts 19. Göttingen Bristol, CT: Vandenhoeck & Ruprecht, 2016.  
-- Keller, Volker. *Jüdisches Leben in Mannheim*. Mannheim: Ed. Quadrat, 1995.  
-- Moses, A. Dirk. „Raphael Lemkin, Culture, and the Concept of Genocide“. In *The Oxford Handbook of Genocide Studies*, herausgegeben von Donald Bloxham und A. Dirk Moses. Oxford University Press, 2010. [https://doi.org/10.1093/oxfordhb/9780199232116.013.0002](https://doi.org/10.1093/oxfordhb/9780199232116.013.0002)  
-- Ressource-Gesellschaft (Mannheim). *Hundert Jahre Ressource Gesellschaft Mannheim: 1829 -1929*. Mannheim: Katz, 1929.
+- Bilsky, Leora. „Cultural Genocide and Restitution: The Early Wave of Jewish Cultural Restitution in the Aftermath of World War II“. International Journal of Cultural Property 27, Nr. 3 (August 2020): 349–74. [https://doi.org/10.1017/S0940739120000235](https://doi.org/10.1017/S0940739120000235)
+- Gallas, Elisabeth. „Das Leichenhaus der Bücher“: Kulturrestitution und jüdisches Geschichtsdenken nach 1945. 2., durchgesehene Auflage. Schriften des Simon-Dubnow-Instituts 19. Göttingen Bristol, CT: Vandenhoeck & Ruprecht, 2016.
+- Keller, Volker. Jüdisches Leben in Mannheim. Mannheim: Ed. Quadrat, 1995.
+- Moses, A. Dirk. „Raphael Lemkin, Culture, and the Concept of Genocide“. In The Oxford Handbook of Genocide Studies, herausgegeben von Donald Bloxham und A. Dirk Moses, 0. Oxford University Press, 2010. [https://doi.org/10.1093/oxfordhb/9780199232116.013.0002](https://doi.org/10.1093/oxfordhb/9780199232116.013.0002)
+- Ressource-Gesellschaft (Mannheim). Hundert Jahre Ressource Gesellschaft Mannheim: 1829–1929. Mannheim: Katz, 1929.

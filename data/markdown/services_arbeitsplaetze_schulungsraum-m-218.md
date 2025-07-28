@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/services/workspaces/training-room-m-218/</en_url>
 
 
 # Schulungs­raum M 218 (https://www.bib.uni-mannheim.de/services/arbeitsplaetze/schulungsraum-m-218/)

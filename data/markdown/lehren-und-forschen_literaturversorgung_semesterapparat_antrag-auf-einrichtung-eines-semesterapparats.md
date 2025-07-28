@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/</en_url>
 
 
 # Antrag auf Einrichtung eines Semesterapparats (https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/semesterapparat/antrag-auf-einrichtung-eines-semesterapparats/)

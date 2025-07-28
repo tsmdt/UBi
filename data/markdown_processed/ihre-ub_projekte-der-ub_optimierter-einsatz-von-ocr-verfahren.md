@@ -1,8 +1,9 @@
 ---
-title: Optimierter Einsatz von OCR-Verfahren
-source_url: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/optimierter-einsatz-von-ocr-verfahren/
+title: Optimierter Einsatz von OCR-Verfahren mit Tesseract im OCR-D-Workflow
+source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/optimierter-einsatz-von-ocr-verfahren/
+source_url_en: https://www.bib.uni-mannheim.de/en/about/projects-of-the-university-library/optimierter-einsatz-von-ocr-verfahren/
 category: Projekte
-tags: [OCR, Tesseract, Optical Character Recognition, OCR-D, Universitätsbibliothek Mannheim, Deutsche Forschungsgemeinschaft, Texterkennung, LSTM, Open Source Software]
+tags: [OCR, Tesseract, OCR-D, Texterkennung, Digitalisierung, DFG, Open Source, Universitätsbibliothek Mannheim]
 language: de
 ---
 
@@ -12,12 +13,10 @@ language: de
 
 **Kontakt:** [Stefan Weil](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/stefan-weil/)  
 **Förderung:** Deutsche Forschungsgemeinschaft (DFG)  
-**Laufzeit:** 2018–2019  
+**Laufzeit:** 2018–2019
 
-Die Universitätsbibliothek Mannheim arbeitet als eines von acht Modulprojekten im [OCR-D](https://ocr-d.de/) Koordinierungsprojekt an der Weiterentwicklung von Verfahren der Optical Character Recognition (OCR). Dabei betreut sie die Software [Tesseract](https://de.wikipedia.org/wiki/Tesseract_(Software)) als zentrale Komponente für die Texterkennung.
+Als eines von acht Modulprojekten im [OCR-D Koordinierungsprojekt](https://ocr-d.de/) zur Weiterentwicklung von Verfahren der Optical Character Recognition (OCR) arbeitet die Universitätsbibliothek Mannheim an einer zentralen Komponente – der eigentlichen Texterkennung – und betreut dabei die Software [Tesseract](https://de.wikipedia.org/wiki/Tesseract_(Software)).
 
-Tesseract ist eine freie Software für optische Zeichenerkennung mit über 30 Jahren kontinuierlicher Weiterentwicklung. In der Open Source Software Gruppe zählt Tesseract zu den Programmen mit den besten Erkennungsraten. Seit Ende 2016 unterstützt Tesseract die Texterkennung mittels künstlicher neuronaler Netze (LSTM) und ist somit technologisch auf dem neuesten Stand.
+Tesseract ist eine freie Software für die Texterkennung (optische Zeichenerkennung, OCR) und zeichnet sich durch eine mehr als 30-jährige stetige Weiterentwicklung aus. In der Gruppe Open Source Software gehört Tesseract zu den Programmen mit den besten Erkennungsraten. Seit Ende 2016 unterstützt Tesseract auch die Texterkennung mittels künstlicher neuronaler Netze (LSTM) und ist damit technologisch aktuell.
 
-Das Projekt erweitert Tesseract um Schnittstellen zur Einbindung in einen OCR-Gesamtworkflow gemäß der OCR-D Modulbeschreibung. Dazu gehören Kommandozeile, API und REST-basierter Webservice. Ziel ist es, die Stabilität, Performance und praktische Einsetzbarkeit von Tesseract weiter zu verbessern.
-
-Die Universitätsbibliothek Mannheim nutzt Tesseract für die erste weitgehende komplette Texterkennung historischer Zeitungen, insbesondere des Deutschen Reichsanzeigers und Preußischer Staatsanzeiger (1819–1945). Dieses Vorhaben wird im Rahmen des DFG-Projekts "Aktenführer"-Datenarchiv II durchgeführt.
+Das Projekt erweitert bzw. ergänzt Tesseract um Schnittstellen für die Einbindung in einen OCR-Gesamt-Workflow gemäß der OCR-D Modulbeschreibung (Kommandozeile, API, REST-basierter Webservice). Darüber hinaus ist das Ziel, die Stabilität, Performance und praktische Einsetzbarkeit weiter zu verbessern.

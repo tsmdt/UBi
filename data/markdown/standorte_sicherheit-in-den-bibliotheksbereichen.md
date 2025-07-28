@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/locations/security-in-the-subject-libraries/</en_url>
 
 
 # Sicherheit in den Bibliotheks­bereichen (https://www.bib.uni-mannheim.de/standorte/sicherheit-in-den-bibliotheksbereichen/)

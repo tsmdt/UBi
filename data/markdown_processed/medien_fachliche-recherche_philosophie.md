@@ -1,31 +1,36 @@
 ---
-title: Philosophie
-source_url: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/philosophie/
+title: Fachliche Recherche und Ressourcen für Philosophie an der Universitätsbibliothek Mannheim
+source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/philosophie/
+source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/philosophy/
 category: Medien
-tags: [Philosophie, Literatur, Datenbanken, E-Journals, E-Books, Fachliche Internetquellen, Literaturstandorte, Forschungsinstitute, Kurse, Wissenschaftliches Arbeiten, Universitätsbibliothek Mannheim]
+tags: [Philosophie, Datenbanken, E-Books, E-Journals, Literaturstandorte, Kurse, Wissenschaftliches Arbeiten, Fachberatung]
 language: de
 ---
 
-# Philosophie
+# Philosophie: Fachliche Recherche und Ressourcen
 
-Für das Fach Philosophie bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken und Sucheinstiege. Bei Interesse an Recherchemethoden oder wissenschaftlichem Arbeiten können Sie Kurse besuchen oder individuelle Beratung in Anspruch nehmen.
+Für das Fach Philosophie bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken und Rechercheeinstiege. Informationen zur Recherche im Fachgebiet und Tipps zum wissenschaftlichen Arbeiten erhalten Sie in unseren [Kursen](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/). Individuelle Beratung ist ebenfalls möglich.
 
 ## Recherchieren
 
 ### Datenbanken
 
-Datenbanken zur Philosophie und anderen Fachgebieten finden Sie über das [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/browse/subjects/31/). Weitere wichtige Ressourcen sind:
+Datenbanken zur Philosophie und zu anderen Fachgebieten finden Sie im [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/browse/subjects/31/).
 
 - [Fachinformationsdienst (FID) Philosophie](https://philportal.de/)
-- Direktlink zum [Philosopher's Index](https://web.p.ebscohost.com/ehost/search/advanced?vid=2&sid=da9e106c-e993-46bc-87d9-9b6fa7d741ef%40redis)
+- [Direktlink zum Philosopher's Index](https://web.p.ebscohost.com/ehost/search/advanced?vid=2&sid=da9e106c-e993-46bc-87d9-9b6fa7d741ef%40redis)
 
 ### E-Journals
 
-Eine Übersicht über E-Journals für Philosophie finden Sie in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=CA-CI). Im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) können Sie gezielt nach einzelnen Zeitschriften suchen. Open-Access-Zeitschriften in der Philosophie sind auf der Seite der [Deutschen Gesellschaft für Philosophie](https://www.dgphil.de/die-dgphil/open-access-zeitschriften-1) gelistet.
+Eine Übersicht über E-Journals für das Fach Philosophie finden Sie in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=CA-CI). Im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) können Sie nach einzelnen Zeitschriften suchen.
+
+- [Open-Access-Zeitschriften in der Philosophie](https://www.dgphil.de/die-dgphil/open-access-zeitschriften-1)
 
 ### E-Books
 
-Die UB Mannheim bietet ein breites Angebot an E-Books für Philosophie, die im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar und aus dem Uni-Netz zugreifbar sind. Wichtige E-Book-Pakete und Sammlungen:
+Die UB bietet ein breites Angebot an E-Books für alle Fachgebiete, einschließlich Philosophie. Die E-Books sind im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar und aus dem Netz der Universität Mannheim zugreifbar. Weitere Informationen finden Sie auf der Seite [Hinweise zur E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
+
+**Ausgewählte E-Book-Pakete:**
 
 - [Brill E-Book Collection Philosophy](https://philportal.de/ebooks/publishers)
 - [Cambridge Companions to Philosophy](https://www.cambridge.org/core/what-we-publish/collections/cambridge-companions/listing?aggs%5BonlyShowAvailable%5D%5Bfilters%5D=true&aggs%5BproductTypes%5D%5Bfilters%5D=BOOK&aggs%5BproductCollection%5D%5Bfilters%5D=1A9C55AE9859BDD385A4CC56E60ECB21&fts=yes&searchWithinIds=CC5F57B75036F7D224B3BDE3A8A31A7F)
@@ -37,13 +42,9 @@ Die UB Mannheim bietet ein breites Angebot an E-Books für Philosophie, die im [
 - [Metzler Geisteswissenschaften](https://dbis.ur.de//detail.php?bib_id=ubman&colors=&ocolors=&lett=fs&tid=0&titel_id=101014)
 - [Nomos eLibrary](https://www.nomos-elibrary.de/?qms=1&slocal=0&q=&qtt=&qa=&qIdent=&qReihe=&qjv=&qjb=&page-search-location=Zugriff&filter-subject%5B0%5D=100000&v=h&hl_s=date)
 - [Oxford Bibliographies Philosophy](https://www.oxfordbibliographies.com/browse?module_0=obo-9780195396577) (z. B. [Animal Rights](https://www.oxfordbibliographies.com/display/document/obo-9780195396577/obo-9780195396577-0124.xml))
-- [Transcript Verlag Open Access](https://www.transcript-verlag.de/open-access/?f=12320&p=1)
-
-Weitere Informationen zur Nutzung von E-Books und Datenbanken finden Sie unter [Hinweise zur E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
+- [Transcript Open Access](https://www.transcript-verlag.de/open-access/?f=12320&p=1)
 
 ### Fachliche Internetquellen
-
-Nützliche Online-Ressourcen für Philosophie und KI-gestützte Arbeit:
 
 - [Literaturrecherche](https://www.vkkiwa.de/ki-ressourcen/)
 - [Textverstehen](https://www.vkkiwa.de/ki-ressourcen/)
@@ -52,23 +53,20 @@ Nützliche Online-Ressourcen für Philosophie und KI-gestützte Arbeit:
 
 ### Podcasts
 
-Empfohlene Podcasts und Videoressourcen zur Philosophie:
-
-- [Wissenschaftspodcasts Philosophie](https://www.philosophy.ox.ac.uk/podcasts) (englisch)
-- [Philosophy Bites](https://philosophybites.com/) (auch auf iTunes) – Interviews mit Philosophen
-- [History of Philosophy without Any Gaps](https://historyofphilosophy.net/) (auch auf iTunes) – Geschichte der Philosophie
-- [Wi-Phi](http://www.wi-phi.com/) – Zugängliche Videoeinführungen
-- [IaI TV](https://iai.tv/) – Debatten und Vorträge
-- [In Our Time: Philosophy](https://www.bbc.co.uk/programmes/p01f0vzr/episodes/downloads) – BBC Radio 4 Diskussionen
-- [TED Talks Philosophie](https://www.ted.com/topics/philosophy) (auch auf iTunes)
+- [Wissenschaftspodcasts Philosophie (englisch)](https://www.philosophy.ox.ac.uk/podcasts)
+- [Philosophy Bites](https://philosophybites.com/) – Kurze Interviews mit Philosophen zu verschiedenen Themen.
+- [History of Philosophy without Any Gaps](https://historyofphilosophy.net/) – Podcasts zur klassischen, islamischen, jüdischen und mittelalterlichen Philosophiegeschichte.
+- [Wi-Phi](http://www.wi-phi.com/) – Videoeinführungen in die Philosophie.
+- [IaI TV](https://iai.tv/) – Debatten und Vorträge, darunter auch zur Philosophie.
+- [In Our Time: Philosophy](https://www.bbc.co.uk/programmes/p01f0vzr/episodes/downloads) – Mitschnitte der BBC-Radiosendung zu philosophischen Themen.
+- [TED Talks: Philosophy](https://www.ted.com/topics/philosophy) – Sammlung von TED Talks zu philosophischen Themen.
 
 ## Literaturstandorte
 
-Im Bibliotheksbereich [A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) finden Sie frei zugängliche Literatur zum Fach Philosophie, geordnet nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/CA%20-%20CK). Ausleihen aus diesem Bestand sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
-
-Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) steht weitere Literatur zur Ausleihe mit ecUM- oder UB-Chipkarte bereit. Dort befindet sich auch die Lehrbuchsammlung mit wichtigen Lehrbüchern in mehreren Exemplaren für Studierende und kooperierende Einrichtungen.
-
-Die gesamte Literatur der UB können Sie online im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchieren.
+- Im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) finden Sie Literatur zum Fach Philosophie, die vor Ort genutzt werden kann. Die Medien sind frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online#notation/CA%20-%20CK) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
+- Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Philosophie, die mit ecUM oder UB-Chipkarte ausgeliehen werden kann.
+- In der Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel stehen Studierenden der Universität Mannheim und kooperierender Einrichtungen wichtige Lehrbücher in mehreren Exemplaren zur Ausleihe zur Verfügung.
+- Die an der UB vorhandene Literatur kann online im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchiert werden.
 
 ## Forschungseinrichtungen vor Ort
 
@@ -77,27 +75,24 @@ Die gesamte Literatur der UB können Sie online im [Katalog Primo](https://primo
 
 ## Kurse und Tutorials
 
-Die UB bietet regelmäßig Schulungen zur Recherche an. Tutorials sind jederzeit online verfügbar. Individuelle Beratung ist möglich.
+Die UB bietet regelmäßig Schulungen zur Recherche an. Tutorials können jederzeit online absolviert werden. Individuelle Beratung ist möglich.
 
 - [Kursangebot](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
 - [Kursreihe Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
-
-**Kurse für das Fach Philosophie**
-
-- [Philosophie: speziell für Studierende vor dem Examen](https://ilias.uni-mannheim.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=1220609)
+- [Kurs für das Fach Philosophie (speziell für Studierende vor dem Examen)](https://ilias.uni-mannheim.de/ilias.php?baseClass=ilrepositorygui&cmd=view&ref_id=1220609)
 
 ## Wissenschaftliches Arbeiten
 
-Die UB bietet zahlreiche Ratgeber zum wissenschaftlichen Arbeiten, z. B. im Bibliotheksbereich [A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) oder in der [Lehrbuchsammlung](https://primo-49man.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,AK%2039580&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&facet=local4,include,MAN01-2-WEST&lang=de_DE&mode=Basic&offset=0) (Signaturen AK 39580 und CB 4900).
+Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten, z. B. im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) oder in der [Lehrbuchsammlung](https://primo-49man.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,AK%2039580&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&facet=local4,include,MAN01-2-WEST&lang=de_DE&mode=Basic&offset=0) bei AK 39580 und CB 4900.
 
 Beispiele:
 
-- [Grundlagen wissenschaftlichen Arbeitens: Philosophie (online)](https://open.vhb.org/blocks/ildmetaselect/detailpage.php?id=170)
-- [Guidelines on Writing a Philosophy Paper (online)](http://www.jimpryor.net/teaching/guidelines/writing.html)
-- Hübner, Dietmar: [Zehn Gebote für das philosophische Schreiben (eBook)](https://elibrary.utb.de/doi/book/10.36198/9783838540184)
+- [Grundlagen wissenschaftlichen Arbeitens: Philosophie](https://open.vhb.org/blocks/ildmetaselect/detailpage.php?id=170) (online)
+- [Guidelines on Writing a Philosophy Paper](http://www.jimpryor.net/teaching/guidelines/writing.html) (online)
+- [Hübner, Dietmar: Zehn Gebote für das philosophische Schreiben](https://elibrary.utb.de/doi/book/10.36198/9783838540184) (eBook)
 
-Die UB unterstützt mit Schulungs- und Beratungsangeboten:
+Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten:
 
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
 - [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
@@ -111,14 +106,12 @@ Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Ang
 **Aufgaben:**
 
 - Literaturauswahl und -erschließung für die genannten Fächer
-- Vertretung Politik­wissenschaft, Psychologie, Soziologie
+- Vertretung Politikwissenschaft, Psychologie, Soziologie
 - Fachliche Beratung bei Recherchefragen
 - Durchführung von Schulungen im Fachbereich
 
-**Adresse:**  
-Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
-
+**Adresse:** Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim  
 **Telefon:** +49 621 181-3053  
 **E-Mail:** [rudolf.nink@uni-mannheim.de](mailto:rudolf.nink@uni-mannheim.de)
 
-Vertretung: [Dr. Hendrik Platte](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-hendrik-platte/)
+**Vertretung:** [Dr. Hendrik Platte](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-hendrik-platte/)

@@ -1,17 +1,22 @@
 ---
-title: Kooperationspartner des Projekts "Verfolgungsbedingt entzogenes Kulturgut"
-source_url: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/partner/
+title: Kooperationspartner des Projekts "Verfolgungsbedingt entzogenes Kulturgut" der Universitätsbibliothek Mannheim
+source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/partner/
+source_url_en: https://www.bib.uni-mannheim.de/en/
 category: Projekte
-tags: [Kooperationspartner, Verfolgungsbedingt entzogenes Kulturgut, Universität Mannheim, Archiv, Geschichte, Spätmittelalter, Frühe Neuzeit]
+tags: [Kooperationspartner, Kulturgut, Universitätsarchiv, Hiram Kümper, Historisches Institut, Schlossbücherei, Provenienzforschung]
 language: de
 ---
 
 # Kooperationspartner
 
-## Prof. Dr. Hiram Kümper
+## Hiram Kümper
 
-Das Projekt wird wissenschaftlich betreut von Prof. Dr. Hiram Kümper, Lehrstuhlinhaber für Geschichte des Spätmittelalters und der frühen Neuzeit am Historischen Institut der Universität Mannheim. Er unterstützt das Forschungsprojekt mit fachlicher und regionalhistorischer Expertise. Als Stichwortgeber und durch personelle Anschubleistung hat er das Projekt maßgeblich initiiert. Zudem vermittelt er Kooperationspartner aus der historischen Fachwissenschaft sowie der interessierten Stadtöffentlichkeit. Weitere Informationen zu Prof. Dr. Hiram Kümper finden Sie auf seiner [Profilseite](https://www.phil.uni-mannheim.de/spaetmittelalter-und-fruehe-neuzeit/team/hiram-kuemper/).
+## Historisches Institut | Lehrstuhl für Geschichte des Spätmittelalters und der frühen Neuzeit
+
+Das Projekt wird wissenschaftlich betreut durch [Prof. Dr. Hiram Kümper](https://www.phil.uni-mannheim.de/spaetmittelalter-und-fruehe-neuzeit/team/hiram-kuemper/), der das Forschungsvorhaben mit wissenschaftlicher und regionalhistorischer Expertise unterstützt. Als Stichwortgeber und mit einer personellen Anschubleistung hat er das Projekt maßgeblich mit initiiert. Er vermittelt zudem Kooperationspartner in die historische Fachwissenschaft und die interessierte Stadtöffentlichkeit.
 
 ## Archiv der Universität Mannheim
 
-Das Archiv der Universität Mannheim ist das historische Gedächtnis der Universität. Seit den 1970er-Jahren erschließt und verzeichnet es Archivgut rund um den Universitätsbetrieb sowie Unterlagen der Vorgängerinstitutionen, darunter die Handelshochschule (1907–1933) und die Wirtschaftshochschule (1946–1967). Im Universitätsarchiv wurden unter anderem die Zugangsbücher der Städtischen Schlossbücherei digitalisiert. Die Mitarbeiter*innen des Archivs haben zudem erste Recherchen im Rahmen des Projekts angestoßen. Weitere Informationen finden Sie auf der [Webseite des Universitätsarchivs](https://www.uni-mannheim.de/universitaetsarchiv/).
+Das [Archiv der Universität Mannheim](https://www.uni-mannheim.de/universitaetsarchiv/) ist das historische Gedächtnis der Universität. Seit den 1970er-Jahren erschließt und verzeichnet das Universitätsarchiv Archivgut rund um den Universitätsbetrieb sowie die Unterlagen der Vorgängerinstitutionen – der Handelshochschule (1907–1933) und der Wirtschaftshochschule (1946–1967).
+
+Im Universitätsarchiv wurden unter anderem die Zugangsbücher der Städtischen Schlossbücherei digitalisiert und durch die Mitarbeiter*innen erste Recherchen angestoßen.

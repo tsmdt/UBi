@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/teaching-and-research/publishing-and-open-access/</en_url>
 
 
 # Publizieren und Open Access (https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/)

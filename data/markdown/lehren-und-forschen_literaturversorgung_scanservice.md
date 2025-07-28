@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/teaching-and-research/literature-supply/scan-service/</en_url>
 
 
 # Scanservice (https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/scanservice/)

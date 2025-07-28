@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/about/</en_url>
 
 
 # Ihre UB (https://www.bib.uni-mannheim.de/ihre-ub/)

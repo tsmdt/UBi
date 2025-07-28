@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/services/courses-and-tutorials/fake-news-in-science/</en_url>
 
 
 # Fake News in der Wissenschaft (https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/fake-news-in-der-wissenschaft/)

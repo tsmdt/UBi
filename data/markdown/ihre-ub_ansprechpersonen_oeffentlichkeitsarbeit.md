@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/about/contact/public-relations/</en_url>
 
 
 # Öffentlichkeits­arbeit (https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/oeffentlichkeitsarbeit/)

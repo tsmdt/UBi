@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/resources/interlibrary-loan/</en_url>
 
 
 # Fernleihe (https://www.bib.uni-mannheim.de/medien/fernleihe/)

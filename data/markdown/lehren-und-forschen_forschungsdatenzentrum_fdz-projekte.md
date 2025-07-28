@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/fdz-projects/</en_url>
 
 
 # Projekte mit FDZ-Beteiligung (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-projekte/)

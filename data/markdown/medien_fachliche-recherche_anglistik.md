@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/english-and-american-studies/</en_url>
 
 
 # Anglistik (https://www.bib.uni-mannheim.de/medien/fachliche-recherche/anglistik/)

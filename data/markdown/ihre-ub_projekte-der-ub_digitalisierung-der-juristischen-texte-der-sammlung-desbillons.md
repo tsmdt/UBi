@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/about/projects-of-the-university-library/digitalisierung-der-juristischen-texte-der-sammlung-desbillons/</en_url>
 
 
 # Digitalisierung der juristischen Texte der Sammlung Desbillons (https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/digitalisierung-der-juristischen-texte-der-sammlung-desbillons/)

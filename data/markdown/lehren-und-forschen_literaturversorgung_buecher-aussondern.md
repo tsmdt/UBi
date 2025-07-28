@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/teaching-and-research/literature-supply/sorting-out-books/</en_url>
 
 
 # Bücher aussondern (https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/buecher-aussondern/)

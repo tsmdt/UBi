@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/services/library-card/</en_url>
 
 
 # Bibliotheksausweis (https://www.bib.uni-mannheim.de/services/bibliotheksausweis/)

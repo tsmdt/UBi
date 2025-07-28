@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/about/contact/departments/library-services/</en_url>
 
 
 # Benutzungs­dienste (https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/benutzungsdienste/)

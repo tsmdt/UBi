@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/resources/other-catalogs/</en_url>
 
 
 # Weitere Kataloge (https://www.bib.uni-mannheim.de/medien/weitere-kataloge/)

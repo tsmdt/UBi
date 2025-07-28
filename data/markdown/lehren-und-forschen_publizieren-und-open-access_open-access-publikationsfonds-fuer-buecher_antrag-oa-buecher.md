@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/teaching-and-research/publishing-and-open-access/open-access-publishing-fund-for-books/application-oa-books/</en_url>
 
 
 # Antrag auf Über­nahme von Open-Access-Publikations­kosten für Bücher (https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds-fuer-buecher/antrag-oa-buecher/)

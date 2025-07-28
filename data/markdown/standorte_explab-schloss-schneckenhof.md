@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/locations/explab-schloss-schneckenhof/</en_url>
 
 
 # ExpLAB Schloss Schneckenhof (https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/)

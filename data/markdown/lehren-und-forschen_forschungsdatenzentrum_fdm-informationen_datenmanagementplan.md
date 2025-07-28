@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenmanagementplan-1/</en_url>
 
 
 # Daten­management­plan (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenmanagementplan/)

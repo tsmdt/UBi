@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/about/contact/departments/berdnfdi/</en_url>
 
 
 # BERD@NFDI (https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/berdnfdi/)

@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/about/contact/libraries/lending-and-interlibrary-loans/</en_url>
 
 
 # Ausleihe und Fernleihe (https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/ausleihe-und-fernleihe/)

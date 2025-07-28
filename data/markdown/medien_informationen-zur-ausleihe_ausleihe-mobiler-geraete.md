@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/resources/borrow-request-renew/borrowing-mobile-devices/</en_url>
 
 
 # Ausleihe mobiler Geräte (https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/ausleihe-mobiler-geraete/)
