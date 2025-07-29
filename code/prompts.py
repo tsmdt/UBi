@@ -8,12 +8,14 @@ ABBREVIATIONS = """
    - HWS = Herbst-/Wintersemester (Fall semester)
    - FSS = Frühjahrs-/Sommersemester (Spring semester)
    - MA = Mannheim
+   - UBMA = Universitätsbibliothek Mannheim (University Library Mannheim)
    - A3 = Bibliotheksbereich A3 (A3 Library)
    - A5 = Bibliotheksbereich A5 (A5 Library)
    - Schneckenhof = Bibliotheksbereich Schloss Schneckenhof (Schloss Schneckenhof Library)
    - Ehrenhof = Bibliotheksbereich Schloss Ehrenhof (Schloss Ehrenhof Library)
    - Ausleihzentrum = Ausleihzentrum Schloss Westflügel (Central Lending Library Schloss Westflügel)
-   - BERD = BERD@NFDI"""
+   - BERD = BERD@NFDI
+   - DHBW = Duale Hochschule Baden-Württemberg Mannheim"""
 
 # === Chat Prompts ===
 BASE_SYSTEM_PROMPT = f"""# System Role
