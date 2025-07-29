@@ -1,7 +1,7 @@
 ---
 title: Open Science Office der Universitätsbibliothek Mannheim – Beratung, Förderung und Vernetzung
 source_url_de: https://www.uni-mannheim.de/open-science/open-science-office/
-source_url_en: https://www.bib.uni-mannheim.de/en/open-science/open-science-office/
+source_url_en: https://www.uni-mannheim.de/en/open-science/open-science-office/
 category: Services
 tags: [Open Science, Open Access, Forschungsförderung, Seminare, Grants, Netzwerk, Reproduzierbarkeit, Beratung]
 language: en
