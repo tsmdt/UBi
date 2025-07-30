@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/locations/a3-library/psychology-test-procedures/</en_url>
 
 
 # Test­verfahren für die Psychologie (https://www.bib.uni-mannheim.de/standorte/bb-a3/testverfahren-psychologie/)

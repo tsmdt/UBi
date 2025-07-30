@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/services/workspaces/palma-team-monitors/</en_url>
 
 
 # PalMA-Team-Monitore (https://www.bib.uni-mannheim.de/services/arbeitsplaetze/palma-team-monitore/)

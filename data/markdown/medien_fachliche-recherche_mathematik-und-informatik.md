@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/mathematics-and-informatics/</en_url>
 
 
 # Mathematik und Informatik (https://www.bib.uni-mannheim.de/medien/fachliche-recherche/mathematik-und-informatik/)

@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/services/workspaces/</en_url>
 
 
 # Arbeits­plätze (https://www.bib.uni-mannheim.de/services/arbeitsplaetze/)

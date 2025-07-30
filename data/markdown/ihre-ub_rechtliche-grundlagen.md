@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/about/rules-and-regulations/</en_url>
 
 
 # Rechtliche Grundlagen (https://www.bib.uni-mannheim.de/ihre-ub/rechtliche-grundlagen/)

@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/about/contact/departments/acquisition-and-cataloging/</en_url>
 
 
 # Medienbearbeitung (https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/medienbearbeitung/)

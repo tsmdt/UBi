@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/open-science/open-science-office/</en_url>
 
 
 # Open Science Office (https://www.uni-mannheim.de/open-science/open-science-office/)

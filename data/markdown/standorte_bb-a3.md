@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/locations/a3-library/</en_url>
 
 
 # Bibliotheks­bereich A3 (https://www.bib.uni-mannheim.de/standorte/bb-a3/)

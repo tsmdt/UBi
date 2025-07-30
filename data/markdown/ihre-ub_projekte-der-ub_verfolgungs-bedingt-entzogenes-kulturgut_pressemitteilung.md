@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/</en_url>
 
 
 # Auf der Suche nach NS-Raubgut: Universitäts­bibliothek Mannheim erhält Förderung für Provenienzforschung (https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/pressemitteilung/)

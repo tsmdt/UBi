@@ -1,50 +1,50 @@
 ---
-title: Bibliotheksausweis der Universitätsbibliothek Mannheim
-source_url: https://www.bib.uni-mannheim.de/services/bibliotheksausweis/
-category: Services
-tags: [Bibliotheksausweis, ecUM, Universität Mannheim, Fernleihe, elektronische Medien, Ersatzkarte, Kontakt]
+title: Bibliotheksausweis und ecUM der Universitätsbibliothek Mannheim
+source_url_de: https://www.bib.uni-mannheim.de/services/bibliotheksausweis/
+source_url_en: https://www.bib.uni-mannheim.de/en/services/library-card/
+category: Benutzung
+tags: [Bibliotheksausweis, ecUM, Ersatzkarte, Universitätsbibliothek, Zugang, Studierende, Fernleihe, Kontakt]
 language: de
 ---
 
 # Bibliotheksausweis
 
-## Für Mitglieder der Universität Mannheim
+## ecUM als Bibliotheksausweis für Mitglieder der Universität Mannheim
 
-Die elektronische Chipkarte **ecUM** dient gleichzeitig als Bibliotheksausweis.
+Für Mitglieder der Universität Mannheim dient die elektronische Chipkarte ecUM gleichzeitig als Bibliotheksausweis.
 
-Als Mitglied der Universität Mannheim können Sie mit der ecUM und Ihren Zugangsdaten:
+Mit der ecUM und Ihren Zugangsdaten können Sie:
 
 - die Bibliotheksbereiche besuchen
 - Medien im Ausleihzentrum Westflügel ausleihen
 - drucken, kopieren und scannen
 - Medien über die Fernleihe bestellen
-- lizenzierte elektronische Medien nutzen, mit VPN-Client auch im Fernzugriff ([VPN-Client Anleitung](https://www.uni-mannheim.de/it/anleitungen/vpn/))
-- campusweit Internet nutzen ([Internetzugang](https://www.bib.uni-mannheim.de/services/internetzugang/))
+- lizenzierte elektronische Medien nutzen, mit [VPN-Client](https://www.uni-mannheim.de/it/anleitungen/vpn/) auch im Fernzugriff
+- campusweit [Internet](https://www.bib.uni-mannheim.de/services/internetzugang/) nutzen
 - Schließfächer benutzen
 
-### ecUM ab 1. Juli 2025 ohne Foto
+**ecUM ab 1. Juli 2025 ohne Foto:**  
+Ab dem 1. Juli 2025 erhält die ecUM ein neues Design ohne Foto auf der Vorderseite. Stattdessen wird ein QR-Code angezeigt. Diese Änderung betrifft alle ab diesem Datum neu ausgestellten Karten; bestehende Karten bleiben weiterhin gültig.
 
-Ab dem 1. Juli 2025 erhält die ecUM ein neues Design: Es erscheint kein Foto mehr auf der Vorderseite, stattdessen ein QR-Code. Diese Änderung betrifft alle neu ausgestellten Karten ab diesem Datum. Bestandskarten bleiben weiterhin gültig.
-
-## Für Nicht-Mitglieder der Universität Mannheim
+## Bibliotheksausweis für Nicht-Mitglieder
 
 - [Bibliotheksausweis für Privatpersonen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/)
-- [Bibliotheksausweis für Angehörige der Uni HD, DHBW, HS MA, HS LU und anderer kooperierender Einrichtungen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-angehoerige-kooperierender-einrichtungen/)
+- [Bibliotheksausweis für Angehörige kooperierender Einrichtungen (Uni HD, DHBW, HS MA, HS LU u.a.)](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-angehoerige-kooperierender-einrichtungen/)
 
 ## Ersatz bei Verlust oder Defekt
 
-Bei Verlust oder Defekt der ecUM kann eine Ersatzkarte über das [Studierendenportal](https://portal2.uni-mannheim.de/portal2/) beantragt werden. Anmeldung mit Uni-ID und Passwort erforderlich. Die Gebühr für eine Ersatzkarte beträgt 15 Euro.
+Bei Verlust oder Defekt Ihrer ecUM können Sie eine Ersatzkarte über das [Studierendenportal](https://portal2.uni-mannheim.de/portal2/) beantragen. Melden Sie sich mit Ihrer Uni-ID und Ihrem Passwort an. Die Gebühr für eine Ersatzkarte beträgt 15 Euro.
 
 ## Benachrichtigungen und Adressänderungen
 
-- Alle Benachrichtigungen (z. B. Vormerkungen, Mahnungen) werden an die universitäre E-Mail-Adresse gesendet.
-- Adressänderungen können an den ecUM-Terminals und in den Studienbüros vorgenommen werden.
+- Alle Benachrichtigungen, wie Vormerkungen oder Mahnungen, werden an Ihre universitäre E-Mail-Adresse geschickt.
+- Adressänderungen sind an den ecUM-Terminals und in den Studienbüros möglich.
 
 ## Kontakt
 
-### InfoCenter
-
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim  
-- Web: [www.bib.uni-mannheim.de](https://www.bib.uni-mannheim.de/)  
-- Telefon: +49 621 181-2948  
-- E-Mail: info.ub@uni-mannheim.de
+**InfoCenter**  
+Universität Mannheim, Universitätsbibliothek  
+Schloss Schneckenhof, 68161 Mannheim  
+Web: [www.bib.uni-mannheim.de](https://www.bib.uni-mannheim.de/)  
+Telefon: +49 621 181-2948  
+E-Mail: [info.ub@uni-mannheim.de](mailto:info.ub@uni-mannheim.de)

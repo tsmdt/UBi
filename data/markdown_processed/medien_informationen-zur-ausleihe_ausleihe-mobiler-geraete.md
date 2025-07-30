@@ -1,37 +1,37 @@
 ---
-title: Ausleihe mobiler Geräte
-source_url: https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/ausleihe-mobiler-geraete/
+title: Ausleihe mobiler Geräte an der Universitätsbibliothek Mannheim
+source_url_de: https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/ausleihe-mobiler-geraete/
+source_url_en: https://www.bib.uni-mannheim.de/en/resources/borrow-request-renew/borrowing-mobile-devices/
 category: Medien
-tags: [Notebookausleihe, mobile Geräte, Laptops, Universität Mannheim, InfoCenter, digitale Prüfungen, Software, SPSS, STATA]
+tags: [Notebookausleihe, mobile Geräte, Ausleihe, Rückgabe, InfoCenter, digitale Prüfungen, e-Prüfung, Leihfristen]
 language: de
 ---
 
-# Ausleihe mobiler Geräte an der Universitätsbibliothek Mannheim
+# Ausleihe mobiler Geräte
 
-## Verfügbarkeit und Ausstattung
+Mitglieder der Universität Mannheim können Laptops im [InfoCenter](https://www.bib.uni-mannheim.de/standorte-und-oeffnungszeiten/infocenter/) ausleihen.
 
-Mitglieder der Universität Mannheim können Laptops im [InfoCenter](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/ausleihe-mobiler-geraete/) ausleihen. Für Studierende stellt die Universitätsbibliothek (UB) gemeinsam mit UNIT aus Qualitätssicherungsmitteln zusätzliche Notebooks bereit. Diese sind für eine 14-tägige Ausleihe oder eine Semesterleihe verfügbar. Alle Notebooks sind mit aktuellen Versionen der Software SPSS und STATA ausgestattet.
+Für Studierende der Universität Mannheim stellen Universitätsbibliothek (UB) und UNIT aus Qualitätssicherungsmitteln zusätzliche Notebooks für eine 14-tägige Ausleihe oder eine Semesterleihe bereit. Alle Notebooks sind mit den aktuellen Softwareversionen von SPSS und STATA ausgestattet.
 
-## Ausleihe der Notebooks
+## Ausleihe
 
-- Suchen Sie im Katalog [Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?query=any,contains,Notebookausleihe&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&offset=0) nach dem Stichwort „Notebookausleihe“ und bestellen Sie das gewünschte Gerät vor.
-- Nach der Bestellung erhalten Sie eine E-Mail, sobald das Gerät montags bis freitags von 9 bis 16 Uhr im InfoCenter abgeholt werden kann.
-- Die Ausleihdauer beträgt 14 Tage mit der Möglichkeit einer Verlängerung bis maximal 42 Tage. Einige Notebooks sind für eine Semesterleihe verfügbar.
+- Suchen Sie im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?query=any,contains,Notebookausleihe&tab=default_tab&search_scope=MAN_ALMA&vid=MAN_UB&offset=0) nach dem Stichwort „Notebookausleihe“ und bestellen Sie das gewünschte Gerät vor.
+- Sie erhalten eine E-Mail, sobald Sie das Gerät montags bis freitags von 9 bis 16 Uhr im InfoCenter abholen können.
+- Notebooks können für 14 Tage entliehen werden (Verlängerung bis maximal 42 Tage möglich). Einige Notebooks stehen Studierenden für eine Semesterleihe zur Verfügung.
 
-## Notebooks für digitale Prüfungen
+## Notebooks für digitale Prüfungen (e-Prüfung)
 
-Notebooks zur Teilnahme an digitalen Prüfungen können per E-Mail beim Team e-Prüfungen beantragt werden. Voraussetzungen und weitere Informationen finden Sie auf der Website der [UNIT](https://www.uni-mannheim.de/pruefungen/studierende/digitale-pruefung/#c396546).
+Notebooks zur Teilnahme an digitalen Prüfungen (e-Prüfung) können per E-Mail beim Team e-Prüfungen beantragt werden. Voraussetzungen und weitere Informationen finden Sie auf der [Website der UNIT](https://www.uni-mannheim.de/pruefungen/studierende/digitale-pruefung/#c396546).
 
-## Rückgabe der Geräte
+## Rückgabe
 
-Die Rückgabe ist an folgenden Stellen möglich:
+**InfoCenter**  
+Mo–Fr: 9–16 Uhr
 
-| Standort                                   | Öffnungszeiten  |
-|--------------------------------------------|-----------------|
-| InfoCenter                                 | Mo–Fr, 9–16 Uhr |
-| Infotheke des Bibliotheksbereichs Schloss Schneckenhof | Mo–Fr, 8–18 Uhr |
+**Infotheke des Bibliotheksbereichs Schloss Schneckenhof**  
+Mo–Fr: 8–18 Uhr
 
-## Weitere Informationen und Dokumente
+Weitere Informationen:
 
-- [Merkblatt Notebookausleihe (de/en)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Medien/Ausleihe/Merkblatt_Notebookausleihe_de_en_2023.pdf) (PDF, 374 KB)  
-- [Entleih- und Gebührenordnung für mobile Endgeräte](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Medien/Ausleihe/Entleih-undGebuehrenordnungMobileEndgeraete.pdf) (PDF, 347 KB)
+- [Merkblatt Notebookausleihe (de/en) (PDF, 374 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Medien/Ausleihe/Merkblatt_Notebookausleihe_de_en_2023.pdf)
+- [Entleih- und Gebührenordnung für mobile Endgeräte (PDF, 347 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Medien/Ausleihe/Entleih-undGebuehrenordnungMobileEndgeraete.pdf)

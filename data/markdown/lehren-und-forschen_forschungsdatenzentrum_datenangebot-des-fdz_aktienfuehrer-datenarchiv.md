@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/data-hosted-by-the-fdz/aktienfuehrer-data-archive/</en_url>
 
 
 # Aktienführer-Datenarchiv (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/datenangebot-des-fdz/aktienfuehrer-datenarchiv/)

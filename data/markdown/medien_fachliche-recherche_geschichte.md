@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/history/</en_url>
 
 
 # Geschichte (https://www.bib.uni-mannheim.de/medien/fachliche-recherche/geschichte/)

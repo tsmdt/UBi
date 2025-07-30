@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/about/job-offers-training-and-internships/</en_url>
 
 
 # Stellenangebote, Ausbildung und Praktika (https://www.bib.uni-mannheim.de/ihre-ub/stellenangebote-ausbildung-und-praktika/)

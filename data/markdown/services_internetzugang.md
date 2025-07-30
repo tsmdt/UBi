@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/services/internet-access/</en_url>
 
 
 # Internetzugang (https://www.bib.uni-mannheim.de/services/internetzugang/)

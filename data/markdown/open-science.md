@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/open-science/</en_url>
 
 
 # Open Science (https://www.uni-mannheim.de/open-science/)

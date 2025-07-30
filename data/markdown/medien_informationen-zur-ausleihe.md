@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/resources/borrow-request-renew/</en_url>
 
 
 # Informationen zur Ausleihe (https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/)

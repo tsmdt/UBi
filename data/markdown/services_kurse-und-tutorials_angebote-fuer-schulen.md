@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/services/courses-and-tutorials/angebote-fuer-schulen/</en_url>
 
 
 # Angebote für Schulen (https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/angebote-fuer-schulen/)

@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/lehren-und-forschen/fdz-home/fdm-informationen/datenspeicherung-und-sicherheit-1/</en_url>
 
 
 # Datenspeicherung und -sicherheit (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenspeicherung-und-sicherheit/)

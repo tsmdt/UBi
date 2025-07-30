@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/services/reference-management-software/frequently-asked-questions/</en_url>
 
 
 # Häufig gestellte Fragen (https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/haeufig-gestellte-fragen/)

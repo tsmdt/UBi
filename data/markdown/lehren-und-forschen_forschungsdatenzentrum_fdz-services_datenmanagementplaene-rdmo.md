@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/lehren-und-forschen/fdz-home/fdz-services/datenmanagementplaene-rdmo-1/</en_url>
 
 
 # Daten­management­pläne & MADataPlan (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/datenmanagementplaene-rdmo/)

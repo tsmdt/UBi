@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/teaching-and-research/urheberrecht/</en_url>
 
 
 # Urheberrecht (https://www.bib.uni-mannheim.de/lehren-und-forschen/urheberrecht/)

@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/services/printing-copying-and-scanning/</en_url>
 
 
 # Drucken, kopieren und scannen (https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/)

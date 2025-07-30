@@ -1,8 +1,9 @@
 ---
-title: Häufig gestellte Fragen zu Literaturverwaltungsprogrammen
-source_url: https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/haeufig-gestellte-fragen/
+title: Häufig gestellte Fragen zu Literaturverwaltungsprogrammen an der UB Mannheim
+source_url_de: https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/haeufig-gestellte-fragen/
+source_url_en: https://www.bib.uni-mannheim.de/en/services/reference-management-software/frequently-asked-questions/
 category: Services
-tags: [Literaturverwaltungsprogramme, OpenURL, RefWorks, Harvard-Zitationsstil, Zotero, PDF-Metadaten, Zitationssprache, Bibliothek übertragen, Datenbereinigung]
+tags: [Literaturverwaltungsprogramme, FAQ, Zotero, RefWorks, Zitationsstil, OpenURL, Bibliographien, UB Mannheim]
 language: de
 ---
 
@@ -10,43 +11,36 @@ language: de
 
 ## Allgemeines
 
-### OpenURL Server/Base URL der UB Mannheim
+### Wie lautet die OpenURL Server/Base URL der UB Mannheim, die ich in meinem Literaturverwaltungsprogramm eintragen kann?
 
-Die OpenURL Server/Base URL der UB Mannheim, die in Literaturverwaltungsprogrammen eingetragen werden kann, lautet:  
 [https://primo.bib.uni-mannheim.de/primo-explore/openurl?vid=MAN_UB&institution=MAN](https://primo.bib.uni-mannheim.de/primo-explore/openurl?vid=MAN_UB&institution=MAN)
 
-### Übernahme von Dateien und Verzeichnisstruktur beim Wechsel von RefWorks
+### Kann ich beim Wechsel von RefWorks zu einem anderen Literaturverwaltungsprogramm angehängte Dateien bzw. die Verzeichnisstruktur automatisiert übernehmen?
 
-Ein automatisierter Transfer angehängter Dateien oder der Verzeichnisstruktur von RefWorks zu einem anderen Literaturverwaltungsprogramm ist technisch nicht möglich und muss manuell nachgetragen werden.
+Das ist technisch nicht möglich und muss manuell nachgetragen werden.
 
-### Offizieller Harvard-Zitationsstil
+### Wo finde ich den offiziellen Harvard-Zitationsstil?
 
-Der Begriff „Harvard-Zitationsstil“ bezeichnet eine Literaturreferenzierung im Text vom Typ „Autor (Jahr)“. Es existieren viele Varianten, jedoch keine offiziell anerkannte Version. Weitere Informationen finden Sie unter:  
-[https://www.zotero.org/support/kb/harvard_style](https://www.zotero.org/support/kb/harvard_style)
+Die Bezeichnung Harvard-Zitationsstil steht für eine Referenzierung der Literatur im Text vom Typ „Autor (Jahr)“. Es gibt viele Varianten, keine ist als offiziell anzusehen. Weitere Informationen: [https://www.zotero.org/support/kb/harvard_style](https://www.zotero.org/support/kb/harvard_style)
 
 ## Zotero
 
-### Extraktion bibliographischer Daten aus einzelnen PDFs
+### Kann ich bibliographische Daten auch aus einzelnen PDFs extrahieren?
 
-Eine Anleitung zur Extraktion bibliographischer Daten aus PDFs mit Zotero finden Sie hier:  
-[https://www.zotero.org/support/retrieve_pdf_metadata](https://www.zotero.org/support/retrieve_pdf_metadata)
+Eine Anleitung finden Sie unter: [https://www.zotero.org/support/retrieve_pdf_metadata](https://www.zotero.org/support/retrieve_pdf_metadata)
 
-### Vornamen oder Initialien in Kurz-Zitationen im Text
+### Wieso beinhalten einige (Kurz-)Zitationen im Text die Vornamen oder Initialien und wie kann ich dies verhindern?
 
-Das Auftreten von Vornamen oder Initialien in Kurz-Zitationen liegt meist an inkonsistent eingegebenen Autorennamen. Weitere Informationen zur Vermeidung finden Sie unter:  
-[https://www.zotero.org/support/kb/given_name_disambiguation](https://www.zotero.org/support/kb/given_name_disambiguation)
+Das ist meist darauf zurückzuführen, dass die Autorennamen nicht konsistent eingegeben wurden. Weitere Informationen: [https://www.zotero.org/support/kb/given_name_disambiguation](https://www.zotero.org/support/kb/given_name_disambiguation)
 
-### Anpassung der Sprache für Zitationen und Bibliographien
+### Wie kann ich die Sprache der in Zotero generierten Zitationen und Bibliographien anpassen, wenn die Arbeit in einer anderen Sprache verfasst ist?
 
-Zotero passt die Sprache der Bedienoberfläche sowie der Zitationen und Bibliographien standardmäßig an die Sprache des Firefox-Browsers oder Betriebssystems an. Um die Sprache der Zitationen und Bibliographien unabhängig von der Bedienoberfläche zu ändern, nutzen Sie die Anleitung unter:  
-[https://www.zotero.org/support/supported_languages#citations_and_bibliographies](https://www.zotero.org/support/supported_languages#citations_and_bibliographies)
+Die Bedienoberfläche von Zotero sowie die Spracheinstellungen für Zitationen und Bibliografien passen sich standardmäßig der Sprache des Firefox-Browsers bzw. des Betriebssystems an. Um die Bedienoberfläche in einer anderen Sprache als für Zitationen und Bibliografien zu verwenden, nutzen Sie die Anleitung unter: [https://www.zotero.org/support/supported_languages#citations_and_bibliographies](https://www.zotero.org/support/supported_languages#citations_and_bibliographies)
 
-### Übertragung der Zotero-Bibliothek auf einen anderen Computer
+### Wie kann ich meine Bibliothek in Zotero auf einen anderen Computer übertragen?
 
-Eine Anleitung zur Übertragung der Zotero-Bibliothek auf einen anderen Computer finden Sie hier:  
-[https://www.zotero.org/support/kb/transferring_a_library](https://www.zotero.org/support/kb/transferring_a_library)
+Eine Anleitung finden Sie unter: [https://www.zotero.org/support/kb/transferring_a_library](https://www.zotero.org/support/kb/transferring_a_library)
 
-### Bereinigung fehlerhafter Einträge in Zotero
+### Können fehlerhafte Einträge bereinigt werden?
 
-Vor der Bereinigung fehlerhafter Einträge sollten Sie ein Backup Ihrer Daten erstellen. Anschließend kann ein Batch-Editing durchgeführt werden. Eine Anleitung dazu finden Sie unter:  
-[https://www.zotero.org/support/dev/client_coding/javascript_api#examplebatch_editing](https://www.zotero.org/support/dev/client_coding/javascript_api#examplebatch_editing)
+Sichern Sie Ihre Daten zunächst durch ein Backup. Nun können Sie ein batch-editing durchführen. Eine Anleitung zum weiteren Vorgehen finden Sie unter: [https://www.zotero.org/support/dev/client_coding/javascript_api#examplebatch_editing](https://www.zotero.org/support/dev/client_coding/javascript_api#examplebatch_editing)

@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/locations/learning-center-schloss-schneckenhof/</en_url>
 
 
 # Learning Center Schloss Schneckenhof (https://www.bib.uni-mannheim.de/standorte/learning-center-schloss-schneckenhof/)

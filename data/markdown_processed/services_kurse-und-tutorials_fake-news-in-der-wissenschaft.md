@@ -1,55 +1,56 @@
 ---
-title: Fake News in der Wissenschaft
-source_url: https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/fake-news-in-der-wissenschaft/
+title: Fake News in der Wissenschaft – Erkennen und Vermeiden
+source_url_de: https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/fake-news-in-der-wissenschaft/
+source_url_en: https://www.bib.uni-mannheim.de/en/services/courses-and-tutorials/fake-news-in-science/
 category: Services
-tags: [Fake News, Wissenschaft, Falschinformationen, Manipulation, Predatory Journals, Peer-Review, Universitätsbibliothek Mannheim, Workshops, Fake Science]
+tags: [Fake News, Wissenschaft, Falschinformationen, Predatory Journals, Informationskompetenz, Peer Review, Workshops, Universitätsbibliothek Mannheim]
 language: de
 ---
 
 # Fake News in der Wissenschaft
 
+[Fake News in der Wissenschaft – Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/fake-news-in-der-wissenschaft/)
+
 ## Eine Herausforderung für Studierende und Forschende
 
-## Was sind Fake News in der Wissenschaft?
-
-Fake News sind gezielt verbreitete Falschinformationen, die darauf abzielen, die öffentliche Meinung zu beeinflussen. In der Wissenschaft und akademischen Welt können sie in Form von manipulierten Forschungsergebnissen, gefälschten Studien oder irreführenden Interpretationen von Daten auftreten. Diese Falschmeldungen sind oft so professionell gestaltet, dass sie auf den ersten Blick seriös erscheinen und schwer als „Fake“ zu identifizieren sind. Sie werden häufig bewusst eingesetzt, um bestimmte Interessen zu fördern, sei es politischer, wirtschaftlicher oder persönlicher Natur. Im wissenschaftlichen Kontext wird auch der Begriff „Fake Science“ verwendet, der eine bewusste Manipulation in der Wissenschaft beschreibt.
+Fake News sind gezielt verbreitete Falsch­informationen, die darauf abzielen, die öffentliche Meinung zu beeinflussen. In der Wissenschaft und akademischen Welt können sie in Form von manipulierten Forschungs­ergebnissen, gefälschten Studien oder irreführenden Interpretationen von Daten auftreten. Diese Falschmeldungen sind oft so professionell gestaltet, dass sie auf den ersten Blick seriös erscheinen und schwer als „Fake“ zu identifizieren sind. Sie werden häufig bewusst eingesetzt, um bestimmte Interessen zu fördern, sei es politischer, wirtschaft­licher oder persönlicher Natur. Im wissenschaft­lichen Kontext wird auch der Begriff „Fake Science“ verwendet, der eine bewusste Manipulation in der Wissenschaft beschreibt.
 
 ## Wissenswertes zu Fake News
 
 ### Warum gibt es Fake News in der Wissenschaft?
 
-Die Gründe für die Erstellung von Fake News in der Wissenschaft sind vielfältig. Forschende oder Institutionen könnten versucht sein, Daten zu manipulieren, um Forschungsergebnisse zu verbessern, Fördergelder zu sichern oder ihren Ruf zu stärken. Andere verfolgen politische oder wirtschaftliche Interessen, indem sie gezielt falsche Informationen verbreiten, um bestimmte Agenden zu unterstützen oder Gegner zu diskreditieren. Manchmal entstehen Fake News auch aus persönlichen Gründen, etwa um Aufmerksamkeit zu erregen oder Karrierevorteile zu erlangen. In vielen Fachdisziplinen herrscht zudem ein enormer Publikationsdruck. In seltenen Fällen können kriminelle Absichten wie der Diebstahl von geistigem Eigentum oder sensiblen Daten dahinterstehen. Ein weiteres Problem ist die unbewusste Verbreitung von Fehlinformationen, wenn Studierende oder Forschende falsche Daten oder Interpretationen weitergeben, ohne diese ausreichend überprüft zu haben, insbesondere wenn die Informationen mit bestehenden Überzeugungen übereinstimmen.
+Die Gründe für die Erstellung von Fake News in der Wissenschaft sind vielfältig. Einige Forschende oder Institutionen könnten versucht sein, Daten zu manipulieren, um Forschungs­ergebnisse zu verbessern, Fördergelder zu sichern oder ihren Ruf zu stärken. Andere könnten politische oder wirtschaft­liche Interessen verfolgen, indem sie gezielt falsche Informationen verbreiten, um bestimmte Agenden zu unter­stützen oder Gegner zu diskreditieren. Manchmal werden Fake News auch aus persönlichen Gründen erstellt, etwa um Aufmerksamkeit zu erregen oder Karrierevorteile zu erlangen. In vielen Fach­disziplinen herrscht zudem ein enormer Publikations­druck. In seltenen Fällen können sie sogar kriminelle Absichten verfolgen, wie zum Beispiel den Diebstahl von geistigem Eigentum oder sensiblen Daten. Ein weiteres Problem ist die unbewusste Verbreitung von Fehl­informationen. Studierende oder Forschende könnten unwissentlich falsche Daten oder Interpretationen weitergeben, weil sie diese nicht ausreichend überprüft haben. Dies kann insbesondere dann passieren, wenn die Informationen mit bestehenden Über­zeugungen oder Hypothesen übereinstimmen.
 
 ### Wie werden Fake News in der Wissenschaft verbreitet?
 
-Fake News in der Wissenschaft verbreiten sich auf verschiedene Weise. Häufig werden Daten oder Grafiken manipuliert, um bestimmte Schlussfolgerungen zu untermauern. Auch das gezielte Weglassen wichtiger Informationen oder das Verkürzen von Zitaten kann zu falschen Interpretationen führen. Daten werden mit Absicht falsch ausgewertet oder erfunden. Bilder oder Grafiken werden aus dem Kontext gerissen oder bearbeitet, um eine bestimmte Aussage zu unterstützen. Gefälschte Studien oder Artikel können in scheinbar seriösen Fachzeitschriften veröffentlicht werden, was ihre Glaubwürdigkeit erhöht. In sogenannten „Predatory Journals“ wird die Veröffentlichung kaum oder gar nicht überprüft. Einige Wissenschaftler*innen veröffentlichen versehentlich in solchen Zeitschriften, andere bewusst, um die Anzahl ihrer Veröffentlichungen schnell zu steigern, den Peer-Review-Prozess zu umgehen oder weil sie befürchten, die Qualitätsprüfung in seriösen Zeitschriften nicht zu bestehen.
+Fake News in der Wissenschaft können auf verschiedene Weise verbreitet werden. Eine gängige Methode ist die Manipulation von Daten oder Grafiken, um bestimmte Schlussfolgerungen zu unter­mauern. Auch das gezielte Weglassen von wichtigen Informationen oder das Verkürzen von Zitaten kann dazu führen, dass Forschungs­ergebnisse falsch interpretiert werden. Ebenso können erstellte Daten mit Absicht falsch ausgewertet oder gar erfunden werden. Ein weiteres Problem ist die Verwendung von Bildern oder Grafiken, die aus dem Kontext gerissen oder bearbeitet wurden, um eine bestimmte Aussage zu unter­stützen. Zudem können gefälschte Studien oder Artikel in scheinbar seriösen Fach­zeitschriften veröffentlicht werden, was ihre Glaubwürdigkeit erhöht. In sogenannten „Predatory Journals“ wird die Veröffentlichung von Artikeln kaum oder gar nicht überprüft. Einige Wissenschaft­ler*innen veröffentlichen versehentlich in solchen Zeitschriften. Andere entscheiden sich bewusst dafür, ihre Artikel dort zu veröffentlichen, zum Beispiel, um die Anzahl ihrer Veröffentlichungen schnell zu steigern, den langen Peer-Review-Prozess zu umgehen oder weil sie befürchten, dass ihr Artikel die Qualitäts­prüfung in einer seriösen Zeitschrift nicht bestehen würde.
 
 ### Gefahren von Fake News in der Wissenschaft
 
-Fake News können das Vertrauen in wissenschaftliche Institutionen und Forschungsergebnisse untergraben und langfristig die Glaubwürdigkeit der Wissenschaft gefährden. Dies kann dazu führen, dass wichtige Erkenntnisse in Bereichen wie Medizin, Klimaforschung oder Technologie in Frage gestellt werden. Zudem können Fake News den Ruf von Forschenden und Institutionen beschädigen, insbesondere wenn sie gezielt eingesetzt werden, um Personen oder Gruppen zu diskreditieren.
+Fake News in der Wissenschaft können schwerwiegende Folgen haben. Sie können das Vertrauen in wissenschaft­liche Institutionen und Forschungs­ergebnisse unter­graben, was langfristig die Glaubwürdigkeit der Wissenschaft als Ganzes gefährdet. Dies kann dazu führen, dass wichtige Er­kenntnisse in Bereichen wie Medizin, Klimaforschung oder Technologie in Frage gestellt werden. Darüber hinaus können Fake News den Ruf von Forschenden und Institutionen beschädigen, insbesondere wenn sie gezielt eingesetzt werden, um bestimmte Personen oder Gruppen zu diskreditieren.
 
 ### Wie kann man Fake News in der Wissenschaft erkennen?
 
-Um Fake News zu erkennen, ist kritisches Hinterfragen und sorgfältige Recherche wichtig. Folgende Schritte helfen dabei:
+Um Fake News in der Wissenschaft zu erkennen, ist es wichtig, kritisch zu hinterfragen und sorgfältig zu recherchieren. Hier sind einige Schritte, die helfen können:
 
-- **Quellenprüfung:** Wurde der Artikel in einem seriösen Verlag oder einer Fachzeitschrift veröffentlicht? Gibt es eine ISBN oder ein Impressum?
-- **Autor*innenrecherche:** Wer hat den Artikel verfasst? Gibt es Hinweise auf Expertise und Glaubwürdigkeit?
-- **Layout und Gestaltung:** Ist die Quelle professionell gestaltet? Gibt es Rechtschreib- oder Grammatikfehler?
-- **Vernetzung:** Verweisen die Links auf vertrauenswürdige Quellen?
-- **Aktualität:** Wie aktuell sind die Informationen?
-- **Inhaltsprüfung:** Sind Fakten und Daten korrekt und durch andere Quellen bestätigt?
+- **Quellen­prüfung:** Über­prüfen Sie die Quelle der Information. Wurde das Buch oder der Artikel in einem seriösen Verlag oder einer Fach­zeitschrift veröffentlicht? Gibt es eine ISBN oder einen anderen Identifier? Hat die Website ein Impressum?
+- **Autor*innenrecherche:** Wer hat den Artikel oder die Studie verfasst? Gibt es Hinweise auf die Expertise und Glaubwürdigkeit der Autor*innen?
+- **Layout und Gestaltung:** Ist die Website oder die Quelle professionell gestaltet? Gibt es Rechts­chreib- oder Grammatikfehler, die auf mangelnde Seriosität hinweisen?
+- **Vernetzung:** Welche Links sind auf der Website zu finden? Verweisen sie auf vertrauenswürdige Quellen, oder sind sie fragwürdig?
+- **Aktualität:** Wie aktuell ist die Information? Wurde der Artikel oder die Studie kürzlich veröffentlicht, oder handelt es sich um veraltete Daten?
+- **Inhalts­prüfung:** Sind die Fakten, Daten oder Zahlen korrekt? Sind die Daten mitveröffentlicht? Können sie durch andere Quellen bestätigt werden?
 
-Bei Unsicherheiten können die Fachreferent*innen der [Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de) eine wertvolle Unterstützung bieten.
+Sie sind sich bei einer Quelle nicht sicher? Die Fach­referent*innen der Universitätsbibliothek Mannheim können ebenfalls eine wertvolle Ressource sein, um bei der Identifikation von Fake News zu helfen.
 
 ### Was kann man gegen Fake News in der Wissenschaft tun?
 
-Gegen Fake News gibt es verschiedene Maßnahmen:
+Es gibt mehrere Möglichkeiten, um gegen Fake News in der Wissenschaft vorzugehen:
 
-- **Kritische Prüfung:** Informationen vor der Weitergabe gründlich überprüfen und vertrauenswürdige Quellen nutzen.
-- **Aufklärung und Bildung:** Teilnahme an Workshops oder Schulungen, z. B. die von der Universitätsbibliothek Mannheim angebotenen Workshops zum Thema Fake News im Herbst-/Wintersemester.
-- **Meldung von Fake News:** Fake News auf Social Media, in Fachzeitschriften oder wissenschaftlichen Netzwerken bei Betreibern oder Verlegern melden.
-- **Forschung und Projekte:** Unterstützung von Forschungsprojekten zur Bekämpfung von Fake News, z. B. das Projekt [Fake-ID](https://www.fake-id-project.org) zur Erkennung gefälschter Bilder mittels Künstlicher Intelligenz oder das abgeschlossene EU-Projekt DEBUNKER zur Internet-Propaganda.
-- **Peer-Review:** Sicherstellung, dass Publikationen ein Peer-Review-Verfahren durchlaufen, um Qualität und Glaubwürdigkeit zu gewährleisten.
+- **Kritische Prüfung:** Bevor Sie Informationen weitergeben, überprüfen Sie deren Richtigkeit. Nutzen Sie vertrauenswürdige Quellen und recherchieren Sie gründlich.
+- **Aufklärung und Bildung:** Nehmen Sie an Workshops oder Schulungen teil, die den Umgang mit Quellen und die Erkennung von Fake News fördern. Die Universitäts­bibliothek Mannheim bietet in jedem Herbst-/Wintersemester Workshops zur Thematik Fake News an.
+- **Meldung von Fake News:** Wenn Sie auf Social-Media-Plattformen, in Fach­zeitschriften oder in wissenschaft­lichen Netzwerken auf Fake News stoßen, melden Sie diese bei den Betreibern oder Verlegern.
+- **Forschung und Projekte:** Unter­stützen Sie Forschungs­projekte, die sich mit der Bekämpfung von Fake News befassen. Viele dieser Projekte werden vom Bundes­ministerium für Bildung und Forschung oder von der Europäischen Kommission finanz­iert und helfen, wirksame Maßnahmen gegen die Verbreitung von Falsch­informationen zu entwickeln. Ein Beispiel ist das Projekt „Fake-ID“, das sich mit gefälschten Bildern beschäftigt und darauf abzielt, diese mit Hilfe von Künstlicher Intelligenz zu erkennen. Ein weiteres Projekt, das von der Europäischen Kommission unter­stützt wurde und inzwischen abgeschlossen ist, heißt DEBUNKER und beschäftigt sich mit Internet-Propaganda.
+- **Peer-Review:** Bevor etwas publiziert wird, sollte ein Peer-Review-Verfahren durchlaufen werden. Hierbei handelt es sich um eine Form der Begutachtung von Aufsätzen, die bei einer Zeitschrift eingereicht und deren Inhalte und Qualität geprüft und bewertet werden, bevor sie veröffentlicht werden. Die meisten wissenschaft­lichen Zeitschriften machen kenntlich, ob der eingereichte Aufsatz ein Verfahren erhalten hat.
 
 **Haben Sie Fragen? Kontaktieren Sie uns gerne.**
 
@@ -57,14 +58,14 @@ Gegen Fake News gibt es verschiedene Maßnahmen:
 
 ### Viktor Boecking, M.A.
 
-Leiter der Abteilung Kommunikation | Fachreferent für Geschichte | E-Learning  
-Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim  
+Leiter der Abteilung Kommunikation | Fach­referent für Geschichte | E-Learning  
+Universität Mannheim, Universitäts­bibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim  
 Telefon: +49 621 181-2938  
 E-Mail: [viktor.boecking@uni-mannheim.de](mailto:viktor.boecking@uni-mannheim.de)
 
 ### Dr. Jorge Murcia Serra
 
-Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI  
-Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim  
+Informations­kompetenz und E-Learning | Fach­referent für Romanistik und Sprach­lernmaterialien | Education & Training für BERD@NFDI  
+Universität Mannheim, Universitäts­bibliothek, A3 – Raum 105, 68159 Mannheim  
 Telefon: +49 621 181-2997  
 E-Mail: [jorge.murcia@uni-mannheim.de](mailto:jorge.murcia@uni-mannheim.de)

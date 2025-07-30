@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/resources/borrow-request-renew/library-fees/</en_url>
 
 
 # Bibliotheksgebühren (https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/bibliotheksgebuehren/)

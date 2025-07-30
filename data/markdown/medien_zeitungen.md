@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/resources/newspapers/</en_url>
 
 
 # Zeitungen (https://www.bib.uni-mannheim.de/medien/zeitungen/)

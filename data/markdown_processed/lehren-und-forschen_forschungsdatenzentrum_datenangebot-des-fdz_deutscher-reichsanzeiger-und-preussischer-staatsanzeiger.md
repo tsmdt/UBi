@@ -1,17 +1,18 @@
 ---
-title: Deutscher Reichsanzeiger und Preußischer Staatsanzeiger
-source_url: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/datenangebot-des-fdz/deutscher-reichsanzeiger-und-preussischer-staatsanzeiger/
-category: Projekte
-tags: [Deutscher Reichsanzeiger, Preußischer Staatsanzeiger, Digitalisierung, Volltextsuche, Forschungsdatenzentrum, UB Mannheim, historische Zeitungen]
+title: Deutscher Reichsanzeiger und Preußischer Staatsanzeiger – Digitalisierte Ausgabe 1819–1945
+source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/datenangebot-des-fdz/deutscher-reichsanzeiger-und-preussischer-staatsanzeiger/
+source_url_en: 
+category: Medien
+tags: [Reichsanzeiger, Staatsanzeiger, Digitalisierung, Zeitungen, Volltextsuche, Public Domain, FDZ, historische Zeitungen]
 language: de
 ---
 
 # Deutscher Reichsanzeiger und Preußischer Staatsanzeiger
 
-Die Universitätsbibliothek Mannheim digitalisierte im Rahmen eines rechts­historischen Forschungsprojekts die Zeitung [Deutscher Reichsanzeiger und Preußischer Staatsanzeiger](https://zdb-katalog.de/title.xhtml?idn=011201584) aus den Jahren 1819 bis 1945. Die Publikation enthält amtliche Mitteilungen, Veröffentlichungen des zentralen Handelsregisters sowie eine Börsen-Beilage. Durch die Bearbeitung der Scans mittels OCR ist eine Volltextsuche möglich.
+In einem rechtshistorischen Forschungsprojekt digitalisierte die Universitätsbibliothek Mannheim die Zeitung [Deutscher Reichsanzeiger und Preußischer Staatsanzeiger](https://zdb-katalog.de/title.xhtml?idn=011201584) aus den Jahren 1819 bis 1945. Die Publikation enthält amtliche Mitteilungen, Veröffentlichungen des zentralen Handelsregisters und eine Börsen-Beilage. Durch Bearbeitung der Scans mit OCR ist eine Volltextsuche verfügbar.
 
 ## Zugang und Nutzung
 
-Die digitalisierten Bestände des Forschungsdatenzentrums (FDZ) sind frei zugänglich und nutzbar. Weitere Informationen zur Nutzung finden Sie unter der [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/deed.de).
+Die digitalisierten Bestände des FDZ sind frei nutzbar. Weitere Informationen: [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/deed.de).
 
-Zur Ressource gelangen Sie über folgenden Link: [Deutscher Reichsanzeiger digital](https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/)
+[Zur Ressource](https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/)

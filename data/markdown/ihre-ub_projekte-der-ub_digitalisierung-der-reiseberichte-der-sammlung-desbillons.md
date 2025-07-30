@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/about/projects-of-the-university-library/digitalisierung-der-reiseberichte-der-sammlung-desbillons/</en_url>
 
 
 # Digitalisierung der Reiseberichte der Sammlung Desbillons (https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/digitalisierung-der-reiseberichte-der-sammlung-desbillons/)

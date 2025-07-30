@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/sociology/</en_url>
 
 
 # Soziologie (https://www.bib.uni-mannheim.de/medien/fachliche-recherche/soziologie/)

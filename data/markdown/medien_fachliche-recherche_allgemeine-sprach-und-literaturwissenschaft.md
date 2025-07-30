@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/general-linguistics-and-literary-studies/</en_url>
 
 
 # Allgemeine Sprach- und Literatur­wissenschaft (https://www.bib.uni-mannheim.de/medien/fachliche-recherche/allgemeine-sprach-und-literaturwissenschaft/)

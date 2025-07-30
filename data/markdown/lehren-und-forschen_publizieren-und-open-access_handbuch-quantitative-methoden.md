@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/lehren-und-forschen/publizieren-und-open-access/handbuch-quantitative-methoden-1/</en_url>
 
 
 # Handbuch Quanti­tative Methoden (https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/handbuch-quantitative-methoden/)

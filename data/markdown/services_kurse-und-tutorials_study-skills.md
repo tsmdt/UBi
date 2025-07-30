@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/services/courses-and-tutorials/study-skills/</en_url>
 
 
 # Study Skills (https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)

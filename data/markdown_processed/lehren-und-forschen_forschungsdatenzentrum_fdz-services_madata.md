@@ -1,27 +1,26 @@
 ---
-title: MADATA - Forschungsdatenserver der Universität Mannheim
-source_url: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/madata/
-category: Projekte
-tags: [Forschungsdatenserver, MADATA, Universität Mannheim, DOI, FAIR-Prinzipien, Forschungsdaten, Datenspeicherung]
+title: MADATA – Forschungsdatenserver der Universität Mannheim
+source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/madata/
+source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/services-of-the-fdz/madata/
+category: Services
+tags: [MADATA, Forschungsdatenserver, DOI, FAIR, Universität Mannheim, Forschungsdaten, FDZ, Datenpublikation]
 language: de
 ---
 
 # MADATA – Forschungsdatenserver der Universität Mannheim
 
-MADATA ist der Forschungsdatenserver der [Universität Mannheim](https://www.uni-mannheim.de). Er ermöglicht Forschenden der Universität, ihre Daten sicher abzulegen und bei Bedarf zugänglich zu machen. Alle Einträge in MADATA sind über DOI eindeutig zitierbar und werden in weiteren Forschungsdaten-Verzeichnissen wie [datacite.org](https://datacite.org/) und [da-ra.de](https://www.da-ra.de/home/) nachgewiesen.
+[MADATA](https://madata.bib.uni-mannheim.de/) ist der Forschungsdatenserver der Universität Mannheim. Er ermöglicht Forscherinnen und Forschern der Universität, ihre Daten sicher abzulegen und nach Bedarf zugänglich zu machen. Alle Einträge in MADATA sind über DOI eindeutig zitierbar und werden in weiteren Forschungsdaten-Verzeichnissen wie [datacite.org](https://datacite.org/) und [da-ra.de](https://www.da-ra.de/home/) nachgewiesen.
 
 ## Zugang und Nutzung
 
-Die Nutzung von MADATA ist je nach Datensatz individuell geregelt. Eintragungen sind ausschließlich für Forschende der Universität Mannheim möglich. MADATA-Beiträge werden auf die Einhaltung der FAIR-Prinzipien (Findability, Accessibility, Interoperability and Reproducibility) geprüft, bevor dem Datensatz ein DOI zugewiesen wird. Diese Prüfung erfolgt in der Regel innerhalb von 5 Arbeitstagen. Für eine schnellere DOI-Vergabe können Sie das Team unter [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de) kontaktieren.
+Die Nutzung ist je nach Datensatz individuell geregelt. Eintragungen sind nur für Forschende der Universität Mannheim möglich.
 
-Zur Ressource: [https://madata.bib.uni-mannheim.de/](https://madata.bib.uni-mannheim.de/)
+MADATA-Beiträge werden auf FAIRness (Findability, Accessibility, Interoperability and Reproducibility) geprüft, bevor dem Datensatz ein DOI zugewiesen wird. Diese Prüfung ist in der Regel innerhalb von 5 Arbeitstagen abgeschlossen. Wenn Sie früher einen DOI benötigen, kontaktieren Sie das Team unter [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de).
 
 ## Kontakt
 
-### Forschungsdatenzentrum (FDZ)
-
-Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will
-
-* Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim  
-* Web: [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)  
-* E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)
+**Forschungsdatenzentrum (FDZ)**  
+Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will  
+Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim  
+Web: [Forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)  
+E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)

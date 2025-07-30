@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/teaching-and-research/publishing-and-open-access/hosted-open-access-books/</en_url>
 
 
 # Gehostete Open-Access-Bücher (https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/gehostete-open-access-buecher/)

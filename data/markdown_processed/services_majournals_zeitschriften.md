@@ -1,16 +1,17 @@
 ---
-title: MAJOURNALS – Open-Access-Zeitschriften der Universitätsbibliothek Mannheim
-source_url: https://majournals.bib.uni-mannheim.de
+title: Open-Access-Zeitschriftenplattform MAJOURNALS der Universitätsbibliothek Mannheim
+source_url_de: https://majournals.bib.uni-mannheim.de
+source_url_en: 
 category: Medien
-tags: [Open Access, Zeitschriften, Universitätsbibliothek Mannheim, Open Journal Systems, Wissenschaft, MAJOURNALS]
+tags: [Open Access, Zeitschriften, OJS, Universitätsbibliothek Mannheim, Wissenschaft, Publikationsplattform, MAJOURNALS, wissenschaftliches Publizieren]
 language: de
 ---
 
-# MAJOURNALS – Open-Access-Zeitschriften der Universitätsbibliothek Mannheim
+# MAJOURNALS
 
-Die Universitätsbibliothek Mannheim bietet den Wissenschaftlerinnen und Wissenschaftlern der Universität Mannheim mit [Open Journal Systems (OJS)](https://pkp.sfu.ca/ojs/) eine Plattform und Support für die Herausgabe von Open-Access-Zeitschriften.
+Die Universitätsbibliothek Mannheim bietet Wissenschaftlerinnen und Wissenschaftlern der Universität Mannheim mit [Open Journal Systems (OJS)](https://majournals.bib.uni-mannheim.de) eine Plattform und Support für die Herausgabe von Open-Access-Zeitschriften.
 
-## Zeitschriftenübersicht
+## Zeitschriften
 
 ### [Diskurse – digital](https://majournals.bib.uni-mannheim.de/index.php/diskurse-digital)
 - [Zur Zeitschrift](https://majournals.bib.uni-mannheim.de/index.php/diskurse-digital)
@@ -54,9 +55,7 @@ Die Universitätsbibliothek Mannheim bietet den Wissenschaftlerinnen und Wissens
 
 ---
 
-## Rechtliche Hinweise und weitere Informationen
-
 - [Datenschutzerklärung](https://www.bib.uni-mannheim.de/datenschutzerklaerung/)
 - [Impressum](https://www.bib.uni-mannheim.de/impressum/)
 - [Nutzungsbedingungen](https://majournals.bib.uni-mannheim.de/index.php/index/bedingungen)
-- [Alle Zeitschriften auf MAJOURNALS](https://majournals.bib.uni-mannheim.de)
+- [Alle Zeitschriften](https://majournals.bib.uni-mannheim.de)

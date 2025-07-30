@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenorganisation-und-dokumentation-1/</en_url>
 
 
 # Daten­organisation und -dokumentation (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenorganisation-und-dokumentation/)

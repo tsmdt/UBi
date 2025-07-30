@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/about/projects-of-the-university-library/bibliothekskooperation-mannheim/</en_url>
 
 
 # Bibliothekskooperation Mannheim (https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/bibliothekskooperation-mannheim/)

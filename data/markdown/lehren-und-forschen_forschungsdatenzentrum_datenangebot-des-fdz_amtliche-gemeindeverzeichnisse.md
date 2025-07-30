@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/data-hosted-by-the-fdz/official-directory-of-municipalities/</en_url>
 
 
 # Amtliche Gemeindeverzeichnisse (https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/datenangebot-des-fdz/amtliche-gemeindeverzeichnisse/)

@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/teaching-and-research/publishing-and-open-access/open-access-publishing-fund-for-books/</en_url>
 
 
 # Open-Access-Publikations­fonds für Bücher (https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds-fuer-buecher/)

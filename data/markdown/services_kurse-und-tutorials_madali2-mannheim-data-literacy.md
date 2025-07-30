@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/services/courses-and-tutorials/madali2-mannheim-data-literacy/</en_url>
 
 
 # MaDaLi² – Mannheim Data Literacy (https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/madali2-mannheim-data-literacy/)

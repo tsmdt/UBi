@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/about/library-profile/construction-projects/</en_url>
 
 
 # Baumaßnahmen (https://www.bib.uni-mannheim.de/ihre-ub/bibliotheksprofil/baumassnahmen/)

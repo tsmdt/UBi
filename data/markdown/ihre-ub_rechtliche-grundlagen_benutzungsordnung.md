@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/</en_url>
 
 
 # Benutzungs­ordnung der Universitäts­bibliothek Mannheim vom 6. November 2009 (https://www.bib.uni-mannheim.de/ihre-ub/rechtliche-grundlagen/benutzungsordnung/)

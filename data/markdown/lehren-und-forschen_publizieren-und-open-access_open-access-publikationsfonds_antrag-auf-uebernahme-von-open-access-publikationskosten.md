@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/teaching-and-research/publishing-and-open-access/open-access-publishing-fund/application-for-funding-of-open-access-publication-fees/</en_url>
 
 
 # Antrag auf Über­nahme von Open-Access-Publikations­kosten für Zeitschriftenartikel (https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/antrag-auf-uebernahme-von-open-access-publikationskosten/)

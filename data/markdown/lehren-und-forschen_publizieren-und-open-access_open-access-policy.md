@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/teaching-and-research/publishing-and-open-access/open-access-policy/</en_url>
 
 
 # Open Access Policy der Universität Mannheim (https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-policy/)

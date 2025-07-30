@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/opening-hours/</en_url>
 
 
 # Öffnungs­zeiten (https://www.bib.uni-mannheim.de/oeffnungszeiten/)

@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/advice/</en_url>
 
 
 # Beratung (https://www.bib.uni-mannheim.de/beratung/)

@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/about/projects-of-the-university-library/optimierter-einsatz-von-ocr-verfahren/</en_url>
 
 
 # Optimierter Einsatz von OCR-Verfahren (https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/optimierter-einsatz-von-ocr-verfahren/)

@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/services/workspaces/lockers/</en_url>
 
 
 # Schließfächer (https://www.bib.uni-mannheim.de/services/arbeitsplaetze/schliessfaecher/)

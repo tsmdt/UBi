@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/services/library-card/registration-for-non-university-members-and-members-of-cooperating-institutions/</en_url>
 
 
 # Anmeldung für Privatpersonen und Angehörige von kooperierenden Einrichtungen (https://www.bib.uni-mannheim.de/services/bibliotheksausweis/anmeldung-fuer-privatpersonen-und-angehoerige-von-kooperierenden-einrichtungen/)

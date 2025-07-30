@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/resources/</en_url>
 
 
 # Medien (https://www.bib.uni-mannheim.de/medien/)

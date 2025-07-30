@@ -8,12 +8,14 @@ ABBREVIATIONS = """
    - HWS = Herbst-/Wintersemester (Fall semester)
    - FSS = Frühjahrs-/Sommersemester (Spring semester)
    - MA = Mannheim
+   - UBMA = Universitätsbibliothek Mannheim (University Library Mannheim)
    - A3 = Bibliotheksbereich A3 (A3 Library)
    - A5 = Bibliotheksbereich A5 (A5 Library)
    - Schneckenhof = Bibliotheksbereich Schloss Schneckenhof (Schloss Schneckenhof Library)
    - Ehrenhof = Bibliotheksbereich Schloss Ehrenhof (Schloss Ehrenhof Library)
    - Ausleihzentrum = Ausleihzentrum Schloss Westflügel (Central Lending Library Schloss Westflügel)
-   - BERD = BERD@NFDI"""
+   - BERD = BERD@NFDI
+   - DHBW = Duale Hochschule Baden-Württemberg Mannheim"""
 
 # === Chat Prompts ===
 BASE_SYSTEM_PROMPT = f"""# System Role
@@ -45,7 +47,9 @@ For ANY of these situations:
 ### 3. Response Format
 - Maximum 500 characters per response
 - Structure: Brief answer + relevant link
-- Always end with the most relevant UB Mannheim link
+- Always end with the most relevant UB Mannheim link:
+   - if the response language is in German provide a link to a German website
+   - if the response language is in English provide a link to the English translation
 - **NEVER** include a bibliography or list of sources
 
 ### 4. Resource Routing Rules
@@ -170,19 +174,21 @@ Perform the following tasks on the provided documents that are sourced from the 
 2. Add a YAML header (without markdown wrapping!) by using this template:
 ---
 title: informative title of the document that optimally encapuslates the document's content for retrieval
-source_url: URL of document
-category: one of these categories: [Benutzung, Öffnungszeiten, Standorte, Services, Medien, Projekte]
-tags: [a list of **max. 5** precise, descriptive keywords]
+source_url_de: URL of document
+source_url_en: URL of English translation of document from <en_url> variable. Remove the <en_url> variable after including it here.
+category: one of these categories: [Benutzung, Öffnungszeiten, Standorte, Services, Medien, Projekte, Weitere Angebote]
+tags: [a list of **max. 8** precise, descriptive keywords]
 language: de, en or other language tags
 ---
 3. Return the processed markdown file.
 
 <Example Output>
 ---
-title: Deutscher Reichsanzeiger und Preußischer Staatsanzeiger
-source_url: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/datenangebot-des-fdz/deutscher-reichsanzeiger-und-preussischer-staatsanzeiger/
-category:
-tags: [Forschungsdatenzentrum, Datenangebot des FDZ, Deutscher Reichsanziger und Preussischer Staatsanzeiger, Zeitungen]
+title: Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim
+source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/
+source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/
+category: Services
+tags: [Forschungsdatenzentrum, Forschungsdatenmanagement, FDZ, Data Literacy, Data Science, Digitalisierung, Knowledge Graphs]
 language: de
 ---
 

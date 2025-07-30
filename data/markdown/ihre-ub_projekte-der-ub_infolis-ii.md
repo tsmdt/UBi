@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/about/projects-of-the-university-library/infolis-ii/</en_url>
 
 
 # InFoLiS II (https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/infolis-ii/)

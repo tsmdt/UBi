@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/about/contact/directors/</en_url>
 
 
 # Direktion (https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/direktion/)

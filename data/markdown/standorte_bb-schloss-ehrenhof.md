@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/locations/schloss-ehrenhof-library/</en_url>
 
 
 # Bibliotheks­bereich Schloss Ehrenhof (https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/)

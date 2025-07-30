@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/locations/a5-library/</en_url>
 
 
 # Bibliotheks­bereich A5 (https://www.bib.uni-mannheim.de/standorte/bb-a5/)

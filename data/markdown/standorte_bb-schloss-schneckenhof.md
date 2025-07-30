@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/locations/schloss-schneckenhof-library/</en_url>
 
 
 # Bibliotheks­bereich Schloss Schneckenhof (https://www.bib.uni-mannheim.de/standorte/bb-schloss-schneckenhof/)

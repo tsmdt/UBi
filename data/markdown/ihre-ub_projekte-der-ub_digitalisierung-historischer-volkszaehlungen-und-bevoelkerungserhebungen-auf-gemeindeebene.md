@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/about/projects-of-the-university-library/digitalisierung-historischer-volkszaehlungen-und-bevoelkerungserhebungen-auf-gemeindeebene/</en_url>
 
 
 # Digitalisierung historischer Volkszählungen und Bevölkerungs­erhebungen auf Gemeindeebene (https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/digitalisierung-historischer-volkszaehlungen-und-bevoelkerungserhebungen-auf-gemeindeebene/)

@@ -1,35 +1,36 @@
 ---
-title: Literaturversorgung an der Universitätsbibliothek Mannheim
-source_url: https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/
+title: Literaturversorgung für Wissenschaft, Lehre und Studium an der Universität Mannheim
+source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/
+source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/literature-supply/
 category: Services
-tags: [Literaturversorgung, Bestellservice, Scanservice, Semesterapparat, Anschaffungsvorschlag, Abholvollmacht, Bücher aussortieren, Universitätsbibliothek Mannheim]
+tags: [Literaturversorgung, Bestellservice, Scanservice, Semesterapparat, Anschaffungsvorschlag, Abholvollmacht, Bücher aussondern, Universitätsbibliothek]
 language: de
 ---
 
-# Literaturversorgung an der Universitätsbibliothek Mannheim
+# Literaturversorgung
 
-Die [Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/) stellt Literatur und Informationen für Wissenschaft, Lehre und Studium an der Universität Mannheim sowohl analog als auch digital zur Verfügung. Um Lehrende und Forschende bestmöglich zu unterstützen, bietet die UB zusätzliche Services rund um die Erwerbung und Bereitstellung von Literatur und Daten an.
+Die Universitätsbibliothek Mannheim stellt Literatur und Informationen für Wissenschaft, Lehre und Studium an der Universität Mannheim zur Verfügung – analog und digital. Um Lehrende und Forschende bestmöglich zu unterstützen, bietet die UB zusätzliche Services rund um Erwerbung und Bereitstellung von Literatur und Daten.
 
-## Bestellservice
+## [Bestellservice](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/bestellservice/)
 
-Sie möchten Literatur für Ihren Handapparat bestellen oder Daten lizenzieren? Die UB ist dafür zuständig. Nutzen Sie den [Bestellservice](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/bestellservice/), um Ihre Literaturwünsche zu übermitteln.
+Sie möchten Literatur für Ihren Handapparat bestellen oder Daten lizenzieren? Die Universitätsbibliothek ist dafür zuständig – nutzen Sie den Bestellservice.
 
-## Scanservice
+## [Scanservice](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/scanservice/)
 
-Über den Katalog Primo können Sie einen Scanauftrag senden. Die UB liefert Ihnen einzelne Aufsätze und Kapitel aus Büchern für Ihre wissenschaftliche Arbeit. Weitere Informationen finden Sie beim [Scanservice](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/scanservice/).
+Senden Sie über den Katalog Primo einen Scanauftrag. Die UB liefert einzelne Aufsätze und Kapitel aus Büchern für Ihre wissenschaftliche Arbeit.
 
-## Semesterapparat
+## [Semesterapparat](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/semesterapparat/)
 
-Die UB richtet gerne einen Semesterapparat in Ihrem Bibliotheksbereich ein. Wenn Sie einen digitalen Semesterapparat erstellen möchten, informieren Sie sich über die Rahmenbedingungen auf der Seite zum [Semesterapparat](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/semesterapparat/).
+Die Universitätsbibliothek richtet auf Wunsch einen Semesterapparat in Ihrem Bibliotheksbereich ein. Informationen zu digitalen Semesterapparaten und den Rahmenbedingungen finden Sie auf der verlinkten Seite.
 
-## Anschaffungsvorschlag
+## [Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/)
 
-Lehrbücher, die Sie in Ihren Veranstaltungen nutzen, erwirbt die UB gerne in größerer Zahl für die Lehrbuchsammlung. Ihre Empfehlungen sind willkommen. Details zum [Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/) finden Sie hier.
+Empfehlen Sie Lehrbücher, die in Ihren Veranstaltungen genutzt werden. Die Universitätsbibliothek erwirbt diese gerne in größerer Zahl für die Lehrbuchsammlung.
 
-## Abholvollmacht
+## [Abholvollmacht](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/abholvollmacht/)
 
-Sie können andere Personen beauftragen, Medien für Sie auszuleihen. Informationen zur [Abholvollmacht](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/abholvollmacht/) stehen bereit.
+Beauftragen Sie andere Personen, Medien für Sie auszuleihen.
 
-## Bücher aussortieren
+## [Bücher aussondern](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/buecher-aussondern/)
 
-Wenn Sie Ihren Handapparat aufräumen und Bücher aussortieren möchten, finden Sie Hinweise zum [Bücher aussortieren](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/buecher-aussondern/) auf der UB-Seite.
+Sie möchten Ihren Handapparat aufräumen und Bücher aussortieren? Die Universitätsbibliothek unterstützt Sie dabei.

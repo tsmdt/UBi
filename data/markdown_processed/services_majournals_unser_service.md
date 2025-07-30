@@ -1,55 +1,44 @@
 ---
-title: MAJOURNALS – Open-Access-Zeitschriftenplattform der Universitätsbibliothek Mannheim
-source_url: https://majournals.bib.uni-mannheim.de/index.php/
+title: Open-Access-Zeitschriftenservice der Universitätsbibliothek Mannheim (MAJOURNALS)
+source_url_de: https://majournals.bib.uni-mannheim.de/index.php/index/service
+source_url_en: 
 category: Services
-tags: [Open Access, Open Journal Systems, OJS, Zeitschriftenplattform, Universitätsbibliothek Mannheim, Publikationsservices, DOI, ISSN, Langzeitarchivierung]
+tags: [Open Access, Zeitschriften, OJS, Publikationsdienste, DOI, ISSN, Langzeitarchivierung, Universitätsbibliothek Mannheim]
 language: de
 ---
 
-# MAJOURNALS – Open-Access-Zeitschriftenplattform
+# MAJOURNALS – Open-Access-Zeitschriftenservice
 
-[MAJOURNALS](https://majournals.bib.uni-mannheim.de/index.php/) ist die Open-Access-Plattform der [Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de/) für Wissenschaftlerinnen und Wissenschaftler der Universität Mannheim. Sie ermöglicht die Herausgabe von Open-Access-Zeitschriften oder -Konferenzreihen mit der Software Open Journal Systems (OJS).
+Die [Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de/) bietet Wissenschaftlerinnen und Wissenschaftlern der Universität Mannheim mit Open Journal Systems (OJS) eine Plattform für die Herausgabe von Open-Access-Zeitschriften oder -Konferenzreihen an. Mit OJS können Sie den gesamten Publikationsprozess – von der Artikeleinreichung über die Begutachtung bis zum professionellen Webauftritt – online verwalten. Die UB unterstützt Sie dabei umfassend.
 
----
+## Konfiguration und technischer Betrieb
 
-## Unser Service
+- Die UB übernimmt die Konfiguration und das Layout der Zeitschrift nach Ihren Vorgaben.
+- Die technische Wartung des Systems erfolgt durch die UB.
+- Die OJS-Installation und alle Daten liegen auf den Servern der Universität Mannheim.
 
-Möchten Sie eine eigene Open-Access-Zeitschrift oder eine Open-Access-Konferenzreihe starten? Oder suchen Sie eine Plattform für eine bestehende Publikation? Die UB Mannheim unterstützt Sie mit OJS bei der Verwaltung des gesamten Publikationsprozesses – von der Artikeleinreichung über die Begutachtung bis zum professionellen Webauftritt.
+## Einführung und Support
 
-### Konfiguration und technischer Betrieb der Zeitschrift
+- Die UB führt Sie in die Software ein.
+- Sie erhalten Trainingsmaterial.
+- Das Team Publikationsdienste unterstützt Sie im laufenden Betrieb bei Fragen und Problemen.
 
-- Die UB übernimmt die Konfiguration und Umsetzung des Layouts Ihrer Zeitschrift nach Ihren Vorstellungen.
-- Technische Wartung des Systems wird von der UB sichergestellt.
-- Die OJS-Installation inklusive aller Daten liegt auf den Servern der Universität Mannheim.
+## Beratung zur Zeitschriftenherausgabe
 
-### Einführung in die Software und laufender Support
+- Sie erhalten eine Checkliste mit den wichtigsten Informationen zur Herausgabe von Zeitschriften.
+- Die UB begleitet und unterstützt Sie während der Vorbereitung und Einrichtung.
 
-- Einführung in die Software zu Beginn der Nutzung.
-- Bereitstellung von Trainingsmaterial.
-- Unterstützung durch das Team Publikationsdienste bei Fragen und Problemen im laufenden Betrieb.
-
-### Beratung zu organisatorischen Fragen der Zeitschriftenherausgabe
-
-- Bereitstellung einer Checkliste mit wichtigen Informationen zur Herausgabe von Zeitschriften.
-- Begleitung und Unterstützung während der Vorbereitung und Einrichtung.
-
-### Registrierung und Langzeitarchivierung
+## Registrierung und Langzeitarchivierung
 
 - Die UB übernimmt die DOI-Registrierung der Artikel.
-- ISSN-Registrierung Ihrer Zeitschrift wird von der UB durchgeführt.
-- Organisation der Langzeitarchivierung durch Weitergabe der Artikel an die Deutsche Nationalbibliothek.
+- Die UB übernimmt die ISSN-Registrierung Ihrer Zeitschrift.
+- Die UB organisiert die Langzeitarchivierung durch Weitergabe der Artikel an die Deutsche Nationalbibliothek.
 
-### Verbreitung der Publikation
+## Verbreitung der Publikation
 
-- Weitergabe der Metadaten auf Zeitschriften- und Artikelebene an verschiedene Nachweissysteme und Plattformen, z. B. Google Scholar, Deutsche Nationalbibliothek, DOAJ, Sherpa/Romeo, CrossRef, WorldCat, KVK und BASE.
+- Die UB sorgt für die Weitergabe der Metadaten auf Zeitschriften- und Artikelebene, z. B. an Google Scholar, die Deutsche Nationalbibliothek, Bibliothekarische Nachweissysteme, DOAJ, Sherpa/Romeo, CrossRef, WorldCat, KVK und BASE.
 
----
-
-## Kosten und Nutzungsbedingungen
-
-Dieser Service ist für Sie kostenlos. Die inhaltliche Verantwortung liegt vollständig beim Herausgebergremium. Bitte beachten Sie die [Nutzungsbedingungen](https://majournals.bib.uni-mannheim.de/index/bedingungen).
-
----
+Der Service ist kostenlos. Bitte beachten Sie die [Nutzungsbedingungen](https://majournals.bib.uni-mannheim.de/index/bedingungen). Die inhaltliche Verantwortung liegt beim Herausgebergremium.
 
 ## Kontakt
 
@@ -64,7 +53,5 @@ E-Mail: [journals.ub@uni-mannheim.de](mailto:journals.ub@uni-mannheim.de)
 Schloss Schneckenhof West, SN 270  
 Tel.: +49 621 181 2990  
 E-Mail: [journals.ub@uni-mannheim.de](mailto:journals.ub@uni-mannheim.de)
-
----
 
 [Impressum](https://www.bib.uni-mannheim.de/impressum/) | [Datenschutzerklärung](https://www.bib.uni-mannheim.de/datenschutzerklaerung/) | [Nutzungsbedingungen](https://majournals.bib.uni-mannheim.de/index.php/index/bedingungen) | [Alle Zeitschriften](https://majournals.bib.uni-mannheim.de)

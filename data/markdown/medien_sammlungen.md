@@ -1,3 +1,4 @@
+<en_url>https://www.bib.uni-mannheim.de/en/resources/collections/</en_url>
 
 
 # Sammlungen (https://www.bib.uni-mannheim.de/medien/sammlungen/)
