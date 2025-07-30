@@ -4,8 +4,8 @@ HTML Template Modifier for Chainlit
 Replaces external resources with local assets in Chainlit's HTML template.
 """
 
-import shutil
 import importlib.util
+import shutil
 from pathlib import Path
 
 
@@ -21,7 +21,7 @@ def get_chainlit_frontend_path():
     
     # Method 2: Search in common virtual environment locations
     import sys
-    
+
     # Check if we're in a virtual environment
     if (hasattr(sys, 'real_prefix') or 
         (hasattr(sys, 'base_prefix') and sys.base_prefix != sys.prefix)):
