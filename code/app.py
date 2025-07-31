@@ -1,30 +1,39 @@
 # === Imports ===
-import os
 import datetime
+import os
 import chainlit as cl
-from rich import print
 from chainlit import Message
 from fastapi import Request, Response
 from dotenv import load_dotenv
 from typing import Optional
 from config import ENV_PATH
-from db import save_interaction
-from rss_reader import get_rss_items
+from conversation_memory import (
+    MessageRole,
+    create_conversation_context,
+    session_memory,
+)
 from custom_data_layer import CustomDataLayer
-from terms_conditions import ask_terms_acceptance, check_terms_accepted
-from html_template_modifier import main as modify_html_template
+from db import save_interaction
+from dotenv import load_dotenv
+from fastapi import Request, Response
+
 # from website_search import search_ub_website
 from free_seats import get_occupancy_data, make_plotly_figure
-from conversation_memory import session_memory, MessageRole, create_conversation_context
+from html_template_modifier import main as modify_html_template
+from llm_query_processing import route_and_augment_query
 from phrase_detection import detect_common_phrase
 from prompts import BASE_SYSTEM_PROMPT
-from llm_query_processing import route_and_augment_query
+from rich import print
+from rss_reader import get_rss_items
+from session_stats import check_session_warnings, get_session_usage_message
+from terms_conditions import ask_terms_acceptance, check_terms_accepted
 from translations import translate
-from session_stats import get_session_usage_message, check_session_warnings
 
 # === .env Configuration ===
 load_dotenv(ENV_PATH)
-USE_OPENAI_VECTORSTORE = True if os.getenv("USE_OPENAI_VECTORSTORE") == "True" else False
+USE_OPENAI_VECTORSTORE = (
+    True if os.getenv("USE_OPENAI_VECTORSTORE") == "True" else False
+)
 DEBUG = True if os.getenv("DEBUG") == "True" else False
 
 # === Conditional Imports RAG Pipelines (local / OpenAI) ===
@@ -39,7 +48,9 @@ if USE_OPENAI_VECTORSTORE:
     initialize_vectorstore()
     OPENAI_VECTORSTORE_ID = os.getenv("OPENAI_VECTORSTORE_ID")
     client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-    print(f'[bold]🔗 AIMA is running with OpenAI vectorstore: {OPENAI_VECTORSTORE_ID}')
+    print(
+        f"[bold]🔗 AIMA is running with OpenAI vectorstore: {OPENAI_VECTORSTORE_ID}"
+    )
 
 # === Initialize HTML Template ===
 # Modify Chainlit's HTML template to use local assets
@@ -50,14 +61,19 @@ except Exception as e:
 
 # === Authentication (optional) ===
 users = [
-    cl.User(identifier="1", display_name="Admin",
-            metadata={"username": "admin", "password": "admin"})
+    cl.User(
+        identifier="1",
+        display_name="Admin",
+        metadata={"username": "admin", "password": "admin"},
+    )
 ]
+
 
 # === Data Layer ===
 @cl.data_layer
 def get_data_layer():
     return CustomDataLayer()
+
 
 # === Starter Buttons ===
 @cl.set_starters
@@ -65,29 +81,30 @@ async def set_starters(user=None):
     return [
         cl.Starter(
             label="Öffnungszeiten",
-            message="Welche Bibliotheksbereiche der UB Mannheim haben jetzt geöffnet? Gib mir eine Übersicht über alle Öffnungszeiten der Bibliotheksbereiche und einen Link zur Öffnungszeiten-Webseite."
-            ),
+            message="Welche Bibliotheksbereiche der UB Mannheim haben jetzt geöffnet? Gib mir eine Übersicht über alle Öffnungszeiten der Bibliotheksbereiche und einen Link zur Öffnungszeiten-Webseite.",
+        ),
         cl.Starter(
             label="Sitzplätze",
-            message="Gibt es aktuell freie Sitzplätze in der Bibliothek?"
-            ),
+            message="Gibt es aktuell freie Sitzplätze in der Bibliothek?",
+        ),
         cl.Starter(
             label="Services",
-            message="Liste alle Dienstleistungen und Services der UB Mannheim für Studierende und Forschende auf."
-            ),
+            message="Liste alle Dienstleistungen und Services der UB Mannheim für Studierende und Forschende auf.",
+        ),
         cl.Starter(
             label="Standorte",
-            message="Gib mir eine Liste aller Standorte der UB Mannheim mit ihrer fachlichen Ausrichtung und dem Webseitenlink in Klammern."
-            ),
+            message="Gib mir eine Liste aller Standorte der UB Mannheim mit ihrer fachlichen Ausrichtung und dem Webseitenlink in Klammern.",
+        ),
         cl.Starter(
             label="Neuigkeiten",
-            message="Was für Neuigkeiten gibt es aus der UB Mannheim?"
-            ),
+            message="Was für Neuigkeiten gibt es aus der UB Mannheim?",
+        ),
     ]
+
 
 # === System Prompt for OpenAI Vectorstore Option ===
 def get_instructions(language="German"):
-    today = datetime.datetime.now().strftime('%B %d, %Y')
+    today = datetime.datetime.now().strftime("%B %d, %Y")
     prompt = BASE_SYSTEM_PROMPT.format(today=today)
     return prompt.replace("{language}", language)
 
@@ -318,6 +335,7 @@ async def on_chat_start():
         rag_chain = await create_rag_chain(debug=DEBUG)
         cl.user_session.set("rag_chain", rag_chain)
 
+
 # === Chat Message Handler ===
 @cl.on_message
 async def on_message(message: cl.Message):
@@ -338,8 +356,8 @@ async def on_message(message: cl.Message):
     )
     if not allowed:
         await cl.Message(
-            content=error_message or "Rate limit exceeded",
-            author="assistant").send()
+            content=error_message or "Rate limit exceeded", author="assistant"
+        ).send()
         return
 
     # Record the request if it passes all checks
@@ -375,9 +393,7 @@ async def on_message(message: cl.Message):
 
     # === LLM Router ===
     detected_language, route, augmented_input = await route_and_augment_query(
-        client if USE_OPENAI_VECTORSTORE else None,
-        user_input,
-        debug=DEBUG
+        client if USE_OPENAI_VECTORSTORE else None, user_input, debug=DEBUG
     )
 
     # "News" Route
@@ -431,6 +447,7 @@ async def on_message(message: cl.Message):
         # ).send()
         # await save_interaction(session_id, user_input, fallback)
 
+
 # === Chat End ===
 @cl.on_chat_end
 async def on_chat_end():
@@ -438,6 +455,7 @@ async def on_chat_end():
     if session_id:
         # End session and clear memory
         session_memory.end_session(session_id)
+
 
 # === Logout ===
 @cl.on_logout

@@ -1,18 +1,19 @@
+import json
 import os
 import re
-import json
+
 import json_repair
-from rich import print
 from openai import AsyncOpenAI
-from utils import is_valid_json
 from prompts import ROUTER_AUGMENTOR_PROMPT
+from rich import print
+from utils import is_valid_json
 
 
 async def route_and_augment_query(
     client: AsyncOpenAI | None,
     user_input: str,
     model: str = "gpt-4.1-nano-2025-04-14",
-    debug: bool = False
+    debug: bool = False,
 ) -> tuple[str, str, str]:
     """
     Function to route, detect the language and augment a user's query.
@@ -32,17 +33,19 @@ async def route_and_augment_query(
             model=model,
             messages=[
                 {"role": "system", "content": ROUTER_AUGMENTOR_PROMPT},
-                {"role": "user", "content": f"User query: '{user_input}'"}
+                {"role": "user", "content": f"User query: '{user_input}'"},
             ],
-            temperature=0
+            temperature=0,
         )
 
         if response.choices and response.choices[0].message.content:
             json_str = response.choices[0].message.content.strip()
             try:
                 # Remove any trailing Markdown code block markers (```json and ```)
-                json_str = re.sub(r"```json\\s*", '', json_str, flags=re.IGNORECASE)
-                json_str = re.sub(r"```\\s*", '', json_str)
+                json_str = re.sub(
+                    r"```json\\s*", "", json_str, flags=re.IGNORECASE
+                )
+                json_str = re.sub(r"```\\s*", "", json_str)
 
                 # Repair other json errors
                 json_str = json_repair.repair_json(json_str)
@@ -50,11 +53,15 @@ async def route_and_augment_query(
                 # Check if a valid json is now available
                 if is_valid_json(json_str):
                     json_data = json.loads(json_str)
-                    language = json_data.get('language', 'German')
-                    category = json_data.get('category', 'message')
-                    augmented_query = json_data.get('augmented_query', user_input)
+                    language = json_data.get("language", "German")
+                    category = json_data.get("category", "message")
+                    augmented_query = json_data.get(
+                        "augmented_query", user_input
+                    )
                     if debug:
-                        print(f"🚦 [bold]LLM Router classified and augmented query:")
+                        print(
+                            "🚦 [bold]LLM Router classified and augmented query:"
+                        )
                         print(f"   - Query: {user_input}")
                         print(f"   - Detected Language: {language}")
                         print(f"   - Detected Route Category: {category}")
@@ -62,7 +69,9 @@ async def route_and_augment_query(
                     return language, category, augmented_query
                 else:
                     if debug:
-                        print(f"⚠️  LLM response is not valid JSON. Returning fallback.")
+                        print(
+                            "⚠️  LLM response is not valid JSON. Returning fallback."
+                        )
             except Exception as e:
                 if debug:
                     print(f"⚠️  Warning: Could not parse response json: {e}")

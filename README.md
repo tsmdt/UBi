@@ -1,31 +1,30 @@
-# 🤖 AIMA – Artificially Intelligent Mannheim Assistant
+# 🤖 AIMA – Agentic Intelligent Mannheim Assistant
 
-*AIMA* is an AI-powered assistant for the [Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de), built with Chainlit and LangChain. It combines large language models (LLMs) with data from the library website to deliver context-aware answers.
+*AIMA* is an agentic AI-powered assistant for the [Universitätsbibliothek Mannheim](https://www.bib.uni-mannheim.de), built with Chainlit and LangChain. It combines large language models (LLMs) with data from the library website to deliver context-aware answers.
 
 ## 🚀 Features
 
-- [x] 🔎 **RAG Pipeline** – Retrieval-Augmented Generation using markdown sources scraped from the library website
-- [x] 📚 **Document Loader** – Loads and chunks library documents in markdown enriched with metadata
-- [x] 💬 **LLM Integration** – Uses OpenAI models
-- [x] 🧠 **Embeddings** – Uses OpenAI embedding models
-- [x] 💾 **Chroma Vectorstore** – Local document storage and similarity search
-- [x] 📰 **RSS Integration** – Fetches live updates from the UB Mannheim blog
-- [x] 📝 **Feedback Storage** – Logs user questions, answers, and ratings
-- [x] 🔐 **Login System** – _Optional_ password-based access
-- [x] 📄  **Terms of Use Popup** – Ensures legal compliance before interaction
-- [x] 🪑 **Real-time Seat Availability** – Displays up-to-date information on available study spaces
+- [x] 🧭 **Agentic Router** – Dynamically detects language, augments user queries, and intelligently routes them to the most suitable tool
+- [x] 🧠 **Semantic Augmentation** – Enhances questions with context to optimize semantic search and retrieval
+- [x] 🔌 **Tool selector** – Routes queries to one of three specialized tools:
+  - **📖 RAG Pipeline** – Retrieval-Augmented Generation using OpenAI embeddings, OpenAI inference, and OpenAI Cloud-based vectorstore
+  - **📰 Library News Fetcher** – Retrieves the latest updates directly from the UB Mannheim blog
+  - **🪑 Real-time Seat Availability** – Displays real-time information on study space availability at the library
+- [x] 🌍 **Multilingual Support** – Detects and processes user input in multiple languages
+- [x] 📝 **Feedback Collection** – Stores user questions, answers, and satisfaction ratings for continuous improvement
+- [x] 📄 **Terms of Use Popup** – Ensures users accept terms before interaction
+- [x] 🔐 **Optional Login System** – Supports password-protected access for restricted deployments
 
 ## 🛠 Tech Stack
 
-| Component        | Technology                           |
-|------------------|--------------------------------------|
+| Component        | Technology                     |
+|------------------|--------------------------------|
 | Frontend UI      | [Chainlit](https://www.chainlit.io/) |
-| Backend Logic    | Python + LangChain                   |
-| LLMs             | OpenAI                               |
-| Embeddings       | OpenAI                               |
-| Vector Database  | Chroma                               |
-| DB (feedback)    | SQLite                               |
-| Deployment       | Docker + Docker Compose              |
+| Backend Logic    | Python + LangChain             |
+| LLMs             | OpenAI                         |
+| Embeddings       | OpenAI                         |
+| Vector Database  | OpenAI                         |
+| Deployment       | Docker + Docker Compose        |
 
 ## ⚙️ Native installation
 
@@ -113,13 +112,14 @@ Open http://localhost:8000 in a browser.
 
 All chats and feedback are stored in the database `data/feedback.db`:
 
-| Field        | Description                  |
-|--------------|------------------------------|
-| session_id   | Random session ID            |
-| question     | User input                   |
-| answer       | LLM-generated response       |
-| timestamp    | UTC datetime                 |
-| feedback     | Score + optional comment     |
+| Field              | Description              |
+|--------------------|--------------------------|
+| session_id         | Random session ID        |
+| question           | User input               |
+| augmented_question | Augmented user input     |
+| answer             | LLM-generated response   |
+| timestamp          | UTC datetime             |
+| feedback           | Score + optional comment |
 
 You can view or export this data for improving the bot.
 
