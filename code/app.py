@@ -162,6 +162,11 @@ async def on_message(message: cl.Message):
         await save_interaction(session_id, user_input, response)
         return
 
+    # Create message and start "working" animation before processing
+    msg = cl.Message(content="", author="assistant")
+    await msg.send()
+    await msg.stream_token(" ")
+    
     # LLM routing, language detection, prompt augmentation
     detected_language, route, augmented_input = await route_and_augment_query(
         client if USE_OPENAI_VECTORSTORE else None,
@@ -171,15 +176,19 @@ async def on_message(message: cl.Message):
 
     # RSS feed / Neuigkeiten aus der UB
     if route and route.lower() == "news":
-        items = get_rss_items()
+        items = get_rss_items()        
         if not items:
             response = translate("no_news_found", detected_language)
-            await Message(content=response, author="assistant").send()
         else:
             heading = translate("news_heading", detected_language)
             body = "\n\n".join(f"- **{title}**\n  {link}" for title, link, _ in items)
             response = heading + body
-            await Message(content=response, author="assistant").send()
+        
+        # Clear the message and stream the response
+        await msg.stream_token("")
+        for char in response:
+            await msg.stream_token(char)
+        await msg.update()
 
         # Add to memory
         session_memory.add_turn(session_id, MessageRole.USER, user_input)
@@ -197,17 +206,18 @@ async def on_message(message: cl.Message):
             heading = translate("seats_last_updated", detected_language)
             response = f"{heading}: {data['lastupdated']}"
             plot_label = translate("library_capacity", detected_language)
-
+            
             # Generate the plot
             fig = make_plotly_figure(areas, detected_language)
 
-            await cl.Message(
-                content=response,
-                elements=[
-                    cl.Plotly(name=plot_label, figure=fig, display="inline", size="large")
-                ],
-                author="assistant"
-            ).send()
+            # Update the existing message with content and add elements
+            await msg.stream_token("")
+            for char in response:
+                await msg.stream_token(char)
+            
+            # Set the elements on the existing message
+            msg.elements = [cl.Plotly(name=plot_label, figure=fig, display="inline", size="large")]
+            await msg.update()
 
             # Add to memory
             session_memory.add_turn(session_id, MessageRole.USER, user_input)
@@ -215,7 +225,11 @@ async def on_message(message: cl.Message):
             await save_interaction(session_id, user_input, response)
         except Exception as e:
             error_response = f"{translate('seats_error', detected_language)}: {str(e)}"
-            await cl.Message(content=error_response, author="assistant").send()
+            # Clear the message and stream the error
+            await msg.stream_token("")
+            for char in error_response:
+                await msg.stream_token(char)
+            await msg.update()
 
             # Add to memory
             session_memory.add_turn(session_id, MessageRole.USER, user_input)
@@ -230,6 +244,7 @@ async def on_message(message: cl.Message):
     session_memory.add_turn(session_id, MessageRole.USER, user_input)
 
     # === OpenAI Vectorstore Logic ===
+    # TODO: only send augmented query not whole conversation history
     if USE_OPENAI_VECTORSTORE:
         # Compose input for the model: prepend context if available
         if conversation_context:
@@ -237,15 +252,15 @@ async def on_message(message: cl.Message):
         else:
             model_input = f"Nutzer: {augmented_input}"
 
-        msg = cl.Message(content="", author="assistant")
-        await msg.send()
-        await msg.stream_token(" ")
         full_answer = ""
 
         try:
             stream = await client.responses.create(
                 model="gpt-4o-mini-2024-07-18",
-                input=[{"role": "user", "content": model_input}],
+                input=[{
+                    "role": "user", 
+                    "content": model_input
+                }],
                 tools=[{
                     "type": "file_search",
                     "vector_store_ids": [OPENAI_VECTORSTORE_ID],
@@ -262,7 +277,11 @@ async def on_message(message: cl.Message):
                     full_answer += token
         except Exception as e:
             error_response = f"{translate('openai_api_error', detected_language)}: {e}"
-            await Message(content=error_response).send()
+            # Clear the message and stream the error
+            await msg.stream_token("")
+            for char in error_response:
+                await msg.stream_token(char)
+            await msg.update()
 
             # Add error to memory
             session_memory.add_turn(session_id, MessageRole.USER, user_input)
@@ -274,7 +293,11 @@ async def on_message(message: cl.Message):
             await msg.update()
         else:
             error_response = f"{translate('response_error', detected_language)}"
-            await cl.Message(content=error_response).send()
+            # Clear the message and stream the error
+            await msg.stream_token("")
+            for char in error_response:
+                await msg.stream_token(char)
+            await msg.update()
 
         # Save interaction
         session_memory.add_turn(session_id, MessageRole.ASSISTANT, full_answer)
@@ -296,11 +319,10 @@ async def on_message(message: cl.Message):
 
             # Stream response
             full_response = ""
-            msg = Message(content="", author="assistant")
             async for token in response_generator:
                 await msg.stream_token(token)
                 full_response += token
-            await msg.send()
+            await msg.update()
 
             # Add assistant response to memory
             session_memory.add_turn(session_id, MessageRole.ASSISTANT, full_response)
@@ -308,7 +330,11 @@ async def on_message(message: cl.Message):
 
         except Exception as e:
             error_response = f"{translate('local_rag_error', detected_language)}: {str(e)}"
-            await Message(content=error_response).send()
+            # Clear the message and stream the error
+            await msg.stream_token("")
+            for char in error_response:
+                await msg.stream_token(char)
+            await msg.update()
 
             # Add error to memory
             session_memory.add_turn(session_id, MessageRole.USER, user_input)
