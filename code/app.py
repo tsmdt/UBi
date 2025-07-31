@@ -113,7 +113,7 @@ async def handle_openai_vectorstore_query(
         chat_history = [{"role": "user", "content": augmented_input}]
     
     if DEBUG:
-        print(f"Chat history: {chat_history}")
+        print(f"💬 Chat history: {chat_history}")
  
     full_answer = ""
     try:
