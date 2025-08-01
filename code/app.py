@@ -114,7 +114,7 @@ def get_instructions(language="German"):
 # === Query for LLM Router ===
 def prepare_query_for_router(
     user_input: str, chat_history: Optional[list[dict]]
-    ):
+) -> list[dict]:
     """
     Prepare a user query for the LLM router and inject the last LLM 
     response for additional context if chat_history is already available.
