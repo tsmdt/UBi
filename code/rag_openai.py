@@ -3,7 +3,6 @@ import os
 from pathlib import Path
 
 import utils
-import yaml
 from config import DATA_DIR, ENV_PATH
 from dotenv import load_dotenv, set_key
 from openai import OpenAI
@@ -89,105 +88,6 @@ async def async_delete_files_from_vectorstore(
     pbar_del.close()
 
 
-def escape_colons_in_yaml_values(line: str) -> str:
-    """
-    Escape colons in YAML values to prevent parsing errors.
-    Only escapes colons that appear after the first colon (key: value).
-    """
-    if ":" not in line:
-        return line
-
-    # Split on first colon to separate key and value
-    parts = line.split(":", 1)
-    if len(parts) != 2:
-        return line
-
-    key, value = parts
-
-    # If value is quoted, don't escape colons inside quotes
-    if value.strip().startswith('"') and value.strip().endswith('"'):
-        return line
-    if value.strip().startswith("'") and value.strip().endswith("'"):
-        return line
-
-    # If value is a list (starts with [), don't escape colons inside brackets
-    if value.strip().startswith("["):
-        return line
-
-    # Escape colons in the value part by wrapping in quotes
-    if (
-        ":" in value
-        and not value.strip().startswith('"')
-        and not value.strip().startswith("'")
-    ):
-        # Wrap the entire value in quotes to escape colons
-        escaped_value = f'"{value.strip()}"'
-        return f"{key}: {escaped_value}"
-
-    return line
-
-
-def parse_yaml_header(md_file) -> dict:
-    """
-    Parse the YAML header of a processed markdown file and return a
-    dictionary. Escape ":" in values to make the parsing robust.
-
-    Example YAML Header:
-    ---
-    title: Datenangebot des Forschungsdatenzentrums (FDZ)
-    source_url: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/datenangebot-des-fdz/
-    category: Projekte
-    tags: [Forschungsdatenzentrum, Datenbanken, Wirtschafts- und Sozialwissenschaften, Unternehmensdaten, Digitalisierung, Knowledge Graph, Open Data]
-    language: de
-    ---
-
-    Example return:
-    yaml_data = {
-        'title': 'Datenangebot des Forschungsdatenzentrums (FDZ)',
-        'source_url': 'https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/datenangebot-des-fdz/',
-        'category': 'Projekte',
-        'tags': ['Forschungsdatenzentrum', 'Datenbanken', 'Wirtschafts- und Sozialwissenschaften', 'Unternehmensdaten', 'Digitalisierung', 'Knowledge Graph', 'Open Data'],
-        'language': 'de'
-    }
-    """
-    try:
-        with open(md_file, "r", encoding="utf-8") as f:
-            content = f.read()
-
-        # Check if file starts with YAML header
-        if not content.startswith("---"):
-            return {}
-
-        # Find the end of YAML header and escape colons in values
-        lines = content.split("\n")
-        yaml_lines = []
-        in_yaml = False
-
-        for line in lines:
-            if line.strip() == "---":
-                if not in_yaml:
-                    in_yaml = True
-                else:
-                    break
-            elif in_yaml:
-                # Escape colons in values to prevent YAML parsing errors
-                processed_line = escape_colons_in_yaml_values(line)
-                yaml_lines.append(processed_line)
-
-        if not yaml_lines:
-            return {}
-
-        # Join YAML lines and parse
-        yaml_content = "\n".join(yaml_lines)
-        yaml_data = yaml.safe_load(yaml_content)
-
-        return yaml_data if yaml_data else {}
-
-    except Exception as e:
-        print(f"Error parsing YAML header for {md_file}: {e}")
-        return {}
-
-
 async def async_upload_files_to_vectorstore(
     client: OpenAI,
     vectorstore_id: str,
@@ -223,7 +123,7 @@ async def async_upload_files_to_vectorstore(
         # File Upload
         try:
             # Parse YAML header for attributes
-            yaml_data = parse_yaml_header(md_file)
+            yaml_data = utils.parse_yaml_header(md_file)
 
             # Upload the updated local file to vectorstore
             print(f"[bold]Uploading updated {filename} to vectorstore ...")

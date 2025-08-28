@@ -179,45 +179,150 @@ Output: {{
 }}"""
 
 # === Prompts for Data Processing ===
-PROMPT_POST_PROCESSING = f"""You are an expert for preparing markdown documents for Retrieval-Augmented Generation (RAG).
-Perform the following tasks on the provided documents that are sourced from the website of the Universitätsbibliothek Mannheim:
-1. Refine the markdown document by following these guidelines:
-   - Clean the structure, improve headings, embed links and email adresses.
-   - **Carefully** remove redundancy and make the file suitable for semantic search or chatbot use.
-   - Try to **preserve the original text verbatim**. ONLY reformulate sentences when it improves semantic understanding and document retrieval.
-   - ONLY add sentences to improve semantically scarce passages, e.g., passages with only a heading and two links.
-       <example>
-       ## Bibliotheksausweis für Nicht-Mitglieder
-      - [Bibliotheksausweis für Privatpersonen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/)
-      - [Bibliotheksausweis für Angehörige kooperierender Einrichtungen (Uni HD, DHBW, HS MA, HS LU u.a.)](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-angehoerige-kooperierender-einrichtungen/)
-      </example>
-2. Add a YAML header (without markdown wrapping!) by using this template:
----
-title: informative title of the document that optimally encapuslates the document's content for retrieval
-source_url_de: URL of document
-source_url_en: URL of English translation of document from <en_url> variable. Remove the <en_url> variable after including it here.
-category: one of these categories: [Benutzung, Öffnungszeiten, Standorte, Services, Medien, Projekte, Weitere Angebote]
-tags: [a list of **max. 8** precise, descriptive keywords]
-language: de, en or other language tags
----
-3. Recognize the following entities and add their abbreviations in round brackets after the entity.
-   - Example: "so wie die Duale Hochschule Baden-Württemberg Mannheim in" → "so wie die Duale Hochschule Baden-Württemberg Mannheim (DHBW) in"
-   - Abbreviations: {ABBREVIATIONS}
-4. Return the processed markdown file.
+PROMPT_POST_PROCESSING = f"""You are an expert at preparing markdown documents for Retrieval-Augmented Generation (RAG) systems.
+Process documents from the Universitätsbibliothek Mannheim website following these strict guidelines:
 
-<example output>
----
-title: Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim
-source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/
-source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/
-category: Services
-tags: [Forschungsdatenzentrum, Forschungsdatenmanagement, FDZ, Data Literacy, Data Science, Digitalisierung, Knowledge Graphs]
-language: de
----
+# PRIMARY OBJECTIVES
+1. **Aggressively eliminate redundancy** while preserving all unique information
+2. Add a comprehensive YAML header
+3. Return a clean, well-structured markdown file optimized for semantic search
 
-# First Heading of Markdown Page
-The content of the markdown page...
-</example output>
+## CRITICAL DEDUPLICATION RULES
+**MANDATORY**: Before ANY other processing:
+1. **Identify all duplicate entities** (people, departments, services, contact information)
+2. **Consolidate repeated information** into single, comprehensive entries
+3. **Group related subjects** that share the same contact person or department
+4. **Remove all duplicate sections** that contain identical or near-identical content
+
+### Deduplication Strategy:
+- When the SAME person appears multiple times:
+  → Create ONE entry with ALL their subject areas listed
+  → List contact details ONCE
+- When sections repeat with minor variations:
+  → Merge into a single, comprehensive section
+  → Preserve all unique details from each variation
+- When headers are duplicated at different levels (## and ###):
+  → Keep only the most appropriate hierarchy level
+
+## DOCUMENT REFINEMENT GUIDELINES
+
+### Structure and Formatting:
+- Clean document structure with logical heading hierarchy
+- Preserve original text verbatim EXCEPT when:
+  - Removing redundancy
+  - Fixing obvious errors
+  - Improving clarity for semantic search
+- Do NOT add separators like '---' between content sections
+- Do NOT add backslashes or escape characters to line endings
+
+### Content Enhancement:
+- Add contextual sentences ONLY for semantically sparse sections
+  Example needing enhancement:
+  ```
+  ## Bibliotheksausweis für Nicht-Mitglieder
+  - [Link 1](url1)
+  - [Link 2](url2)
+  ```
+  Should become:
+  ```
+  ## Bibliotheksausweis für Nicht-Mitglieder
+  Die Universitätsbibliothek bietet verschiedene Ausweisoptionen für externe Nutzer:
+  - [Link 1](url1)
+  - [Link 2](url2)
+  ```
+
+### Link Formatting:
+Ensure all links follow proper markdown syntax:
+- ORCID: [0000-0003-3800-5205](https://orcid.org/0000-0003-3800-5205)
+- Email: [name@uni-mannheim.de](mailto:name@uni-mannheim.de)
+- Web links: [Display Text](https://url)
+
+## YAML HEADER REQUIREMENTS
+Add the following yaml header WITHOUT markdown code block wrapping:
+<yaml header template>
+---
+title: [Descriptive title optimized for retrieval - be specific about the document's main content]
+source_url_de: [German URL from document]
+source_url_en: [English URL if provided in <en_url> tags, otherwise omit]
+category: [EXACTLY ONE from: Benutzung, Öffnungszeiten, Standorte, Services, Medien, Projekte, Kontakt]
+tags: [Maximum 8 precise, descriptive German keywords relevant for search]
+language: [de/en/other ISO code]
+---
+</yaml header template>
+
+## PROCESSING SEQUENCE
+1. **SCAN** entire document for duplicate people, departments, or information
+2. **MAP** all occurrences of the same entities
+3. **CONSOLIDATE** duplicates into single entries
+4. **STRUCTURE** content with clean hierarchy
+5. **ENHANCE** sparse sections with context
+6. **ADD** YAML header
+7. **VERIFY** no redundancy remains
+
+## QUALITY CHECKLIST
+Before returning the document, verify:
+☐ No person's contact info appears more than once
+☐ No duplicate sections exist
+☐ All related subjects are grouped under appropriate contacts
+☐ Heading hierarchy is logical and consistent
+☐ Links are properly formatted
+☐ YAML header is complete and accurate
 
 <Document to process>
 """
+
+# PROMPT_POST_PROCESSING = f"""You are an expert for preparing markdown documents for Retrieval-Augmented Generation (RAG).
+# The provided documents  are sourced from the website of the Universitätsbibliothek Mannheim:
+
+# # Your Tasks:
+# 1. Refine the document
+# 2. Add a YAML header
+# 3. Return a refined markdown file
+
+# ## Refinement guidelines
+# - Clean the document's structure and improve headings
+# - Do NOT separate content parts by using '---' or other patterns; Do NOT add new chars like '\' to line endings
+# - Try to **preserve the original text verbatim**. ONLY reformulate sentences when it improves semantic understanding and document retrieval.
+# - **Carefully** remove redundancy and make the file suitable for semantic search or chatbot use.
+# - Ensure correct markdown links and correctly embed email adresses.
+#    - Examples:
+#       - [0000-0003-3800-5205](https://orcid.org/0000-0003-3800-5205)
+#       - E-Mail: [sabine.gehrlein@uni-mannheim.de](mailto:sabine.gehrlein@uni-mannheim.de)
+#       - Weitere Informationen: [Sammlungen](https://www.bib.uni-mannheim.de/medien/sammlungen/)
+#       - [MADOC](https://madoc.bib.uni-mannheim.de/)
+# - ONLY add sentences to improve semantically scarce passages, e.g., passages with only a heading and two links.
+#    <example>
+#    ## Bibliotheksausweis für Nicht-Mitglieder
+#    - [Bibliotheksausweis für Privatpersonen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/)
+#    - [Bibliotheksausweis für Angehörige kooperierender Einrichtungen (Uni HD, DHBW, HS MA, HS LU u.a.)](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-angehoerige-kooperierender-einrichtungen/)
+#    </example>
+#
+# ## YAML header guidelines
+# - Add a YAML header (without markdown wrapping!) by using this template:
+#    <template>
+#    ---
+#    title: informative title of the document that optimally encapuslates the document's content for retrieval
+#    source_url_de: URL of document
+#    source_url_en: URL of English translation of document from <en_url> variable. Remove the <en_url> variable after including it here.
+#    category: one of these categories: [Benutzung, Öffnungszeiten, Standorte, Services, Medien, Projekte, Kontakt]
+#    tags: [a list of **max. 8** precise, descriptive keywords]
+#    language: de, en or other language tags
+#    ---
+#    </template>
+#
+# <example output>
+# ---
+# title: Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim
+# source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/
+# source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/
+# category: Services
+# tags: [Forschungsdatenzentrum, Forschungsdatenmanagement, FDZ, Data Literacy, Data Science, Digitalisierung, Knowledge Graphs]
+# language: de
+# ---
+
+# # First Heading of Markdown Page
+# The content of the markdown page...
+# </example output>
+
+# <Document to process>
+# """

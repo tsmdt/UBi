@@ -15,3 +15,4 @@ Requests~=2.32.4
 tqdm~=4.66.5
 unstructured~=0.17.2
 json-repair~=0.48.0
+mdformat~=0.7.22

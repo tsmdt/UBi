@@ -11,7 +11,7 @@ import requests
 import utils
 from bs4 import BeautifulSoup, Tag
 from config import CRAWL_DIR, URLS_TO_CRAWL
-from markdown_processing import write_markdown
+from markdown_processing import write_markdown_from_url
 from rich import print
 from tqdm import tqdm
 
@@ -79,11 +79,52 @@ def parse_english_url(element) -> list[str]:
         return [""]
 
 
-def parse_uma_address_details(element):
+def parse_uma_address_card(element) -> list[str]:
     """
-    Helper function for parsing HTML address details block.
+    Helper function for parsing div class "uma-address-card".
+    """
+    if not isinstance(element, Tag):
+        return None
+
+    # Get content div "uma-address-content"
+    div_address_content = element.find("div", class_="uma-address-content")
+    if div_address_content:
+        content = div_address_content
+        lines = []
+
+        # Name
+        div_address_name = content.find("div", class_="uma-address-name")
+        if div_address_name:
+            name = div_address_name.get_text(strip=True)
+            lines.append(f"**{name}**")
+
+        # Position
+        div_position = content.find("div", class_="uma-address-position")
+        if div_position:
+            position = div_position.get_text(strip=True)
+            lines.append(position)
+
+        # Address details
+        div_address_details = content.find("div", class_="uma-address-details")
+        if div_address_details:
+            address_details = parse_uma_address_details(div_address_details)
+            lines.extend(address_details)
+
+        # Address contact
+        div_address_contact = content.find("div", class_="uma-address-contact")
+        if div_address_contact:
+            address_contact = parse_uma_address_contact(div_address_contact)
+            lines.extend(address_contact)
+
+    return lines
+
+
+def parse_uma_address_details(element) -> list[str]:
+    """
+    Helper function for parsing div class "uma-address-details".
     """
     lines = []
+
     # Street address
     street_div = element.find("div", class_="uma-address-street-address")
     if street_div:
@@ -94,7 +135,7 @@ def parse_uma_address_details(element):
         address = ", ".join(
             [line.strip() for line in address.split("\n") if line.strip()]
         )
-        lines.append(f"* Adresse: {address}")
+        lines.append(f"- Adresse: {address}")
 
     # Contact info
     contact_div = element.find("div", class_="uma-address-contact")
@@ -108,9 +149,54 @@ def parse_uma_address_details(element):
                 href = child.get("href", "")
                 text = child.get_text(strip=True)
                 if current_label == "Web":
-                    contact_lines.append(f"* Web: [{text}]({href})")
+                    contact_lines.append(f"- Web: [{text}]({href})")
                 current_label = None
         lines.extend(contact_lines)
+    return lines
+
+
+def parse_uma_address_contact(element) -> list[str]:
+    """
+    Helper function for parsing UMA address contact information block.
+    Extracts telephone, email and ORCID if present.
+    """
+    lines = []
+    if not isinstance(element, Tag):
+        return lines
+
+    tel_tag = element.find(
+        "a", href=lambda x: isinstance(x, str) and x.startswith("tel:")
+    )
+    telephone = (
+        tel_tag.get_text(strip=True) if (tel_tag and isinstance(tel_tag, Tag)) else None
+    )
+    if telephone:
+        lines.append(f"- Telefon: {telephone}")
+
+    email = parse_email(element)
+    if email:
+        lines.append(f"- E-Mail: {email}")
+
+    orcid_tag = element.find(
+        "a", href=lambda x: isinstance(x, str) and "orcid.org" in x
+    )
+    orcid = (
+        orcid_tag.get_text(strip=True)
+        if (orcid_tag and isinstance(orcid_tag, Tag))
+        else None
+    )
+    orcid_href = (
+        orcid_tag.get("href")
+        if (
+            orcid_tag
+            and isinstance(orcid_tag, Tag)
+            and isinstance(orcid_tag.get("href"), str)
+        )
+        else None
+    )
+    if orcid and orcid_href:
+        lines.append(f"- ORCID-ID: {orcid} ({orcid_href})")
+
     return lines
 
 
@@ -167,10 +253,26 @@ def find_specified_tags(
     Preserves the reading order of the HTML.
     """
 
-    def parse_a_href(element):
+    def parse_href(element: Tag, h_level: str | None = None) -> str:
         """
-        Helper function to parse <a href> elements.
+        Helper function to parse <a href> elements. Optionally prefixes the
+        returned text with a markdown heading level (h_level) based on the
+        provided heading tag name (e.g., "h1", "h2").
         """
+        # Mapping for markdown heading levels
+        heading_map = {
+            'h1': '# ',
+            'h2': '## ',
+            'h3': '### ',
+            'h4': '#### ',
+            'h5': '##### ',
+            'h6': '###### ',
+        }
+
+        # Determine markdown heading prefix
+        heading_prefix = heading_map.get(h_level.lower(), "") if isinstance(h_level, str) else ""
+
+        # Find all href
         a_tags = element.find_all("a") if isinstance(element, Tag) else []
         element_text_md = (
             element.get_text() if isinstance(element, Tag) else str(element)
@@ -210,7 +312,8 @@ def find_specified_tags(
                     if isinstance(element, Tag)
                     else str(element)
                 )
-        return element_text_md
+        # Prefix with heading level if provided
+        return f"{heading_prefix}{element_text_md.strip()}"
 
     def final_check(matched_tags):
         clean_tags = []
@@ -239,9 +342,9 @@ def find_specified_tags(
 
     def li_to_markdown(li: Tag) -> str:
         if li.find_all("a"):
-            return f"* {parse_a_href(li)}"
+            return f"- {parse_href(li)}"
         else:
-            return f"* {li.get_text(strip=True)}"
+            return f"- {li.get_text(strip=True)}"
 
     # Parse HTML
     matched_tags = []
@@ -262,51 +365,9 @@ def find_specified_tags(
 
         element_text = element.get_text(strip=True)
 
-        # H1
-        if element.name == "h1":
-            matched_tags.append(f"# {element_text} ({url})")
-
-        # H2, H3
-        elif element.name in ["h2", "h3"]:
-            matched_tags.append(f"## {element_text}")
-
-        # H4
-        elif element.name == "h4":
-            profile_link = element.find("a", href=True)
-            href = (
-                profile_link.get("href")
-                if isinstance(profile_link, Tag)
-                else None
-            )
-            if isinstance(href, str) and (
-                href.startswith("/") or href.startswith("http")
-            ):
-                matched_tags.append(
-                    f"### {element_text} ({urljoin(url, str(href))})"
-                )
-            else:
-                matched_tags.append(f"### {element_text}")
-
-        # H5
-        elif element.name == "h5":
-            teaser_link = element.find("a", href=True)
-            href = (
-                teaser_link.get("href")
-                if isinstance(teaser_link, Tag)
-                else None
-            )
-            if isinstance(href, str) and (
-                href.startswith("/") or href.startswith("http")
-            ):
-                matched_tags.append(
-                    f"### {element_text} ({urljoin(url, str(href))})"
-                )
-            else:
-                matched_tags.append(f"### {element_text}")
-
-        # H6
-        elif element.name == "h6":
-            matched_tags.append(f"### {element_text}")
+        # Headings h1-h6
+        if element.name in ["h1", "h2", "h3", "h4", "h5", "h6"]:
+            matched_tags.append(parse_href(element, h_level=element.name))
 
         # <p>, <b>
         elif element.name in ["p", "b"] and not any(
@@ -319,7 +380,7 @@ def find_specified_tags(
                 parent_classes = [str(cls) for cls in parent_classes]
             if parent_classes and "testimonial-text" in parent_classes:
                 if isinstance(element, Tag) and element.find_all("a"):
-                    element_text_with_href = parse_a_href(element)
+                    element_text_with_href = parse_href(element)
                     matched_tags.append(f"> {element_text_with_href}")
                 else:
                     matched_tags.append(f"> {element_text}")
@@ -332,7 +393,7 @@ def find_specified_tags(
                             strong.get_text(strip=True), strong_text
                         )
                     if element.find_all("a"):
-                        matched_tags.append(parse_a_href(element))
+                        matched_tags.append(parse_href(element))
                     else:
                         matched_tags.append(text)
                 else:
@@ -340,23 +401,22 @@ def find_specified_tags(
 
         # class: teaser-link
         elif "teaser-link" in class_attr:
-            matched_tags.append(parse_a_href(element))
+            matched_tags.append(parse_href(element))
 
         # class: accordion-content
-        elif "accordion-content" in class_attr:
-            # Find the first <ul> inside this element (even if it has a class)
-            ul = element.find("ul")
-            if ul and isinstance(ul, Tag):
-                li_elements = ul.find_all("li", recursive=False)
-                li_elements_clean = []
-                for li in li_elements:
-                    if not isinstance(li, Tag):
-                        continue
-                    li_elements_clean.append(li_to_markdown(li))
-                matched_tags.append("\n" + "\n".join(li_elements_clean) + "\n")
-            else:
-                # fallback: just get the text
-                matched_tags.append(element.get_text(strip=True))
+        # elif "accordion-content" in class_attr:
+        #     # Try to find possible content candidates (ul)
+        #     ul = element.find("ul")
+        #     if ul and isinstance(ul, Tag):
+        #         li_elements = ul.find_all("li", recursive=False)
+        #         li_elements_clean = []
+        #         for li in li_elements:
+        #             if not isinstance(li, Tag):
+        #                 continue
+        #             li_elements_clean.append(li_to_markdown(li))
+        #         matched_tags.append("\n" + "\n".join(li_elements_clean) + "\n")
+        #     else:
+        #         continue
 
         # <ul>
         elif element.name == "ul" and not element.has_attr("class"):
@@ -370,9 +430,9 @@ def find_specified_tags(
                 if not isinstance(li, Tag):
                     continue
                 if isinstance(li, Tag) and li.find_all("a"):
-                    li_elements_clean.append(f"* {parse_a_href(li)}")
+                    li_elements_clean.append(f"- {parse_href(li)}")
                 else:
-                    li_elements_clean.append(f"* {li.get_text(strip=True)}")
+                    li_elements_clean.append(f"- {li.get_text(strip=True)}")
             matched_tags.append("\n" + "\n".join(li_elements_clean) + "\n")
 
         # <tbody>
@@ -390,7 +450,7 @@ def find_specified_tags(
             icon_text = element.get_text(strip=True)
             if any(phrase in icon_text for phrase in footer_phrases):
                 continue
-            matched_tags.append(f"* {parse_a_href(element)}")
+            matched_tags.append(f"- {parse_href(element)}")
 
         # Address block
         elif "uma-address-position" in class_attr:
@@ -399,47 +459,8 @@ def find_specified_tags(
             lines = parse_uma_address_details(element)
             matched_tags.extend(lines)
         elif "uma-address-contact" in class_attr:
-            tel_tag = (
-                element.find(
-                    "a",
-                    href=lambda x: isinstance(x, str) and x.startswith("tel:"),
-                )
-                if isinstance(element, Tag)
-                else None
-            )
-            telephone = (
-                tel_tag.get_text(strip=True)
-                if (tel_tag and isinstance(tel_tag, Tag))
-                else None
-            )
-            if telephone:
-                matched_tags.append(f"* Telefon: {telephone}")
-            email = parse_email(element)
-            if email:
-                matched_tags.append(f"* E-Mail: {email}")
-            orcid_tag = (
-                element.find(
-                    "a", href=lambda x: isinstance(x, str) and "orcid.org" in x
-                )
-                if isinstance(element, Tag)
-                else None
-            )
-            orcid = (
-                orcid_tag.get_text(strip=True)
-                if (orcid_tag and isinstance(orcid_tag, Tag))
-                else None
-            )
-            orcid_href = (
-                orcid_tag.get("href")
-                if (
-                    orcid_tag
-                    and isinstance(orcid_tag, Tag)
-                    and isinstance(orcid_tag.get("href"), str)
-                )
-                else None
-            )
-            if orcid and orcid_href:
-                matched_tags.append(f"* ORCID-ID: {orcid} ({orcid_href})")
+            lines = parse_uma_address_contact(element)
+            matched_tags.extend(lines)
 
         # class: button
         elif "button" in class_attr:
@@ -470,7 +491,7 @@ def find_specified_tags(
                 if profile_tasks:
                     matched_tags.append(
                         "\nAufgaben:\n\n"
-                        + "\n".join(f"* {task}" for task in profile_tasks)
+                        + "\n".join(f"- {task}" for task in profile_tasks)
                     )
     clean_tags = final_check(matched_tags)
     return clean_tags
@@ -567,7 +588,9 @@ def process_urls(urls: list[str], output_dir: str = ""):
             content_single_page.extend(page_content_tags)
 
             # Save markdown file only if changed/new
-            written_file = write_markdown(url, content_single_page, output_dir)
+            written_file = write_markdown_from_url(
+                url, content_single_page, output_dir
+                )
             if written_file:
                 changed_files.append(written_file)
 
