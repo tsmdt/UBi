@@ -283,7 +283,8 @@ async def process_single_file_async(
 def process_markdown_files_with_llm(
     input_dir: str,
     output_dir: str,
-    model_name: str = "gpt-4o-2024-08-06",
+    model_name: str = "gpt-4.1-2025-04-14",
+    temperature: float = 0,
     files_to_process: list | None = None,
     max_concurrent: int = 3,
     delay_between_requests: float = 0.5,
@@ -320,7 +321,7 @@ def process_markdown_files_with_llm(
     # Initialize the LLM
     llm = ChatOpenAI(
         model=model_name,
-        temperature=0,
+        temperature=temperature,
         api_key=os.getenv("OPENAI_API_KEY"),
         max_retries=2,
     )
@@ -797,8 +798,14 @@ def additional_post_processing(
 @click.option(
     "--model-name",
     "-m",
-    default="gpt-4o-2024-08-06",
-    help="Model name for LLM postprocessing. (default: gpt-4o-2024-08-06)",
+    default="gpt-4.1-2025-04-14",
+    help="Model name for LLM postprocessing. (default: gpt-4.1-2025-04-14)",
+)
+@click.option(
+    "--temperature",
+    "-t",
+    default=0,
+    help="LLM temperature for post-processing. (default: 0)",
 )
 @click.option(
     "--llm-processing/--no-llm-processing",
@@ -834,6 +841,7 @@ def run_post_processing(
     input_dir: str,
     files: tuple,
     model_name: str,
+    temperature: float,
     llm_processing: bool,
     additional_processing: bool,
     format_markdown: bool,
@@ -899,6 +907,7 @@ def run_post_processing(
             output_dir=str(DATA_DIR),
             files_to_process=files_to_process,
             model_name=model_name,
+            temperature=temperature,
         )
 
     # Additional post-processing

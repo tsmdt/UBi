@@ -239,7 +239,7 @@ Ensure all links follow proper markdown syntax:
 
 ## YAML HEADER REQUIREMENTS
 Add the following yaml header WITHOUT markdown code block wrapping:
-<yaml header template>
+<template>
 ---
 title: [Descriptive title optimized for retrieval - be specific about the document's main content]
 source_url_de: [German URL from document]
@@ -248,7 +248,7 @@ category: [EXACTLY ONE from: Benutzung, Öffnungszeiten, Standorte, Services, Me
 tags: [Maximum 8 precise, descriptive German keywords relevant for search]
 language: [de/en/other ISO code]
 ---
-</yaml header template>
+</template>
 
 ## PROCESSING SEQUENCE
 1. **SCAN** entire document for duplicate people, departments, or information

@@ -259,18 +259,18 @@ def find_specified_tags(
         returned text with a markdown heading level (h_level) based on the
         provided heading tag name (e.g., "h1", "h2").
         """
-        # Mapping for markdown heading levels
-        heading_map = {
+        # Specific markdown mapping for UMA heading levels
+        h_map = {
             'h1': '# ',
             'h2': '## ',
-            'h3': '### ',
-            'h4': '#### ',
-            'h5': '##### ',
-            'h6': '###### ',
+            'h3': '## ',
+            'h4': '### ',
+            'h5': '### ',
+            'h6': '### ',
         }
 
         # Determine markdown heading prefix
-        heading_prefix = heading_map.get(h_level.lower(), "") if isinstance(h_level, str) else ""
+        heading_prefix = h_map.get(h_level.lower(), "") if isinstance(h_level, str) else ""
 
         # Find all href
         a_tags = element.find_all("a") if isinstance(element, Tag) else []
@@ -288,21 +288,21 @@ def find_specified_tags(
 
             # Match absolute URLs
             if href.startswith("http"):
-                href_md = f"{href_text} ({href})"
+                href_md = f"[{href_text}]({href})"
                 element_text_md = element_text_md.replace(href_text, href_md)
 
             # Match relative URLs
             elif href.startswith("/"):
                 if url.startswith("https://www.uni"):
                     href_url_md = (
-                        f"{href_text} (https://www.uni-mannheim.de{href})"
+                        f"[{href_text}](https://www.uni-mannheim.de{href})"
                     )
                 elif url.startswith("https://www.bib"):
                     href_url_md = (
-                        f"{href_text} (https://www.bib.uni-mannheim.de{href})"
+                        f"[{href_text}](https://www.bib.uni-mannheim.de{href})"
                     )
                 else:
-                    href_url_md = f"{href_text} ({href})"
+                    href_url_md = f"[{href_text}]({href})"
                 element_text_md = element_text_md.replace(
                     href_text, href_url_md
                 )
@@ -312,8 +312,12 @@ def find_specified_tags(
                     if isinstance(element, Tag)
                     else str(element)
                 )
+
         # Prefix with heading level if provided
-        return f"{heading_prefix}{element_text_md.strip()}"
+        if heading_prefix == '# ':
+            return f"{heading_prefix}[{element_text_md.strip()}]({url})"
+        else:
+            return f"{heading_prefix}{element_text_md.strip()}"
 
     def final_check(matched_tags):
         clean_tags = []
