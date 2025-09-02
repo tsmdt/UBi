@@ -1,10 +1,10 @@
 import datetime
 import os
 import chainlit as cl
-from chainlit import Message
 from dotenv import load_dotenv
 from fastapi import Request, Response
 from rich import print
+import time
 from typing import Optional
 
 # === AIMA imports ===
@@ -128,6 +128,15 @@ def prepare_query_for_router(
     return query_for_routing
 
 
+async def query_delay(msg: cl.Message, delay: float = 1.2):
+    """
+    Handle query delay.
+    """
+    for _ in range(1):
+        await msg.stream_token(" ")
+        time.sleep(delay)
+
+
 # === OpenAI Vectorstore Logic ===
 async def handle_openai_vectorstore_query(
     client: AsyncOpenAI,
@@ -155,7 +164,7 @@ async def handle_openai_vectorstore_query(
     full_answer = ""
     try:
         stream = await client.responses.create(
-            model="gpt-4o-mini-2024-07-18",
+            model=os.getenv("CHAT_MODEL", "gpt-4o-mini-2024-07-18"),
             input=chat_history,
             tools=[
                 {
@@ -456,7 +465,13 @@ async def on_message(message: cl.Message):
     phrase_result = detect_common_phrase(user_input)
     if phrase_result:
         response, _ = phrase_result
-        await Message(content=response, author="assistant").send()
+        msg = cl.Message(content="", author="assistant")
+        await msg.send()
+        await msg.stream_token(" ")
+        await query_delay(msg)
+        for char in response:
+            await msg.stream_token(char)
+        await msg.update()
 
         # Add to memory
         session_memory.add_turn(session_id, MessageRole.USER, user_input)
