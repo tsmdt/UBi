@@ -1,7 +1,6 @@
 import datetime
 import os
 import chainlit as cl
-from chainlit import Message
 from dotenv import load_dotenv
 from fastapi import Request, Response
 from rich import print
