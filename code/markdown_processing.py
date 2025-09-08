@@ -4,8 +4,6 @@ import re
 import time
 import mdformat
 from pathlib import Path
-
-# from urllib.parse import urlparse
 from typing import Optional
 
 import backoff
@@ -237,9 +235,6 @@ def write_markdown_from_url(
 
     # Format filename and path
     file_path = utils.get_markdown_filepath_for_url(url, output_dir)
-    # url_path = urlparse(url).path.split("/")
-    # filename = "_".join([part for part in url_path if part])
-    # file_path = Path(output_dir).joinpath(f"{filename}.md")
 
     new_content = ""
     for el in content:
