@@ -2,8 +2,9 @@ import asyncio
 import os
 import re
 import time
+import mdformat
 from pathlib import Path
-from urllib.parse import urlparse
+from typing import Optional
 
 import backoff
 import click
@@ -129,11 +130,102 @@ def find_section_position(content_lines: list, section_heading: str) -> int:
     return -1
 
 
-def write_markdown(
+def validate_and_format_markdown(content: str) -> str:
+    """
+    Ensure correct markdown formatting.
+    """
+    # Get YAML header
+    yaml_data = utils.parse_yaml_header(md_data=content)
+
+    # Remove YAML header from content
+    pattern = r"^---\s*\n.*?\n---\s*\n"
+    markdown_raw = re.sub(pattern, "", content, flags=re.MULTILINE | re.DOTALL)
+
+    # Format markdown
+    markdown_clean = mdformat.text(markdown_raw)
+
+    # Combine YAML header and clean markdown
+    body = "\n".join(f"{k}: {v}" for k, v in yaml_data.items())
+    markdown_final = f"---\n{body}\n---\n\n{markdown_clean}"
+
+    return markdown_final
+
+
+def run_markdown_formatting(input_dir: str):
+    """
+    Run markdown formatting for the input_dir and save the formatted
+    files to the same directory.
+    """
+    # Ensure directory exists
+    input_path = Path(input_dir)
+    if not input_path.exists() or not input_path.is_dir():
+        print(
+            f"[bold yellow]Directory not found or not a directory: {input_dir}"
+        )
+        return
+
+    # Load all .md from input_dir
+    files_to_process = list(Path(input_dir).glob("*.md"))
+    if not files_to_process:
+        print(f"[bold yellow]No .md files found in {input_dir}.")
+        return
+
+    print(
+        f"[bold][Formatting Markdown] {len(files_to_process)} file(s) in {input_dir}"
+    )
+
+    count = 0
+    for file_path in tqdm(files_to_process, desc="Formatting"):
+        try:
+            raw_content = file_path.read_text(encoding="utf-8")
+            formatted_content = validate_and_format_markdown(raw_content)
+            file_path.write_text(formatted_content, encoding="utf-8")
+            count += 1
+        except Exception as e:
+            print(f"❌ Error formatting {file_path.name}: {e}")
+
+    print(
+        f"[bold green]Formatted {count}/{len(files_to_process)} file(s) in {input_dir}"
+    )
+
+
+def clean_soft_hyphens(text: str) -> str:
+    """
+    Remove soft hyphens and invisible width modifiers that may appear
+    in crawled text. Also normalize non-breaking spaces to regular spaces.
+    """
+    # Characters to remove
+    SOFT_HYPHEN = "\u00ad"  # SHY
+    ZERO_WIDTH_SPACE = "\u200b"
+    ZERO_WIDTH_NON_JOINER = "\u200c"
+    ZERO_WIDTH_JOINER = "\u200d"
+    ZERO_WIDTH_NBSP = "\ufeff"
+    WORD_JOINER = "\u2060"
+
+    if not text:
+        return text
+
+    # Normalize NBSP to regular space
+    cleaned = text.replace("\u00a0", " ")
+
+    # Strip invisible/soft characters
+    for ch in (
+        SOFT_HYPHEN,
+        ZERO_WIDTH_SPACE,
+        ZERO_WIDTH_NON_JOINER,
+        ZERO_WIDTH_JOINER,
+        ZERO_WIDTH_NBSP,
+        WORD_JOINER,
+    ):
+        cleaned = cleaned.replace(ch, "")
+    return cleaned
+
+
+def write_markdown_from_url(
     url,
-    content,
+    content: list[str],
     output_dir: str = CRAWL_DIR,
-):
+) -> Optional[Path]:
     """
     Write markdown for a URL only if content is new or changed.
     Returns the filename if written/changed, else None.
@@ -142,17 +234,17 @@ def write_markdown(
     utils.ensure_dir(output_dir)
 
     # Format filename and path
-    url_path = urlparse(url).path.split("/")
-    filename = "_".join([part for part in url_path if part])
-    file_path = Path(output_dir).joinpath(f"{filename}.md")
+    file_path = utils.get_markdown_filepath_for_url(url, output_dir)
 
-    # Collect markdown content
     new_content = ""
     for el in content:
-        if el.startswith("#"):
-            new_content += "\n\n" + el + "\n\n"
+        # Clean el (a string) from all soft hyphens
+        cleaned_el = clean_soft_hyphens(el)
+
+        if cleaned_el.startswith("#"):
+            new_content += "\n\n" + cleaned_el + "\n\n"
         else:
-            new_content += el + "\n"
+            new_content += cleaned_el + "\n"
 
     # Check if file exists and content is unchanged
     if file_path.exists():
@@ -180,16 +272,20 @@ async def process_single_file_async(
     messages = create_llm_messages(prompt, content)
     response = await llm.ainvoke(messages)
 
+    # Validate and format markdown
+    clean_response = validate_and_format_markdown(response.content)
+
     # Write to output
     output_file = output_path / file_path.name
-    output_file.write_text(response.content, encoding="utf-8")
+    output_file.write_text(clean_response, encoding="utf-8")
     return file_path.name
 
 
 def process_markdown_files_with_llm(
     input_dir: str,
     output_dir: str,
-    model_name: str = "gpt-4o-mini-2024-07-18",
+    model_name: str = "gpt-4.1-2025-04-14",
+    temperature: float = 0,
     files_to_process: list | None = None,
     max_concurrent: int = 3,
     delay_between_requests: float = 0.5,
@@ -226,7 +322,7 @@ def process_markdown_files_with_llm(
     # Initialize the LLM
     llm = ChatOpenAI(
         model=model_name,
-        temperature=0,
+        temperature=temperature,
         api_key=os.getenv("OPENAI_API_KEY"),
         max_retries=2,
     )
@@ -299,9 +395,12 @@ def process_markdown_files_sequential(llm, input_files, output_path):
             messages = create_llm_messages(PROMPT_POST_PROCESSING, content)
             response = llm.invoke(messages)
 
+            # Validate and format markdown
+            clean_response = validate_and_format_markdown(response.content)
+
             # Write to output
             output_file = output_path / file_path.name
-            output_file.write_text(response.content, encoding="utf-8")
+            output_file.write_text(clean_response, encoding="utf-8")
 
             # Add delay between requests (reduced for better performance)
             time.sleep(0.2)
@@ -700,8 +799,14 @@ def additional_post_processing(
 @click.option(
     "--model-name",
     "-m",
-    default="gpt-4o-mini-2024-07-18",
-    help="Model name for LLM postprocessing. (default: gpt-4o-mini-2024-07-18)",
+    default="gpt-4.1-2025-04-14",
+    help="Model name for LLM postprocessing. (default: gpt-4.1-2025-04-14)",
+)
+@click.option(
+    "--temperature",
+    "-t",
+    default=0,
+    help="LLM temperature for post-processing. (default: 0)",
 )
 @click.option(
     "--llm-processing/--no-llm-processing",
@@ -716,6 +821,18 @@ def additional_post_processing(
     help="Run additional post-processing on markdown files. (default: True)",
 )
 @click.option(
+    "--format-markdown/--no-format-markdown",
+    "-format",
+    default=False,
+    help="Run only markdown formatting for all files in input_dir. (default: False)",
+)
+@click.option(
+    "--write-snapshot/--no-write-snapshot",
+    "-snapshot",
+    default=True,
+    help="Write a hash snapshot to input_dir. (default: True)",
+)
+@click.option(
     "--verbose/--no-verbose",
     "-v",
     default=False,
@@ -725,8 +842,11 @@ def run_post_processing(
     input_dir: str,
     files: tuple,
     model_name: str,
+    temperature: float,
     llm_processing: bool,
     additional_processing: bool,
+    format_markdown: bool,
+    write_snapshot: bool,
     verbose: bool,
 ):
     """
@@ -788,14 +908,25 @@ def run_post_processing(
             output_dir=str(DATA_DIR),
             files_to_process=files_to_process,
             model_name=model_name,
+            temperature=temperature,
         )
 
     # Additional post-processing
     if additional_processing:
         additional_post_processing(data_dir=str(DATA_DIR), verbose=verbose)
 
+    # Markdown formatting only
+    if format_markdown:
+        if not input_dir:
+            print(
+                "[bold yellow]Please provide an input_dir for markdown formatting."
+            )
+            return
+        run_markdown_formatting(input_dir=input_dir)
+
     # Update hash snapshot after processing
-    utils.write_hashes_for_directory(input_dir)
+    if write_snapshot:
+        utils.write_hashes_for_directory(input_dir)
 
 
 if __name__ == "__main__":

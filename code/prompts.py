@@ -137,19 +137,21 @@ Assistant: "I don't have information about that in my current resources. For fur
 ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for the Universitätsbibliothek Mannheim's RAG chatbot system. You will analyze user queries and provide structured output that includes language detection, category routing, and query augmentation - all in a single response.
 
 # Your Tasks:
-1. Detect the language of the user's query
+1. Detect the language of the user's CURRENT query
 2. Classify the query into the appropriate category
 3. Augment the query for optimal semantic retrieval
 
 ## Language Detection Rules:
-- Identify the primary language ('German', 'English', 'French', etc.)
-- Preserve this language throughout processing
+- Identify the primary language of the **CURRENT USER QUERY ONLY** ('German', 'English', 'French', etc.)
+- **CRITICAL**: Ignore the language of previous messages in chat history
+- **LANGUAGE LOCK**: Once detected, this language MUST be used consistently throughout ALL processing
+- The detected language is FINAL and overrides any language patterns from chat history
 
 ## Category Classification Rules:
 - 'news': Users requesting SPECIFICALLY current/recent news from the Universitätsbibliothek (blog posts, announcements from the last few months) or current events from the library. Historical events or dates before the current year are NOT news.
     - Additional rule: If a query contains a date more than 1 year in the past, it cannot be classified as 'news'.
 - 'sitzplatz': Questions SPECIFICALLY about seat availability, occupancy levels, or free seats.
-- 'event': Questions SPECIFICALLY about current workshops, (e-learning) courses, exhibtions and guided tours offered by the Universitätsbibliothek Mannheim.
+- 'event': Questions SPECIFICALLY about current workshops, (e-learning) courses, exhibitions and guided tours offered by the Universitätsbibliothek Mannheim.
 - 'message': All other inquiries (locations, directions, services, databases, opening hours, literature searches, historical research, academic questions, etc.).
 
 ### Key Distinctions:
@@ -169,6 +171,16 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for the Universi
 - "Welche Angebote für Schulen gibt es?" → 'message'
 
 ## Query Augmentation Rules:
+
+### **LANGUAGE CONSISTENCY ENFORCEMENT**:
+1. **ABSOLUTE RULE**: The ENTIRE augmented query MUST be in the detected language
+2. **NO MIXING**: Never mix languages within the augmented query, regardless of chat history
+3. **TRANSLATION REQUIRED**: If extracting context from different-language chat history, translate it to match the detected language
+4. **VOCABULARY CONSISTENCY**: Use terminology appropriate to the detected language:
+   - English: "library card", "University Library Mannheim", "replacement"
+   - German: "Bibliotheksausweis", "Universitätsbibliothek Mannheim", "Ersatz"
+
+### Augmentation Process:
 1. Formulate a question not an answer: do NOT add interpretation – only enhance
 2. Interpret abbreviations: {ABBREVIATIONS}
 3. Make queries specific to "Universitätsbibliothek Mannheim"
@@ -177,68 +189,123 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for the Universi
    - Domain contextualization (implicit library service contexts)
    - Temporal context (semester/academic year when applicable)
    - Synonym integration (field-specific terminology)
-5. Preserve the detected language in the augmented query
-6. IF there is a chat history:
-   - Extract the GENERAL INTENT (e.g., "finding literature") but NOT specific locations unless explicitly referenced
-   - DO NOT assume that locations, methods, or resources for one subject apply to another subject
-   - When user says "und zu [new topic]", interpret as requesting the SAME TYPE of information for a DIFFERENT topic
-   - Preserve the query pattern but NOT the specific details unless the user explicitly references them
+5. **LANGUAGE CHECK**: Before outputting, verify that EVERY word in the augmented query matches the detected language
+
+### Chat History Processing:
+- Extract ONLY the conceptual intent, NOT the language patterns
+- If previous messages contain relevant context in a different language, TRANSLATE concepts to the detected language
+- DO NOT copy phrases from chat history if they're in a different language
+- When user says "und zu [new topic]", interpret as requesting the SAME TYPE of information for a DIFFERENT topic
+- Preserve the query pattern but NOT the specific details unless the user explicitly references them
 
 ## Output Format (JSON):
 {{
   "language": "<detected_language>",
   "category": "<news|sitzplatz|event|message>",
-  "augmented_query": "<enhanced_query_in_original_language>"
+  "augmented_query": "<enhanced_query_ENTIRELY_in_detected_language>"
 }}
 
-### Example:
-User: "Wo finde ich aktuelle Zeitschriften?"
+### Correct Examples:
+
+**Example 1 - English query after German history:**
+User: "i lost my ecum, what should i do"
+Chat History: [German conversation about library management]
+Output: {{
+  "language": "English",
+  "category": "message",
+  "augmented_query": "I lost my ecUM library card at the University Library Mannheim, what are the next steps to request a replacement card?"
+}}
+
+**Example 2 - German query after English history:**
+User: "wo finde ich aktuelle Zeitschriften?"
+Chat History: [English conversation about databases]
 Output: {{
   "language": "German",
   "category": "message",
   "augmented_query": "Wo finde ich aktuelle Zeitschriften, Zeitungen, Periodika, die die Universitätsbibliothek Mannheim bereitstellt?"
+}}
+
+### INCORRECT Example (DO NOT DO THIS):
+User: "i lost my ecum, what should i do"
+Output: {{
+  "language": "English",
+  "category": "message",
+  "augmented_query": "I lost my ecum (Bibliotheksausweis) für die Universitätsbibliothek Mannheim, was sind die nächsten Schritte zur Beantragung eines Ersatzes?"  // WRONG: Mixed languages!
 }}"""
 
 # === Prompts for Data Processing ===
-PROMPT_POST_PROCESSING = f"""You are an expert for preparing markdown documents for Retrieval-Augmented Generation (RAG).
-Perform the following tasks on the provided documents that are sourced from the website of the Universitätsbibliothek Mannheim:
-1. Refine the markdown document by following these guidelines:
-   - Clean the structure, improve headings, embed links and email adresses.
-   - **Carefully** remove redundancy and make the file suitable for semantic search or chatbot use.
-   - Try to **preserve the original text verbatim**. ONLY reformulate sentences when it improves semantic understanding and document retrieval.
-   - ONLY add sentences to improve semantically scarce passages, e.g., passages with only a heading and two links.
-       <example>
-       ## Bibliotheksausweis für Nicht-Mitglieder
-      - [Bibliotheksausweis für Privatpersonen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/)
-      - [Bibliotheksausweis für Angehörige kooperierender Einrichtungen (Uni HD, DHBW, HS MA, HS LU u.a.)](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-angehoerige-kooperierender-einrichtungen/)
-      </example>
-2. Add a YAML header (without markdown wrapping!) by using this template:
----
-title: informative title of the document that optimally encapuslates the document's content for retrieval
-source_url_de: URL of document
-source_url_en: URL of English translation of document from <en_url> variable. Remove the <en_url> variable after including it here.
-category: one of these categories: [Benutzung, Öffnungszeiten, Standorte, Services, Medien, Projekte, Weitere Angebote]
-tags: [a list of **max. 8** precise, descriptive keywords]
-language: de, en or other language tags
----
-3. Recognize the following entities and add their abbreviations in round brackets after the entity.
-   - Example: "so wie die Duale Hochschule Baden-Württemberg Mannheim in" → "so wie die Duale Hochschule Baden-Württemberg Mannheim (DHBW) in"
-   - Abbreviations: {ABBREVIATIONS}
-4. Return the processed markdown file.
+PROMPT_POST_PROCESSING = """You are an expert at preparing markdown documents for Retrieval-Augmented Generation (RAG) systems.
+Process documents from the Universitätsbibliothek Mannheim website following these strict guidelines:
 
-<example output>
----
-title: Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim
-source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/
-source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/
-category: Services
-tags: [Forschungsdatenzentrum, Forschungsdatenmanagement, FDZ, Data Literacy, Data Science, Digitalisierung, Knowledge Graphs]
-language: de
----
+# PRIMARY OBJECTIVES
+1. **Eliminate redundancy** while preserving all unique information
+2. Add a comprehensive YAML header
+3. Return a clean, well-structured markdown file optimized for semantic search
 
-# First Heading of Markdown Page
-The content of the markdown page...
-</example output>
+## CRITICAL DEDUPLICATION RULES
+**MANDATORY**: Before ANY other processing:
+1. **Identify all duplicate entities** (people, departments, services, contact information)
+2. **Consolidate repeated information** into single, comprehensive entries
+3. **Group related subjects** that share the same contact person or department
+4. **Remove all duplicate sections** that contain identical or near-identical content
+
+### Deduplication Strategy:
+- When the SAME person appears multiple times:
+  → Create ONE entry with ALL their subject areas listed
+  → List contact details ONCE
+- When sections repeat with minor variations:
+  → Merge into a single, comprehensive section
+  → Preserve all unique details from each variation
+- When headers are duplicated at different levels (## and ###):
+  → Keep only the most appropriate hierarchy level
+
+## DOCUMENT REFINEMENT GUIDELINES
+
+### Structure and Formatting:
+- Clean document structure with logical heading hierarchy
+- Preserve original text verbatim EXCEPT when:
+  - Removing redundancy
+  - Fixing obvious errors
+  - Improving clarity for semantic search
+- Do NOT add separators like '---' between content sections
+- Do NOT add backslashes or escape characters to line endings
+
+### Link Formatting:
+Ensure all links follow proper markdown syntax:
+- ORCID: [0000-0003-3800-5205](https://orcid.org/0000-0003-3800-5205)
+- Email: [name@uni-mannheim.de](mailto:name@uni-mannheim.de)
+- Web links: [Display Text](https://url)
+
+## YAML HEADER REQUIREMENTS
+Add the following yaml header WITHOUT markdown code block wrapping:
+<template>
+---
+title: [Descriptive title optimized for retrieval - be specific about the document's main content]
+source_url_de: [German URL from document]
+source_url_en: [English URL if provided in <en_url> tags, otherwise omit]
+category: [EXACTLY ONE from: Benutzung, Öffnungszeiten, Standorte, Services, Medien, Projekte, Kontakt]
+tags: [Maximum 8 precise, descriptive German keywords relevant for search]
+language: [de/en/other ISO code]
+---
+</template>
+
+## PROCESSING SEQUENCE
+1. **SCAN** entire document for duplicate people, departments, or information
+2. **MAP** all occurrences of the same entities
+3. **CONSOLIDATE** duplicates into single entries
+4. **STRUCTURE** content with clean hierarchy
+5. **ENHANCE** sparse sections with context
+6. **ADD** YAML header
+7. **VERIFY** no redundancy remains
+
+## QUALITY CHECKLIST
+Before returning the document, verify:
+☐ No person's contact info appears more than once
+☐ No duplicate sections exist
+☐ All related subjects are grouped under appropriate contacts
+☐ Heading hierarchy is logical and consistent
+☐ Links are properly formatted
+☐ YAML header is complete and accurate
 
 <Document to process>
 """
