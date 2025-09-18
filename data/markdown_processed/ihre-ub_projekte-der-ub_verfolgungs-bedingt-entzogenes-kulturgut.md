@@ -20,7 +20,7 @@ Ziel des Projektes ist es, Raubgut in den Beständen der Universitätsbibliothek
 
 Zu diesem Zweck werden die Eingangsjournale der Wissenschaftlichen Stadtbibliothek überprüft, in denen die Erwerbungen inventarisiert wurden. Bei Unstimmigkeiten, wie auffälligen Erwerbungsorten, wird am einzelnen Buch geprüft, ob sich Hinweise auf Vorbesitzer\*innen identifizieren lassen. Neben Ex Libris-Aufklebern oder Stempeln können dies Widmungen, Signaturen oder Namenseinträge sein. Die Rechercheergebnisse werden in den Datenbanken [Looted Cultural Assets](https://www.lootedculturalassets.de/) und [Lost Art](https://www.lostart.de/) dokumentiert.
 
-## Weiterführende Informationen
+## Weitere Informationen
 
 - [Pressemitteilung](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/pressemitteilung/)
 - [Kooperationspartner](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/partner/)
@@ -38,7 +38,7 @@ Sie haben Fragen zum Projekt? Sprechen Sie uns gerne an.
 Wissenschaftliche Mitarbeiterin Provenienzforschung
 Universität Mannheim, Universitätsbibliothek
 Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
-
+Telefon: +49 621 181-3365
 E-Mail: [ellen.wendel@uni-mannheim.de](mailto:ellen.wendel@uni-mannheim.de)
 
 ## Projektorganisation
