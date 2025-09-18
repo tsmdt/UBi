@@ -13,34 +13,30 @@ Sie möchten die Universitätsbibliothek und ihr Angebot kennenlernen? Hier find
 
 ## Bibliotheksausweis
 
-[Informationen zum Bibliotheksausweis](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/):\
+[Informationen zum Bibliotheksausweis](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/):
 Wie melde ich mich an und welche Services der UB kann ich nutzen? Informationen für Angehörige der Universität Mannheim, Angehörige kooperierender Einrichtungen und Privatpersonen.
 
 ## InfoCenter
 
-[InfoCenter – Zentrale Anlaufstelle](https://www.bib.uni-mannheim.de/standorte/infocenter/):\
+[InfoCenter – Zentrale Anlaufstelle](https://www.bib.uni-mannheim.de/standorte/infocenter/):
 Ihre zentrale Anlaufstelle für Auskunft und Beratung.
 
 ## Erstiflyer der UB
 
-[Erstiflyer der UB (PDF, 2,23 MB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Erstiflyer_2024-08_DE_digit.pdf):\
+[Erstiflyer der UB (PDF, 2,23 MB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Erstiflyer_2024-08_DE_digit.pdf):
 Infos für den Einstieg finden Sie in unserem Erstiflyer. Herzlich willkommen!
 
 ## Lageplan
 
-[Lageplan der Universitätsbibliothek](https://www.bib.uni-mannheim.de/footer/lageplan/):\
+[Lageplan der Universitätsbibliothek](https://www.bib.uni-mannheim.de/footer/lageplan/):
 Wo finde ich den Bibliotheksbereich für mein Fach? Die Standorte der Universitätsbibliothek.
 
 ## Internetzugang
 
-[Internetzugang](https://www.bib.uni-mannheim.de/services/internetzugang/):\
+[Internetzugang](https://www.bib.uni-mannheim.de/services/internetzugang/):
 WLAN-Netz eduroam, VPN-Client und Informationen der Universitäts-IT.
 
 ## Kurse und Tutorials
 
-[Kurse und Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/):\
+[Kurse und Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/):
 Alle Kurse, die Kursreihe Study Skills, Führungen, Tutorials und Angebote für Schulen.
-
-______________________________________________________________________
-
-Die Bibliotheken an der Universität Mannheim sind inspirierende Orte und werden gerne zur Klausurvorbereitung genutzt.
