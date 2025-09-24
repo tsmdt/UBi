@@ -122,3 +122,38 @@ a {
     text-decoration-thickness: 2px !important;
     text-decoration-style: solid !important;
 }
+
+/* Custom Header Styles */
+#header {
+    background-color: #00325d !important;
+}
+
+/* Default color for links and buttons inside the header */
+#header a, #header button {
+    color: #abb8ca !important;
+}
+
+/* Default color for SVGs inside header buttons, for icons */
+#header button svg {
+    color: #abb8ca !important;
+}
+
+/* Color for active/hover states */
+#header a:hover, #header a:active, #header a:focus,
+#header button:hover, #header button:active, #header button:focus,
+#header [aria-current="page"] {
+    color: white !important;
+    /* The framework might add a background color on hover, let's remove it */
+    background-color: transparent !important;
+}
+
+/* Color for SVGs on hover/active states */
+#header button:hover svg,
+#header button:active svg,
+#header button:focus svg {
+    color: white !important;
+}
+
+#beta-heading {
+    color: white !important;
+}
