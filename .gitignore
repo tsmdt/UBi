@@ -1,4 +1,5 @@
 /.env
+/data/backups
 /data/feedback.db
 /data/vectorstore
 /**/snapshot/
