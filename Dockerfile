@@ -5,11 +5,13 @@ ENV PYTHONDONTWRITEBYTECODE=1 \
 
 WORKDIR /app
 
-COPY ./code /app
+COPY ./code/requirements.txt /app
 
 RUN pip install --root-user-action ignore --upgrade pip && \
     pip install --root-user-action ignore -r requirements.txt && \
     rm -rf /root/.cache
+
+COPY ./code /app
 
 EXPOSE 8000
 
