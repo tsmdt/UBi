@@ -92,7 +92,7 @@ Verwenden Sie beim Einreichungsprozess die E-Mail-Adresse der Universität. Dami
 
 ### Frontiers
 
-Im Rahmen des Konsortialvertrags mit dem Verlag Frontiers können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim in allen Zeitschriften des Verlages publizieren, ohne dass Ihnen dabei Publikationsgebühren anfallen. Dies gilt, wenn Sie als „corresponding author“ für den Artikel zuständig sind und dieser zwischen dem 1. April 2024 und dem 31. Dezember 2025 zur Publikation angenommen wurde.
+Im Rahmen des Konsortialvertrags mit dem Verlag Frontiers können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim in allen Zeitschriften des Verlages publizieren, ohne dass Ihnen dabei Publikationsgebühren anfallen. Dies gilt, wenn Sie als „corresponding author“ für den Artikel zuständig sind und dieser zwischen dem 1. April 2024 und dem 31. Dezember 2026 zur Publikation angenommen wurde.
 Wählen Sie dafür beim Einreichungsprozess die Universität Mannheim als Einrichtung aus.
 Ein Antrag auf die Übernahme aus dem Open-Access-Publikationsfonds ist für den Zeitraum des Konsortialvertrags nicht nötig.
 [Zeitschriftenliste Frontiers](https://www.frontiersin.org/about/journals-a-z)
