@@ -7,7 +7,7 @@
 
 ## Mit Ihrer ecUM oder UB-Chipkarte können Sie in allen Bibliotheksbereichen drucken und kopieren. Für einen doppelseitigen Druck in schwarz-weiß zahlen Sie 3 Cent pro Seite, die über ein virtuelles Druckkonto abgebucht werden. Außerdem können Sie kostenlos Scans auf USB-Stick sichern oder an Ihre universitäre E-Mail-Adresse versenden.
 
-In allen Bibliotheksbereichen können Sie an definierten PCs in der Nähe der Infotheken Geld auf Ihr virtuelles Druckkonto umbuchen. Diese Möglichkeit bieten auch die [SB-Terminals](https://www.uni-mannheim.de/it/anleitungen/sb-terminals/). Der umgebuchte Betrag steht Ihnen zum Kopieren und Drucken zur Verfügung. Auf der Webseite „[Papercut](https://drucken.uni-mannheim.de)" sehen Sie den aktuellen Status Ihres Druckkontos.
+In allen Bibliotheksbereichen können Sie an definierten PCs in der Nähe der Infotheken Geld auf Ihr virtuelles Druckkonto umbuchen. Der umgebuchte Betrag steht Ihnen zum Kopieren und Drucken zur Verfügung. Auf der Webseite „[Papercut](https://drucken.uni-mannheim.de)" sehen Sie den aktuellen Status Ihres Druckkontos.
 
 
 ## Druckgebühren

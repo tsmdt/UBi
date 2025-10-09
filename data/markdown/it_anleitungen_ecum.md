@@ -103,9 +103,6 @@ Bitte beachten Sie, dass für kostenpflichtige Dienste zuvor Guthaben auf Ihre e
 
 - A 5, 6 Bauteil A im Foyer
 - A 3 in der Bibliothek
-- Ehrenhof West, in der Bibliothek im 2.OG
-- Schneckenhof Süd im Foyer BWL-Bibliothek (Nähe InfoCenter)
-- Schneckenhof-Foyer (Nähe Campus Shop)
 - Westflügel im Ausleihzentrum der Bibliothek
 
 

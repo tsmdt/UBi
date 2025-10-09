@@ -3,28 +3,26 @@ title: Bibliotheksgebühren der Universitätsbibliothek Mannheim – Übersicht 
 source_url_de: https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/bibliotheksgebuehren/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/borrow-request-renew/library-fees/
 category: Services
-tags: ['Gebühren', 'Mahngebühren', 'Fernleihe', 'Bibliotheksausweis', 'Zahlung', 'Bankverbindung', 'Ausleihzentrum', 'SB-Terminal']
+tags: ['Bibliotheksgebühren', 'Zahlungsmodalitäten', 'Mahngebühren', 'Fernleihe', 'Bibliotheksausweis', 'ecUM', 'Chipkarte', 'Gebührenordnung']
 language: de
 ---
 
-# Bibliotheksgebühren
+# Bibliotheksgebühren der Universitätsbibliothek Mannheim
 
-Bibliotheksgebühren können mit Ihrer ecUM oder UB-Chipkarte an der Theke im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) sowie an allen [SB-Terminals](https://www.uni-mannheim.de/it/anleitungen/sb-terminals/) bezahlt werden.
+Bibliotheksgebühren können Sie mit Ihrer ecUM oder UB-Chipkarte an der Infotheke im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) oder per Überweisung bezahlen.
 
 Bei Zahlung per Banküberweisung kann es bis zu 5 Werktage dauern, bis Ihr Bibliothekskonto entlastet ist. Sobald die Gebühren dem Bibliothekskonto gutgeschrieben wurden, erhalten Sie eine E-Mail. Bitte geben Sie bei der Überweisung die Nummer Ihrer ecUM oder UB-Chipkarte an und nutzen Sie folgende Bankverbindung:
 
-**Bankverbindung für Überweisungen:**
-
-- Empfänger: Universität Mannheim
-- Bank: Baden-Württembergische Bank
-- IBAN: DE13 6005 0101 7496 5010 68
-- BIC: SOLADEST600
-- Verwendungszweck: z. B. „Mahngebühren UB“ und Ihre ecUM- oder Chipkartennummer
+- **Empfänger:** Universität Mannheim
+- **Bank:** Baden-Württembergische Bank
+- **IBAN:** DE13 6005 0101 7496 5010 68
+- **BIC:** SOLADEST600
+- **Verwendungszweck:** z. B. „Mahngebühren UB“ und Ihre ecUM- oder Chipkartennummer
 
 ## Die wichtigsten Gebühren im Überblick
 
 | Gebührentatbestand | Betrag |
-| --- | --- |
+|--------------------|--------|
 | 1. Mahnung (je Einheit) | 1,50 Euro |
 | 2. Mahnung (je Einheit) zusätzlich | 5,00 Euro |
 | 3. Mahnung (je Einheit) zusätzlich | 10,00 Euro |
