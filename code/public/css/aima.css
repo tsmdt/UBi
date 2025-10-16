@@ -159,3 +159,13 @@ a {
 #beta-heading {
     color: white !important;
 }
+
+.font-bold {
+    font-family: 'Inter', sans-serif !important;
+    font-weight: 700 !important; 
+}
+
+/* Hide the "Policy" heading */
+h2.text-lg.font-semibold.leading-none.tracking-tight {
+    display: none !important;
+}
