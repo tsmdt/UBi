@@ -66,18 +66,27 @@ Mehr Informationen hierzu finden Sie auf der Seite [Hinweise zur E-Book- und Dat
 
 ### Fachliche Internetquellen
 
+**Canadian Studies**
+
+- [CanLit Guides](https://canlitguides.ca/)
+
 **Digital Humanities**
 
-- [Clarin-D ](http://clarin-d.de/)
+- [Clarin-D](http://clarin-d.de/)
 - [DARIAH-DE](http://de.dariah.eu/)
 - [TAPoR](http://tapor.ca)
 - [Textgrid](http://www.textgrid.de/)
 
+**Irish Studies**
+
+- [Irish, Celtic Studies & Folklore](https://libguides.ucd.ie/irish)
+- [Scholarly Resources in Irish Studies](https://acrl.libguides.com/ess/irishstudies)
+
 **KI-Ressourcen**
 
-- [Literaturrecherche ](https://www.vkkiwa.de/ki-ressourcen/)
-- [Textverstehen ](https://www.vkkiwa.de/ki-ressourcen/)
-- [Textproduktion ](https://www.vkkiwa.de/ki-ressourcen/)
+- [Literaturrecherche](https://www.vkkiwa.de/ki-ressourcen/)
+- [Textverstehen](https://www.vkkiwa.de/ki-ressourcen/)
+- [Textproduktion](https://www.vkkiwa.de/ki-ressourcen/)
 - [Textbearbeitung / -korrektur](https://www.vkkiwa.de/ki-ressourcen/)
 
 **Linguistikblogs**
