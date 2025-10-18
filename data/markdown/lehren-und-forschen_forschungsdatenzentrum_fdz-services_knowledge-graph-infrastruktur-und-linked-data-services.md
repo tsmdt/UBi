@@ -38,15 +38,3 @@ Beispiel: [Der YP-Korpus ](https://www.wikidata.org/wiki/Q119844794)
 ### Verbesserung Ihres Forscherprofils bei Wikidata und Scholia
 
 Beispiel: Profil von Christian Bizer bei [Wikidata](https://www.wikidata.org/wiki/Q17744291) und [Scholia](https://scholia.toolforge.org/author/Q17744291)
-
-
-## Kontakt
-
-
-
-### Forschungsdatenzentrum (FDZ)
-
-Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will
-- Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
-- Web: [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](/lehren-und-forschen/forschungsdatenzentrum/)
-- E-Mail: forschungsdaten@uni-mannheim.de

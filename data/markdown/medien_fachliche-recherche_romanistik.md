@@ -106,21 +106,4 @@ Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten.
 
 ## Kontakt
 
-
-
-### Dr. Jorge Murcia Serra
-
-Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI
-
-Aufgaben:
-
-- Literaturauswahl und -erschließung für das Fach Romanistik
-- Auswahl und Erschließung von Sprachlernmaterialien
-- Fachliche Beratung bei Recherchefragen
-- Durchführung von Schulungen im Fachbereich
-- Betreuung des Bereichs Informationskompetenz und E-Learning
-- Education & Training im ProjektBERD@NFDI
-- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
-- Telefon: +49 621 181-2997
-- E-Mail: jorge.murcia@uni-mannheim.de
 Vertretung[Angela Leichtweiß](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/angela-leichtweiss/)

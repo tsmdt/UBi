@@ -1,15 +1,15 @@
 ---
-title: Fachliche Recherche und Services der UB Mannheim für Romanistik
+title: Fachliche Recherche und Ressourcen für Romanistik an der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/romanistik/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/romance-studies/
 category: Medien
-tags: ['Romanistik', 'Literaturrecherche', 'Datenbanken', 'E-Journals', 'E-Books', 'Tutorials', 'Wissenschaftliches Arbeiten', 'Fachberatung']
+tags: ['Romanistik', 'Fachrecherche', 'Datenbanken', 'E-Journals', 'E-Books', 'Literaturstandorte', 'Kurse', 'Wissenschaftliches Arbeiten']
 language: de
 ---
 
 # Romanistik an der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim bietet für das Fach Romanistik umfassende Literatur, Datenbanken und weitere Recherchezugänge. Für individuelle Beratung oder Tipps zum wissenschaftlichen Arbeiten stehen Ihnen unsere Kurse und persönliche Beratung zur Verfügung.
+Die Universitätsbibliothek Mannheim bietet für das Fach Romanistik umfangreiche Literatur, Datenbanken und weitere Recherchezugänge. Für individuelle Beratung oder Tipps zum wissenschaftlichen Arbeiten stehen Ihnen verschiedene Kurse und persönliche Beratung zur Verfügung.
 
 ## Recherchieren
 
@@ -72,7 +72,7 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Romanistik umfassende 
 
 ## Kurse und Tutorials
 
-Die UB bietet regelmäßig Schulungen zur Recherche im Fach Romanistik an. Tutorials können jederzeit online absolviert werden. Individuelle Beratung ist ebenfalls möglich.
+Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche im Fach Romanistik an. Tutorials können jederzeit online absolviert werden. Individuelle Beratung ist möglich.
 
 - [Kursangebot](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Kursreihe Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
@@ -102,23 +102,5 @@ Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten:
 
 ## Kontakt
 
-### Dr. Jorge Murcia Serra
-
-**Rolle:** Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachlernmaterialien | Education & Training für BERD@NFDI
-
-**Aufgaben:**
-
-- Literaturauswahl und -erschließung für das Fach Romanistik
-- Auswahl und Erschließung von Sprachlernmaterialien
-- Fachliche Beratung bei Recherchefragen
-- Durchführung von Schulungen im Fachbereich
-- Betreuung des Bereichs Informationskompetenz und E-Learning
-- Education & Training im Projekt BERD@NFDI
-
-**Kontakt:**
-
-- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
-- Telefon: +49 621 181-2997
-- E-Mail: [jorge.murcia@uni-mannheim.de](mailto:jorge.murcia@uni-mannheim.de)
-
-**Vertretung:** [Angela Leichtweiß](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/angela-leichtweiss/)
+**Ansprechpartnerin für Romanistik:**
+[Angela Leichtweiß](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/angela-leichtweiss/) (Vertretung)

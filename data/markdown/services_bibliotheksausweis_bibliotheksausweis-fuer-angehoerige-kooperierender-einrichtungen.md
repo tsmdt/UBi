@@ -67,15 +67,3 @@ Bei Verlust oder Defekt Ihrer ecUM können Sie sich im InfoCenter bei der UNIT e
 - Adressänderungen sind nur persönlich an der Infotheke im InfoCenter möglich. Wir benötigen dafür Ihren Personalausweis (alternativ Ihren Reisepass mit Meldebescheinigung).
 
 [Bibliotheksausweis für Angehörige der Universität Mannheim](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/)[Bibliotheksausweis für Privatpersonen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/)
-
-
-## Kontakt
-
-
-
-### InfoCenter
-
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim
-- Web: [www.bib.uni-mannheim.de](https://www.bib.uni-mannheim.de/)
-- Telefon: +49 621 181-2948
-- E-Mail: info.ub@uni-mannheim.de

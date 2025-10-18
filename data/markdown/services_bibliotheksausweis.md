@@ -34,15 +34,3 @@ Bei Verlust oder Defekt Ihrer ecUM können Sie eine Ersatzkarte über das [Studi
 - Alle Benachrichtigungen, wie Vormerkungen oder Mahnungen, werden an Ihre universitäre E-Mail-Adresse geschickt.
 - Adressänderungen sind an den ecUM-Terminals und in den Studienbüros möglich.
 
-
-
-## Kontakt
-
-
-
-### InfoCenter
-
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim
-- Web: [www.bib.uni-mannheim.de](https://www.bib.uni-mannheim.de/)
-- Telefon: +49 621 181-2948
-- E-Mail: info.ub@uni-mannheim.de

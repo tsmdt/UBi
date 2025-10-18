@@ -5,23 +5,6 @@
 
 
 
-### Viktor Boecking, M.A. (er/ihn)
-
-Leiter der Abteilung Kommunikation | Fachreferent für Geschichte | E-Learning
-
-Aufgaben:
-
-- Kommunikation und Öffentlichkeitsarbeit
-- Fachliche Beratung bei Recherchefragen
-- Durchführung von Schulungen im Fachbereich
-- Betreuung der historischen Sammlungen
-- Konzipierung von Ausstellungen
-- Betreuung des Bereichs E-Learning
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
-- Telefon: +49 621 181-2938
-- E-Mail: kommunikation.ub@uni-mannheim.de
-
-
 ### Christina Schüßler, M.A.
 
 Kommunikation | Webredaktion

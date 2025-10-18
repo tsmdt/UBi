@@ -15,15 +15,3 @@
 - Wie verbessert die Nutzung eines [Knowledge Graphs](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/knowledge-graph-infrastruktur-und-linked-data-services/) gegenüber herkömmlichen Datenvisualisierungsmethoden die Verständlichkeit komplexer Zusammenhänge?
 
 Forschungsdatenmanagement hat viele Facetten und ist in allen Phasen des Forschungsprozesses von der Planung über die Durchführung bis zum Abschluss eines Projektes relevant. Das FDZ-Team unterstützt Sie gerne bei allen Fragen rund um das Thema Forschungsdatenmanagement.
-
-
-## Kontakt
-
-
-
-### Forschungsdatenzentrum (FDZ)
-
-Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will
-- Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
-- Web: [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](/lehren-und-forschen/forschungsdatenzentrum/)
-- E-Mail: forschungsdaten@uni-mannheim.de

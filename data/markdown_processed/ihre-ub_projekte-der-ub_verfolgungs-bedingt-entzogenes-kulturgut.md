@@ -2,11 +2,11 @@
 title: Provenienzforschung zu NS-Raubgut im Bestand der Universitätsbibliothek Mannheim (2024–2026)
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/
 category: Projekte
-tags: ['Provenienzforschung', 'NS-Raubgut', 'Kulturgut', 'Restitution', 'Universitätsbibliothek', 'Mannheim', 'Forschungsprojekt', 'Kulturgutverluste']
+tags: ['Provenienzforschung', 'NS-Raubgut', 'Restitution', 'Kulturgut', 'Universitätsbibliothek', 'Forschungsprojekt', 'Bestandsprüfung', 'Kooperationen']
 language: de
 ---
 
-# Provenienzforschung zu NS-Raubgut im Bestand der Universitätsbibliothek Mannheim
+# Verfolgungsbedingt entzogenes Kulturgut im Bestand der Universitätsbibliothek Mannheim
 
 Die Universitätsbibliothek Mannheim untersucht ihre historischen Buchbestände auf Verdachtsfälle von NS-Raubgut, um diese zu erfassen, sichtbar zu machen und sofern möglich zu restituieren.
 
@@ -31,22 +31,15 @@ Zu diesem Zweck werden die Eingangsjournale der Wissenschaftlichen Stadtbiblioth
 
 ## Kontakt
 
-Sie haben Fragen zum Projekt? Sprechen Sie uns gerne an.
+Bei Fragen zum Projekt wenden Sie sich bitte an:
 
-### Ellen Wendel
-
+**Ellen Wendel**
 Wissenschaftliche Mitarbeiterin Provenienzforschung
 Universität Mannheim, Universitätsbibliothek
 Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
 Telefon: +49 621 181-3365
 E-Mail: [ellen.wendel@uni-mannheim.de](mailto:ellen.wendel@uni-mannheim.de)
 
-### Projektorganisation
+## Projektorganisation
 
-#### Viktor Boecking, M.A.
-
-Leiter der Abteilung Kommunikation, Fachreferent für Geschichte, E-Learning
-Universität Mannheim, Universitätsbibliothek
-Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
-Telefon: +49 621 181-2938
-E-Mail: [viktor.boecking@uni-mannheim.de](mailto:viktor.boecking@uni-mannheim.de)
+*(Weitere Informationen zur Projektorganisation sind auf der Website verfügbar.)*

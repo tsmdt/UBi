@@ -1,21 +1,21 @@
 ---
-title: Fachliche Recherche an der Universitätsbibliothek Mannheim – Fachreferent:innen und Kontakt für alle Fachbereiche
+title: Fachliche Recherche an der Universitätsbibliothek Mannheim – Fachreferate, Kontakt und fachspezifische Rechercheangebote
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/
 category: Services
-tags: ['Fachreferenten', 'Fachberatung', 'Fachrecherche', 'Kontakt', 'Universitätsbibliothek', 'Fachbereiche', 'Literaturrecherche', 'Datenbanken']
+tags: ['Fachreferate', 'Fachberatung', 'Recherche', 'Datenbanken', 'Literatur', 'Kontakt', 'Fachgebiete', 'Universitätsbibliothek']
 language: de
 ---
 
 # Fachliche Recherche an der Universitätsbibliothek Mannheim
 
-Für Ihr Fach bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken, weitere Sucheinstiege sowie fachspezifische Recherchekurse. Für individuelle Auskünfte oder Beratung wenden Sie sich bitte an die zuständigen Fachreferentinnen und Fachreferenten.
+Die Universitätsbibliothek Mannheim bietet für verschiedene Fachbereiche Literatur, Datenbanken, weitere Sucheinstiege sowie fachspezifische Recherchekurse an. Für individuelle Auskünfte oder Beratungen stehen Ihnen die Fachreferentinnen und Fachreferenten zur Verfügung.
 
-## Fachreferent:innen und ihre Fachgebiete
+## Fachreferentinnen und Fachreferenten
 
 ### Dr. Rudolf Nink, M.A.
 
-Fachreferent für:
+**Fachreferent für:**
 
 - Allgemeines
 - Allgemeine Sprach- und Literaturwissenschaft
@@ -23,112 +23,34 @@ Fachreferent für:
 - Germanistik
 - Philosophie
 
-Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
-Telefon: +49 621 181-3053
-E-Mail: [rudolf.nink@uni-mannheim.de](mailto:rudolf.nink@uni-mannheim.de)
+**Kontakt:**
 
-### Xiuwen Ye, M.Sc.
-
-Fachreferentin für:
-
-- Wirtschaftswissenschaften (Betriebswirtschaftslehre, Volkswirtschaftslehre)
-- Pädagogik
-- Wirtschaftspädagogik
-
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
-Telefon: +49 621 181-3753
-E-Mail: [xiuwen.ye@uni-mannheim.de](mailto:xiuwen.ye@uni-mannheim.de)
-
-### Viktor Boecking, M.A.
-
-Leiter der Abteilung Kommunikation
-Fachreferent für:
-
-- Geschichte
-- E-Learning
-
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
-Telefon: +49 621 181-2938
-E-Mail: [viktor.boecking@uni-mannheim.de](mailto:viktor.boecking@uni-mannheim.de)
-
-### Dr. Philipp Zumstein
-
-Leiter der Abteilung Publikationsservices und Forschungsunterstützung
-Fachreferent für:
-
-- (Wirtschafts-)Informatik
-  Open-Access-Beauftragter der Universität Mannheim
-
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 269.1, 68161 Mannheim
-Telefon: +49 621 181-3006
-E-Mail: [philipp.zumstein@uni-mannheim.de](mailto:philipp.zumstein@uni-mannheim.de)
-ORCID: [0000-0002-6485-9434](https://orcid.org/0000-0002-6485-9434)
-
-### Christos Sidiropoulos, M.Ed.
-
-Referent für Forschungsdatenmanagement (Data Literacy)
-Fachreferent für:
-
-- Mathematik
-
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 280, 68161 Mannheim
-Telefon: +49 621 181-2962
-E-Mail: [christos.sidiropoulos@uni-mannheim.de](mailto:christos.sidiropoulos@uni-mannheim.de)
-ORCID: [0009-0001-3341-3149](https://orcid.org/0009-0001-3341-3149)
+- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 104, 68159 Mannheim
+- Telefon: +49 621 181-3053
+- E-Mail: [rudolf.nink@uni-mannheim.de](mailto:rudolf.nink@uni-mannheim.de)
 
 ### Vanessa Kolb
 
-Fachreferentin für:
+**Fachreferentin für:**
 
 - Medien- und Kommunikationswissenschaft
-  Education & Training für BERD@NFDI
-  Publikationsdienste und Forschungsunterstützung
 
-Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
-Telefon: +49 621 181-3958
-E-Mail: [vanessa.kolb@uni-mannheim.de](mailto:vanessa.kolb@uni-mannheim.de)
+**Weitere Aufgaben:**
 
-### Dr. Hendrik Platte
+- Education & Training für BERD@NFDI
+- Publikationsdienste und Forschungsunterstützung
 
-Fachreferent für:
+**Kontakt:**
 
-- Politikwissenschaft
-- Soziologie
-- Psychologie
-  Ansprechpartner EDZ
+- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
+- Telefon: +49 621 181-3958
+- E-Mail: [vanessa.kolb@uni-mannheim.de](mailto:vanessa.kolb@uni-mannheim.de)
 
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
-Telefon: +49 621 181-2990
-E-Mail: [edz.ub@uni-mannheim.de](mailto:edz.ub@uni-mannheim.de)
+## Fachgebiete und Rechercheangebote
 
-### Dr. Marion von Francken-Welz
+Für die folgenden Fachbereiche bietet die Universitätsbibliothek spezifische Rechercheangebote, Literatur und Datenbanken an. Die jeweiligen Fachreferentinnen und Fachreferenten stehen für Beratung und Unterstützung zur Verfügung.
 
-Stellvertretende Leiterin der Abteilung Medienbearbeitung
-Fachreferentin für:
-
-- Rechtswissenschaft
-
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Ehrenhof – Raum M 305, 68161 Mannheim
-Telefon: +49 621 181-3024
-E-Mail: [marion.francken-welz@uni-mannheim.de](mailto:marion.francken-welz@uni-mannheim.de)
-
-### Dr. Jorge Murcia Serra
-
-Informationskompetenz und E-Learning
-Fachreferent für:
-
-- Romanistik
-- Sprachlernmaterialien
-  Education & Training für BERD@NFDI
-
-Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
-Telefon: +49 621 181-2997
-E-Mail: [jorge.murcia@uni-mannheim.de](mailto:jorge.murcia@uni-mannheim.de)
-
-## Fachgebiete und Rechercheportale
-
-Für jedes Fachgebiet stehen eigene Rechercheportale und weiterführende Informationen zur Verfügung:
-
+- [Allgemeines](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/)
 - [Allgemeine Sprach- und Literaturwissenschaft](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/allgemeine-sprach-und-literaturwissenschaft/)
 - [Anglistik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/anglistik/)
 - [Betriebswirtschaftslehre](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/betriebswirtschaftslehre/)
@@ -146,4 +68,4 @@ Für jedes Fachgebiet stehen eigene Rechercheportale und weiterführende Informa
 - [Soziologie](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/soziologie/)
 - [Volkswirtschaftslehre](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/volkswirtschaftslehre/)
 
-Für weitere Informationen und individuelle Beratung wenden Sie sich bitte an die jeweiligen Fachreferent:innen.
+Für weitere Informationen und individuelle Beratung wenden Sie sich bitte an die zuständigen Fachreferentinnen und Fachreferenten.

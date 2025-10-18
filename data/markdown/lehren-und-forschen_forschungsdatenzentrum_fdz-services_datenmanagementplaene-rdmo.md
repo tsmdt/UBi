@@ -17,15 +17,3 @@ Weitere allgemeine Informationen zu DMPs finden Sie [hier](https://www.bib.uni-m
 Für eine Überprüfung und Beratung zu einem DMP wenden Sie sich bitte an Dr. David Philip Morgan unter den unten angegebenen Kontaktdaten.
 **Zugang zum DMP-Tool MADataPlan:**
 Schauen Sie sich MADataPlan an, eine Instanz von RDMO, und verwenden Sie es, um Ihren DMP zu erstellen, indem Sie auf den folgenden Link klicken [https://fdz.bib.uni-mannheim.de/madataplan](https://fdz.bib.uni-mannheim.de/madataplan)
-
-
-## Kontakt
-
-
-
-### Forschungsdatenzentrum (FDZ)
-
-Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will
-- Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
-- Web: [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](/lehren-und-forschen/forschungsdatenzentrum/)
-- E-Mail: forschungsdaten@uni-mannheim.de

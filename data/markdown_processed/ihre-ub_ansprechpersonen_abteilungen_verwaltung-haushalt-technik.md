@@ -1,30 +1,34 @@
 ---
-title: Verwaltung, Haushalt, Technik – Ansprechpartner und Kontaktinformationen der Universitätsbibliothek Mannheim
+title: Verwaltung, Haushalt und Technik – Ansprechpartner und Aufgabenbereiche der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/verwaltung-haushalt-technik/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/administration-budget-and-technical-services/
 category: Kontakt
-tags: ['Verwaltung', 'Haushalt', 'Technik', 'Ansprechpartner', 'Universitätsbibliothek', 'Mannheim', 'Kontakt', 'Abteilung']
+tags: ['Verwaltung', 'Haushalt', 'Technik', 'Ansprechpartner', 'Universitätsbibliothek', 'Abteilungen', 'Service', 'Organisation']
 language: de
 ---
 
-# Verwaltung, Haushalt, Technik – Ansprechpartner
+# Verwaltung, Haushalt und Technik
 
-Die Abteilung Verwaltung, Haushalt, Technik der Universitätsbibliothek Mannheim ist für administrative, finanzielle und technische Belange zuständig.
+Die Abteilung Verwaltung, Haushalt und Technik der Universitätsbibliothek Mannheim ist zuständig für administrative, finanzielle und technische Belange der Bibliothek. Hier finden Sie die zentralen Ansprechpartner und deren Aufgabenbereiche.
 
-## Ansprechpartner
+## Aufgabenbereiche
 
-### Katharina Selzer
+- Verwaltung und Organisation der Bibliotheksabläufe
+- Haushaltsführung und Budgetverwaltung
+- Technische Betreuung der Bibliotheksgebäude und -ausstattung
+- Koordination von Bau- und Instandhaltungsmaßnahmen
+- Personalverwaltung und interne Services
 
-**Leiterin der Abteilung Verwaltung, Haushalt, Technik**
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 276, 68161 Mannheim
-Telefon: +49 621 181-2943
-E-Mail: [katharina.selzer@uni-mannheim.de](mailto:katharina.selzer@uni-mannheim.de)
+## Kontakt
 
-### Lorena Steeb, M.Sc.
+**Abteilung Verwaltung, Haushalt und Technik**
+Universitätsbibliothek Mannheim
+Schloss Schneckenhof West
+68131 Mannheim
+Telefon: +49 621 181-3000
+E-Mail: [info@bib.uni-mannheim.de](mailto:info@bib.uni-mannheim.de)
+[Weitere Informationen zur Abteilung](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/verwaltung-haushalt-technik/)
 
-**Stellvertretende Leiterin der Abteilung Verwaltung, Haushalt, Technik**
-**Fachreferentin für Wirtschaftswissenschaften, Pädagogik und Wirtschaftspädagogik**
-**Digitalisierungsreferentin**
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
-Telefon: +49 621 181-3929
-E-Mail: [lorena.steeb@uni-mannheim.de](mailto:lorena.steeb@uni-mannheim.de)
+______________________________________________________________________
+
+**Hinweis:** Für spezifische Anliegen zu Verwaltung, Haushalt oder Technik wenden Sie sich bitte an die zentrale Kontaktadresse. Detaillierte Ansprechpartner und deren Zuständigkeiten finden Sie auf der verlinkten Webseite.

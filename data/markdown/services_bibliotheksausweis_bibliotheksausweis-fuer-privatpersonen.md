@@ -46,15 +46,3 @@ Ihre neue UB-Chipkarte erhalten sie montags bis freitags zu den Beratungszeiten 
 - Adressänderungen sind nur persönlich an der Infotheke im InfoCenter möglich. Wir benötigen dafür Ihren Personalausweis (alternativ Ihren Reisepass mit Meldebescheinigung).
 
 [Bibliotheksausweis für Angehörige der Universität Mannheim](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/)[Bibliotheksausweis für Angehörige der Uni HD, DHBW, HS MA, HS LU und anderer kooperierender Einrichtungen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-angehoerige-kooperierender-einrichtungen/)
-
-
-## Kontakt
-
-
-
-### InfoCenter
-
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim
-- Web: [www.bib.uni-mannheim.de](https://www.bib.uni-mannheim.de/)
-- Telefon: +49 621 181-2948
-- E-Mail: info.ub@uni-mannheim.de

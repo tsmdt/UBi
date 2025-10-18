@@ -38,15 +38,3 @@ Sie sollten auch die**Standards für das Datenmanagement in Ihrem eigenen Forsch
 Auf der Website des Digital Curation Center (DCC) können Sie sich [Beispiele](https://www.dcc.ac.uk/resources/data-management-plans/guidance-examples) für DMPs aus erfolgreichen Forschungsanträgen ansehen, um eine Vorstellung davon zu bekommen, [wonach Gutachter suchen könnten (PDF)](https://scienceeurope.org/media/4brkxxe5/se_rdm_practical_guide_extended_final.pdf) (2,3 MB).
 **Beantragen Sie Fördermittel außerhalb Deutschlands?**
 [Hier](https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan/European-diversity) erfahren Sie mehr über die DMP-Anforderungen für Anträge auf Forschungsförderung im Ausland.
-
-
-## Kontakt
-
-
-
-### Forschungsdatenzentrum (FDZ)
-
-Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will
-- Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
-- Web: [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](/lehren-und-forschen/forschungsdatenzentrum/)
-- E-Mail: forschungsdaten@uni-mannheim.de

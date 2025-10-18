@@ -36,11 +36,3 @@ Weitere Informationen erhalten Sie auf der Seite des [GBP](https://gbpanel.org/)
 **German Internet Panel (GIP):**
 Das GIP der Universität Mannheim erhebt seit 2012 alle zwei Monate Daten zu politischen und wirtschaftlichen Einstellungen. Mehr als 3.500 Teilnehmer werden online befragt, um ein genaues Abbild der Bevölkerung zu erhalten. Die erhobenen Daten stehen der Wissenschaft zur Verfügung. Darüber hinaus besteht die Möglichkeit, eigene Fragen in die Umfrage einzubringen.
 Weitere Informationen erhalten Sie auf der Seite des [GIP](https://www.uni-mannheim.de/gip/).
-
-
-### Forschungsdatenzentrum (FDZ)
-
-Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will
-- Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
-- Web: [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](/lehren-und-forschen/forschungsdatenzentrum/)
-- E-Mail: forschungsdaten@uni-mannheim.de

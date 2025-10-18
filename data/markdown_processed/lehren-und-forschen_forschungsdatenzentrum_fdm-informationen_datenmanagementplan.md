@@ -1,19 +1,21 @@
 ---
-title: Datenmanagementplan: Anforderungen, Vorlagen und Unterstützung an der Universitätsbibliothek Mannheim
+title: Datenmanagementpläne (DMP) – Anforderungen, Vorlagen und Tools für Forschungsförderung in Deutschland und Europa
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenmanagementplan/
 source_url_en: https://www.bib.uni-mannheim.de/en/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenmanagementplan-1/
 category: Services
-tags: ['Datenmanagementplan', 'Forschungsdaten', 'Forschungsförderung', 'DMP-Vorlagen', 'MADataPlan', 'Forschungsdatenzentrum', 'DFG', 'Horizon Europe']
+tags: ['Forschungsdatenmanagement', 'Datenmanagementplan', 'Forschungsförderung', 'DMP-Vorlagen', 'Förderinstitutionen', 'Open Science', 'MADataPlan', 'Wissenschaftliches Arbeiten']
 language: de
 ---
 
-# Datenmanagementplan (DMP) an der Universitätsbibliothek Mannheim
+# Datenmanagementplan (DMP) – Überblick und Unterstützung
 
-Ein [Datenmanagementplan (DMP) (PDF)](https://scienceeurope.org/media/4brkxxe5/se_rdm_practical_guide_extended_final.pdf) beschreibt den Umgang mit Forschungsdaten vor Projektbeginn und stellt die Nachvollziehbarkeit der Daten während und nach dem Projekt sicher. DMPs werden häufig in formalisierter Form bei der Antragstellung oder während der Projektlaufzeit verlangt, beispielsweise bei Horizon Europe oder ERC Grants. Auch die DFG verlangt Informationen zum Datenmanagement, wobei es sich dabei nicht explizit um einen DMP handelt.
+Ein [Datenmanagementplan (DMP) (PDF)](https://scienceeurope.org/media/4brkxxe5/se_rdm_practical_guide_extended_final.pdf) beschreibt den Umgang mit Forschungsdaten vor Projektbeginn und stellt die Nachvollziehbarkeit der Daten während und nach dem Projekt sicher. DMPs werden häufig in formalisierter Form bei der Antragstellung oder während der Projektlaufzeit verlangt, beispielsweise bei Horizon Europe oder ERC Grants. Auch die DFG fordert Informationen zum Datenmanagement, auch wenn dies nicht explizit als DMP bezeichnet wird.
 
-Zur Unterstützung bei der Erstellung, Verwaltung und Speicherung von DMPs steht Forschenden an der Universität Mannheim das Tool [MADataPlan](https://fdz.bib.uni-mannheim.de/madataplan) zur Verfügung, eine Instanz von RDMO.
+Zur Unterstützung bei der Erstellung, Verwaltung und Speicherung von DMPs steht [MADataPlan](https://fdz.bib.uni-mannheim.de/madataplan) zur Verfügung – die Instanz von RDMO an der Universität Mannheim.
 
-Folgende DMP-Vorlagen sind verfügbar:
+## DMP-Vorlagen
+
+Folgende DMP-Vorlagen können genutzt werden:
 
 - [DFG (PDF, 42 kB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Lehren_u_Forschen/fdz/DMPs/DFG-Data-Management-Plan.pdf)
 - [ERC (PDF, 41 kB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Lehren_u_Forschen/fdz/DMPs/ERC_Data_Management_Plan.pdf)
@@ -22,41 +24,39 @@ Folgende DMP-Vorlagen sind verfügbar:
 
 ## DMP und Forschungsförderung in Deutschland und Europa
 
-Die Anforderungen an einen DMP unterscheiden sich je nach Fördereinrichtung. Die folgende Übersicht zeigt die wichtigsten Anforderungen und Vorlagen:
+Die Anforderungen an einen DMP unterscheiden sich je nach Förderinstitution. Die folgende Übersicht zeigt die wichtigsten Anforderungen und Vorlagen:
 
-| Förderinstitution | DMP-Anforderungen | DMP-Vorlage? |
-|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|
-| **Deutsche Forschungsgemeinschaft (DFG)**| Es handelt sich nicht explizit um ein DMP, aber Informationen zum Datenmanagement werden normalerweise in Abschnitt 2.4 des Antrags verlangt. Es gibt auch einige fach- und programmspezifische Empfehlungen für den Umgang mit Forschungsdaten in Förderanträgen, aber die Forschenden sind nicht verpflichtet, über die allgemeinen Hinweise hinauszugehen. Siehe DFG-Richtlinien zum Umgang mit Forschungsdaten. | Ja (inoffiziell), erhältlich bei MADataPlan. |
-| **Bundesministerium für Bildung und Forschung (BMBF)** | Es gibt keine allgemeinen Anforderungen in Bezug auf Forschungsdaten. Die Anforderungen werden für jede Ausschreibung individuell festgelegt. Siehe Bundesministerium für Bildung und Forschung. | Nein |
-| **Volkswagen Stiftung** | Es ist Voraussetzung für die Forschungsförderung der Volkswagen Stiftung, dass Antragstellende mit ihrem Förderantrag ein DMP einreichen. Siehe Open Science Policy der Volkswagen Stiftung (PDF, 476 KB). | Ja (108 KB) |
-| **Baden-Württemberg Stiftung** | Nein | Nein |
-| **Fritz Thyssen Stiftung** | Nein | Nein |
-| **Hans Böckler Stiftung** | Nein | Nein |
-| **European Research Council (ERC)** | Antragstellende müssen nach den ersten sechs Monaten des Förderzeitraums ein DMP vorlegen und den DMP kontinuierlich aktualisieren, wenn sich wesentliche Änderungen ergeben. Siehe ERC, Open Science, Abschnitt 2. Forschungsdaten in Horizon Europe. | Ja, die Vorlage ist auf MADataPlan verfügbar. |
-| **Horizon Europe** | Antragstellende müssen nach den ersten sechs Monaten des Förderzeitraums einen DMP vorlegen und diesen bei wesentlichen Änderungen laufend aktualisieren. Siehe Horizon Europe. | Ja, die Vorlage ist auf MADataPlan verfügbar. |
-| **European Science Foundation** | Nein | Nein |
+| Förderinstitution | DMP-Anforderungen | DMP-Vorlage verfügbar? |
+|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
+| **Deutschland** | | |
+| Deutsche Forschungsgemeinschaft (DFG) | Informationen zum Datenmanagement werden in Abschnitt 2.4 des Antrags verlangt. Es gibt fachspezifische und programmspezifische Empfehlungen, aber keine explizite DMP-Pflicht. Siehe DFG-Richtlinien zum Umgang mit Forschungsdaten. | Ja (inoffiziell), über MADataPlan |
+| Bundesministerium für Bildung und Forschung (BMBF) | Keine allgemeinen Anforderungen; Vorgaben werden individuell pro Ausschreibung festgelegt. Siehe Bundesministerium für Bildung und Forschung. | Nein |
+| Volkswagen Stiftung | Ein DMP ist Voraussetzung für die Forschungsförderung. Siehe Open Science Policy der Volkswagen Stiftung ([PDF, 476 KB](https://www.volkswagenstiftung.de/sites/default/files/downloads/Open_Science_Policy.pdf)). | Ja (108 KB) |
+| Baden-Württemberg Stiftung | Keine DMP-Anforderungen. | Nein |
+| Fritz Thyssen Stiftung | Keine DMP-Anforderungen. | Nein |
+| Hans Böckler Stiftung | Keine DMP-Anforderungen. | Nein |
+| **Europa** | | |
+| European Research Council (ERC) | Antragstellende müssen nach den ersten sechs Monaten des Förderzeitraums ein DMP vorlegen und diesen bei wesentlichen Änderungen aktualisieren. Siehe ERC, Open Science, Abschnitt 2. Forschungsdaten in Horizon Europe. | Ja, über MADataPlan |
+| Horizon Europe | Antragstellende müssen nach den ersten sechs Monaten des Förderzeitraums einen DMP vorlegen und diesen bei Änderungen laufend aktualisieren. Siehe Horizon Europe. | Ja, über MADataPlan |
+| European Science Foundation | Keine DMP-Anforderungen. | Nein |
 
-Quelle: Angepasst von CESSDA Training Team (2017–2022), [CESSDA Data Management Expert Guide](https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan/European-diversity).
+Quelle: Angepasst von CESSDA Training Team (2017–2022), [CESSDA Data Management Expert Guide](https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan/European-diversity)
 
-Es ist ratsam, die **Standards für das Datenmanagement im eigenen Forschungsbereich** (z. B. Geisteswissenschaften, Sozialwissenschaften, Wirtschaftswissenschaften) zu berücksichtigen. Hilfreiche Dokumente und Tools sind:
+## Fachspezifische Standards und Leitfäden
 
-- [Standardisierter Datenmanagementplan für die Bildungsforschung](https://www.forschungsdaten-bildung.de/stamp) des Netzwerks Forschungsdatenbildung
+Berücksichtigen Sie die **Standards für das Datenmanagement in Ihrem eigenen Forschungsbereich** (z. B. Geisteswissenschaften, Sozialwissenschaften, Wirtschaftswissenschaften). Diese geben Hinweise, was in einen DMP aufgenommen werden sollte. Nützliche Ressourcen:
+
+- [Standardisierter Datenmanagementplan für die Bildungsforschung](https://www.forschungsdaten-bildung.de/stamp) (Netzwerk Forschungsdatenbildung)
 - [Forschungsdatenmanagement in den Sozial-, Verhaltens- und Wirtschaftswissenschaften](https://www.konsortswd.de/publikation/forschungsdatenmanagement-in-den-sozial-verhaltens-und-wirtschaftswissenschaften/), Kapitel 2
-- [Leitfaden für effektive Datenmanagementpläne](https://www.icpsr.umich.edu/web/pages/datamanagement/dmp/index.html) des Interuniversitären Konsortiums für Politik- und Sozialforschung
-- [DMP-Wizard](https://www.clarin-d.net/de/aufbereiten/datenmanagementplan-entwickeln) von CLARIN-D, Geisteswissenschaften
-- [DMP-Vorlage](https://www.parthenos-project.eu/portal/dmp) aus dem EU-Projekt PARTHENOS, Geisteswissenschaften
+- [Leitfaden für effektive Datenmanagementpläne](https://www.icpsr.umich.edu/web/pages/datamanagement/dmp/index.html) (Interuniversitäres Konsortium für Politik- und Sozialforschung)
+- [DMP-Wizard von CLARIN-D](https://www.clarin-d.net/de/aufbereiten/datenmanagementplan-entwickeln) (Geisteswissenschaften)
+- [DMP-Vorlage aus dem EU-Projekt PARTHENOS](https://www.parthenos-project.eu/portal/dmp) (Geisteswissenschaften)
 
-### Weitere Ressourcen und Inspiration
+## Inspiration und Beispiele
 
 - Das [Digital Curation Center (DCC)](https://www.dcc.ac.uk/resources/data-management-plans/guidance-examples) bietet Beispiele für DMPs aus erfolgreichen Forschungsanträgen.
 - Hinweise, [wonach Gutachter suchen könnten (PDF)](https://scienceeurope.org/media/4brkxxe5/se_rdm_practical_guide_extended_final.pdf) (2,3 MB).
-- Informationen zu DMP-Anforderungen für Fördermittel außerhalb Deutschlands finden Sie [hier](https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan/European-diversity).
 
-## Kontakt
+## Internationale Fördermittel
 
-### Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim
-
-Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will
-Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
-Web: [Forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)
-E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)
+Wenn Sie Fördermittel außerhalb Deutschlands beantragen, finden Sie [hier](https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan/European-diversity) weiterführende Informationen zu DMP-Anforderungen im Ausland.

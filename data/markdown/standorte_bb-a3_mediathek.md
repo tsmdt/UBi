@@ -18,15 +18,4 @@
 
 Wir sind Mitglied im [Netzwerk Mediatheken](https://www.netzwerk-mediatheken.de/).
 Den gesamten Bestand der Filme auf DVD finden Sie, indem Sie bei**„Erweiterte Suche“**die**Zweigstelle „medio“**eingeben.
-
-
-## Kontakt
-
-
-
-### Bibliotheksbereich A3
-
-- Adresse: Universität Mannheim, Universitätsbibliothek, A 3, 6–8, 68159 Mannheim
-- Telefon: +49 621 181-3111
-- E-Mail: a3.ub@uni-mannheim.de
 [Ansprechpersonen](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-a3/)

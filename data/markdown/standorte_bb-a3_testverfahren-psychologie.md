@@ -79,15 +79,4 @@ Diese [Anleitung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universita
 - [Berechtigung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Standorte/BB_A3_Testverfahren_Psychologie/Berechtigung.pdf) (PDF, 151 KB)
 - [Anleitung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Standorte/BB_A3_Testverfahren_Psychologie/Anleitung-Nutzung-Testsystem-24-02.pdf) (PDF, 3,06 MB)
 
-
-
-## Kontakt
-
-
-
-### Bibliotheksbereich A3
-
-- Adresse: Universität Mannheim, Universitätsbibliothek, A 3, 6–8, 68159 Mannheim
-- Telefon: +49 621 181-3111
-- E-Mail: a3.ub@uni-mannheim.de
 [Ansprechpersonen](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-a3/)
