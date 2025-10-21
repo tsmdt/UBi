@@ -121,3 +121,14 @@ Für den Abruf der Volltexte benötigen Sie folgende Zugangsdaten:
 [WISO Wirtschaftspraxis](http://www.bibliothek.uni-regensburg.de/dbinfo/einzeln.phtml?bib_id=ubman&colors=3&ocolors=40&titel_id=2175) Verlag: GBI-Genios Deutsche Wirtschaftsdatenbank GmbH
 [World Bank](http://rzblx10.uni-regensburg.de/dbinfo/detail.php?bib_id=ubman&colors=&ocolors=&lett=fs&titel_id=10098) Zeitschriften der [World Bank](http://rzblx10.uni-regensburg.de/dbinfo/detail.php?bib_id=ubman&colors=&ocolors=&lett=fs&titel_id=10098)
 [Zeitzeichen](http://www.zeitzeichen.net) Evangelische Kommentare zu Religion und Gesellschaft Kundennummer: 10027607
+
+
+## Kontakt
+
+
+
+### Team E-Medien
+
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Ehrenhof, 68161 Mannheim
+- Telefon: +49 621 181-2989
+- E-Mail: zeitschriften.ub@uni-mannheim.de

@@ -24,3 +24,15 @@ Das FDZ unterstützt Sie unter anderem in folgenden Bereichen:
 - Allgemeine Beratung bei Audio-to-Text
 - Unterstützung bei der Weiterverarbeitung der Transkription (z. B. Umwandlung von unstrukturierten in strukturierte Daten)
 
+
+
+## Kontakt
+
+
+
+### Forschungsdatenzentrum (FDZ)
+
+Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will
+- Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
+- Web: [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](/lehren-und-forschen/forschungsdatenzentrum/)
+- E-Mail: forschungsdaten@uni-mannheim.de

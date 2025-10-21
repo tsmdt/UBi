@@ -149,4 +149,23 @@ Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten.
 
 ## Kontakt
 
+
+
+### Dr. Hendrik Platte
+
+Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpartner EDZ
+
+Aufgaben:
+
+- Literaturauswahl und -erschließung für die Fächer Politikwissenschaft, Soziologie und Psychologie
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
+- Team Literaturverwaltung, Beratung zu Zotero
+- Mitarbeit im Open Science Office
+- Mitarbeit im Team Publikationsservices und Forschungsunterstützung
+- Analysen im Bereich Bibliometrie
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, 68161 Mannheim
+- Telefon: +49 621 181-3388
+- E-Mail: hendrik.platte@uni-mannheim.de
+- ORCID-ID: 0000-0001-7916-2659 (https://orcid.org/0000-0001-7916-2659)
 Vertretung[Dr. Rudolf Nink](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-rudolf-nink/)

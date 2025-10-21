@@ -1,23 +1,24 @@
 ---
-title: Fachinformationsangebot Pädagogik und Wirtschaftspädagogik – Literatur, Datenbanken, Recherche und Beratung an der UB Mannheim
+title: Fachliche Recherche und Services der UB Mannheim für Pädagogik und Wirtschaftspädagogik
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/paedagogik-und-wirtschaftspaedagogik/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/education-and-economic-and-business-education/
 category: Medien
-tags: ['Pädagogik', 'Wirtschaftspädagogik', 'Datenbanken', 'E-Books', 'Fachinformation', 'Recherche', 'Forschungsdaten', 'Schulungen']
+tags: ['Pädagogik', 'Wirtschaftspädagogik', 'Datenbanken', 'E-Books', 'Forschungsdaten', 'Kurse', 'Literaturrecherche', 'Kontakt']
 language: de
 ---
 
-# Pädagogik und Wirtschaftspädagogik an der UB Mannheim
+# Pädagogik und Wirtschaftspädagogik an der Universitätsbibliothek Mannheim
 
-Für das Fach Pädagogik/Wirtschaftspädagogik bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken und weitere Rechercheeinstiege. Neben individuellen Beratungen werden regelmäßig Kurse und Tutorials zum wissenschaftlichen Arbeiten angeboten.
+Die Universitätsbibliothek Mannheim bietet für das Fach Pädagogik und Wirtschaftspädagogik umfangreiche Literatur, Datenbanken und weitere Recherchetools. Neben individueller Beratung stehen auch regelmäßig Kurse und Tutorials zur Verfügung.
 
-## Recherchieren
+## Recherchemöglichkeiten
 
 ### Datenbanken
 
-Datenbanken unterstützen bei der Recherche wissenschaftlicher Literatur, Pressetexte und vielfältiger faktischer Informationen.
+Datenbanken unterstützen bei der Suche nach wissenschaftlicher Literatur, Pressetexten und weiteren Informationen.
 
-- Weitere [Datenbanken zur Pädagogik](https://dbis.ur.de/UBMAN/browse/subjects/30/?availability-filter-free=on&availability-filter-local=on&sort_by=2&ps=25) und zu anderen Fachgebieten sind über das [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/) zugänglich. Einige Datenbanken sind nur im Netz der Universität Mannheim oder via [VPN](https://www.bib.uni-mannheim.de/services/internetzugang/) erreichbar.
+- [Datenbanken zur Pädagogik](https://dbis.ur.de/UBMAN/browse/subjects/30/?availability-filter-free=on&availability-filter-local=on&sort_by=2&ps=25) und zu anderen Fachgebieten sind über das [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/) zugänglich.
+- Einige Datenbanken sind nur im Netz der Universität Mannheim oder via [VPN](https://www.bib.uni-mannheim.de/services/internetzugang/) erreichbar.
 - Publikationen zu aktuellen PISA-Resultaten finden Sie in der [OECD iLibrary](http://www.oecd-ilibrary.org/education;jsessionid=bxpvrsum59w2.x-oecd-live-02).
 
 ### E-Journals
@@ -26,19 +27,21 @@ Datenbanken unterstützen bei der Recherche wissenschaftlicher Literatur, Presse
 
 ### E-Books
 
-- Alle an der UB Mannheim verfügbaren E-Books sind über den [Katalog Primo](https://www.bib.uni-mannheim.de/primo/) auffindbar. Besonders umfangreich ist das Angebot des Springer-Verlags im Bereich Pädagogik.
+- Alle E-Books der UB Mannheim sind über den [Katalog Primo](https://www.bib.uni-mannheim.de/primo/) auffindbar.
+- Besonders umfangreich ist das Angebot des Springer-Verlags im Bereich Pädagogik.
 
 ### Forschungsdaten
 
-- Die Veröffentlichung von Forschungsdaten fördert Transparenz und Nachvollziehbarkeit. Eine Einführung bietet [forschungsdaten.info](https://www.forschungsdaten.info/) und die Publikation [„Auffinden – Zitieren – Dokumentieren“](http://auffinden-zitieren-dokumentieren.de/).
-- Repositorien für Forschungsdaten finden Sie über [re3data](http://service.re3data.org/search).
-- Für internationale Datensätze eignet sich [DataCite](http://search.datacite.org/).
-- An der Universität Mannheim steht [MADATA](https://madata.bib.uni-mannheim.de/) zur Verfügung.
-- Speziell für Pädagogik: [forschungsdaten bildung](http://www.forschungsdaten-bildung.de/) des DIPF.
+- Forschungsdaten dienen der Transparenz und Nachvollziehbarkeit von Forschung und werden zunehmend gefordert.
+- Einführung und Informationen: [forschungsdaten.info](https://www.forschungsdaten.info/), Publikation „[Auffinden – Zitieren – Dokumentieren](http://auffinden-zitieren-dokumentieren.de/)“
+- Repositorien-Suche: [re3data](http://service.re3data.org/search)
+- Internationale Datensatzsuche: [DataCite](http://search.datacite.org/)
+- An der Universität Mannheim: [MADATA](https://madata.bib.uni-mannheim.de/)
+- Speziell für Pädagogik: [forschungsdaten bildung](http://www.forschungsdaten-bildung.de/) (DIPF)
 
 ### Fachliche Internetquellen
 
-Relevante Internetquellen im Bereich Pädagogik:
+Ausgewählte Internetquellen im Bereich Pädagogik:
 
 - [Leibniz-Institut für Bildungsforschung und Bildungsinformation (DIPF)](http://www.dipf.de/)
 - [Max-Planck-Institut für Bildungsforschung](https://www.mpib-berlin.mpg.de/)
@@ -49,14 +52,14 @@ Relevante Internetquellen im Bereich Pädagogik:
 
 ### Literaturstandorte
 
-- Im Bibliotheksbereich [A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) finden Sie Literatur zum Fach Pädagogik, frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
-- Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Pädagogik, die mit ecUM oder UB-Chipkarte ausgeliehen werden kann.
-- In der Lehrbuchsammlung im Ausleihzentrum stehen die wichtigsten Lehrbücher für Studierende der Universität Mannheim und kooperierender Einrichtungen zur Verfügung.
-- Die gesamte Literatur ist im [Katalog Primo](https://www.bib.uni-mannheim.de/primo/) recherchierbar.
+- Im Bibliotheksbereich [A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) befindet sich Literatur zum Fach Pädagogik, frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen sind nur für wissenschaftliches Personal möglich.
+- Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Pädagogik, ausleihbar mit ecUM oder UB-Chipkarte.
+- Die Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel bietet Studierenden und kooperierenden Einrichtungen wichtige Lehrbücher in vielen Exemplaren zur Ausleihe.
+- Recherche aller Bestände über den [Katalog Primo](https://www.bib.uni-mannheim.de/primo/).
 
 ### Forschungseinrichtungen vor Ort
 
-Fach Pädagogik in Mannheim:
+Forschungseinrichtungen und Lehrstühle im Bereich Pädagogik und Wirtschaftspädagogik an der Universität Mannheim:
 
 - [Zentrum für Lehrerbildung](https://www.uni-mannheim.de/lehrerbildung/zlbi/)
 - [Lehramt Gymnasium – Infoseite](https://www.phil.uni-mannheim.de/studium/lehramtsstudiengaenge/)
@@ -72,7 +75,7 @@ Fach Pädagogik in Mannheim:
 
 ### Journal Ranking
 
-- Angaben zu „Impact Factors“ internationaler Fachzeitschriften finden Sie in den [Journal Citation Reports](https://www.bib.uni-mannheim.de/datenbanken/details/?libconnect%5Btitleid%5D=359) im „Web of Science“ (Kategorie „Education“).
+- Aktuelle „Impact Factors“ internationaler Fachzeitschriften sind in den [Journal Citation Reports](https://www.bib.uni-mannheim.de/datenbanken/details/?libconnect%5Btitleid%5D=359) im „Web of Science“ unter den „Education“-Kategorien abrufbar.
 
 ## Kurse und Tutorials
 
@@ -81,14 +84,11 @@ Die UB Mannheim bietet regelmäßig Schulungen zur Recherche im Fach Pädagogik/
 - [Kursangebot](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
 - [Kursreihe Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
-
-**Kurse für Pädagogik und Wirtschaftspädagogik:**
-
 - [Pädagogische Literatur finden: Recherche in Datenbanken](https://ilias.uni-mannheim.de/ilias.php?baseClass=ilrepositorygui&cmdNode=yu:mw:9h&cmdClass=ilCourseRegistrationGUI&ref_id=1409928) – Ilias-Kurs mit Lernvideos und Materialien zum Selbststudium.
 
 ## Wissenschaftliches Arbeiten
 
-Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten, z. B.:
+Im Bestand der UB finden Sie zahlreiche Ratgeber zum wissenschaftlichen Arbeiten, z.B.:
 
 - [„Die Technik wissenschaftlichen Arbeitens: eine praktische Anleitung“ von Norbert Franck](http://primo.bib.uni-mannheim.de/MAN_UB:MAN_ALMA:MAN_ALMA21121999630002561)
 - [„Wissenschaftliches Arbeiten“ von Bänsch/Alewell](http://primo.bib.uni-mannheim.de/MAN_UB:MAN_ALMA:MAN_ALMA21121983690002561)
@@ -103,5 +103,10 @@ Unterstützung bietet die UB durch:
 
 ## Kontakt
 
-**Fachliche Vertretung:**
-[Dr. Irene Schumm](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-irene-schumm/)
+**Xiuwen Ye, M.Sc.**
+Fachreferentin für Wirtschaftswissenschaften, Pädagogik und Wirtschaftspädagogik
+Universität Mannheim, Universitätsbibliothek
+Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
+Telefon: +49 621 181-3753
+E-Mail: [xiuwen.ye@uni-mannheim.de](mailto:xiuwen.ye@uni-mannheim.de)
+Vertretung: [Dr. Irene Schumm](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-irene-schumm/)

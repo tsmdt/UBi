@@ -32,6 +32,14 @@ Im Rahmen des Projekts soll das Angebot der einzelnen Bibliotheksstandorte im Hi
 ## Kontakt
 
 Sie haben Fragen zum Projekt? Sie lehren an der Universität Mannheim und Virtual Reality oder Eye Tracking stehen in Verbindung mit Ihren Lehrinhalten? Sie haben Nutzungsszenarien für VR-Anwendungen in Lehrveranstaltungen oder Arbeitsgruppen? Sprechen Sie uns an.
+
+
+### Jessica Kaiser
+
+Leiterin der Abteilung Benutzungsdienste | Stellvertretende Leiterin Aus- und Fortbildung
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 288, 68161 Mannheim
+- Telefon: +49 621 181-2920
+- E-Mail: jessica.kaiser@uni-mannheim.de
 **Maria Klein**
 Bibliothek der Hochschule MannheimTel: +49 621 292 6141E-Mail:  m.klein@hs-mannheim.de
 **Frank Krosta**

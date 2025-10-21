@@ -69,3 +69,15 @@ Das Projekt „Finance and Business Research from a Long-Term Perspective: Utili
 
 Zwischen 2013 und 2019 hat das FDZ im Rahmen von zwei DFG-Projekten das Aktienführer-Datenarchiv geschaffen. Hierzu wurden alle Aktienführer-Bände aus dem Hoppenstedt-Verlag digitalisiert, die Inhalte strukturiert erfasst und über eine Web-Oberfläche verfügbar gemacht.
 
+
+
+## Kontakt
+
+
+
+### Forschungsdatenzentrum (FDZ)
+
+Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will
+- Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
+- Web: [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](/lehren-und-forschen/forschungsdatenzentrum/)
+- E-Mail: forschungsdaten@uni-mannheim.de

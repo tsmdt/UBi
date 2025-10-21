@@ -1,15 +1,15 @@
 ---
-title: Data Science Services des Forschungsdatenzentrums (FDZ) – Leistungen und Beratung für datenwissenschaftliche Forschung
+title: Data Science Services des Forschungsdatenzentrums (FDZ) der Universitätsbibliothek Mannheim – Angebote und Kontakt
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/data-science-services/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/services-of-the-fdz/data-science-services/
 category: Services
-tags: ['Data Science', 'Forschungsdaten', 'Beratung', 'Datenanalyse', 'Open Source', 'Infrastruktur', 'Low-Code', 'Vernetzung']
+tags: ['Data Science', 'Forschungsdaten', 'Datenanalyse', 'Open Source', 'Datenvisualisierung', 'Cloud Computing', 'Low-Code', 'Beratung']
 language: de
 ---
 
-# Data Science Services
+# Data Science Services des Forschungsdatenzentrums (FDZ)
 
-Die Data Science Services des Forschungsdatenzentrums (FDZ) der Universitätsbibliothek Mannheim bieten umfassende Unterstützung für datenwissenschaftliche Forschungsvorhaben. Das Angebot richtet sich an Forschende, die Beratung und praktische Hilfe in verschiedenen Phasen des Forschungsdatenmanagements und der Datenanalyse benötigen.
+Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim bietet umfassende Data Science Services für Forschende an. Die Angebote unterstützen bei der Planung, Durchführung und Veröffentlichung datenwissenschaftlicher Projekte.
 
 ## Förderanträge
 
@@ -51,3 +51,11 @@ Die Data Science Services des Forschungsdatenzentrums (FDZ) der Universitätsbib
 - Unterstützung bei der Suche nach Kooperationspartnern
 - Unterstützung bei der Organisation von Data-Science-Treffen
 - Zusammenarbeit mit dem [Mannheim Center for Data Science](https://www.uni-mannheim.de/datascience)
+
+## Kontakt
+
+**Forschungsdatenzentrum (FDZ), Universitätsbibliothek Mannheim**
+Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will
+Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
+Web: [Forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)
+E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)

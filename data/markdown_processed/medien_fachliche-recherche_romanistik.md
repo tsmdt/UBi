@@ -1,15 +1,15 @@
 ---
-title: Fachliche Recherche und Ressourcen für Romanistik an der Universitätsbibliothek Mannheim
+title: Fachliche Recherche und Services der UB Mannheim für Romanistik
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/romanistik/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/romance-studies/
 category: Medien
-tags: ['Romanistik', 'Fachrecherche', 'Datenbanken', 'E-Journals', 'E-Books', 'Literaturstandorte', 'Kurse', 'Wissenschaftliches Arbeiten']
+tags: ['Romanistik', 'Fachrecherche', 'Datenbanken', 'E-Journals', 'E-Books', 'Informationskompetenz', 'Schulungen', 'Wissenschaftliches Arbeiten']
 language: de
 ---
 
 # Romanistik an der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim bietet für das Fach Romanistik umfangreiche Literatur, Datenbanken und weitere Recherchezugänge. Für individuelle Beratung oder Tipps zum wissenschaftlichen Arbeiten stehen Ihnen verschiedene Kurse und persönliche Beratung zur Verfügung.
+Die Universitätsbibliothek Mannheim bietet für das Fach Romanistik umfangreiche Literatur, Datenbanken und weitere Recherchezugänge. Für individuelle Beratung oder Tipps zum wissenschaftlichen Arbeiten stehen Ihnen unsere Kurse und persönliche Beratung zur Verfügung.
 
 ## Recherchieren
 
@@ -36,10 +36,9 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Romanistik umfangreich
 
 ### E-Journals
 
-- [Elektronische Zeitschriftenbibliothek (EZB)](http://ezb.uni-regensburg.de/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=I)
-- [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB)
+Die E-Journals für das Fach Romanistik finden Sie in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://ezb.uni-regensburg.de/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=I) und im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
 
-**Ergänzende Fachgebiete:**
+**Ergänzende elektronische Zeitschriften:**
 
 - [Allgemeines](http://ezb.uni-regensburg.de/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=AZ)
 - [Allgemeine und vergleichende Sprach- und Literaturwissenschaft](http://ezb.uni-regensburg.de/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=E)
@@ -72,7 +71,7 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Romanistik umfangreich
 
 ## Kurse und Tutorials
 
-Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche im Fach Romanistik an. Tutorials können jederzeit online absolviert werden. Individuelle Beratung ist möglich.
+Die UB bietet regelmäßig Schulungen zur Recherche im Fach Romanistik an. Tutorials können jederzeit online absolviert werden. Individuelle Beratung ist möglich.
 
 - [Kursangebot](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Kursreihe Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
@@ -102,5 +101,23 @@ Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten:
 
 ## Kontakt
 
-**Ansprechpartnerin für Romanistik:**
-[Angela Leichtweiß](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/angela-leichtweiss/) (Vertretung)
+### Dr. Jorge Murcia Serra
+
+**Fachreferent für Romanistik und Sprachlernmaterialien, Informationskompetenz und E-Learning, Education & Training für BERD@NFDI**
+
+**Aufgaben:**
+
+- Literaturauswahl und -erschließung für das Fach Romanistik
+- Auswahl und Erschließung von Sprachlernmaterialien
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
+- Betreuung des Bereichs Informationskompetenz und E-Learning
+- Education & Training im Projekt BERD@NFDI
+
+**Kontakt:**
+
+- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
+- Telefon: +49 621 181-2997
+- E-Mail: [jorge.murcia@uni-mannheim.de](mailto:jorge.murcia@uni-mannheim.de)
+
+**Vertretung:** [Angela Leichtweiß](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/angela-leichtweiss/)

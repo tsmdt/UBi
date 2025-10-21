@@ -97,3 +97,15 @@ Wenn die gesuchte Antwort nicht dabei ist, wenden Sie sich einfach per E-Mail an
 - Kooperationsprojekt zur Handschriftenerkennung mit [Lehrstuhl für Spätmittelalter und Frühe Neuzeit (Prof. Kümper)](https://www.phil.uni-mannheim.de/spaetmittelalter-und-fruehe-neuzeit/)
 
 Wenn wir Sie unterstützen können oder Sie Fragen haben, zögern Sie nicht uns zu kontaktieren.
+
+
+## Kontakt
+
+
+
+### Forschungsdatenzentrum (FDZ)
+
+Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will
+- Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
+- Web: [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](/lehren-und-forschen/forschungsdatenzentrum/)
+- E-Mail: forschungsdaten@uni-mannheim.de

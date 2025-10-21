@@ -112,3 +112,15 @@ KG GUI: [https://hbag.kgi.uni-mannheim.de](https://hbag.kgi.uni-mannheim.de)
 [https://hbag.kgi.uni-mannheim.de/w/api.php](https://hbag.kgi.uni-mannheim.de/w/api.php)
 **Reconciliation API:**
 [https://rec.hbag.kgi.uni-mannheim.de](https://rec.hbag.kgi.uni-mannheim.de)
+
+
+## Kontakt
+
+
+
+### Forschungsdatenzentrum (FDZ)
+
+Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will
+- Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
+- Web: [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](/lehren-und-forschen/forschungsdatenzentrum/)
+- E-Mail: forschungsdaten@uni-mannheim.de

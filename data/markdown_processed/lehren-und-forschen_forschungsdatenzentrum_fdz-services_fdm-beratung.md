@@ -1,9 +1,9 @@
 ---
-title: Beratung zum Forschungsdatenmanagement – Services und Unterstützung durch das FDZ-Team der Universitätsbibliothek Mannheim
+title: Beratung und Services zum Forschungsdatenmanagement am Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/fdm-beratung/
 source_url_en: https://www.bib.uni-mannheim.de/en/lehren-und-forschen/fdz-home/fdz-services/fdm-beratung-1/
 category: Services
-tags: ['Forschungsdatenmanagement', 'Beratung', 'FDZ', 'Datenarchivierung', 'Datenmanagementplan', 'Lizenzierung', 'Datenorganisation', 'Knowledge Graph']
+tags: ['Forschungsdatenmanagement', 'Beratung', 'FDZ', 'Datenarchivierung', 'Datenmanagementplan', 'Datenlizenzierung', 'Datenorganisation', 'Wissenschaftliche Unterstützung']
 language: de
 ---
 
@@ -11,37 +11,25 @@ language: de
 
 Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim bietet umfassende Beratung und Unterstützung zum Forschungsdatenmanagement (FDM) in allen Phasen des Forschungsprozesses – von der Planung über die Durchführung bis zum Abschluss eines Projekts.
 
-## Beratungsangebote und Themen
+## Themen und Beratungsangebote
 
-Das FDZ-Team unterstützt Sie bei folgenden Fragestellungen:
+- Recherche nach [fachspezifischen Daten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) und Informationen zum [Datenangebot des FDZ](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/datenangebot-des-fdz/)
+- [Lizenzierung von Forschungsdaten](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/lizenzierung-von-forschungsdaten/)
+- Beachtung [rechtlicher und ethischer Rahmenbedingungen](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/daten-rechtlich-und-ethisch-sicher-nutzen-und-teilen/) im Umgang mit Daten
+- [Dokumentation und Organisation von Forschungsdaten](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenorganisation-und-dokumentation/) zur Nachvollziehbarkeit der Ergebnisse
+- [Archivierung, Zitierbarkeit und Zugänglichkeit von Forschungsdaten](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/madata/)
+- Digitale Darstellung, Organisation und maschinenlesbare Aufbereitung von [Objekten und Schriften](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/maobjects/)
+- Erstellung eines [Datenmanagementplans](https://fdz.bib.uni-mannheim.de/madataplan)
+- Erfüllung der Anforderungen von Forschungsförderern an das [Forschungsdatenmanagement](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/datenmanagementplaene-rdmo/)
+- Nutzung eines [Knowledge Graphs](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/knowledge-graph-infrastruktur-und-linked-data-services/) zur verbesserten Visualisierung und Verständlichkeit komplexer Zusammenhänge
 
-- **Fachspezifische Datenrecherche:**
-  Wo kann ich nach [fachspezifischen Daten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) suchen und wo finde ich das [Datenangebot des FDZ](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/datenangebot-des-fdz/)?
+Das FDZ-Team unterstützt Sie gerne bei allen Fragen rund um das Thema Forschungsdatenmanagement.
 
-- **Lizenzierung von Forschungsdaten:**
-  Wie [lizenziere](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/lizenzierung-von-forschungsdaten/) ich Daten?
+## Kontakt
 
-- **Rechtliche und ethische Rahmenbedingungen:**
-  Wie beachte ich [rechtliche und ethische](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/daten-rechtlich-und-ethisch-sicher-nutzen-und-teilen/) Rahmenbedingungen im Umgang mit Daten?
+### Forschungsdatenzentrum (FDZ)
 
-- **Datenorganisation und Dokumentation:**
-  Wie kann ich meine Daten so [dokumentieren](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenorganisation-und-dokumentation/), dass ich und andere die Ergebnisse auch später noch nachvollziehen können?
-
-- **Archivierung und Zugänglichmachung von Daten:**
-  Wo kann ich meine Daten [archivieren](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/madata/), sie zitierbar und bei Bedarf für andere zugänglich machen?
-
-- **Digitale Darstellung und Organisation von Objekten und Schriften:**
-  Wie lassen sich [Objekte](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/maobjects/) und Schriften digital darstellen, organisieren und auch für Maschinen lesbar machen?
-
-- **Erstellung von Datenmanagementplänen:**
-  Wo kann ich einen [Datenmanagementplan](https://fdz.bib.uni-mannheim.de/madataplan) erstellen?
-
-- **Anforderungen von Forschungsförderern:**
-  Wie kann ich die Anforderungen von Forschungsförderern in Bezug auf das [Forschungsdatenmanagement](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/datenmanagementplaene-rdmo/) erfüllen?
-
-- **Knowledge Graph und Datenvisualisierung:**
-  Wie verbessert die Nutzung eines [Knowledge Graphs](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/knowledge-graph-infrastruktur-und-linked-data-services/) gegenüber herkömmlichen Datenvisualisierungsmethoden die Verständlichkeit komplexer Zusammenhänge?
-
-## Unterstützung durch das FDZ-Team
-
-Das FDZ-Team steht Ihnen für alle Fragen rund um das Thema Forschungsdatenmanagement zur Verfügung und unterstützt Sie individuell bei der Planung, Organisation, Dokumentation, Archivierung und Nachnutzung Ihrer Forschungsdaten.
+- Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will
+- Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
+- Web: [Forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)
+- E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)

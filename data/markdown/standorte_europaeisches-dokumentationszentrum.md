@@ -32,3 +32,25 @@ Auf die Datenbanken kann über das Datenbank-Infosystem (DBIS) zugegriffen werde
 EDZ-Tutorial: EU-Informationsquellen und Datenbanken
 In diesem Tutorial finden Sie einen Überblick zu relevanten Informationsquellen und Datenbanken der EU und lernen durch Videotutorials, wie Sie in den einzelnen Datenbanken recherchieren können.
 
+
+
+## Kontakt
+
+
+
+### Dr. Hendrik Platte
+
+Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpartner EDZ
+
+Aufgaben:
+
+- Literaturauswahl und -erschließung für die Fächer Politikwissenschaft, Soziologie und Psychologie
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
+- Team Literaturverwaltung, Beratung zu Zotero
+- Mitarbeit im Open Science Office
+- Mitarbeit im Team Publikationsservices und Forschungsunterstützung
+- Analysen im Bereich Bibliometrie
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
+- Telefon: +49 621 181-2990
+- E-Mail: edz.ub@uni-mannheim.de

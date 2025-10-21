@@ -43,3 +43,15 @@ in Kooperation mit Prof. Dr. Christian Mann, Lehrstuhl für Alte Geschichte
 Cynisca: Documenting Women and Girls in Ancient Greek Sports
 in Kooperation mit Melanie Meaker, Lehrstuhl für Alte Geschichte
 
+
+
+## Kontakt
+
+
+
+### Forschungsdatenzentrum (FDZ)
+
+Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will
+- Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
+- Web: [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](/lehren-und-forschen/forschungsdatenzentrum/)
+- E-Mail: forschungsdaten@uni-mannheim.de

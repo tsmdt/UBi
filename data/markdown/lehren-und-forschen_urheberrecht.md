@@ -28,6 +28,14 @@ Bei Fragen rund um das Urheberrecht hilft Ihnen die Ansprechpartnerin der UB ger
 
 
 
+### Dr. Marion von Francken-Welz
+
+Stellvertretende Leiterin der Abteilung Medienbearbeitung | Fachreferentin für Rechtswissenschaft
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Ehrenhof – Raum M 305, 68161 Mannheim
+- Telefon: +49 621 181-3024
+- E-Mail: marion.francken-welz@uni-mannheim.de
+
+
 ## Inhalte lizenzieren
 
 Wenn Sie digitale Medien oder Forschungsdaten benötigen, unterstützt die UB Sie mit ihrem [Bestellservice](https://www.bib.uni-mannheim.de/lehren-und-forschen/literaturversorgung/bestellservice/), verhandelt Datennutzungsverträge und berät Sie zu den Lizenzbedingungen. Anschaffungsvorschläge für die Universitätsbibliothek können Sie uns gerne über das [Formular](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/) mitteilen.

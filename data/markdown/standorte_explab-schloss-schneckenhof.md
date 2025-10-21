@@ -115,3 +115,14 @@ Sprechen Sie uns für die Nutzung der Eye-Tracking-Station direkt an: explab.ub@
 ### Ist Essen und Trinken im ExpLAB erlaubt?
 
 Wie in allen Bibliotheksbereichen ist das Essen im ExpLAB außerhalb von Veranstaltungen nicht gestattet. Getränke dürfen in wiederverschließbaren Behältern mitgebracht werden.
+
+
+## Kontakt
+
+
+
+### ExpLAB Schloss Schneckenhof
+
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim
+- Telefon: +49 621 181-2948
+- E-Mail: explab.ub@uni-mannheim.de

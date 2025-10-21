@@ -23,5 +23,16 @@ Die Medien in diesem Bibliotheksbereich sind frei zugänglich, systematisch aufg
 ## Fachliche Recherche
 
 Unsere [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) beantworten gerne Ihre Fragen und beraten Sie individuell zu Ihrem Thema.
-[Arbeitsplätze](https://www.bib.uni-mannheim.de/services/arbeitsplaetze/)[Drucken, kopieren und scannen](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/)[Sicherheit in den Bibliotheksbereichen](https://www.bib.uni-mannheim.de/standorte/sicherheit-in-den-bibliotheksbereichen/)[Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/)[Buch nicht am Standort?](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/buch-nicht-am-standort/) Services für Lehrende finden Sie im Menüpunkt [Lehren und forschen](https://www.bib.uni-mannheim.de/lehren-und-forschen/).
+[Arbeitsplätze](https://www.bib.uni-mannheim.de/services/arbeitsplaetze/)[Drucken, kopieren und scannen](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/)[Sicherheit in den Bibliotheksbereichen](https://www.bib.uni-mannheim.de/standorte/sicherheit-in-den-bibliotheksbereichen/)[Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/)[Buch nicht am Standort?](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/buch-nicht-am-standort/)Services für Lehrende finden Sie im Menüpunkt [Lehren und forschen](https://www.bib.uni-mannheim.de/lehren-und-forschen/).
+
+
+## Kontakt
+
+
+
+### Bibliotheksbereich A3
+
+- Adresse: Universität Mannheim, Universitätsbibliothek, A 3, 6–8, 68159 Mannheim
+- Telefon: +49 621 181-3111
+- E-Mail: a3.ub@uni-mannheim.de
 [Ansprechpersonen](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-a3/)

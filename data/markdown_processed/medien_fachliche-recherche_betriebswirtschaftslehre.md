@@ -1,15 +1,15 @@
 ---
-title: Fachliche Recherche und Ressourcen für Betriebswirtschaftslehre an der Universitätsbibliothek Mannheim
+title: Fachliche Recherche und Services der UB Mannheim für Betriebswirtschaftslehre
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/betriebswirtschaftslehre/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/business-administration/
 category: Medien
-tags: ['Betriebswirtschaftslehre', 'Datenbanken', 'E-Books', 'E-Journals', 'Forschungsdaten', 'Literaturrecherche', 'Kurse', 'Wissenschaftliches Arbeiten']
+tags: ['Betriebswirtschaftslehre', 'Datenbanken', 'E-Books', 'Fachberatung', 'Literaturrecherche', 'Forschungsdaten', 'Kurse', 'Wissenschaftliches Arbeiten']
 language: de
 ---
 
 # Betriebswirtschaftslehre an der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim bietet umfassende Literatur, Datenbanken und weitere Recherchezugänge für das Fach Betriebswirtschaftslehre. Neben individuellen Beratungen stehen regelmäßig Kurse und Tutorials zur Verfügung, um die Recherchekompetenz und das wissenschaftliche Arbeiten zu fördern.
+Die Universitätsbibliothek Mannheim bietet für das Fach Betriebswirtschaftslehre ein umfassendes Angebot an Literatur, Datenbanken und weiteren Recherchetools. Neben individueller Beratung stehen regelmäßig Kurse und Tutorials zur Verfügung, um die Recherchekompetenz und das wissenschaftliche Arbeiten zu fördern.
 
 ## Recherchieren
 
@@ -23,7 +23,7 @@ Wissenschaftliche Literatur, insbesondere Zeitschriftenartikel:
 - [WISO](https://dbis.ur.de/UBMAN/resources/1232) – deutschsprachiger Raum und praxisnah
 - [EconBiz](https://dbis.ur.de/UBMAN/resources/1306) – international und deutschsprachiger Raum
 
-**Datenbanken für aktuelle Presseinformationen:**
+**Datenbanken für aktuelle Presseinformationen**
 
 - [Factiva](https://dbis.ur.de/UBMAN/resources/4042)
 - [Nexis Uni](https://dbis.ur.de/UBMAN/resources/1670)
@@ -64,26 +64,26 @@ Weitere Informationen zu Nutzungsbedingungen: [Hinweise zur E-Book-Nutzung](http
 ### Forschungsdaten
 
 Die Veröffentlichung von Forschungsdaten fördert Transparenz und Nachvollziehbarkeit.
-Einführungen und Hilfestellungen:
+Einführungen und Tools:
 
 - [forschungsdaten.info](https://www.forschungsdaten.info/)
 - [Auffinden – Zitieren – Dokumentieren](http://auffinden-zitieren-dokumentieren.de/)
-- Repositorien-Suche: [re3data](http://www.re3data.org/)
-- Internationale Datensatzsuche: [DataCite](http://search.datacite.org/)
-- An der Universität Mannheim: [MADATA](https://madata.bib.uni-mannheim.de/)
-- Für Wirtschafts- und Sozialwissenschaften: [SowiDataNet/datorium](https://data.gesis.org/sharing/#!Home) von GESIS
+- [re3data](http://www.re3data.org/) – Repositorien-Suche
+- [DataCite](http://search.datacite.org/) – internationale Datensatzsuche
+- [MADATA](https://madata.bib.uni-mannheim.de/) – Forschungsdatenrepositorium der Universität Mannheim
+- [SowiDataNet/datorium](https://data.gesis.org/sharing/#!Home) – Plattform für Wirtschafts- und Sozialwissenschaften (GESIS)
 
 ### Fachliche Internetquellen
 
-**Wirtschaftswissenschaftliche Fachportale:**
+**Wirtschaftswissenschaftliche Fachportale**
 
 - [EconBiz](http://www.econbiz.de/) – Recherche- und Fachportal des [ZBW](http://www.zbw.eu/)
-- [SSRN](https://www.ssrn.com/index.cfm/en/): Social Science Research Network
+- [SSRN](https://www.ssrn.com/index.cfm/en/) – Social Science Research Network
 - [Fraunhofer-Institut für Arbeitswirtschaft und Organisation](https://www.iao.fraunhofer.de/)
-- [VHB](https://vhbonline.org/): Verband der Hochschullehrer für Betriebswirtschaft
-- [Sachverständigenrat](https://www.sachverstaendigenrat-wirtschaft.de/) zur Begutachtung der gesamtwirtschaftlichen Entwicklung
+- [VHB](https://vhbonline.org/) – Verband der Hochschullehrer für Betriebswirtschaft
+- [Sachverständigenrat](https://www.sachverstaendigenrat-wirtschaft.de/) – zur Begutachtung der gesamtwirtschaftlichen Entwicklung
 
-**Internetquellen zur fachlichen Recherche:**
+**Internetquellen zur fachlichen Recherche**
 
 - [Recherchetipps](http://www.zbw.eu/de/recherchieren/recherchetipps/) für die Studienarbeit – Materialien des ZBW
 - [STW](http://zbw.eu/stw/versions/latest/about.de.html) – Standard-Thesaurus Wirtschaft
@@ -103,13 +103,13 @@ Einführungen und Hilfestellungen:
 
 ### Journal Ranking
 
-- [JOURQUAL3](https://vhbonline.org/vhb4you/vhb-jourqual/vhb-jourqual-3): Zeitschriften-Ranking des Verbands der Hochschullehrer für Betriebswirtschaft (VHB)
-- [Journal Citation Reports](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=359): Internationale Rankings mit Impact Factors (Web of Science)
-- [Handelsblatt-BWL-Ranking](https://www.forschungsmonitoring.org/ranking/bwl/authors): Ranking von Personen und Fachbereichen, u.a. basierend auf dem [SCImago Journal Ranking](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=7817) (SJR)
+- [JOURQUAL3](https://vhbonline.org/vhb4you/vhb-jourqual/vhb-jourqual-3) – Zeitschriften-Ranking des Verbands der Hochschullehrer für Betriebswirtschaft (VHB)
+- [Journal Citation Reports](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=359) – internationale Rankings mit Impact Factors (Web of Science)
+- [Handelsblatt-BWL-Ranking](https://www.forschungsmonitoring.org/ranking/bwl/authors) – Ranking von Personen und Fachbereichen, u.a. basierend auf dem [SCImago Journal Ranking](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=7817) (SJR)
 
 ## Kurse und Tutorials
 
-Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche im Fach Betriebswirtschaftslehre an. Tutorials sind jederzeit online verfügbar. Individuelle Beratung ist möglich.
+Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche im Fach Betriebswirtschaftslehre an. Tutorials stehen jederzeit online zur Verfügung. Individuelle Beratung ist möglich.
 
 - [Kursangebot](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
@@ -138,5 +138,11 @@ Die UB unterstützt Sie mit:
 
 ## Kontakt
 
-**Fachliche Vertretung:**
-[Dr. Irene Schumm](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-irene-schumm/)
+### Xiuwen Ye, M.Sc.
+
+Fachreferentin für Wirtschaftswissenschaften, Pädagogik und Wirtschaftspädagogik
+Universität Mannheim, Universitätsbibliothek
+Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
+Telefon: +49 621 181-3753
+E-Mail: [xiuwen.ye@uni-mannheim.de](mailto:xiuwen.ye@uni-mannheim.de)
+Vertretung: [Dr. Irene Schumm](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-irene-schumm/)

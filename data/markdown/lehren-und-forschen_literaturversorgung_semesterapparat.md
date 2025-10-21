@@ -122,3 +122,11 @@ Informationen zu freien Lehrmaterialien – Open Educational Resources (OER) –
 
 ### Unterstützung bei urheberrechtlichen Fragen
 
+
+
+### Dr. Marion von Francken-Welz
+
+Stellvertretende Leiterin der Abteilung Medienbearbeitung | Fachreferentin für Rechtswissenschaft
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Ehrenhof – Raum M 305, 68161 Mannheim
+- Telefon: +49 621 181-3024
+- E-Mail: marion.francken-welz@uni-mannheim.de

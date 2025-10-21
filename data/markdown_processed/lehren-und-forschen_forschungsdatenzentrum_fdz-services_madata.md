@@ -1,9 +1,9 @@
 ---
-title: MADATA – Forschungsdatenserver der Universität Mannheim: Nutzung, Zugang und Zitationsmöglichkeiten
+title: MADATA – Forschungsdatenserver der Universität Mannheim: Nutzung, Zugang und Kontakt
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/madata/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/services-of-the-fdz/madata/
 category: Services
-tags: ['Forschungsdaten', 'Datenserver', 'DOI', 'FAIR-Prinzipien', 'Universität Mannheim', 'Zugang', 'Datenpublikation', 'Forschungsdatenmanagement']
+tags: ['Forschungsdaten', 'Datenserver', 'MADATA', 'DOI', 'FAIR-Prinzipien', 'Universität Mannheim', 'FDZ', 'Datenpublikation']
 language: de
 ---
 
@@ -15,11 +15,16 @@ language: de
 
 - Die Nutzung ist je nach Datensatz individuell geregelt.
 - Eintragungen sind nur für Forschende der Universität Mannheim möglich.
-- MADATA-Beiträge werden auf FAIRness (Findability, Accessibility, Interoperability and Reproducibility) geprüft, bevor dem Datensatz ein DOI zugewiesen wird.
-- Die Prüfung erfolgt in der Regel innerhalb von 5 Arbeitstagen.
-- Für eine frühere DOI-Zuweisung kontaktieren Sie bitte [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de).
+- MADATA-Beiträge werden auf FAIRness (Findability, Accessibility, Interoperability and Reproducibility) geprüft, bevor dem Datensatz ein DOI zugewiesen wird. Diese Prüfung ist in der Regel innerhalb von 5 Arbeitstagen abgeschlossen.
+- Bei Bedarf an einer schnelleren DOI-Zuweisung kontaktieren Sie bitte das Forschungsdatenzentrum.
 
-## Weitere Informationen
+[Zur Ressource MADATA](https://madata.bib.uni-mannheim.de/)
 
-- [Zur Ressource MADATA](https://madata.bib.uni-mannheim.de/)
-- Nachweis der Einträge in [datacite.org](https://datacite.org/) und [da-ra.de](https://www.da-ra.de/home/)
+## Kontakt
+
+### Forschungsdatenzentrum (FDZ)
+
+- Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will
+- Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
+- Web: [Forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)
+- E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)

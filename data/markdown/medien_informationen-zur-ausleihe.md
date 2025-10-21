@@ -88,3 +88,14 @@ Bei bereits vorhandenen Schäden melden Sie sich bitte unverzüglich, damit sie 
 - [die Entleih- und Gebührenordnung für mobile Endgeräte](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Medien/Ausleihe/Entleih-undGebuehrenordnungMobileEndgeraete.pdf) (PDF, 346 KB)
 - [die Bibliotheksgebührenordnung](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Medien/Ausleihe/Bibliotheksgebuehrenordnung_ab_2024.pdf) (PDF, 880 KB)
 
+
+
+## Kontakt
+
+
+
+### Ausleihzentrum Schloss Westflügel
+
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Westflügel, 68161 Mannheim
+- Telefon: +49 621 181-2949
+- E-Mail: ausleihe.ub@uni-mannheim.de

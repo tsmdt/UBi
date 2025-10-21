@@ -46,3 +46,15 @@ Die alternativen Lieferdienste werden von Ihnen als Privatperson genutzt.
 [Subito](https://www.subito-doc.de/) liefert Ihnen Literatur innerhalb von 72 Stunden gegen Gebühr. Aufsätze schickt Ihnen der Lieferdienst als PDF-Datei per E-Mail. Die Preise variieren je nach Bestellwunsch.
 Gegen Gebühr liefert Ihnen die British Library mit Ihrem Lieferdienst [British Library On Demand](https://www.bl.uk/research/) Aufsatzkopien.
 Der Dokumentenlieferdienst [Ingenta](http://www.ingentaconnect.com/) bietet gegen Gebühr Zugriff auf über 11.000 Volltexte.
+
+
+## Kontakt
+
+
+
+### InfoCenter
+
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof, 68161 Mannheim
+- Web: [www.bib.uni-mannheim.de](https://www.bib.uni-mannheim.de/)
+- Telefon: +49 621 181-2948
+- E-Mail: info.ub@uni-mannheim.de

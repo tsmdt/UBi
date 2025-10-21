@@ -18,3 +18,11 @@
 - [Datenorganisation und -dokumentation](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenorganisation-und-dokumentation/)
 - [Datenarchivierung und -publikation](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenarchivierung-und-publikation/)
 - [Digital Humanities](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/digital-humanities/)
+
+
+### Forschungsdatenzentrum (FDZ)
+
+Team: Irene Schumm, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Stoilova, Larissa Will
+- Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
+- Web: [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](/lehren-und-forschen/forschungsdatenzentrum/)
+- E-Mail: forschungsdaten@uni-mannheim.de

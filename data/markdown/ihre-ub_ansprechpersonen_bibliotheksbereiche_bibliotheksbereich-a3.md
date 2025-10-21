@@ -5,6 +5,14 @@
 
 
 
+### Barbara Dreisiebner
+
+Teamleiterin Bibliotheksbereich A3
+- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 106/, 108, 68159 Mannheim
+- Telefon: +49 621 181-2989
+- E-Mail: a3.ub@uni-mannheim.de
+
+
 ### Isabelle Otto
 
 Stellvertretende Teamleiterin Bibliotheksbereich A3

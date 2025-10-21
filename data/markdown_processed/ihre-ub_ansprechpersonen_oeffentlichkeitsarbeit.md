@@ -1,21 +1,49 @@
 ---
-title: Ansprechpartnerin für Öffentlichkeitsarbeit und Webredaktion der Universitätsbibliothek Mannheim
+title: Ansprechpartner und Aufgaben der Öffentlichkeitsarbeit der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/oeffentlichkeitsarbeit/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/public-relations/
 category: Kontakt
-tags: ['Öffentlichkeitsarbeit', 'Webredaktion', 'Kommunikation', 'Kontakt', 'Universitätsbibliothek', 'Ansprechpartner', 'Presse', 'Universität Mannheim']
+tags: ['Öffentlichkeitsarbeit', 'Kommunikation', 'Fachreferenten', 'Geschichte', 'E-Learning', 'Provenienzforschung', 'Webredaktion', 'Ausstellungen']
 language: de
 ---
 
 # Öffentlichkeitsarbeit der Universitätsbibliothek Mannheim
 
-## Ansprechpartnerin
+Die Abteilung Kommunikation der Universitätsbibliothek Mannheim ist für die interne und externe Öffentlichkeitsarbeit, die Betreuung der historischen Sammlungen sowie die Konzipierung von Ausstellungen verantwortlich. Sie bietet fachliche Beratung, führt Schulungen durch und leitet Projekte im Bereich Provenienzforschung.
+
+## Ansprechpartner
+
+### Viktor Boecking, M.A. (er/ihn)
+
+**Leiter der Abteilung Kommunikation**
+**Fachreferent für Geschichte**
+**E-Learning**
+
+**Aufgaben:**
+
+- Kommunikation und Öffentlichkeitsarbeit
+- Projektleitung Provenienzforschung
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich Geschichte
+- Betreuung der historischen Sammlungen
+- Konzipierung von Ausstellungen
+
+**Kontakt:**
+Universität Mannheim, Universitätsbibliothek
+Schloss Schneckenhof West – Raum SW 284
+68161 Mannheim
+Telefon: +49 621 181-2938
+E-Mail: [kommunikation.ub@uni-mannheim.de](mailto:kommunikation.ub@uni-mannheim.de)
+
+______________________________________________________________________
 
 ### Christina Schüßler, M.A.
 
-**Bereiche:** Kommunikation, Webredaktion
-**Adresse:** Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 275, 68161 Mannheim
-**Telefon:** +49 621 181-2935
-**E-Mail:** [kommunikation.ub@uni-mannheim.de](mailto:kommunikation.ub@uni-mannheim.de)
+**Kommunikation | Webredaktion**
 
-Weitere Informationen finden Sie auf der Seite [Öffentlichkeitsarbeit](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/oeffentlichkeitsarbeit/).
+**Kontakt:**
+Universität Mannheim, Universitätsbibliothek
+Schloss Schneckenhof West – Raum SN 275
+68161 Mannheim
+Telefon: +49 621 181-2935
+E-Mail: [kommunikation.ub@uni-mannheim.de](mailto:kommunikation.ub@uni-mannheim.de)

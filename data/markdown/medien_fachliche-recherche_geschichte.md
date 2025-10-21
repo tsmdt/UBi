@@ -82,4 +82,21 @@ Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten.
 
 ## Kontakt
 
+
+
+### Viktor Boecking, M.A.
+
+Leiter der Abteilung Kommunikation | Fachreferent für Geschichte | E-Learning
+
+Aufgaben:
+
+- Kommunikation und Öffentlichkeitsarbeit
+- Projektleitung Provenienzforschung
+- Fachliche Beratung bei Recherchefragen
+- Durchführung von Schulungen im Fachbereich
+- Betreuung der historischen Sammlungen
+- Konzipierung von Ausstellungen
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
+- Telefon: +49 621 181-2938
+- E-Mail: viktor.boecking@uni-mannheim.de
 Vertretung[Dr. Irene Schumm](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-irene-schumm/)
