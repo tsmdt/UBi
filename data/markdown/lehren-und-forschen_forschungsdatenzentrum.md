@@ -80,7 +80,7 @@ Aufgaben:
 ### Jan Kamlah
 
 Data Scientist | Projektmitarbeiter (Automatische Text- und Dokumentenerkennung)
-- Adresse: Universität Mannheim, Universitätsbibliothek, 68161 Mannheim
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2777
 - E-Mail: jan.kamlah@uni-mannheim.de
 

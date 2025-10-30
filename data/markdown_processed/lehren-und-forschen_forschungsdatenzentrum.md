@@ -13,19 +13,13 @@ Das Forschungsdatenzentrum (FDZ) ist die zentrale Anlaufstelle der Universitäts
 
 ## Neuigkeiten aus dem FDZ und zum Thema Forschungsdaten
 
-Aktuelle Informationen und Entwicklungen zum Forschungsdatenmanagement und den Aktivitäten des FDZ.
+Aktuelle Informationen und Entwicklungen rund um das Forschungsdatenzentrum und das Forschungsdatenmanagement.
 
 ## Angebote des FDZ
 
 ### [Services des FDZ](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/)
 
-Das FDZ bietet umfassende Services rund ums Forschungsdatenmanagement, darunter:
-
-- Beratung zum Forschungsdatenmanagement (FDM)
-- Unterstützung bei Datenmanagementplänen
-- OCR-Services
-- Knowledge Graphs
-- Nutzung von MADATA
+Unsere Services rund ums Forschungsdatenmanagement: alles von FDM-Beratung, Datenmanagementplänen, OCR, Knowledge Graphs bis hin zu MADATA.
 
 ### [Informationen zum Forschungsdatenmanagement](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/)
 
@@ -33,7 +27,7 @@ Weiterführende Informationen und Angebote zum Forschungsdatenmanagement.
 
 ### [Datenangebot des FDZ](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/datenangebot-des-fdz/)
 
-Überblick über selbst gehostete Datenangebote sowie lizenzierte Daten des FDZ.
+Unsere selbst gehosteten Datenangebote sowie lizenzierte Daten.
 
 ### [Research Skills](https://www.bib.uni-mannheim.de/lehren-und-forschen/research-skills/)
 
@@ -41,16 +35,17 @@ Praktische Tipps zu Themen wie effizientes Forschungsdatenmanagement, Datenanaly
 
 ### [Projekte](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-projekte/)
 
-Überblick über Projekte, die das FDZ im Bereich Forschungsdaten unterstützt.
+Überblick über Projekte, die das FDZ rund um Forschungsdaten unterstützt.
 
 ### [German Internet Panel (GIP)](https://www.uni-mannheim.de/gip/)
 
-Langfristige Studie an der Universität Mannheim zur Untersuchung individueller Einstellungen und Präferenzen.
+Eine langfristige Studie an der Universität Mannheim zur Untersuchung individueller Einstellungen und Präferenzen.
 
 ## FDZ-Team und Kontakt
 
-### Forschungsdatenzentrum (FDZ) – Zentrale Kontaktstelle
+### Zentrale Kontaktadresse
 
+- Forschungsdatenzentrum (FDZ)
 - Team: Dr. Irene Schumm, Dr. Phil Kolbe, Dr. David Philip Morgan, Thomas Schmidt, Dr. Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
 - Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
 - E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)
@@ -70,7 +65,7 @@ Langfristige Studie an der Universität Mannheim zur Untersuchung individueller 
 #### Jan Kamlah
 
 - Data Scientist | Projektmitarbeiter (Automatische Text- und Dokumentenerkennung)
-- Adresse: Universitätsbibliothek, 68161 Mannheim
+- Adresse: Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2777
 - E-Mail: [jan.kamlah@uni-mannheim.de](mailto:jan.kamlah@uni-mannheim.de)
 
@@ -101,7 +96,7 @@ Langfristige Studie an der Universität Mannheim zur Untersuchung individueller 
 #### Dr. Renat Shigapov
 
 - Lead Data Scientist | Projektleiter
-- Aufgaben: Strategische Weiterentwicklung des technischen Forschungsdatenmanagements, Beratung zu Forschungsdatenmanagement, Data Science und KI-Tools, Projektkoordination im Bereich Data Science und KI, Vertretung der UB in Gremien
+- Aufgaben: Strategische Weiterentwicklung des technischen Forschungsdatenmanagements, Beratung zu Forschungsdatenmanagement, Data Science und KI-Tools, Konzeption und Koordination von Projekten im Bereich Data Science und KI, Vertretung der UB in Gremien
 - Adresse: Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
 - Telefon: +49 621 181-2718
 - E-Mail: [renat.shigapov@uni-mannheim.de](mailto:renat.shigapov@uni-mannheim.de)
@@ -110,7 +105,7 @@ Langfristige Studie an der Universität Mannheim zur Untersuchung individueller 
 #### Christos Sidiropoulos, M.Ed.
 
 - Referent für Forschungsdatenmanagement (Data Literacy) | Fachreferent für Mathematik
-- Aufgaben: Mitarbeit im Data-Literacy-Projekt MaDaLi², technischer Support und Softwareentwicklung von Content-Management-Systemen, Beratung und Schulungen im Bereich Forschungsdatenmanagement, Literaturauswahl und -erschließung für Mathematik
+- Aufgaben: Mitarbeit im Data-Literacy-Projekt MaDaLi², technischer Support und Softwareentwicklung von Content-Management-Systemen, Beratung und Schulungen im Bereich Forschungsdatenmanagement, Literaturauswahl und -erschließung für das Fach Mathematik
 - Adresse: Schloss Schneckenhof West – Raum SN 280, 68161 Mannheim
 - Telefon: +49 621 181-2962
 - E-Mail: [christos.sidiropoulos@uni-mannheim.de](mailto:christos.sidiropoulos@uni-mannheim.de)

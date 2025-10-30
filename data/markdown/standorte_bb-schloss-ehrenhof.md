@@ -5,7 +5,7 @@
 
 
 
-## Hasso-Plattner-Bibliothek – Fachbibliothek für Rechtswissenschaft, Volkswirtschaftslehre und Geschichte, Ernst & Young Bibliothek für Accounting, Business Taxation and Tax Law
+## Hasso-Plattner-Bibliothek – Fachbibliothek für Rechtswissenschaft, Volkswirtschaftslehre und Geschichte, Bibliothek für Accounting, Business Taxation and Tax Law
 
 Die Medien in diesem Bibliotheksbereich sind frei zugänglich, systematisch aufgestellt und nur vor Ort nutzbar. Wissenschaftliche und hauptamtliche Beschäftigte der Universität können hier ausleihen.
 [Schulungsraum M 218](https://www.bib.uni-mannheim.de/services/arbeitsplaetze/schulungsraum-m-218/)

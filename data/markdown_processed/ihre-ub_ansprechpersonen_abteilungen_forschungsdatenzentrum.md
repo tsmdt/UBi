@@ -1,15 +1,15 @@
 ---
-title: Forschungsdatenzentrum – Ansprechpartner und Aufgabenbereiche der Universitätsbibliothek Mannheim
+title: Forschungsdatenzentrum – Ansprechpartner und Aufgaben an der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/forschungsdatenzentrum/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/research-data-center/
 category: Kontakt
-tags: ['Forschungsdatenmanagement', 'Open Science', 'Data Literacy', 'Digital Humanities', 'Sozialwissenschaften', 'Mathematik', 'Beratung', 'Universitätsbibliothek']
+tags: ['Forschungsdatenmanagement', 'Ansprechpartner', 'Open Science', 'Data Literacy', 'Digital Humanities', 'Sozialwissenschaften', 'Data Science', 'Universitätsbibliothek']
 language: de
 ---
 
 # Forschungsdatenzentrum der Universitätsbibliothek Mannheim
 
-Das Forschungsdatenzentrum der Universitätsbibliothek Mannheim unterstützt bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten. Das Team bietet Beratung, Schulungen und technische Unterstützung im Bereich Forschungsdatenmanagement, Open Science, Data Literacy, Digitalisierung und Data Science.
+Bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten unterstützt das Forschungsdatenzentrum der Universitätsbibliothek Mannheim. Das Team bietet Beratung, Schulungen und technische Unterstützung im Bereich Forschungsdatenmanagement, Open Science, Data Literacy, Digitalisierung und Data Science.
 
 ## Ansprechpartner und Aufgabenbereiche
 
@@ -23,6 +23,14 @@ Das Forschungsdatenzentrum der Universitätsbibliothek Mannheim unterstützt bei
 - Telefon: +49 621 181-2955
 - E-Mail: [irene.schumm@uni-mannheim.de](mailto:irene.schumm@uni-mannheim.de)
 - ORCID: [0000-0002-0167-3683](https://orcid.org/0000-0002-0167-3683)
+
+### Jan Kamlah
+
+**Data Scientist | Projektmitarbeiter (Automatische Text- und Dokumentenerkennung)**
+
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
+- Telefon: +49 621 181-2777
+- E-Mail: [jan.kamlah@uni-mannheim.de](mailto:jan.kamlah@uni-mannheim.de)
 
 ### Dr. Phil Kolbe
 
