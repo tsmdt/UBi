@@ -40,7 +40,7 @@ Für **S**chülerinnen und **S**chüler ab der 9. Jahrgangsstufe und dem 14. Leb
 - Das Praktikum dauert normalerweise eine Woche.
 - Die Schülerinnen und Schüler sind im Rahmen von Orientierungspraktika über ihre Schule unfallversichert.
 - Ein Entgelt kann nicht gewährt werden.
-- Bitte bewirb dich ca. sechs Wochen vor Praktikumsbeginn und füge deiner Bewerbung ein kurzes Motivationsschreiben, deinen Lebenslauf sowie dein letztes Schulzeugnis bei.
+- Bitte bewirb dich möglichst frühzeitig vor Praktikumsbeginn und füge deiner Bewerbung ein kurzes Motivationsschreiben, deinen Lebenslauf sowie dein letztes Schulzeugnis bei.
 
 
 
