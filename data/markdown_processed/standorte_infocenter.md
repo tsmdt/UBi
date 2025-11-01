@@ -3,32 +3,37 @@ title: InfoCenter der Universitätsbibliothek Mannheim – Zentrale Anlaufstelle
 source_url_de: https://www.bib.uni-mannheim.de/standorte/infocenter/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/infocenter/
 category: Standorte
-tags: ['InfoCenter', 'Bibliotheksausweis', 'Serviceangebot', 'Sonderleseplätze', 'Geräteausleihe', 'Beratung', 'Universitätsbibliothek', 'Öffnungszeiten']
+tags: ['InfoCenter', 'Bibliotheksausweis', 'Beratung', 'Sonderleseplätze', 'Geräteausleihe', 'Öffnungszeiten', 'Kontakt', 'Universitätsbibliothek']
 language: de
 ---
 
 # InfoCenter der Universitätsbibliothek Mannheim
 
-Das InfoCenter ist die zentrale Anlaufstelle der Universitätsbibliothek Mannheim für Auskunft und Beratung zu Bibliotheksausweisen, Literaturrecherche und weiteren Bibliotheksservices. Es wird in Kooperation von [Universitäts-IT (UNIT)](https://www.uni-mannheim.de/it/support/) und der Universitätsbibliothek betrieben.
+Das InfoCenter ist die zentrale Anlaufstelle der Universitätsbibliothek Mannheim für Auskunft und Beratung zu allen Bibliotheksservices. Es wird in Kooperation von [Universitäts-IT (UNIT)](https://www.uni-mannheim.de/it/support/) und der Universitätsbibliothek betrieben.
 
 Hier erhalten Sie:
 
-- Die [elektronische Chipkarte ecUM](https://www.uni-mannheim.de/it/anleitungen/ecum/)
-- Den Bibliotheksausweis [UB-Chipkarte für Privatpersonen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/)
+- [Elektronische Chipkarte ecUM](https://www.uni-mannheim.de/it/anleitungen/ecum/)
+- Bibliotheksausweis: [UB-Chipkarte für Privatpersonen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/)
 
 ## Sonderleseplätze
 
-Im InfoCenter stehen Sonderleseplätze für Medien zur Verfügung, die nicht nach Hause ausgeliehen werden können, beispielsweise Bücher, die älter als 100 Jahre sind. Für das Lesen, Speichern oder Drucken von Mikrofilmen und Mikrofiches sind Mikroformen-Scanner vorhanden.
+Für Medien, die nicht nach Hause ausgeliehen werden können (z. B. Bücher, die älter als 100 Jahre sind), stehen im InfoCenter Sonderleseplätze zur Verfügung. Zum Lesen, Speichern oder Drucken von Mikrofilmen und Mikrofiches sind Mikroformen-Scanner vorhanden.
 
 ## Ausleihe von mobilen Geräten
 
-Angehörige der Universität Mannheim können nach Vorbestellung über den Katalog Primo an der Infotheke im InfoCenter Notebooks ausleihen. Weitere Informationen: [Ausleihe mobiler Geräte](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/ausleihe-mobiler-geraete/)
+Angehörige der Universität Mannheim können an der Infotheke im InfoCenter Notebooks nach Vorbestellung über den Katalog Primo ausleihen. Weitere Informationen: [Ausleihe mobiler Geräte](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/ausleihe-mobiler-geraete/)
 
 ## Öffnungszeiten
 
 **InfoCenter Universitätsbibliothek**
 Beratung, Neuanmeldung, Ausleihe von mobilen Geräten, Sonderleseplätze
-Mo–Fr (außer an Feiertagen): 9–16 Uhr
+
+| Wochentag | Uhrzeit |
+|--------------------------|------------|
+| Mo‒Fr (außer an Feiertagen) | 9–16 Uhr |
+
+Weitere Hinweise: [Sicherheit in den Bibliotheksbereichen](https://www.bib.uni-mannheim.de/standorte/sicherheit-in-den-bibliotheksbereichen/)
 
 ## Kontakt
 
@@ -38,4 +43,4 @@ Schloss Schneckenhof, 68161 Mannheim
 Web: [www.bib.uni-mannheim.de](https://www.bib.uni-mannheim.de/)
 Telefon: +49 621 181-2948
 E-Mail: [info.ub@uni-mannheim.de](mailto:info.ub@uni-mannheim.de)
-[Ansprechpersonen](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-schneckenhof/)
+Weitere Ansprechpersonen: [Bibliotheksbereich Schloss Schneckenhof](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-schneckenhof/)

@@ -34,6 +34,10 @@ Sie schreiben Ihre Bachelorarbeit oder Dissertation und wissen nicht mehr weiter
 | --- | --- |
 | Sa/So/Feiertage | 10–23 Uhr |
 
+**Erweiterte Öffnungszeiten vom 10. November bis einschließlich 21. Dezember 2025**
+| Mo‒So und Feiertage | 8–24 Uhr |
+| --- | --- |
+
 
 
 ## Kontakt

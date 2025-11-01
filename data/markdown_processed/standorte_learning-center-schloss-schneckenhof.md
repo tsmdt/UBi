@@ -3,7 +3,7 @@ title: Learning Center Schloss Schneckenhof – Arbeitsplätze, Kurse und Beratu
 source_url_de: https://www.bib.uni-mannheim.de/standorte/learning-center-schloss-schneckenhof/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/learning-center-schloss-schneckenhof/
 category: Standorte
-tags: ['Arbeitsplätze', 'Gruppenarbeit', 'Schreibberatung', 'Study Skills', 'Kurse', 'Öffnungszeiten', 'Schloss Schneckenhof', 'Universitätsbibliothek']
+tags: ['Arbeitsplätze', 'Gruppenarbeit', 'Schreibberatung', 'Study Skills', 'Öffnungszeiten', 'Lehrbuchsammlung', 'Beratung', 'Kurse']
 language: de
 ---
 
@@ -11,7 +11,7 @@ language: de
 
 Das Learning Center Schloss Schneckenhof der Universitätsbibliothek Mannheim bietet im ersten Obergeschoss 180 unterschiedlich gestaltete Arbeitsplätze mit moderner technischer Ausstattung, die sich besonders für Gruppenarbeit eignen.
 
-Im Learning Center steht von jedem Buch, das in der Lehrbuchsammlung im Ausleihzentrum vorhanden ist, ein Präsenzexemplar zur Verfügung. An den [PalMA-Team-Monitoren](https://www.bib.uni-mannheim.de/services/arbeitsplaetze/palma-team-monitore/) können Sie via WLAN kollaborativ arbeiten.
+Im Learning Center steht jeweils ein Präsenzexemplar jedes Buches aus der Lehrbuchsammlung des Ausleihzentrums zur Verfügung. An den [PalMA-Team-Monitoren](https://www.bib.uni-mannheim.de/services/arbeitsplaetze/palma-team-monitore/) können Sie via WLAN kollaborativ arbeiten.
 
 ## Kurse und Beratung
 
@@ -28,12 +28,18 @@ Sie schreiben Ihre Bachelorarbeit oder Dissertation und benötigen Unterstützun
 
 ## Öffnungszeiten
 
-**Learning Center Schloss Schneckenhof**
+**Learning Center**
 
-| Wochentag | Öffnungszeiten |
-|--------------------------|---------------|
-| Montag–Freitag | 8–23 Uhr |
-| Samstag/Sonntag/Feiertag | 10–23 Uhr |
+| Wochentage | Uhrzeit |
+|------------|--------------|
+| Mo–Fr | 8–23 Uhr |
+| Sa/So/Feiertage | 10–23 Uhr |
+
+**Erweiterte Öffnungszeiten vom 10. November bis einschließlich 21. Dezember 2025**
+
+| Wochentage | Uhrzeit |
+|----------------------|----------|
+| Mo–So und Feiertage | 8–24 Uhr |
 
 ## Kontakt
 

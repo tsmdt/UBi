@@ -28,6 +28,7 @@ Beratung, Neuanmeldung, Ausleihe von mobilen Geräten, Sonderleseplätze
 | Mo‒Fr außer an Feiertagen | 9–16 Uhr |
 | --- | --- |
 
+[Sicherheit in den Bibliotheksbereichen](https://www.bib.uni-mannheim.de/standorte/sicherheit-in-den-bibliotheksbereichen/)
 
 
 ## Kontakt

@@ -28,13 +28,26 @@ Die Medien in diesem Bibliotheksbereich sind frei zugänglich, systematisch aufg
 | --- | --- |
 | Sa/So/Feiertage | 10–18 Uhr |
 
+**Erweiterte Öffnungszeiten vom 10. November bis einschließlich 21. Dezember 2025**
+| Mo‒So/Feiertage | 8–24 Uhr |
+| --- | --- |
+
+**Eingang Ost**
+| Mo–So/Feiertage | 8–24 Uhr |
+| --- | --- |
+
+**Eingang West**
+| Mo–Fr | 8–18 Uhr |
+| --- | --- |
+| Sa/So/Feiertage | 10–18 Uhr |
+
 
 
 ## Fachliche Recherche
 
 Unsere [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) beantworten gerne Ihre Fragen und beraten Sie individuell zu Ihrem Thema.
-[Sicherheit in den Bibliotheksbereichen](https://www.bib.uni-mannheim.de/standorte/sicherheit-in-den-bibliotheksbereichen/)
 [Arbeitsplätze](https://www.bib.uni-mannheim.de/services/arbeitsplaetze/)[Drucken, kopieren und scannen](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/)[Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/)[Buch nicht am Standort?](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/buch-nicht-am-standort/)Services für Lehrende finden Sie im Menüpunkt [Lehren und forschen](https://www.bib.uni-mannheim.de/lehren-und-forschen/).
+[Sicherheit in den Bibliotheksbereichen](https://www.bib.uni-mannheim.de/standorte/sicherheit-in-den-bibliotheksbereichen/)
 
 
 ## Kontakt
