@@ -21,7 +21,7 @@ Sie holen die Bücher aus dem Regal und buchen sie an den Selbstverbuchern auf I
 | Mo–Fr | 7–21 Uhr |
 | --- | --- |
 
-[Arbeitsplätze](https://www.bib.uni-mannheim.de/services/arbeitsplaetze/)[Drucken, kopieren und scannen](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/)[Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/)Services für Lehrende finden Sie im Menüpunkt [Lehren und forschen](https://www.bib.uni-mannheim.de/lehren-und-forschen/)[Kooperierende Einrichtungen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-angehoerige-kooperierender-einrichtungen/)
+[Arbeitsplätze](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/)[Drucken, kopieren und scannen](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/)[Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/)Services für Lehrende finden Sie im Menüpunkt [Lehren und forschen](https://www.bib.uni-mannheim.de/lehren-und-forschen/)[Kooperierende Einrichtungen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-angehoerige-kooperierender-einrichtungen/)
 [Sicherheit in den Bibliotheksbereichen](https://www.bib.uni-mannheim.de/standorte/sicherheit-in-den-bibliotheksbereichen/)
 
 

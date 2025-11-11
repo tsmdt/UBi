@@ -13,7 +13,7 @@ Wie melde ich mich an und welche Services der UB kann ich nutzen? Informationen 
 
 
 
-### [Arbeitsplätze](https://www.bib.uni-mannheim.de/services/arbeitsplaetze/)
+### [Arbeitsplätze](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/)
 
 Arbeitsplätze
 Einzel- und Gruppenarbeitsplätze, Belegung, technische Ausstattung, Schulungsräume, Sonderleseplätze und Schließfächer

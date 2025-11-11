@@ -1,9 +1,9 @@
 ---
-title: Bibliotheksbereich A5 – Standortinformationen, Öffnungszeiten und Services der Universitätsbibliothek Mannheim
+title: Bibliotheksbereich A5 – Standort, Öffnungszeiten und Services der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/standorte/bb-a5/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/a5-library/
 category: Standorte
-tags: ['Bibliotheksbereich A5', 'Soziologie', 'Politikwissenschaft', 'Mathematik', 'Informatik', 'EDZ', 'MZES', 'Öffnungszeiten', 'Kontakt']
+tags: ['Bibliotheksbereich A5', 'Soziologie', 'Politikwissenschaft', 'Mathematik', 'Informatik', 'Öffnungszeiten', 'EDZ', 'MZES']
 language: de
 ---
 
@@ -24,14 +24,14 @@ Die Medien in diesem Bereich sind frei zugänglich, systematisch aufgestellt und
 
 - Montag bis Sonntag und an Feiertagen: 8–24 Uhr
 
-## Services und Recherche
+## Services und Angebote
 
-- [Fachliche Recherche – Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/): Individuelle Beratung und Beantwortung von Fachfragen.
-- [Arbeitsplätze](https://www.bib.uni-mannheim.de/services/arbeitsplaetze/)
+- [Fachliche Recherche](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/): Fachreferentinnen und Fachreferenten beraten individuell zu Recherche und Fachthemen.
+- [Arbeitsplätze](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/): Informationen zu Lern- und Arbeitsplätzen.
 - [Drucken, kopieren und scannen](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/)
-- [Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/)
-- [Buch nicht am Standort?](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/buch-nicht-am-standort/)
-- Services für Lehrende: siehe [Lehren und forschen](https://www.bib.uni-mannheim.de/lehren-und-forschen/)
+- [Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/): Vorschläge für neue Medien.
+- [Buch nicht am Standort?](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/buch-nicht-am-standort/): Informationen zur Fernleihe und zum Bestellservice.
+- Services für Lehrende: Siehe [Lehren und forschen](https://www.bib.uni-mannheim.de/lehren-und-forschen/).
 - [Sicherheit in den Bibliotheksbereichen](https://www.bib.uni-mannheim.de/standorte/sicherheit-in-den-bibliotheksbereichen/)
 
 ## Kontakt

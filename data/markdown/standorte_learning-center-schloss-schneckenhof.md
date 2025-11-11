@@ -9,7 +9,7 @@
 
 Vom**10. November bis zum 21. Dezember 2025**wird das Learning Center zum**Ruhearbeitsbereich**.
 [Weitere Infos](https://blog.bib.uni-mannheim.de/Aktuelles/?p=28168)
-Im Learning Center befindet sich je ein Präsenzexemplar von jedem Buch, das in der Lehrbuchsammlung im Ausleihzentrum steht. An den [PalMA-Team-Monitoren](https://www.bib.uni-mannheim.de/services/arbeitsplaetze/palma-team-monitore/) können Sie via WLAN kollaborativ arbeiten.
+Im Learning Center befindet sich je ein Präsenzexemplar von jedem Buch, das in der Lehrbuchsammlung im Ausleihzentrum steht. An den [PalMA-Team-Monitoren](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/palma-team-monitore/) können Sie via WLAN kollaborativ arbeiten.
 
 
 ## Kurse und Beratung

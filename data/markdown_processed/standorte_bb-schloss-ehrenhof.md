@@ -3,25 +3,19 @@ title: Bibliotheksbereich Schloss Ehrenhof – Öffnungszeiten, Nutzung und Kont
 source_url_de: https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/schloss-ehrenhof-library/
 category: Standorte
-tags: ['Schloss Ehrenhof', 'Öffnungszeiten', 'Rechtswissenschaft', 'Volkswirtschaftslehre', 'Geschichte', 'Accounting', 'Arbeitsplätze', 'Kontakt']
+tags: ['Schloss Ehrenhof', 'Öffnungszeiten', 'Rechtswissenschaft', 'Volkswirtschaftslehre', 'Geschichte', 'Accounting', 'Bibliotheksnutzung', 'Kontakt']
 language: de
 ---
 
 # Bibliotheksbereich Schloss Ehrenhof
 
-Der [Bibliotheksbereich Schloss Ehrenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/) umfasst die Hasso-Plattner-Bibliothek – Fachbibliothek für Rechtswissenschaft, Volkswirtschaftslehre und Geschichte sowie die Bibliothek für Accounting, Business Taxation and Tax Law.
+Der Bibliotheksbereich Schloss Ehrenhof der Universitätsbibliothek Mannheim umfasst die Hasso-Plattner-Bibliothek – Fachbibliothek für Rechtswissenschaft, Volkswirtschaftslehre und Geschichte sowie die Bibliothek für Accounting, Business Taxation and Tax Law.
 
-Die Medien in diesem Bereich sind frei zugänglich, systematisch aufgestellt und nur vor Ort nutzbar. Wissenschaftliche und hauptamtliche Beschäftigte der Universität Mannheim können Medien ausleihen.
+Die Medien in diesem Bereich sind frei zugänglich, systematisch aufgestellt und nur vor Ort nutzbar. Wissenschaftliche und hauptamtliche Beschäftigte der Universität können hier ausleihen.
 
-Weitere Informationen zu Arbeitsplätzen und Services:
+Weitere Informationen:
 
-- [Schulungsraum M 218](https://www.bib.uni-mannheim.de/services/arbeitsplaetze/schulungsraum-m-218/)
-- [Arbeitsplätze](https://www.bib.uni-mannheim.de/services/arbeitsplaetze/)
-- [Drucken, kopieren und scannen](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/)
-- [Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/)
-- [Buch nicht am Standort?](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/buch-nicht-am-standort/)
-- Services für Lehrende: [Lehren und forschen](https://www.bib.uni-mannheim.de/lehren-und-forschen/)
-- [Sicherheit in den Bibliotheksbereichen](https://www.bib.uni-mannheim.de/standorte/sicherheit-in-den-bibliotheksbereichen/)
+- [Schulungsraum M 218](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/schulungsraum-m-218/)
 
 ## Öffnungszeiten
 
@@ -29,37 +23,46 @@ Weitere Informationen zu Arbeitsplätzen und Services:
 
 **Bibliotheksbereich Schloss Ehrenhof**
 
-- Montag–Freitag: 8–23 Uhr
-- Samstag/Sonntag/Feiertage: 10–23 Uhr
+- Montag bis Freitag: 8–23 Uhr
+- Samstag, Sonntag und Feiertage: 10–23 Uhr
 
 **Eingang Ost**
 
-- Montag–Freitag: 8–23 Uhr
-- Samstag/Sonntag/Feiertage: 10–23 Uhr
+- Montag bis Freitag: 8–23 Uhr
+- Samstag, Sonntag und Feiertage: 10–23 Uhr
 
 **Eingang West**
 
-- Montag–Freitag: 8–18 Uhr
-- Samstag/Sonntag/Feiertage: 10–18 Uhr
+- Montag bis Freitag: 8–18 Uhr
+- Samstag, Sonntag und Feiertage: 10–18 Uhr
 
 ### Erweiterte Öffnungszeiten (10. November bis 21. Dezember 2025)
 
 **Bibliotheksbereich Schloss Ehrenhof**
 
-- Montag–Sonntag/Feiertage: 8–24 Uhr
+- Montag bis Sonntag und Feiertage: 8–24 Uhr
 
 **Eingang Ost**
 
-- Montag–Sonntag/Feiertage: 8–24 Uhr
+- Montag bis Sonntag und Feiertage: 8–24 Uhr
 
 **Eingang West**
 
-- Montag–Freitag: 8–18 Uhr
-- Samstag/Sonntag/Feiertage: 10–18 Uhr
+- Montag bis Freitag: 8–18 Uhr
+- Samstag, Sonntag und Feiertage: 10–18 Uhr
 
-## Fachliche Recherche
+## Fachliche Recherche und Services
 
-Die [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) der Universitätsbibliothek Mannheim beantworten gerne Ihre Fragen und beraten Sie individuell zu Ihrem Thema.
+Unsere [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) beraten Sie individuell zu Ihren Themen.
+
+Weitere Services:
+
+- [Arbeitsplätze](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/)
+- [Drucken, kopieren und scannen](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/)
+- [Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/)
+- [Buch nicht am Standort?](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/buch-nicht-am-standort/)
+- Services für Lehrende: [Lehren und forschen](https://www.bib.uni-mannheim.de/lehren-und-forschen/)
+- [Sicherheit in den Bibliotheksbereichen](https://www.bib.uni-mannheim.de/standorte/sicherheit-in-den-bibliotheksbereichen/)
 
 ## Kontakt
 

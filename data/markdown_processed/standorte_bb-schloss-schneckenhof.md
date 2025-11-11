@@ -3,7 +3,7 @@ title: Bibliotheksbereich Schloss Schneckenhof – Öffnungszeiten, Nutzung und 
 source_url_de: https://www.bib.uni-mannheim.de/standorte/bb-schloss-schneckenhof/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/schloss-schneckenhof-library/
 category: Standorte
-tags: ['Schloss Schneckenhof', 'Betriebswirtschaftslehre', 'Öffnungszeiten', 'Arbeitsplätze', 'Kontakt', 'Fachreferenten', 'Service', 'Universitätsbibliothek']
+tags: ['Schloss Schneckenhof', 'Betriebswirtschaftslehre', 'Öffnungszeiten', 'Arbeitsplätze', 'Kontakt', 'Fachbibliothek', 'Service', 'Universitätsbibliothek']
 language: de
 ---
 
@@ -24,11 +24,11 @@ Der Bibliotheksbereich Schloss Schneckenhof ist die Fachbibliothek für Betriebs
 
 ## Fachliche Recherche und Services
 
-Unsere [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) beraten Sie individuell zu Ihren Themen und beantworten gerne Ihre Fragen.
+Unsere [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) beraten Sie individuell zu Ihren Themen und beantworten Ihre Fragen.
 
 Weitere Services:
 
-- [Arbeitsplätze](https://www.bib.uni-mannheim.de/services/arbeitsplaetze/)
+- [Arbeitsplätze](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/)
 - [Drucken, kopieren und scannen](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/)
 - [Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/)
 - [Buch nicht am Standort?](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/buch-nicht-am-standort/)

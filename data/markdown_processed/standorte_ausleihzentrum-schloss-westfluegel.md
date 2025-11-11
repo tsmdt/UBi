@@ -3,7 +3,7 @@ title: Ausleihzentrum Schloss Westflügel – Zentrale Ausleihe und Fernleihe de
 source_url_de: https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/central-lending-library-schloss-westfluegel/
 category: Standorte
-tags: ['Ausleihzentrum', 'Fernleihe', 'Lehrbuchausleihe', 'Öffnungszeiten', 'Selbstverbucher', 'Rückgabeanlage', 'Arbeitsplätze', 'Universitätsbibliothek']
+tags: ['Ausleihzentrum', 'Fernleihe', 'Lehrbuchsammlung', 'Öffnungszeiten', 'Selbstverbucher', 'Rückgabe', 'Arbeitsplätze', 'Universitätsbibliothek']
 language: de
 ---
 
@@ -15,15 +15,7 @@ Das Ausleihzentrum ist die zentrale Anlaufstelle der Universitätsbibliothek Man
 - Bestellte oder vorgemerkte Medien stehen im Abholraum bereit.
 - Fernleihen werden an der Infotheke ausgegeben.
 
-Weitere Informationen:
-
-- [Informationen zur Ausleihe](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/)
-- [Arbeitsplätze](https://www.bib.uni-mannheim.de/services/arbeitsplaetze/)
-- [Drucken, kopieren und scannen](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/)
-- [Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/)
-- Services für Lehrende: [Lehren und forschen](https://www.bib.uni-mannheim.de/lehren-und-forschen/)
-- [Kooperierende Einrichtungen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-angehoerige-kooperierender-einrichtungen/)
-- [Sicherheit in den Bibliotheksbereichen](https://www.bib.uni-mannheim.de/standorte/sicherheit-in-den-bibliotheksbereichen/)
+Weitere Informationen: [Informationen zur Ausleihe](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/)
 
 ## Öffnungszeiten
 
@@ -32,6 +24,15 @@ Mo–Fr (außer an Feiertagen): 8–18 Uhr
 
 **Zugang zur Rückgabeanlage**
 Mo–Fr: 7–21 Uhr
+
+## Services und weiterführende Informationen
+
+- [Arbeitsplätze](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/)
+- [Drucken, kopieren und scannen](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/)
+- [Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/)
+- Services für Lehrende: [Lehren und forschen](https://www.bib.uni-mannheim.de/lehren-und-forschen/)
+- [Kooperierende Einrichtungen](https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-angehoerige-kooperierender-einrichtungen/)
+- [Sicherheit in den Bibliotheksbereichen](https://www.bib.uni-mannheim.de/standorte/sicherheit-in-den-bibliotheksbereichen/)
 
 ## Kontakt
 

@@ -8,7 +8,7 @@
 ## Hasso-Plattner-Bibliothek – Fachbibliothek für Rechtswissenschaft, Volkswirtschaftslehre und Geschichte, Bibliothek für Accounting, Business Taxation and Tax Law
 
 Die Medien in diesem Bibliotheksbereich sind frei zugänglich, systematisch aufgestellt und nur vor Ort nutzbar. Wissenschaftliche und hauptamtliche Beschäftigte der Universität können hier ausleihen.
-[Schulungsraum M 218](https://www.bib.uni-mannheim.de/services/arbeitsplaetze/schulungsraum-m-218/)
+[Schulungsraum M 218](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/schulungsraum-m-218/)
 
 
 ## Öffnungszeiten
@@ -46,7 +46,7 @@ Die Medien in diesem Bibliotheksbereich sind frei zugänglich, systematisch aufg
 ## Fachliche Recherche
 
 Unsere [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) beantworten gerne Ihre Fragen und beraten Sie individuell zu Ihrem Thema.
-[Arbeitsplätze](https://www.bib.uni-mannheim.de/services/arbeitsplaetze/)[Drucken, kopieren und scannen](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/)[Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/)[Buch nicht am Standort?](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/buch-nicht-am-standort/)Services für Lehrende finden Sie im Menüpunkt [Lehren und forschen](https://www.bib.uni-mannheim.de/lehren-und-forschen/).
+[Arbeitsplätze](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/)[Drucken, kopieren und scannen](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/)[Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/)[Buch nicht am Standort?](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/buch-nicht-am-standort/)Services für Lehrende finden Sie im Menüpunkt [Lehren und forschen](https://www.bib.uni-mannheim.de/lehren-und-forschen/).
 [Sicherheit in den Bibliotheksbereichen](https://www.bib.uni-mannheim.de/standorte/sicherheit-in-den-bibliotheksbereichen/)
 
 
