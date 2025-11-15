@@ -1,45 +1,63 @@
 ---
-title: Open Science Initiatives and Support at Universität Mannheim – Overview, Services, and Events
+title: Open Science Initiatives and Support at Universität Mannheim – Overview, Services, and Contact
 source_url_de: https://www.uni-mannheim.de/open-science/
 source_url_en: https://www.uni-mannheim.de/en/open-science/
 category: Services
-tags: ['Open Science', 'Open Access', 'Forschungsunterstützung', 'Open Data', 'Open Educational Resources', 'Reproduzierbarkeit', 'Best Practices', 'Open Science Grants']
+tags: ['Open Science', 'Open Access', 'Open Data', 'Open Educational Resources', 'Forschungsunterstützung', 'Reproduzierbarkeit', 'Best Practices', 'Förderprogramme']
 language: en
 ---
 
 # Open Science at the University of Mannheim
 
-Open Science at the University of Mannheim encompasses open access, open data, open software, and broader concepts such as Third Mission, Citizen Science, and Open Innovation. The university is committed to transparent and replicable research, promoting open science practices including pre-registration, open data, open materials, and open source.
+Open Science at the University of Mannheim encompasses a broad range of practices and principles, including Open Access, open data, open software, and concepts with societal impact such as Third Mission, Citizen Science, and Open Innovation. The university is committed to transparent and replicable research, promoting open and inclusive research practices, open access to scientific findings, and the reproducibility of research results.
 
-The University of Mannheim is a member of the [German Reproducibility Network (GRN)](https://reproducibilitynetwork.de/) since July 2022. Since autumn 2022, recruitment guidelines request a planned contribution to Open Science in professorship applications (see [Bewerbungsleitfaden](https://intranet.uni-mannheim.de/arbeitsplatz/personalangelegenheiten/personalabteilung/professorinnen-und-professoren/berufung-und-ernennung/) in the intranet). The university has established an [Open Science Office](https://www.uni-mannheim.de/open-science/open-science-office/) to support researchers at all career stages and from all disciplines.
+The University of Mannheim encourages Open Science through various initiatives:
+
+- **Research Practices:** Adoption of pre-registration, open data, open materials, and open source.
+- **National Collaboration:** Member of the [German Reproducibility Network (GRN)](https://reproducibilitynetwork.de/) since July 2022.
+- **Recruitment Guidelines:** Since autumn 2022, professorship applicants are encouraged to include planned Open Science contributions in their application documents ([Bewerbungsleitfaden](https://intranet.uni-mannheim.de/arbeitsplatz/personalangelegenheiten/personalabteilung/professorinnen-und-professoren/berufung-und-ernennung/), intranet).
+- **Open Science Office:** Dedicated support for researchers at all career stages and from all disciplines.
 
 ## Open Science Office
 
-The [Open Science Office](https://www.uni-mannheim.de/open-science/open-science-office/) fosters and supports Open Science approaches for researchers across all academic disciplines at the University of Mannheim.
+The [Open Science Office](https://www.uni-mannheim.de/open-science/open-science-office/) fosters and supports Open Science approaches for researchers across all academic disciplines at the University of Mannheim. It serves as the central point of contact for all Open Science-related inquiries and initiatives.
 
-## Best Practices
+## Open Science Services and Resources
 
-Explore [best practice Open Science examples](https://www.uni-mannheim.de/open-science/best-practices/) from across the university.
+### Best Practices
 
-## Pre-registration
+Explore [best practice examples](https://www.uni-mannheim.de/open-science/best-practices/) of Open Science from across the university to learn how transparent and reproducible research is implemented in various disciplines.
 
-Enhance the transparency of your research by [pre-registering your research](https://www.uni-mannheim.de/open-science/pre-registration/).
+### Pre-registration
 
-## Open Science Grants
+Enhance the transparency of your research by [pre-registering your studies](https://www.uni-mannheim.de/open-science/pre-registration/). Pre-registration helps improve research credibility and reproducibility.
 
-The [Open Science Office](https://www.uni-mannheim.de/open-science/grants/) incentivises transparent and reproducible research practices through financial support, offering grants of up to EUR 6,500.
+### Open Science Grants
 
-## Open Educational Resources (OERs)
+The [Open Science Office](https://www.uni-mannheim.de/open-science/grants/) incentivises transparent and reproducible research practices by offering financial support through grants of up to EUR 6,500.
 
-[Share your teaching material](https://www.uni-mannheim.de/open-science/oer/) with others or reuse existing resources as Open Educational Resources (OERs).
+### Open Educational Resources (OERs)
 
-## Open Science Council
+Share your teaching materials or reuse resources from others through the [Open Educational Resources (OER)](https://www.uni-mannheim.de/open-science/oer/) initiative.
 
-The [Open Science Council](https://www.uni-mannheim.de/open-science-council/) serves as an advisory body supporting the Open Science Office.
+### Open Science Council
+
+The [Open Science Council](https://www.uni-mannheim.de/open-science-council/) acts as an advisory body supporting the Open Science Office in its mission to promote open research practices.
 
 ## Events
 
-- Open Science Day 2025
-- Open Science Seminars: Introduction to Open Science
-- Open Science Seminars: Open Access
-- Open Science Seminars: Open Educational Resources (OER)
+- **Open Science Day 2025**
+  Annual event dedicated to Open Science topics and networking.
+
+- **Introduction to Open Science**
+  Introductory sessions and workshops for researchers interested in Open Science.
+
+- **Open Access**
+  Information and events on open access publishing.
+
+- **Open Educational Resources (OER)**
+  Events and workshops on creating and sharing open teaching materials.
+
+______________________________________________________________________
+
+For more information, visit the [Open Science portal of the University of Mannheim](https://www.uni-mannheim.de/open-science/).

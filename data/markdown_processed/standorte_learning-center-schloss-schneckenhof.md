@@ -1,17 +1,17 @@
 ---
-title: Learning Center Schloss Schneckenhof – Arbeitsplätze, Kurse und Kontaktinformationen
+title: Learning Center Schloss Schneckenhof – Arbeitsplätze, Kurse und Services der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/standorte/learning-center-schloss-schneckenhof/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/learning-center-schloss-schneckenhof/
 category: Standorte
-tags: ['Arbeitsplätze', 'Lernzentrum', 'Schreibberatung', 'Study Skills', 'Öffnungszeiten', 'Gruppenarbeit', 'Lehrbuchsammlung', 'Kontakt']
+tags: ['Arbeitsplätze', 'Gruppenarbeit', 'Schreibberatung', 'Study Skills', 'Öffnungszeiten', 'Lernzentrum', 'Kurse', 'Universitätsbibliothek']
 language: de
 ---
 
 # Learning Center Schloss Schneckenhof
 
-Das Learning Center Schloss Schneckenhof bietet im ersten Obergeschoss 180 unterschiedlich gestaltete Arbeitsplätze mit moderner technischer Ausstattung, die sich besonders für Gruppenarbeit eignen.
+Das Learning Center Schloss Schneckenhof der Universitätsbibliothek Mannheim bietet im ersten Obergeschoss 180 unterschiedlich gestaltete Arbeitsplätze mit moderner technischer Ausstattung, die sich besonders für Gruppenarbeit eignen.
 
-Vom **10. November bis zum 21. Dezember 2025** wird das Learning Center zum **Ruhearbeitsbereich**. [Weitere Infos](https://blog.bib.uni-mannheim.de/Aktuelles/?p=28168)
+Vom **10. November bis zum 21. Dezember 2025** wird das Learning Center zum **Ruhearbeitsbereich**. [Weitere Informationen](https://blog.bib.uni-mannheim.de/Aktuelles/?p=28168)
 
 Im Learning Center befindet sich jeweils ein Präsenzexemplar von jedem Buch, das in der Lehrbuchsammlung im Ausleihzentrum steht. An den [PalMA-Team-Monitoren](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/palma-team-monitore/) können Sie via WLAN kollaborativ arbeiten.
 
@@ -25,7 +25,7 @@ In der Kursreihe [Study Skills](https://www.bib.uni-mannheim.de/services/kurse-u
 
 ### Schreibberatung
 
-Die [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/) unterstützt Sie bei Bachelorarbeiten, Dissertationen und anderen wissenschaftlichen Schreibprojekten.
+Die [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/) unterstützt Sie beim Verfassen von Bachelorarbeiten, Dissertationen und anderen wissenschaftlichen Texten.
 
 ## Öffnungszeiten
 
@@ -36,7 +36,7 @@ Die [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
 
 **Erweiterte Öffnungszeiten vom 10. November bis einschließlich 21. Dezember 2025**
 
-- Montag bis Sonntag und Feiertage: 8–24 Uhr
+- Montag bis Sonntag und an Feiertagen: 8–24 Uhr
 
 ## Kontakt
 

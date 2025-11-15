@@ -57,13 +57,13 @@ The Open Science Council serves as a advisory body which suppports the Open Scie
 
 
 
-### Open Science Seminars: Introduction to Open Science
+### Introduction to Open Science
 
 
 
-### Open Science Seminars: Open Access
+### Open Access
 
 
 
-### Open Science Seminars: Open Educational Resources (OER)
+### Open Educational Resources (OER)
 
