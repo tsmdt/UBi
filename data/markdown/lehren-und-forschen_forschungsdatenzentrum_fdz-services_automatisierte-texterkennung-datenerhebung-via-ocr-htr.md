@@ -13,6 +13,8 @@ Gerne unterstützt das Forschungsdatenzentrum Forschende der Universität Mannhe
 - Beratung zur maschinellen Texterhebung für Forschungsprojekte
 - [OCR Recommender](https://wiki.bib.uni-mannheim.de/limesurvey/index.php/996387) – Empfehlung für geeignete Texterkennungssoftware
 - Offene OCR-Sprechstunde: jeden 2. Donnerstag im Monat, von 15 bis 16 Uhr, ohne Anmeldung (Link zum Zoom-Meeting: [https://ocr-bw.bib.uni-mannheim.de/sprechstunde](https://ocr-bw.bib.uni-mannheim.de/sprechstunde), Meeting ID: 682 8185 1819, Kenncode: 443071)
+- Nutzung von [Transkribus](https://www.transkribus.org/de) mit universitärem Zugang inklusive Credit-Vergabe und erweiterten Funktionen
+- Texterkennung und Transkription über die [eScriptorium-Instanz](https://ocr-bw.bib.uni-mannheim.de/escriptorium/) der Universitätsbibliothek (eigener Account auf Anfrage)
 
 
 
@@ -31,6 +33,30 @@ Gerne unterstützt das Forschungsdatenzentrum Forschende der Universität Mannhe
 | Tesseract | Open Source | kommandozeilenbasierte Texterkennungssoftware; geeignet für umfangreiche Datensätze | Historische/moderne Drucke |
 | Transkribus | kostenpflichtig/kommerziell | umfangreiche Texterkennungs- und Transkriptionsplattform; mit intuitiver Benutzeroberfläche | Historische Handschriften und Tabellen |
 
+
+
+### User Seat beim Transkribus-Konto der Universitätsbibliothek
+
+Die Universitätsbibliothek bietet einen institutionellen Zugang zur Texterkennungs- und Transkriptionsplattform [Transkribus](https://www.transkribus.org/de) an. Für die Vergabe eines User Seats ist die Unterzeichnung unserer Nutzungsbedingungen erforderlich. Anschließend vereinbaren wir ein kurzes Onboarding-Gespräch, in dem wir Sie in die Nutzung des Dienstes einführen.
+**Das Onboarding umfasst:****Verpflichtend (ca. 30 Minuten):**
+
+- Überblick über den institutionellen Transkribus-Account
+- Informationen zu User Seats und Credit-Vergabe
+- Administrative Rahmenbedingungen und Richtlinien
+
+**Optional:**
+
+- Einführung in grundlegende Funktionen (z. B. Upload, Layout Recognition, HTR-Modelle)
+- Vertiefungsmodule wie Training eigener Modelle, Arbeiten mit Tabellen oder weiteren Spezialfunktionen
+- Bearbeitung eigener Beispielsdokumente
+
+Wenn Sie Interesse an einem Zugang haben, kontaktieren Sie uns gerne!
+
+
+### Zugang zur eScriptorium-Instanz der Universitätsbibliothek
+
+Mitglieder der Universität Mannheim können auf Wunsch einen eigenen Account für die eScriptorium-Instanz der Universitätsbibliothek erhalten. Schreiben Sie uns hierzu einfach eine kurze E-Mail – wir richten den Zugang für Sie ein und stellen Ihnen die entsprechenden [Nutzungshinweise](https://github.com/UB-Mannheim/escriptorium/discussions/9) zur Verfügung.
+Nach der Einrichtung unterstützen wir Sie gerne bei den ersten Schritten in eScriptorium, bei Fragen zu Workflows oder bei der Nutzung weiterführender Funktionen.
 
 
 ### Anleitungen und Materialien zu verschiedener OCR-Software

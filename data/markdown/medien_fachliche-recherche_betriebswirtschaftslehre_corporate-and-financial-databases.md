@@ -12,7 +12,7 @@
 | Analyst forecasts |  |  |  | I/B/E/S |
 | Mutual funds |  |  | CRSP Mutual Funds,Institutional (13f) Holdings,Mutual Fund Holdings | CRSP Mutual Funds,Mutual Fund Holdings |
 | Accounting data | Orbis | Orbis | COMPUSTAT North America,Orbis | LSEG Workspace,COMPUSTAT Global,Orbis |
-| Banks and financial service industry | Bank Focus,S&P Capital IQ Pro | Bank Focus,S&P Capital IQ Pro | Bank Focus,S&P Capital IQ Pro | Bank Focus,S&P Capital IQ Pro |
+| Banks and financial service industry | Bank Focus,SNL Unlimited (S&P Global) | Bank Focus,SNL Unlimited (S&P Global) | Bank Focus,SNL Unlimited (S&P Global) | Bank Focus,SNL Unlimited (S&P Global) |
 | M&A and ownership structure | Aktienführer data archive,Zephyr | Zephyr | Zephyr | SDC Worldwide M&A,Zephyr |
 | Executive information | Orbis,Aktienführer data archive,Dun & Bradstreet Hoovers | Orbis,Dun & Bradstreet Hoovers | Orbis,COMPUSTAT Execucomp,Dun & Bradstreet Hoovers | Orbis,Dun & Bradstreet Hoovers |
 
@@ -143,11 +143,11 @@ Extended Access: For bulk download of large datasets („Orbis Generics“) as w
 Access: [via WRDS](https://wrds-www.wharton.upenn.edu/login/) (requires registration).
 
 
-## S&P Capital IQ Pro (former: SNL Unlimited/Financial)
+## SNL Unlimited (S&P Global)
 
 **Contents:**The database comprises financial data, news and analyses for more than 6.500 public and more than 50.000 private companies from the following industries: banking (worldwide), insurance (USA, Canada, Europe) and financial services (USA, Canada).
-**Help:**After having logged in to the database click the „Help“ button in the header of the web page.
-Access: Access to the database is restricted to members of the University of Mannheim and requires personal registration with your University of Mannheim e-mail address via this web page: [S&P Capital IQ Pro registration page](https://platform.spgi.spglobal.com/).
+**Help:**After having logged in to the database, click the „Help“ button in the header of the web page.
+Access: Access to the database is restricted to members of the University of Mannheim and requires personal registration with your University of Mannheim e-mail address via [S&P Global registration page](https://platform.spgi.spglobal.com/).
 
 
 ## Zephyr (Bureau van Dijk)
