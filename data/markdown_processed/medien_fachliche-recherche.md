@@ -1,21 +1,21 @@
 ---
-title: Fachliche Recherche an der Universitätsbibliothek Mannheim – Fachreferent:innen und Kontakt für alle Fachbereiche
+title: Fachreferentinnen und Fachreferenten der Universitätsbibliothek Mannheim – Fachliche Recherche und Kontaktinformationen
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/
-category: Services
-tags: ['Fachreferenten', 'Fachberatung', 'Literaturrecherche', 'Datenbanken', 'Fachgebiete', 'Kontakt', 'Universitätsbibliothek', 'Recherchekurse']
+category: Kontakt
+tags: ['Fachreferenten', 'Fachliche Recherche', 'Kontakt', 'Bibliotheksservice', 'Fachberatung', 'Universitätsbibliothek', 'Fachgebiete', 'Informationskompetenz']
 language: de
 ---
 
-# Fachliche Recherche an der Universitätsbibliothek Mannheim
+# Fachliche Recherche – Fachreferentinnen und Fachreferenten der Universitätsbibliothek Mannheim
 
-Für Ihr Fach bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken, weitere Sucheinstiege sowie fachspezifische Recherchekurse. Für individuelle Auskünfte oder Beratung wenden Sie sich bitte an die zuständigen Fachreferentinnen und Fachreferenten.
+Für Ihr Fach bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken, weitere Sucheinstiege sowie fachspezifische Recherchekurse. Für individuelle Auskünfte oder Beratungen wenden Sie sich bitte an die zuständigen Fachreferentinnen und Fachreferenten.
 
-## Übersicht der Fachreferent:innen und Fachgebiete
+## Übersicht der Fachreferentinnen und Fachreferenten
 
 ### Dr. Rudolf Nink, M.A.
 
-**Fachreferent für:**
+**Fachgebiete:**
 
 - Allgemeines
 - Allgemeine Sprach- und Literaturwissenschaft
@@ -29,26 +29,16 @@ Für Ihr Fach bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken
 - Telefon: +49 621 181-3053
 - E-Mail: [rudolf.nink@uni-mannheim.de](mailto:rudolf.nink@uni-mannheim.de)
 
-### Xiuwen Ye, M.Sc.
-
-**Fachreferentin für:**
-
-- Wirtschaftswissenschaften (Betriebswirtschaftslehre, Volkswirtschaftslehre)
-- Pädagogik
-- Wirtschaftspädagogik
-
-**Kontakt:**
-
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
-- Telefon: +49 621 181-3753
-- E-Mail: [xiuwen.ye@uni-mannheim.de](mailto:xiuwen.ye@uni-mannheim.de)
-
 ### Viktor Boecking, M.A.
 
-**Leiter der Abteilung Kommunikation | Fachreferent für:**
+**Fachgebiete:**
 
 - Geschichte
 - E-Learning
+
+**Funktion:**
+
+- Leiter der Abteilung Kommunikation
 
 **Kontakt:**
 
@@ -56,25 +46,15 @@ Für Ihr Fach bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken
 - Telefon: +49 621 181-2938
 - E-Mail: [viktor.boecking@uni-mannheim.de](mailto:viktor.boecking@uni-mannheim.de)
 
-### Dr. Philipp Zumstein
-
-**Leiter der Abteilung Publikationsservices und Forschungsunterstützung | Fachreferent für:**
-
-- (Wirtschafts-)Informatik
-- Open-Access-Beauftragter der Universität Mannheim
-
-**Kontakt:**
-
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 269.1, 68161 Mannheim
-- Telefon: +49 621 181-3006
-- E-Mail: [philipp.zumstein@uni-mannheim.de](mailto:philipp.zumstein@uni-mannheim.de)
-- ORCID: [0000-0002-6485-9434](https://orcid.org/0000-0002-6485-9434)
-
 ### Christos Sidiropoulos, M.Ed.
 
-**Referent für Forschungsdatenmanagement (Data Literacy) | Fachreferent für:**
+**Fachgebiete:**
 
 - Mathematik
+
+**Funktionen:**
+
+- Referent für Forschungsdatenmanagement (Data Literacy)
 
 **Kontakt:**
 
@@ -83,54 +63,35 @@ Für Ihr Fach bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken
 - E-Mail: [christos.sidiropoulos@uni-mannheim.de](mailto:christos.sidiropoulos@uni-mannheim.de)
 - ORCID: [0009-0001-3341-3149](https://orcid.org/0009-0001-3341-3149)
 
-### Vanessa Kolb
-
-**Fachreferentin für:**
-
-- Medien- und Kommunikationswissenschaft
-- Education & Training für BERD@NFDI
-- Publikationsdienste und Forschungsunterstützung
-
-**Kontakt:**
-
-- Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
-- Telefon: +49 621 181-3958
-- E-Mail: [vanessa.kolb@uni-mannheim.de](mailto:vanessa.kolb@uni-mannheim.de)
-
 ### Dr. Hendrik Platte
 
-**Fachreferent für:**
+**Fachgebiete:**
 
 - Politikwissenschaft
 - Soziologie
 - Psychologie
+
+**Funktionen:**
+
 - Ansprechpartner EDZ
 
 **Kontakt:**
 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
 - Telefon: +49 621 181-2990
-- E-Mail: [edz.ub@uni-mannheim.de](mailto:edz.ub@uni-mannheim.de)
-
-### Dr. Marion von Francken-Welz
-
-**Stellvertretende Leiterin der Abteilung Medienbearbeitung | Fachreferentin für:**
-
-- Rechtswissenschaft
-
-**Kontakt:**
-
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Ehrenhof – Raum M 305, 68161 Mannheim
-- Telefon: +49 621 181-3024
-- E-Mail: [marion.francken-welz@uni-mannheim.de](mailto:marion.francken-welz@uni-mannheim.de)
+- E-Mail: [hendrik.platte@uni-mannheim.de](mailto:hendrik.platte@uni-mannheim.de)
 
 ### Dr. Jorge Murcia Serra
 
-**Informationskompetenz und E-Learning | Fachreferent für:**
+**Fachgebiete:**
 
 - Romanistik
 - Sprachlernmaterialien
 - Sprachpraxis
+
+**Funktionen:**
+
+- Informationskompetenz und E-Learning
 - Education & Training für BERD@NFDI
 
 **Kontakt:**
@@ -138,6 +99,8 @@ Für Ihr Fach bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-2997
 - E-Mail: [jorge.murcia@uni-mannheim.de](mailto:jorge.murcia@uni-mannheim.de)
+
+______________________________________________________________________
 
 ## Fachgebiete und Rechercheportale
 
@@ -160,4 +123,4 @@ Für jedes Fachgebiet stehen eigene Rechercheportale und weiterführende Informa
 - [Allgemeine Sprach- und Literaturwissenschaft](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/allgemeine-sprach-und-literaturwissenschaft/)
 - [Volkswirtschaftslehre](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/volkswirtschaftslehre/)
 
-Für weitere Informationen und individuelle Beratung stehen die genannten Fachreferent:innen zur Verfügung.
+Für weiterführende Informationen und individuelle Beratung wenden Sie sich bitte an die jeweiligen Fachreferentinnen und Fachreferenten.

@@ -62,14 +62,14 @@ Für die Soziologie relevante**Statistikdatenbanken**sind z. B.
 - [C](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=100343&cHash=63b1e58ebd8eac5307491b14b8f8e96b)[NTS Data Archive](https://dbis.ur.de/ALL/resources/100343): Daten auf Länderebene
 - [Statista](https://dbis.ur.de/ALL/resources/9808): Statistiken aus den Bereichen Politik und Wirtschaft
 - [GENESIS-Online](https://dbis.ur.de/ALL/resources/922): Das statistische Informationssystem des Statistischen Bundesamts
-- [G](https://search.gesis.org/?source=%7B%22query%22%3A%7B%22bool%22%3A%7B%22must%22%3A%7B%22match_all%22%3A%7B%7D%7D%2C%22filter%22%3A%5B%7B%22term%22%3A%7B%22type%22%3A%22all%22%7D%7D%5D%7D%7D%7D)[ESIS ](https://search.gesis.org/?source=%7B%22query%22%3A%7B%22bool%22%3A%7B%22must%22%3A%7B%22match_all%22%3A%7B%7D%7D%2C%22filter%22%3A%5B%7B%22term%22%3A%7B%22type%22%3A%22all%22%7D%7D%5D%7D%7D%7D)[Datensuche](https://search.gesis.org/?source=%7B%22query%22%3A%7B%22bool%22%3A%7B%22must%22%3A%7B%22match_all%22%3A%7B%7D%7D%2C%22filter%22%3A%5B%7B%22term%22%3A%7B%22type%22%3A%22all%22%7D%7D%5D%7D%7D%7D): Forschungsdatensammlung des Leibniz Instituts für Sozialwissenschaften
-- [M](https://madata.bib.uni-mannheim.de/)[ADATA](https://madata.bib.uni-mannheim.de/): Forschungsdatenserver der Uni [M](https://madata.bib.uni-mannheim.de/)annheim
+- [GESIS Datensuche](https://search.gesis.org/?source=%7B%22query%22%3A%7B%22bool%22%3A%7B%22must%22%3A%7B%22match_all%22%3A%7B%7D%7D%2C%22filter%22%3A%5B%7B%22term%22%3A%7B%22type%22%3A%22all%22%7D%7D%5D%7D%7D%7D): Forschungsdatensammlung des Leibniz Instituts für Sozialwissenschaften
+- [MADATA](https://madata.bib.uni-mannheim.de/): Forschungsdatenserver der Uni Mannheim
 
 Die Universitätsbibliothek bietet Wissenschaftlerinnen und Wissenschaftlern Unterstützung beim Forschungsdatenmanagement - das heißt beim strukturierten Sammeln und Publizieren ihrer Forschungsdaten. Forschungsdaten können im institutionellen Forschungsdatenrepositorium [Mannheim Research Data Repository (MADATA)](https://madata.bib.uni-mannheim.de) gesichert und dauerhaft archiviert werden.
 Es existieren viele weitere nationale und internationale fachlichen Forschungsdatenrepositorien, wie zum Beispiel [datorium](https://data.gesis.org/sharing/#!Home) des [GESIS – Leibniz-Institut für Sozialwissenschaften](http://www.gesis.org). Datorium ermöglicht eine eigenständige Dokumentation, Sicherung und Veröffentlichung von Forschungsdaten. Erwähnenswert ist außerdem eines der weltweit größten Datenarchive für die Sozialwissenschaften [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=103932) der University of Michigan. Für die Datennutzung auf dem Campus der Universität Mannheim ist eine persönliche Registrierung und Anerkennung der Nutzungsbedingungen erforderlich.
 Einen Zusammenschluss dieser fachlichen Repositorien für die Sozialwissenschaften in Europa bildet das [Consortium of European Social Data Archives (CESSDA)](http://cessda.net/).
 Einen genauen Überblick über die Forchungsdatenrepositorien aus allen Fachgebieten bietet das Verzeichnis [Registry of Research Data Repositories](http://www.re3data.org).
-Zugang zu wissenschaftlichen Forschungdaten erhalten Sie über [DataCite](https://www.datacite.org/).
+Zugang zu wissenschaftlichen Forschungsdaten erhalten Sie über [DataCite](https://www.datacite.org/).
 
 
 ### Literaturstandorte

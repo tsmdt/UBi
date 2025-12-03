@@ -1,9 +1,9 @@
 ---
-title: Europäisches Dokumentationszentrum (EDZ) an der Universitätsbibliothek Mannheim – Informationen, Sammlung und Kontakt
+title: Europäisches Dokumentationszentrum (EDZ) an der Universitätsbibliothek Mannheim – Informationen, Sammlung, Datenbanken und Kontakt
 source_url_de: https://www.bib.uni-mannheim.de/standorte/europaeisches-dokumentationszentrum/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/european-documentation-centre/
 category: Standorte
-tags: ['Europäische Union', 'Dokumentationszentrum', 'EU-Dokumente', 'Datenbanken', 'Politikwissenschaft', 'Fachberatung', 'Sammlung', 'Kontakt']
+tags: ['Europäische Union', 'EDZ', 'Datenbanken', 'Politikwissenschaft', 'Fachberatung', 'Sammlungen', 'EU-Dokumente', 'Informationsquellen']
 language: de
 ---
 
@@ -35,9 +35,9 @@ Im [EDZ-Tutorial: EU-Informationsquellen und Datenbanken](http://lernbar.uni-fra
 
 ### Dr. Hendrik Platte
 
-**Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpartner EDZ**
+Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpartner EDZ
 
-**Aufgaben:**
+**Aufgabenbereiche:**
 
 - Literaturauswahl und -erschließung für die Fächer Politikwissenschaft, Soziologie und Psychologie
 - Fachliche Beratung bei Recherchefragen
@@ -47,6 +47,8 @@ Im [EDZ-Tutorial: EU-Informationsquellen und Datenbanken](http://lernbar.uni-fra
 - Mitarbeit im Team Publikationsservices und Forschungsunterstützung
 - Analysen im Bereich Bibliometrie
 
-**Adresse:** Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
-**Telefon:** +49 621 181-2990
-**E-Mail:** [edz.ub@uni-mannheim.de](mailto:edz.ub@uni-mannheim.de)
+**Kontakt:**
+
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
+- Telefon: +49 621 181-2990
+- E-Mail: [hendrik.platte@uni-mannheim.de](mailto:hendrik.platte@uni-mannheim.de)

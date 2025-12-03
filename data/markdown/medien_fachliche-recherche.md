@@ -181,7 +181,7 @@ Fachreferent für Allgemeines, Allgemeine Sprach- und Literaturwissenschaft, Ang
 Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpartner EDZ
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
 - Telefon: +49 621 181-2990
-- E-Mail: edz.ub@uni-mannheim.de
+- E-Mail: hendrik.platte@uni-mannheim.de
 
 
 ### Psychologie
@@ -197,7 +197,7 @@ Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpart
 Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpartner EDZ
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
 - Telefon: +49 621 181-2990
-- E-Mail: edz.ub@uni-mannheim.de
+- E-Mail: hendrik.platte@uni-mannheim.de
 
 
 ### Rechtswissenschaft
@@ -245,7 +245,7 @@ Informationskompetenz und E-Learning | Fachreferent für Romanistik und Sprachle
 Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpartner EDZ
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 283, Mannheim
 - Telefon: +49 621 181-2990
-- E-Mail: edz.ub@uni-mannheim.de
+- E-Mail: hendrik.platte@uni-mannheim.de
 
 
 ### Sprachpraxis
