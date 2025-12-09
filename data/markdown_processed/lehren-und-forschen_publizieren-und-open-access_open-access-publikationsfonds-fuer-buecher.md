@@ -3,13 +3,13 @@ title: Open-Access-Publikationsfonds für Bücher – Förderung und Antragstell
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds-fuer-buecher/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/publishing-and-open-access/open-access-publishing-fund-for-books/
 category: Services
-tags: ['Open Access', 'Publikationsfonds', 'Bücher', 'Förderung', 'Publikationsservices', 'MADOC', 'DFG', 'Wissenschaftskommunikation']
+tags: ['Open Access', 'Publikationsfonds', 'Bücher', 'Förderung', 'Publikationsservices', 'DFG', 'MADOC', 'Creative Commons']
 language: de
 ---
 
 # Open-Access-Publikationsfonds für Bücher
 
-Die Universität Mannheim bietet einen Open-Access-Publikationsfonds zur anteiligen Übernahme der anfallenden Open-Access-Gebühren für Buchpublikationen an. Ziel ist es, die Veröffentlichung ganzer Bücher im Open Access zu fördern.
+Die Universität Mannheim bietet einen Open-Access-Publikationsfonds zur anteiligen Übernahme der anfallenden Open-Access-Gebühren für Bücher an. Ziel ist es, die Veröffentlichung ganzer Bücher im Open Access zu fördern.
 
 ## Voraussetzungen für die Förderung
 
@@ -30,7 +30,7 @@ Die Universität Mannheim bietet einen Open-Access-Publikationsfonds zur anteili
 
 - Dem Antrag ist ein konkretes Verlagsangebot mit Kostenkalkulation beizulegen.
 - Das Angebot muss klar und verständlich die erbrachten Leistungen und die Kosten für Herausgeber*innen bzw. Autor*innen ausweisen.
-- Spezielle Anforderungen oder Pflichten für Autor*innen bzw. Herausgeber*innen sind zu benennen.
+- Spezielle Anforderungen oder Pflichten an die Autor*innen bzw. Herausgeber*innen sind zu benennen.
 - Die Kostenkalkulation muss transparent und nachvollziehbar sein, insbesondere im Hinblick auf nicht förderfähige Kosten wie Druckkosten.
 
 ### 4. Kostengrenze und förderfähige Kosten
@@ -48,7 +48,7 @@ Die Universität Mannheim bietet einen Open-Access-Publikationsfonds zur anteili
 ### 6. Nachweis in MADOC
 
 - Die Universitätsbibliothek weist das Buch in der Universitätsbibliographie auf dem Publikationsserver MADOC nach.
-- Der Volltext wird auf MADOC archiviert und bereitgestellt.
+- Der Volltext wird auf MADOC archiviert und zur Verfügung gestellt.
 - Publikationsdaten und Kosteninformationen werden an [openAPC](https://treemaps.intact-project.org/apcdata/openapc/) und an die DFG übermittelt.
 
 [Antrag auf Übernahme von Open-Access-Publikationskosten (Bücher)](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds-fuer-buecher/antrag-oa-buecher/)
@@ -61,7 +61,7 @@ Bei Fragen wenden Sie sich bitte an: [publikationsdienste@uni-mannheim.de](mailt
 
 Open-Access-Beauftragter der Universität Mannheim
 
-- Literaturauswahl und -erschließung für das Fach Informatik
+- Literaturauswahl und -erschließung für die Fächer Mathematik und Informatik
 - Fachliche Beratung bei Recherchefragen
 - Beratung zu Publizieren, Open Access und Forschungsunterstützung
 - Durchführung von Schulungen im Fachbereich

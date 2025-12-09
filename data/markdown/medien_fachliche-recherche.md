@@ -96,7 +96,7 @@ Leiter der Abteilung Kommunikation | Fachreferent für Geschichte | E-Learning
 
 ### Dr. Philipp Zumstein
 
-Leiter der Abteilung Publikationsservices und Forschungsunterstützung | Fachreferent für (Wirtschafts-)Informatik | Open-Access-Beauftragter der Universität Mannheim
+Leiter der Abteilung Publikationsservices und Forschungsunterstützung | Fachreferent für Mathematik und (Wirtschafts-)Informatik | Open-Access-Beauftragter der Universität Mannheim
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 269.1, 68161 Mannheim
 - Telefon: +49 621 181-3006
 - E-Mail: philipp.zumstein@uni-mannheim.de
@@ -111,13 +111,13 @@ Leiter der Abteilung Publikationsservices und Forschungsunterstützung | Fachref
 
 
 
-### Christos Sidiropoulos, M.Ed.
+### Dr. Philipp Zumstein
 
-Referent für Forschungsdatenmanagement (Data Literacy) | Fachreferent für Mathematik
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 280, 68161 Mannheim
-- Telefon: +49 621 181-2962
-- E-Mail: christos.sidiropoulos@uni-mannheim.de
-- ORCID-ID: 0009-0001-3341-3149 (https://orcid.org/0009-0001-3341-3149)
+Leiter der Abteilung Publikationsservices und Forschungsunterstützung | Fachreferent für Mathematik und (Wirtschafts-)Informatik | Open-Access-Beauftragter der Universität Mannheim
+- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 269.1, 68161 Mannheim
+- Telefon: +49 621 181-3006
+- E-Mail: philipp.zumstein@uni-mannheim.de
+- ORCID-ID: 0000-0002-6485-9434 (https://orcid.org/0000-0002-6485-9434)
 
 
 ### Medien- und Kommunikationswissenschaften

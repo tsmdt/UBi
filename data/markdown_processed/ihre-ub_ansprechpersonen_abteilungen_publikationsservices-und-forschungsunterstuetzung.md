@@ -3,27 +3,25 @@ title: Publikationsservices und Forschungsunterstützung – Ansprechpartner und
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/publikationsservices-und-forschungsunterstuetzung/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/publishing-services-and-research-support/
 category: Kontakt
-tags: ['Publikationsservices', 'Forschungsunterstützung', 'Open Access', 'Fachreferat', 'Informatik', 'Beratung', 'Schulungen', 'Universitätsbibliothek']
+tags: ['Publikationsservices', 'Forschungsunterstützung', 'Open Access', 'Mathematik', 'Informatik', 'Fachreferat', 'Beratung', 'Universitätsbibliothek']
 language: de
 ---
 
 # Publikationsservices und Forschungsunterstützung
-
-Die Abteilung Publikationsservices und Forschungsunterstützung der Universitätsbibliothek Mannheim bietet umfassende Beratung und Services rund um das wissenschaftliche Publizieren, Open Access und die Unterstützung von Forschungsvorhaben.
 
 ## Ansprechpartner
 
 ### Dr. Philipp Zumstein
 
 - Leiter der Abteilung Publikationsservices und Forschungsunterstützung
-- Fachreferent für (Wirtschafts-)Informatik
+- Fachreferent für Mathematik und (Wirtschafts-)Informatik
 - Open-Access-Beauftragter der Universität Mannheim
 
 **Aufgaben:**
 
-- Literaturauswahl und -erschließung für das Fach Informatik
+- Literaturauswahl und -erschließung für die Fächer Mathematik und Informatik
 - Fachliche Beratung bei Recherchefragen
-- Beratung zu Publizieren, Open Access und Forschungsunterstützung
+- Beratung bei Fragen zu Publizieren, Open Access und Forschungsunterstützung
 - Durchführung von Schulungen im Fachbereich
 
 **Kontakt:**

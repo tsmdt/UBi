@@ -3,15 +3,15 @@ title: Forschungsdatenzentrum – Ansprechpartner und Aufgaben an der Universit�
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/abteilungen/forschungsdatenzentrum/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/contact/departments/research-data-center/
 category: Kontakt
-tags: ['Forschungsdatenmanagement', 'Ansprechpartner', 'Open Science', 'Data Literacy', 'Digital Humanities', 'Sozialwissenschaften', 'Data Science', 'Universitätsbibliothek']
+tags: ['Forschungsdatenzentrum', 'Forschungsdatenmanagement', 'Data Science', 'Open Science', 'Digital Humanities', 'Data Literacy', 'Beratung', 'Universitätsbibliothek']
 language: de
 ---
 
-# Forschungsdatenzentrum der Universitätsbibliothek Mannheim
+# Forschungsdatenzentrum
 
-Bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten unterstützt das Forschungsdatenzentrum der Universitätsbibliothek Mannheim. Das Team bietet Beratung, Schulungen und technische Unterstützung im Bereich Forschungsdatenmanagement, Open Science, Data Literacy, Digitalisierung und Data Science.
+Bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten unterstützt das Forschungsdatenzentrum der Universitätsbibliothek Mannheim.
 
-## Ansprechpartner und Aufgabenbereiche
+## Ansprechpartner und Aufgaben
 
 ### Dr. Irene Schumm
 
@@ -74,12 +74,11 @@ Bei allen Fragen und Kommentaren rund um das Thema Forschungsdaten unterstützt 
 
 ### Christos Sidiropoulos, M.Ed.
 
-**Referent für Forschungsdatenmanagement (Data Literacy) | Fachreferent für Mathematik**
+**Referent für Forschungsdatenmanagement (Data Literacy)**
 
 - Mitarbeit im Data-Literacy-Projekt MaDaLi²
 - Technischer Support, Weiter- und Softwareentwicklung von Content-Management-Systemen
 - Beratung und Schulungen im Bereich Forschungsdatenmanagement
-- Literaturauswahl und -erschließung für das Fach Mathematik
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 280, 68161 Mannheim
 - Telefon: +49 621 181-2962
 - E-Mail: [christos.sidiropoulos@uni-mannheim.de](mailto:christos.sidiropoulos@uni-mannheim.de)

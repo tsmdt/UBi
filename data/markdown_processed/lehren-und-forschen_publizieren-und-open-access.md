@@ -1,5 +1,5 @@
 ---
-title: Publizieren und Open Access an der Universität Mannheim – Services, Verlagsvereinbarungen und Beratung
+title: Publizieren und Open Access an der Universitätsbibliothek Mannheim – Services, Verlagsvereinbarungen und Beratung
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/publishing-and-open-access/
 category: Services
@@ -7,7 +7,7 @@ tags: ['Open Access', 'Publikationsservices', 'Verlagsverträge', 'Publikationsf
 language: de
 ---
 
-# Publizieren und Open Access an der Universität Mannheim
+# Publizieren und Open Access an der Universitätsbibliothek Mannheim
 
 Die Universitätsbibliothek Mannheim berät umfassend zu den Themen Publizieren und Open Access und unterstützt Forschende mit vielfältigen Services beim Veröffentlichen ihrer Forschungsergebnisse.
 
@@ -22,7 +22,7 @@ Die Universität Mannheim empfiehlt, Forschungsergebnisse im Open Access der wel
 Möglichkeiten zur Open-Access-Veröffentlichung:
 
 - Publikationsserver MADOC
-- Verlage mit Open-Access-Geschäftsmodellen (z. B. Autor:innen zahlen Publikationsgebühren)
+- Verlage mit Open-Access-Geschäftsmodellen (z. B. Publikationsgebühren für Autor:innen)
 - Fachrepositorien und Zeitschriften nichtkommerzieller Organisationen/Konsortien
 - Forschungsdatenserver MADATA
 
@@ -34,107 +34,114 @@ Weitere Informationen: [open-access.net](http://open-access.net)
 
 Die UB Mannheim bietet zahlreiche Services, um Forschungsergebnisse online und möglichst im Open Access zugänglich zu machen.
 
-### Open Access bei Verlagen – Übersicht der Vereinbarungen
+### Open Access bei Verlagen – Verlagsvereinbarungen
 
-Forschende der Universität Mannheim profitieren von zahlreichen Verlagsverträgen und -vereinbarungen, die Open-Access-Publikationen ermöglichen oder vergünstigen. Die wichtigsten Konditionen im Überblick:
+Forschende der Universität Mannheim profitieren von zahlreichen Verlagsverträgen und -vereinbarungen, die Open-Access-Publikationen ermöglichen oder vergünstigen. Die wichtigsten Vereinbarungen im Überblick:
 
 #### ACM (Association for Computing Machinery)
 
-- Open-Access-Publikation in hybriden Zeitschriften und Proceedings ohne Kosten (als „corresponding author“, Veröffentlichungszeitraum: 1.3.2021–31.12.2027)
+- Open Access in hybriden Zeitschriften und Proceedings ohne Kosten für „corresponding authors“ (Publikationen zwischen 1.3.2021–31.12.2027)
 - Voller Lesezugriff auf die ACM Digital Library
 - [Informationen zu Zeitschriften und Proceedings](https://libraries.acm.org/subscriptions-access/publications-eligible-for-oa)
 - [ACM OPEN FAQs](https://libraries.acm.org/subscriptions-access/acmopen-faq)
 
 #### Cambridge University Press
 
-- Open-Access-Publikation in Cambridge-Zeitschriften (hybrid + gold OA) ohne Kosten (als „corresponding author“, Veröffentlichungszeitraum: 1.1.2019–31.12.2027)
-- Nach Annahme des Manuskripts muss das Open-Access-Lizenzformular ausgefüllt werden
+- Open Access in Cambridge-Zeitschriften (hybrid + gold OA) ohne Kosten für „corresponding authors“ (Publikationen zwischen 1.1.2019–31.12.2027)
+- Nach Annahme des Manuskripts ist ein Open-Access-Lizenzformular auszufüllen
 - [Cambridge Open Access Policies](https://www.cambridge.org/core/services/open-access-policies/waivers-discounts)
 
 #### De Gruyter
 
 - Publish and Read Vertrag für HSS- und Wirtschaftsjournals
-- Hybrides OA: Kostenfreie Veröffentlichung in ausgewählten Zeitschriften (1.1.2022–31.12.2025)
-- Gold OA: 20% Rabatt auf APC in reinen OA-Zeitschriften, zusätzliche Förderung über den Publikationsfonds möglich
+- Hybrides OA: Kostenfreie Veröffentlichung in ausgewählten Zeitschriften (Publikationen zwischen 1.1.2022–31.12.2025)
+- Gold OA: 20% Rabatt auf APCs in reinen OA-Zeitschriften
 - [HSS Zeitschriftenliste (PDF)](https://degruyter-live-craftcms-assets.s3.amazonaws.com/docs/DE_HSS_journalslist2025.pdf)
 - [Wirtschaftszeitschriftenliste (PDF)](https://degruyter-live-craftcms-assets.s3.amazonaws.com/docs/DE_Economics_journalslist2025.pdf)
 - [Open-Access-Zeitschriften De Gruyter](https://www.degruyter.com/publishing/publikationen/openaccess/open-access-artikel/open-access-zeitschriften?lang=de)
+- Finanzierung über den [Open-Access-Publikationsfonds](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/) möglich
 
 #### Elsevier
 
-- DEAL-Vertrag: Kostenfreie OA-Publikation in ca. 1.800 hybriden Zeitschriften (1.1.2024–31.12.2028)
-- Gold OA: 20% Rabatt auf APC in ca. 700 OA-Zeitschriften, 15% Rabatt bei Cell Press und The Lancet
-- Förderung über Publikationsfonds möglich
+- DEAL-Vertrag: Open Access in ca. 1.800 hybriden Zeitschriften (inkl. Cell Press, The Lancet) ohne Kosten (Publikationen zwischen 1.1.2024–31.12.2028)
+- Gold OA: 20% Rabatt auf APCs in ca. 700 reinen OA-Zeitschriften, 15% Rabatt bei Cell Press/The Lancet
 - [Elsevier-Zeitschriftenliste](https://keeper.mpdl.mpg.de/f/7e57105c4bdf452c93fa/?dl=1)
+- Finanzierung über den [Open-Access-Publikationsfonds](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/) möglich
 
 #### Emerald
 
-- Kostenfreie OA-Publikation in hybriden und reinen OA-Zeitschriften sowie auf Emerald Open Research (1.1.2023–31.12.2025)
+- Publish and Read Vertrag: Kostenfreie OA-Publikation in hybriden und reinen OA-Zeitschriften sowie auf Emerald Open Research (Publikationen zwischen 1.1.2023–31.12.2025)
 - Identifikation über Uni-Mannheim-E-Mail, Voucher-System
-- [Emerald Publishing OA Agreements](https://www.emeraldgrouppublishing.com/publish-with-us/publish-open-access/open-access-publishing-agreements)
+- [Emerald Publishing open access publishing agreements](https://www.emeraldgrouppublishing.com/publish-with-us/publish-open-access/open-access-publishing-agreements)
 
 #### Frontiers
 
-- Kostenfreie OA-Publikation in allen Frontiers-Zeitschriften (1.4.2024–31.12.2026)
+- Konsortialvertrag: Kostenfreie OA-Publikation in allen Frontiers-Zeitschriften (Publikationen zwischen 1.4.2024–31.12.2026)
 - Auswahl der Universität Mannheim im Einreichungsprozess erforderlich
-- Kein Antrag auf Publikationsfonds nötig
 - [Frontiers Zeitschriftenliste](https://www.frontiersin.org/about/journals-a-z)
 
 #### Hogrefe (PsyJOURNALS)
 
-- Kostenfreie OA-Publikation in psychologischen Fachzeitschriften (1.1.2021–31.12.2026)
-- Gold OA: 25% Rabatt auf APC in reinen OA-Zeitschriften, Förderung über Publikationsfonds möglich
+- Publish and Read Vereinbarung: Kostenfreie OA-Publikation in psychologischen Fachzeitschriften (Publikationen zwischen 1.1.2021–31.12.2026)
+- Gold OA: 25% Rabatt auf APCs in reinen OA-Zeitschriften (bis 31.12.2026)
 - [Titel- und Einreichungsinformationen](https://www.hogrefe.com/de/service/fuer-autoren/zeitschriftenautoren/openmind/transformation-faq-fuer-autorinnen)
 - [Open-Access-Zeitschriften Hogrefe](https://www.hogrefe.com/de/service/fuer-autoren/zeitschriftenautoren/openmind#c41616)
+- Finanzierung über den [Open-Access-Publikationsfonds](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/) möglich
 
 #### John Benjamins
 
-- Kostenfreie OA-Publikation in allen Zeitschriften (1.1.2025–31.12.2026, als „corresponding author“)
-- Artikeltypen: „research article“, „review“, „introductory article“
+- Publish and Read Vertrag: Kostenfreie OA-Publikation in allen Zeitschriften für „corresponding authors“ (Publikationen eingereicht zwischen 1.1.2025–31.12.2026, Typ: research article, review, introductory article)
 - Identifikation über Uni-Mannheim-E-Mail und Affiliation
 - [John Benjamins Read & Publish Deals](https://benjamins.com/content/authors/read_publish_deals)
 
 #### Karger
 
-- Kostenfreie OA-Publikation in hybriden Zeitschriften (1.1.2021–31.12.2026)
-- Gold OA: 15% Rabatt auf APC in reinen OA-Zeitschriften, Förderung über Publikationsfonds möglich
+- Publish and Read Vertrag: Kostenfreie OA-Publikation in hybriden Zeitschriften (Publikationen zwischen 1.1.2021–31.12.2026)
+- Gold OA: 15% Rabatt auf APCs in reinen OA-Zeitschriften
 - [Karger Zeitschriftenliste (PDF)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Lehren_u_Forschen/Publizieren_und_Open_Access/Karger_Journals_2024-2026_Titelliste.pdf)
+- Finanzierung über den [Open-Access-Publikationsfonds](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/) möglich
 
 #### MDPI
 
-- 10% Rabatt auf APC und BPC für alle Publikationen bei MDPI
-- Kombination mehrerer MDPI-Rabatte ausgeschlossen
-- Förderung über Publikationsfonds möglich
+- Institutional Open Access Program (IOAP): 10% Rabatt auf APCs und BPCs für Uni Mannheim
+- Keine Kombination mit anderen MDPI-Rabatten möglich
 - [MDPI Zeitschriftenliste](https://www.mdpi.com/about/journals)
-- Hinweis: Qualitätsprüfung einzelner Zeitschriften empfohlen ([Science-Artikel](https://www.science.org/content/article/fast-growing-open-access-journals-stripped-coveted-impact-factors))
+- Hinweis: Qualitätsprüfung einzelner Zeitschriften empfohlen
+- [Science-Artikel zu Qualitätsproblemen](https://www.science.org/content/article/fast-growing-open-access-journals-stripped-coveted-impact-factors)
+- Antrag auf Kostenübernahme über den [Publikationsfonds](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/antrag-auf-uebernahme-von-open-access-publikationskosten/)
 
 #### SAGE
 
-- Kostenfreie OA-Publikation in hybriden Zeitschriften mit „SAGE Choice“ (1.1.2021–31.12.2025)
-- Gold OA: 20% Rabatt auf APC in reinen OA-Zeitschriften, Förderung über Publikationsfonds möglich
+- Publish and Read Vertrag: Kostenfreie OA-Publikation in SAGE-Zeitschriften (Publikationen zwischen 1.1.2021–31.12.2025)
+- SAGE Choice: Kostenfrei in hybriden Zeitschriften (bestimmte Artikeltypen)
+- Gold OA: 20% Rabatt auf APCs in reinen OA-Zeitschriften
 - [SAGE Open Access Portal](https://uk.sagepub.com/en-gb/eur/the-sage-open-access-portal-user-guide-for-authors-publishing-open-access-in-a-subscription-journal)
 - [SAGE Gold Open Access Zeitschriften](https://uk.sagepub.com/en-gb/eur/pure-gold-open-access-journals-at-sage)
+- Finanzierung über den [Open-Access-Publikationsfonds](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/) möglich
 
 #### Springer Nature
 
-- DEAL-Vertrag: Kostenfreie OA-Publikation in Hybridzeitschriften (2020–31.12.2028)
-- Gold OA: 20% Rabatt auf APC in über 500 OA-Zeitschriften (BMC, SpringerOpen), Förderung über Publikationsfonds möglich
+- DEAL-Vertrag: Kostenfreie OA-Publikation in Hybridzeitschriften (Publikationen zwischen 2020–31.12.2028)
+- Gold OA: 20% Rabatt auf APCs in über 500 reinen OA-Zeitschriften (BMC, SpringerOpen)
 - [Springer-Zeitschriftenliste](https://keeper.mpdl.mpg.de/f/a6dc1e1ed4fc4becb194/?dl=1)
+- Finanzierung über den [Open-Access-Publikationsfonds](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/) möglich
 
 #### Taylor & Francis
 
-- Kostenfreie OA-Publikation in über 2.000 hybriden Zeitschriften (1.1.2024–31.12.2026)
-- Gold OA: 15% Rabatt auf APC in reinen OA-Zeitschriften, Förderung über Publikationsfonds möglich
+- Publish and Read Vertrag: Kostenfreie OA-Publikation in über 2.000 hybriden Zeitschriften (Publikationen zwischen 1.1.2024–31.12.2026, bestimmte Artikeltypen)
+- Gold OA: 15% Rabatt auf APCs in reinen OA-Zeitschriften
 - [Open Select Journals](https://www.tandfonline.com/openaccess/openselect)
 - [Open Access Journals Taylor & Francis](https://www.tandfonline.com/openaccess/openjournals)
+- Finanzierung über den [Open-Access-Publikationsfonds](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/) möglich
 
 #### Wiley
 
-- DEAL-Vertrag: Kostenfreie OA-Publikation in hybriden Zeitschriften mit „OnlineOpen“ (2019–31.12.2028)
-- Gold OA: 20% Rabatt auf APC in reinen OA-Zeitschriften, Förderung über Publikationsfonds möglich
+- DEAL-Vertrag: Kostenfreie OA-Publikation in hybriden Zeitschriften (Publikationen zwischen 2019–31.12.2028, Artikeltyp: Primary Research Article, Review Article)
+- Gold OA: 20% Rabatt auf APCs in reinen OA-Zeitschriften
 - [Wiley-Zeitschriftenliste](https://keeper.mpdl.mpg.de/f/fed54cfc4e7f4c178137/?dl=1)
 - [Workflow für OnlineOpen (PDF)](https://authorservices.wiley.com/asset/Make-your-article-open-access-with-OnlineOpen.pdf)
 - [Weitere Informationen bei Wiley](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/affiliation-policies-payments/german-projekt-deal-agreement.html)
+- Finanzierung über den [Open-Access-Publikationsfonds](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds/) möglich
 
 ## Open-Access-Publikationsfonds
 
@@ -146,13 +153,13 @@ Für Artikel in reinen Open-Access-Zeitschriften können Publikationsgebühren (
 
 ## Publikationslisten in Webseiten einbinden
 
-Mit dem Publikationsplugin können Publikationslisten aus MADOC erstellt und in Universitäts-Webseiten integriert werden. Die Liste wird nach einmaliger Meldung in MADOC automatisch aktualisiert.
+Mit dem Publikationsplugin können Publikationslisten aus MADOC in Universitäts-Webseiten integriert werden. Die Listen werden nach einmaliger Meldung in MADOC automatisch aktualisiert.
 
-[Anleitung im TYPO3-Handbuch](https://intranet.uni-mannheim.de/marketing/leistungen/online/typo3-handbuch/plug-ins/)
+- [Anleitung im TYPO3-Handbuch](https://intranet.uni-mannheim.de/marketing/leistungen/online/typo3-handbuch/plug-ins/)
 
 ## ORCID
 
-Eine [ORCID-ID](https://orcid.org/) dient der eindeutigen Identifizierung wissenschaftlicher Autor:innen. Die Universitätsbibliothek bietet einen [ORCID-Service](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Lehren_u_Forschen/Publizieren_und_Open_Access/ORCID-Service_DE.pdf) (PDF), um Publikationsnachweise aus MADOC in den ORCID-Eintrag zu exportieren und aktuell zu halten.
+Eine [ORCID-ID](https://orcid.org/) dient der eindeutigen Identifizierung wissenschaftlicher Autor:innen. Die UB Mannheim bietet einen [ORCID-Service](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Lehren_u_Forschen/Publizieren_und_Open_Access/ORCID-Service_DE.pdf) (PDF), um Publikationsnachweise aus MADOC in den ORCID-Eintrag zu exportieren und aktuell zu halten.
 
 Weitere Informationen:
 
@@ -165,19 +172,19 @@ Die Universität Mannheim ist seit 2018 Mitglied im ORCID Deutschland Konsortium
 
 ## Zweitveröffentlichung
 
-Die Universitätsbibliothek berät zum Zweitveröffentlichungsrecht und unterstützt bei digitalen Zweitveröffentlichungen, auch bei umfangreichen Projekten (z. B. Monographien, Sammelbände).
+Die Universitätsbibliothek berät zu Zweitveröffentlichungsrechten und unterstützt bei digitalen Zweitveröffentlichungen, auch bei umfangreichen Projekten wie Monographien oder Sammelbänden.
 
 Beispiel: [Handbuch Quantitative Methoden](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/handbuch-quantitative-methoden/)
 
 ## MAJOURNALS – Eigene Open-Access-Zeitschrift herausgeben
 
-Mit dem Redaktionssystem Open Journal Systems (OJS) können Forschende der Universität Mannheim eigene Open-Access-Zeitschriften herausgeben. Die Universitätsbibliothek unterstützt bei der Neueinrichtung und Systempflege.
+Forschende der Universität Mannheim können mit dem Redaktionssystem Open Journal Systems (OJS) eigene Open-Access-Zeitschriften herausgeben. Die UB unterstützt bei der Neueinrichtung, Pflege und Konfiguration.
 
-[MAJOURNALS](https://majournals.bib.uni-mannheim.de/)
+- [MAJOURNALS](https://majournals.bib.uni-mannheim.de/)
 
 ## Beratung und Kontakt
 
-Das Publikationsdienste-Team der Universitätsbibliothek unterstützt bei allen Fragen rund um das Publizieren und Open Access. Vereinbaren Sie einen Beratungstermin oder senden Sie Ihre Fragen an [publikationsdienste@uni-mannheim.de](mailto:publikationsdienste@uni-mannheim.de).
+Das Publikationsdienste-Team der Universitätsbibliothek Mannheim steht für alle Fragen rund um das Publizieren und Open Access zur Verfügung. Vereinbaren Sie einen Beratungstermin oder senden Sie Ihre Fragen an [publikationsdienste@uni-mannheim.de](mailto:publikationsdienste@uni-mannheim.de).
 
 ### Ansprechpartner
 
@@ -185,7 +192,7 @@ Das Publikationsdienste-Team der Universitätsbibliothek unterstützt bei allen 
 
 Open-Access-Beauftragter der Universität Mannheim
 
-- Literaturauswahl und -erschließung für das Fach Informatik
+- Literaturauswahl und -erschließung für Mathematik und Informatik
 - Fachliche Beratung bei Recherchefragen
 - Beratung zu Publizieren, Open Access und Forschungsunterstützung
 - Durchführung von Schulungen im Fachbereich

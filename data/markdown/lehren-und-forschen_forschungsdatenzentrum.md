@@ -130,14 +130,13 @@ Aufgaben:
 
 ### Christos Sidiropoulos, M.Ed.
 
-Referent für Forschungsdatenmanagement (Data Literacy) | Fachreferent für Mathematik
+Referent für Forschungsdatenmanagement (Data Literacy)
 
 Aufgaben:
 
 - Mitarbeit im Data-Literacy-ProjektMaDaLi²
 - Technischer Support, Weiter- und Softwareentwicklung von Content-Management-Systemen
 - Beratung und Schulungen im Bereich Forschungsdatenmanagement
-- Literaturauswahl und -erschließung für das Fach Mathematik
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 280, 68161 Mannheim
 - Telefon: +49 621 181-2962
 - E-Mail: christos.sidiropoulos@uni-mannheim.de

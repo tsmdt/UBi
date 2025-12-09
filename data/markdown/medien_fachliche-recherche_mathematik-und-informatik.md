@@ -118,37 +118,13 @@ Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten.
 
 
 
-## Mathematik
-
-
-
-### Christos Sidiropoulos, M.Ed.
-
-Referent für Forschungsdatenmanagement (Data Literacy) | Fachreferent für Mathematik
-
-Aufgaben:
-
-- Mitarbeit im Data-Literacy-ProjektMaDaLi²
-- Technischer Support, Weiter- und Softwareentwicklung von Content-Management-Systemen
-- Beratung und Schulungen im Bereich Forschungsdatenmanagement
-- Literaturauswahl und -erschließung für das Fach Mathematik
-- Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 280, 68161 Mannheim
-- Telefon: +49 621 181-2962
-- E-Mail: christos.sidiropoulos@uni-mannheim.de
-- ORCID-ID: 0009-0001-3341-3149 (https://orcid.org/0009-0001-3341-3149)
-
-
-## Informatik
-
-
-
 ### Dr. Philipp Zumstein
 
-Leiter der Abteilung Publikationsservices und Forschungsunterstützung | Fachreferent für (Wirtschafts-)Informatik | Open-Access-Beauftragter der Universität Mannheim
+Leiter der Abteilung Publikationsservices und Forschungsunterstützung | Fachreferent für Mathematik und (Wirtschafts-)Informatik | Open-Access-Beauftragter der Universität Mannheim
 
 Aufgaben:
 
-- Literaturauswahl und -erschließung für das Fach Informatik
+- Literaturauswahl und -erschließung für die Fächer Mathematik und Informatik
 - Fachliche Beratung bei Recherchefragen
 - Beratung bei Fragen zu Publizieren, Open Access und Forschungsunterstützung
 - Durchführung von Schulungen im Fachbereich
@@ -156,4 +132,4 @@ Aufgaben:
 - Telefon: +49 621 181-3006
 - E-Mail: philipp.zumstein@uni-mannheim.de
 - ORCID-ID: 0000-0002-6485-9434 (https://orcid.org/0000-0002-6485-9434)
-Vertretung Fachreferate für Mathematik und Informatik: [Stefan Weil](https://www.bib.uni-mannheim.de/stefan-weil/)
+VertretungFachreferat für Mathematik und Informatik: [Stefan Weil](https://www.bib.uni-mannheim.de/stefan-weil/)

@@ -7,11 +7,11 @@
 
 ### Dr. Philipp Zumstein
 
-Leiter der Abteilung Publikationsservices und Forschungsunterstützung | Fachreferent für (Wirtschafts-)Informatik | Open-Access-Beauftragter der Universität Mannheim
+Leiter der Abteilung Publikationsservices und Forschungsunterstützung | Fachreferent für Mathematik und (Wirtschafts-)Informatik | Open-Access-Beauftragter der Universität Mannheim
 
 Aufgaben:
 
-- Literaturauswahl und -erschließung für das Fach Informatik
+- Literaturauswahl und -erschließung für die Fächer Mathematik und Informatik
 - Fachliche Beratung bei Recherchefragen
 - Beratung bei Fragen zu Publizieren, Open Access und Forschungsunterstützung
 - Durchführung von Schulungen im Fachbereich

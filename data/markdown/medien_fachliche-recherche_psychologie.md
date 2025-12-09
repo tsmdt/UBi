@@ -41,7 +41,7 @@ Weitere [Datenbanken zur Psychologie](https://dbis.ur.de/UBMAN/browse/subjects/3
 
 ### E-Journals
 
-Die E-Journals für das Fach Psychologie finden Sie in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://rzblx1.uni-regensburg.de/ezeit/fl.phtml?bibid=UBMAN&colors=3&lang=de¬ation=CL-CZ) und im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
+Die E-Journals für das Fach Psychologie finden Sie in der [Elektronischen Zeitschriftenbibliothek (EZB)](https://ezb.uni-regensburg.de/fl.phtml?bibid=UBMAN&colors=7&lang=de¬ation=CL-CZ) und im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
 
 
 ### E-Books

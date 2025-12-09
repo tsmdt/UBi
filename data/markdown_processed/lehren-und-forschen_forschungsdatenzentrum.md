@@ -19,13 +19,13 @@ Aktuelle Informationen und Entwicklungen zum Forschungsdatenmanagement und den A
 
 ### [Services des FDZ](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/)
 
-Das FDZ bietet umfassende Services rund ums Forschungsdatenmanagement, darunter:
+Umfassende Services rund ums Forschungsdatenmanagement, darunter:
 
 - Beratung zum Forschungsdatenmanagement (FDM)
 - Unterstützung bei Datenmanagementplänen
-- OCR-Services
+- OCR (Optical Character Recognition)
 - Knowledge Graphs
-- Unterstützung bei der Nutzung von MADATA
+- Nutzung von MADATA
 
 ### [Informationen zum Forschungsdatenmanagement](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/)
 
@@ -33,7 +33,7 @@ Weiterführende Informationen und Angebote zum Forschungsdatenmanagement.
 
 ### [Datenangebot des FDZ](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/datenangebot-des-fdz/)
 
-Das FDZ stellt selbst gehostete Datenangebote sowie lizenzierte Daten zur Verfügung.
+Überblick über selbst gehostete Datenangebote sowie lizenzierte Daten des FDZ.
 
 ### [Research Skills](https://www.bib.uni-mannheim.de/lehren-und-forschen/research-skills/)
 
@@ -56,13 +56,13 @@ Das German Internet Panel (GIP) ist eine Infrastruktur für Befragungen und eine
 - E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)
 - Web: [Forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)
 
-### Teammitglieder
+### Teammitglieder und Zuständigkeiten
 
 #### Dr. Irene Schumm
 
 - Leiterin der Abteilung Forschungsdatenzentrum
 - Aufgaben: Betreuung und Koordination des Projekts BERD@NFDI, Beratung und Schulungen im Bereich Forschungsdatenmanagement
-- Adresse: Schloss Schneckenhof West – Raum SW 285, 68161 Mannheim
+- Adresse: Raum SW 285
 - Telefon: +49 621 181-2955
 - E-Mail: [irene.schumm@uni-mannheim.de](mailto:irene.schumm@uni-mannheim.de)
 - ORCID: [0000-0002-0167-3683](https://orcid.org/0000-0002-0167-3683)
@@ -70,14 +70,14 @@ Das German Internet Panel (GIP) ist eine Infrastruktur für Befragungen und eine
 #### Jan Kamlah
 
 - Data Scientist, Projektmitarbeiter (Automatische Text- und Dokumentenerkennung)
-- Adresse: Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
+- Adresse: Raum S 264.1
 - Telefon: +49 621 181-2777
 - E-Mail: [jan.kamlah@uni-mannheim.de](mailto:jan.kamlah@uni-mannheim.de)
 
 #### Dr. Phil Kolbe
 
 - Referent für Forschungsdatenmanagement (Sozialwissenschaften)
-- Adresse: Schloss Schneckenhof West – Raum SW 285, 68161 Mannheim
+- Adresse: Raum SW 285
 - Telefon: +49 621 181-2936
 - E-Mail: [phil.kolbe@uni-mannheim.de](mailto:phil.kolbe@uni-mannheim.de)
 - ORCID: [0009-0009-7362-0781](https://orcid.org/0009-0009-7362-0781)
@@ -85,7 +85,7 @@ Das German Internet Panel (GIP) ist eine Infrastruktur für Befragungen und eine
 #### Dr. David Philip Morgan
 
 - Open Science Officer, Referent für Forschungsdatenmanagement (Sozialwissenschaften)
-- Adresse: Schloss Schneckenhof West – Raum SN 283, 68161 Mannheim
+- Adresse: Raum SN 283
 - Telefon: +49 621 181-2990
 - E-Mail: [david.morgan@uni-mannheim.de](mailto:david.morgan@uni-mannheim.de)
 - ORCID: [0000-0001-8213-451X](https://orcid.org/0000-0001-8213-451X)
@@ -93,7 +93,7 @@ Das German Internet Panel (GIP) ist eine Infrastruktur für Befragungen und eine
 #### Thomas Schmidt, M.A.
 
 - Referent für Forschungsdatenmanagement (Data Literacy), Management ExpLAB
-- Adresse: Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
+- Adresse: Raum S 264.1
 - Telefon: +49 621 181-2954
 - E-Mail: [thomas.schmidt@uni-mannheim.de](mailto:thomas.schmidt@uni-mannheim.de)
 - ORCID: [0000-0003-3620-3355](https://orcid.org/0000-0003-3620-3355)
@@ -102,16 +102,16 @@ Das German Internet Panel (GIP) ist eine Infrastruktur für Befragungen und eine
 
 - Lead Data Scientist, Projektleiter
 - Aufgaben: Strategische Weiterentwicklung des technischen Forschungsdatenmanagements, Beratung zu Forschungsdatenmanagement, Data Science und KI-Tools, Projektkonzeption und -koordination, Vertretung der UB in Gremien
-- Adresse: Schloss Schneckenhof West – Raum S 264.1, 68161 Mannheim
+- Adresse: Raum S 264.1
 - Telefon: +49 621 181-2718
 - E-Mail: [renat.shigapov@uni-mannheim.de](mailto:renat.shigapov@uni-mannheim.de)
 - ORCID: [0000-0002-0331-2558](https://orcid.org/0000-0002-0331-2558)
 
 #### Christos Sidiropoulos, M.Ed.
 
-- Referent für Forschungsdatenmanagement (Data Literacy), Fachreferent für Mathematik
-- Aufgaben: Mitarbeit im Data-Literacy-Projekt MaDaLi², technischer Support und Softwareentwicklung von Content-Management-Systemen, Beratung und Schulungen im Forschungsdatenmanagement, Literaturauswahl und -erschließung für Mathematik
-- Adresse: Schloss Schneckenhof West – Raum SN 280, 68161 Mannheim
+- Referent für Forschungsdatenmanagement (Data Literacy)
+- Aufgaben: Mitarbeit im Data-Literacy-Projekt MaDaLi², technischer Support und Softwareentwicklung von Content-Management-Systemen, Beratung und Schulungen im Bereich Forschungsdatenmanagement
+- Adresse: Raum SN 280
 - Telefon: +49 621 181-2962
 - E-Mail: [christos.sidiropoulos@uni-mannheim.de](mailto:christos.sidiropoulos@uni-mannheim.de)
 - ORCID: [0009-0001-3341-3149](https://orcid.org/0009-0001-3341-3149)
@@ -119,14 +119,14 @@ Das German Internet Panel (GIP) ist eine Infrastruktur für Befragungen und eine
 #### Vasilka Paunova, LL.M.
 
 - Legal Counsel für BERD@NFDI und FDZ
-- Adresse: Schloss Schneckenhof West – Raum S 249, 68161 Mannheim
+- Adresse: Raum S 249
 - Telefon: +49 621 181-2714
 - E-Mail: [vasilka.paunova@uni-mannheim.de](mailto:vasilka.paunova@uni-mannheim.de)
 
 #### Larissa Will, M.A.
 
 - Referentin für Forschungsdatenmanagement und Digitalisierung (Digital Humanities)
-- Adresse: Schloss Schneckenhof West – Raum SW 273, 68161 Mannheim
+- Adresse: Raum SW 273
 - Telefon: +49 621 181-2754
 - E-Mail: [larissa.will@uni-mannheim.de](mailto:larissa.will@uni-mannheim.de)
 - ORCID: [0009-0004-6220-8939](https://orcid.org/0009-0004-6220-8939)
