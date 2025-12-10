@@ -46,10 +46,10 @@ Die E-Journals für das Fach Psychologie finden Sie in der [Elektronischen Zeits
 
 ### E-Books
 
-Die Universitätsbibliothek Mannheim hat ein umfangreiches E-Book-Angebot an Fachpublikationen lizenziert. Alle an der UB Mannheim verfügbaren E-Books sind über den Katalog Primo auffindbar. Für das Fach Psychologie interessante E-Bookpakete sind z. B.
+Die Universitätsbibliothek Mannheim hat ein umfangreiches E-Book-Angebot an Fachpublikationen lizenziert. Alle an der UB Mannheim verfügbaren E-Books sind über den Katalog [Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) auffindbar. Für das Fach Psychologie interessante E-Bookpakete sind z. B.
 
-- [Oxford](https://academic.oup.com/pages/op-migration-welcome?pageSize=10&sort=datedescending&t=OSO%3ApoliticalScience)
-- [Springer: Psychologie (ab 2015)](https://uni-mannheim.userservices.exlibrisgroup.com/view/action/uresolver.do;jsessionid=8E32B57FD707175B36D422F97FAFC380.app03.eu02.prod.alma.dc03.hosted.exlibrisgroup.com:1801?operation=resolveService&package_service_id=8760405350002561&institutionId=2561&customerId=2560)
+- [Oxford](https://academic.oup.com/books/search-results?q=&tax=AcademicSubjects%2fSCI02100&sort=Date+%e2%80%93+Newest+First)
+- [Springer: Psychologie (ab 2015)](https://link.springer.com/search?package=40904&facet-content-type=%22Book)
 - [Springer: Behavioral Science & Psychology (2017)](https://link.springer.com/search?facet-content-type=%22Book%22&package=41168&date-facet-mode=between&facet-start-year=2017&facet-end-year=2017)
 
 
@@ -57,8 +57,8 @@ Die Universitätsbibliothek Mannheim hat ein umfangreiches E-Book-Angebot an Fac
 ### Forschungsdaten
 
 Forschungsdaten der Universität Mannheim können im institutionellen Forschungsdatenrepositorium [Mannheim Research Data Repository (MADATA)](https://madata.bib.uni-mannheim.de/) gesichert und archiviert werden.
-Fachspezifische Forschungsdatenrepositorien sind zum Beispiel [PsychData](http://www.psychdata.de/) oder das [datorium](https://datorium.gesis.org/) der [GESIS – Leibniz-Institut für Sozialwissenschaften](https://www.gesis.org/home).
-Einen genauen Überblick über Forchungsdatenrepositorien bietet das Verzeichnis [Registry of Research Data Repositories](http://www.re3data.org/). Zugang zu wissenschaftlichen Forschungdaten erhalten Sie über [DataCite](https://www.datacite.org/).
+Fachspezifische Forschungsdatenrepositorien sind zum Beispiel das [Forschungsdatenzentrum (FDZ)](https://rdc-psychology.org/de) am Leibniz-Institut für Psychologie (ZPID) (vormals PsychData) oder [Archivierung BASIS](https://data.gesis.org/sharing/#!Home) der [GESIS – Leibniz-Institut für Sozialwissenschaften](https://www.gesis.org/home).
+Einen genauen Überblick über Forschungsdatenrepositorien bietet das Verzeichnis [Registry of Research Data Repositories](http://www.re3data.org/). Zugang zu wissenschaftlichen Forschungsdaten erhalten Sie über [DataCite](https://www.datacite.org/).
 
 
 ### Fachliche Internetquellen
@@ -78,7 +78,7 @@ Einen genauen Überblick über Forchungsdatenrepositorien bietet das Verzeichnis
 **Psychologische Tests und Online-Untersuchungen**
 
 - [Testinformationen (PsychLinker)](http://www.zpid.de/redact/category.php?cat=4)
-- [FAQ Finding Information About Psychological Tests (APA)](http://www.apa.org/science/faq-findtests.html)
+- [FAQ Finding Information About Psychological Tests (APA)](https://www.apa.org/science/programs/testing/find-tests)
 - [Psychological Testing Centre der British Psychological Society](http://www.psychtesting.org.uk/)
 - [Psychological Research on the Net](http://psych.hanover.edu/research/exponnet.html)
 - [Forschung erleben](https://www.uni-mannheim.de/forschung-erleben/) (Forschungsportal der Lehrstühle für Sozialpsychologie der Universität Mannheim)
@@ -110,7 +110,7 @@ Die an der UB vorhandene Literatur können Sie im [Katalog Primo](https://primo.
 ### Journal Rankings
 
 Ein Ranking wissenschaftlicher Zeitschriften findet im Fach Psychologie häufig anhand des Impact Faktors der Zeitschriften statt. Der Impact Faktor einer Zeitschrift gibt an, wie häufig die Artikel der Zeitschrift in anderen Fachzeitschriften im Schnitt zitiert werden. Relevante Rankings für die Psychologie sind z. B. das [SCImago Journal Ranking](https://www.scimagojr.com/journalrank.php?area=3200) oder das [Google Scholar Ranking](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=med_psychology).
-Impact Faktoren und Kontextinformationen finden Sie auch in der Datenbank [Social Sciences Citation Index](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=360) oder direkt in [Journal Citation Reports.](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=359)
+Impact Faktoren und Kontextinformationen finden Sie auch in der Datenbank [Social Sciences Citation Index](https://dbis.ur.de/UBMAN/resources/360) oder direkt in [Journal Citation Reports.](https://dbis.ur.de/UBMAN/resources/359)
 
 
 ## Kurse und Tutorials
@@ -120,7 +120,6 @@ Die UB bietet regelmäßig Schulungen zur Recherche im Fach Psychologie an. Unse
 - [Kursangebot](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
 - [Kursreihe Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
-- [Data Literacy Essentials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/data-literacy-essentials/)
 
 
 
