@@ -1,23 +1,23 @@
 ---
-title: Fachinformation Politikwissenschaft – Recherche, Datenbanken, Literatur und Beratung an der Universitätsbibliothek Mannheim
+title: Fachliche Recherche Politikwissenschaft – Literatur, Datenbanken, Forschungsdaten und Beratung an der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/politikwissenschaft/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/political-science/
 category: Medien
-tags: ['Politikwissenschaft', 'Datenbanken', 'Fachliteratur', 'Forschungsdaten', 'E-Books', 'E-Journals', 'Schulungen', 'Kontakt']
+tags: ['Politikwissenschaft', 'Datenbanken', 'Fachliteratur', 'Forschungsdaten', 'E-Books', 'E-Journals', 'Recherche', 'Beratung']
 language: de
 ---
 
 # Politikwissenschaft an der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim bietet für das Fach Politikwissenschaft ein breites Angebot an Literatur, Datenbanken und weiteren Recherchetools. Neben individuellen Beratungen stehen auch regelmäßig Kurse und Tutorials zur Verfügung, um die Recherchekompetenz und das wissenschaftliche Arbeiten zu fördern.
+Die Universitätsbibliothek Mannheim bietet für das Fach Politikwissenschaft ein breites Spektrum an gedruckter und digitaler Literatur, den Zugang zu fachspezifischen Datenbanken sowie weitere Recherche- und Sucheinstiege. Ergänzt wird das Angebot durch Kurse und Beratungen, die Studium, Lehre und Forschung umfassend unterstützen.
 
 ## Recherchieren
 
 ### Datenbanken
 
-Eine Übersicht aller verfügbaren Datenbanken für die Politikwissenschaft finden Sie im [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/browse/subjects/33/). Wichtige Literatur-Datenbanken sind:
+Eine Übersicht verfügbarer Datenbanken (Aufsatz-, Fakten-, Referenz- und Volltextdatenbanken) für die Politikwissenschaft finden Sie im [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/browse/subjects/33/). Wesentliche Literatur-Datenbanken sind:
 
-- [Web of Science/Social Sciences Citation Index](https://dbis.uni-regensburg.de/UBMAN/resources/360): Enthält u. a. Zitationszahlen und Journal Impact Factor.
+- [Web of Science/Social Sciences Citation Index](https://dbis.uni-regensburg.de/UBMAN/resources/360): Informationen zu Zitationszahlen und Journal Impact Factor.
 - [POLLUX – Informationsdienst Politikwissenschaft](https://dbis.uni-regensburg.de/UBMAN/resources/102480): Zugang zu Politikmonitoring- und Analysediensten wie Polit-X für registrierte Politikwissenschaftler\*innen.
 - [WISO](https://dbis.uni-regensburg.de/UBMAN/resources/1232): Fachzeitschriften, E-Books und Zeitungsartikel aus Sozial- und Wirtschaftswissenschaften, u. a. Handelsblatt, WirtschaftsWoche, DIE ZEIT, Der Spiegel.
 
@@ -26,17 +26,17 @@ Datenbanken für aktuelle Presseinformationen:
 - [Factiva](https://dbis.uni-regensburg.de/UBMAN/resources/4042)
 - [Nexis Uni](https://dbis.uni-regensburg.de/UBMAN/resources/1670)
 
-[Statistische Datenbanken](https://dbis.ur.de/UBMAN/browse/subjects/33/) sind ebenfalls im DBIS gelistet. Für relevante Statistikdatenbanken siehe Abschnitt „Forschungsdaten“.
+[Statistische Datenbanken](https://dbis.ur.de/UBMAN/browse/subjects/33/) sind ebenfalls im DBIS gelistet. Für relevante Statistikdatenbanken siehe unten unter "Forschungsdaten".
 
 ### E-Journals
 
-E-Journals sind in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://ezb.uni-regensburg.de) verzeichnet. Einzelne E-Journals können Sie im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchieren. Nutzen Sie die erweiterte Suchmaske und grenzen Sie die Materialart auf „Zeitschriften“ ein.
+E-Journals sind in der [Elektronischen Zeitschriftenbibliothek (EZB)](http://ezb.uni-regensburg.de) verzeichnet. Nach einzelnen E-Journals können Sie im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchieren. Nutzen Sie die erweiterte Suchmaske und grenzen Sie die Materialart auf „Zeitschriften“ ein.
 
 ### E-Books
 
-Die UB Mannheim bietet ein umfangreiches E-Book-Angebot, u. a. von den Verlagen [Nomos](http://www.nomos-elibrary.de/?qms=1&qac=&slocal=0&q=&qtt=&qa=&qIdent=&qReihe=&qjv=&qjb=&qs%5B%5D=20000&qs%5B%5D=60000&extSearch=1), [Oxford](https://academic.oup.com/books/search-results?page=1&q=Political%20science&fl_SiteID=6283&SearchSourceType=1&allJournals=1), [Palgrave](http://link.springer.com/search?facet-discipline=%22Social+Sciences%22&facet-content-type=%22Book%22) und [Springer](https://link.springer.com/search?new-search=true&query=&content-type=book&taxonomy=%22Politics+and+International+Studies%22&brand=Springer). Weitere E-Books finden Sie über [WISO](https://www.wiso-net.de/dosearch/%3A3%3AEBOOKS?searchlater=t&selectedNavigationPath=%3A3%3AEBOOKS).
+Die UB Mannheim bietet ein umfangreiches E-Book-Angebot, u. a. mit Paketen der Verlage [Nomos](http://www.nomos-elibrary.de/?qms=1&qac=&slocal=0&q=&qtt=&qa=&qIdent=&qReihe=&qjv=&qjb=&qs%5B%5D=20000&qs%5B%5D=60000&extSearch=1), [Oxford](https://academic.oup.com/books/search-results?page=1&q=Political%20science&fl_SiteID=6283&SearchSourceType=1&allJournals=1), [Palgrave](http://link.springer.com/search?facet-discipline=%22Social+Sciences%22&facet-content-type=%22Book%22) und [Springer](https://link.springer.com/search?new-search=true&query=&content-type=book&taxonomy=%22Politics+and+International+Studies%22&brand=Springer). Weitere E-Books finden Sie über [WISO](https://www.wiso-net.de/dosearch/%3A3%3AEBOOKS?searchlater=t&selectedNavigationPath=%3A3%3AEBOOKS).
 
-Alle verfügbaren E-Books sind im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) auffindbar. E-Books sind an der Information „Online Zugriff frei“ oder am Reiter „Ansehen“ erkennbar. Nutzen Sie die Facetten „Bücher“ und „Online-Ressourcen“, um gezielt nach E-Books zu filtern. Weitere Hinweise finden Sie unter [Hinweise zur E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
+Alle verfügbaren E-Books sind im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) auffindbar. E-Books sind durch „Online Zugriff frei“ oder den Reiter „Ansehen“ gekennzeichnet. Nutzen Sie die Facetten „Bücher“ und „Online-Ressourcen“, um gezielt nach E-Books zu filtern. Weitere Hinweise finden Sie unter [Hinweise zur E-Book- und Datenbanknutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
 
 ### Forschungsdaten
 
@@ -51,18 +51,14 @@ Für die Politikwissenschaft relevante Statistik- und Forschungsdatenbanken:
 - [GESIS Datensuche](https://search.gesis.org/?source=%7B%22query%22%3A%7B%22bool%22%3A%7B%22must%22%3A%7B%22match_all%22%3A%7B%7D%7D%2C%22filter%22%3A%5B%7B%22term%22%3A%7B%22type%22%3A%22all%22%7D%7D%5D%7D%7D%7D): Forschungsdatensammlung des Leibniz Instituts für Sozialwissenschaften
 - [MADATA](https://madata.bib.uni-mannheim.de/): Forschungsdatenserver der Universität Mannheim
 
-Die UB unterstützt beim Forschungsdatenmanagement, insbesondere beim Sammeln und Publizieren von Forschungsdaten. Forschungsdaten können im [Mannheim Research Data Repository (MADATA)](https://madata.bib.uni-mannheim.de/) archiviert werden. Weitere nationale und internationale Repositorien sind z. B. [Archivierung BASIS](https://data.gesis.org/sharing/#!Home) des [GESIS – Leibniz-Institut für Sozialwissenschaften](http://www.gesis.org) und das [Inter-university Consortium for Political and Social Research (ICPSR)](https://dbis.ur.de/UBMAN/resources/3668). Für die Nutzung auf dem Campus ist eine persönliche Registrierung erforderlich.
-
-Das [Consortium of European Social Data Archives (CESSDA)](http://cessda.net/) bündelt europäische Repositorien. Einen Überblick über Forschungsdatenrepositorien aller Fachgebiete bietet das [Registry of Research Data Repositories](http://www.re3data.org/). Zugang zu wissenschaftlichen Forschungsdaten erhalten Sie über [DataCite](https://www.datacite.org/).
+Die UB unterstützt beim Forschungsdatenmanagement, insbesondere beim Sammeln und Publizieren von Forschungsdaten. Forschungsdaten können im [Mannheim Research Data Repository (MADATA)](https://madata.bib.uni-mannheim.de/) archiviert werden. Weitere nationale und internationale Repositorien sind z. B. [Archivierung BASIS](https://data.gesis.org/sharing/#!Home) des [GESIS – Leibniz-Institut für Sozialwissenschaften](http://www.gesis.org) und das [Inter-university Consortium for Political and Social Research (ICPSR)](https://dbis.ur.de/UBMAN/resources/3668). Für die Nutzung auf dem Campus ist eine persönliche Registrierung erforderlich. Das [Consortium of European Social Data Archives (CESSDA)](http://cessda.net/) bündelt europäische Repositorien. Einen Überblick über Forschungsdatenrepositorien bietet das [Registry of Research Data Repositories](http://www.re3data.org/). Zugang zu wissenschaftlichen Forschungsdaten erhalten Sie über [DataCite](https://www.datacite.org/).
 
 ### Literaturstandorte
 
-- Im [Bibliotheksbereich A5](https://www.bib.uni-mannheim.de/standorte/bb-a5/) finden Sie Literatur zur Politikwissenschaft, systematisch nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen sind nur für wissenschaftliches Personal möglich.
-- Printzeitschriften ab 1990: Signaturen 400/MA 1000 bis 400/MA 9999. Ältere Jahrgänge können aus dem Magazin zur Ansicht im Sonderlesesaal bestellt werden.
-- Bücher: Signaturen 400/MB ... bis 400/ML ... im Bereich A5.
-- Weitere Literatur im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/), ausleihbar mit ecUM oder UB-Chipkarte.
-- In der Lehrbuchsammlung im Ausleihzentrum stehen die wichtigsten Lehrbücher für Studierende zur Verfügung.
-- Recherche aller Bestände über den [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB).
+- Im [Bibliotheksbereich A5](https://www.bib.uni-mannheim.de/standorte/bb-a5/) finden Sie Literatur zur Politikwissenschaft, systematisch nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen sind nur für wissenschaftliches Personal möglich. Printzeitschriften ab 1990: Signaturen 400/MA 1000 bis 400/MA 9999. Ältere Jahrgänge können über den [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) zur Ansicht im Sonderlesesaal bestellt werden. Bücher: Signaturen 400/MB ... bis 400/ML ...
+- Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur, die mit ecUM oder UB-Chipkarte ausleihbar ist.
+- Die [Lehrbuchsammlung](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) im Ausleihzentrum bietet wichtige Lehrbücher für Studierende zur Ausleihe.
+- Die gesamte Literatur ist im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
 
 ### Forschungseinrichtungen vor Ort
 
@@ -79,9 +75,11 @@ Im Fach Politikwissenschaft werden Zeitschriften häufig anhand des Impact Facto
 - [Google Scholar Ranking](https://scholar.google.de/citations?view_op=top_venues&hl=de&vq=soc_politicalscience)
 - Impact Factoren und Einordnung: [Web of Science/Social Sciences Citation Index](https://dbis.uni-regensburg.de/UBMAN/resources/360), [Journal Citation Reports](https://dbis.uni-regensburg.de/UBMAN/resources/359)
 
+Für vertiefte Recherche und wissenschaftliches Arbeiten bietet die UB Kurse und individuelle Beratung an.
+
 ## Kurse und Tutorials
 
-Die UB bietet regelmäßig Schulungen zur Recherche im Fach Politikwissenschaft an. Tutorials sind jederzeit online verfügbar. Individuelle Beratung ist möglich.
+Die UB bietet regelmäßig Schulungen zur Recherche im Fach Politikwissenschaft sowie Online-Tutorials und individuelle Beratung.
 
 - [Kursangebot](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
@@ -107,6 +105,10 @@ Weitere Unterstützungsangebote:
 - [Schreibberatung](https://www.bib.uni-mannheim.de/services/schreibberatung/)
 - [Literaturverwaltungsprogramme](https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/)
 
+## Anschaffungsvorschlag
+
+Benötigte Literatur nicht vorhanden? Reichen Sie einen [Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/) ein.
+
 ## Kontakt
 
 ### Dr. Hendrik Platte
@@ -130,4 +132,5 @@ Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpart
 - E-Mail: [hendrik.platte@uni-mannheim.de](mailto:hendrik.platte@uni-mannheim.de)
 - ORCID: [0000-0001-7916-2659](https://orcid.org/0000-0001-7916-2659)
 
-**Vertretung:** [Dr. Rudolf Nink](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-rudolf-nink/)
+**Vertretung:**
+[Dr. Rudolf Nink](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-rudolf-nink/)

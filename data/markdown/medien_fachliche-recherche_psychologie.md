@@ -7,7 +7,7 @@
 
 ## Für das Fach Psychologie bieten wir Ihnen Literatur, Datenbanken und weitere Sucheinstiege.
 
-Wenn Sie mehr über die Recherche in Ihrem Fachgebiet erfahren möchten oder Tipps zum wissenschaftlichen Arbeiten brauchen, können Sie unsere Kurse besuchen. Gerne beraten wir Sie auch individuell.
+Wir bieten Ihnen ein breites Spektrum an gedruckter und digitaler**Literatur**, den Zugang zu**fachspezifischen Datenbanken**sowie weitere**Recherche- und Sucheinstiege,**wie auch**Kurse**und**Beratungen**, die Sie bei Studium, Lehre und Forschung im Fach Psychologie umfassend unterstützen.
 
 
 ## Recherchieren
@@ -17,12 +17,15 @@ Wenn Sie mehr über die Recherche in Ihrem Fachgebiet erfahren möchten oder Tip
 ### Datenbanken
 
 
-- [APA PsycINFO](https://dbis.ur.de/UBMAN/resources/149)
+- [APA PsycINFO](https://dbis.ur.de/UBMAN/resources/149)Zentrale Datenbank für englischsprachige Zeitschriftenartikel zur Psychologie.
 - [PSYNDEX](https://dbis.ur.de/UBMAN/resources/86)Bibliographische Datenbank zu psychologischer Literatur und Testverfahren aus den deutschsprachigen Ländern.
 - [Web of Science/Social Sciences Citation Index](https://dbis.ur.de/UBMAN/resources/360)Diese Datenbank beinhaltet u. a. Informationen zu den Zitationszahlen eines Artikels und zum Journal Impact Factor einer Zeitschrift.
 - [ERIC](https://dbis.ur.de/UBMAN/resources/363)Literaturdatenbank für die pädagogische Psychologie.
 - [PsycTHERAPY](https://dbis.ur.de/UBMAN/resources/11210)[PsycTHERAPY](https://dbis.ur.de/UBMAN/resources/11210) enthält zahlreiche Demonstrations-Videos von Therapien mit Einzelpersonen, Paaren und Familien.
-- [PubMed](https://dbis.ur.de/UBMAN/resources/294)
+- [PubMed](https://dbis.ur.de/UBMAN/resources/294)Datenbank in erster Linie für Medizinische Bereiche, umfasst aber auch Publikationen aus der Psychologie.
+
+
+- Zentrale Datenbank für englischsprachige Zeitschriftenartikel zur Psychologie.
 
 
 - Bibliographische Datenbank zu psychologischer Literatur und Testverfahren aus den deutschsprachigen Ländern.
@@ -35,6 +38,9 @@ Wenn Sie mehr über die Recherche in Ihrem Fachgebiet erfahren möchten oder Tip
 
 
 - PsycTHERAPY enthält zahlreiche Demonstrations-Videos von Therapien mit Einzelpersonen, Paaren und Familien.
+
+
+- Datenbank in erster Linie für Medizinische Bereiche, umfasst aber auch Publikationen aus der Psychologie.
 
 Weitere [Datenbanken zur Psychologie](https://dbis.ur.de/UBMAN/browse/subjects/34/?availability-filter-free=on&availability-filter-local=on) und zu anderen Fachgebieten finden Sie über das [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/browse/subjects/).
 
@@ -104,6 +110,7 @@ Die an der UB vorhandene Literatur können Sie im [Katalog Primo](https://primo.
 - [Fachbereich Psychologie](https://www.sowi.uni-mannheim.de/forschung/psychologie/)
 - [Otto-Selz-Institut](https://www.uni-mannheim.de/osi/)
 - [Zentralinstitut für Seelische Gesundheit](http://www.zi-mannheim.de/)
+- [Institut für Kinder- und Jugendpsychotherapie (PAM-KJ)](https://www.uni-mannheim.de/institut-fuer-kinder-und-jugendpsychotherapie/)
 
 
 
@@ -111,6 +118,7 @@ Die an der UB vorhandene Literatur können Sie im [Katalog Primo](https://primo.
 
 Ein Ranking wissenschaftlicher Zeitschriften findet im Fach Psychologie häufig anhand des Impact Faktors der Zeitschriften statt. Der Impact Faktor einer Zeitschrift gibt an, wie häufig die Artikel der Zeitschrift in anderen Fachzeitschriften im Schnitt zitiert werden. Relevante Rankings für die Psychologie sind z. B. das [SCImago Journal Ranking](https://www.scimagojr.com/journalrank.php?area=3200) oder das [Google Scholar Ranking](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=med_psychology).
 Impact Faktoren und Kontextinformationen finden Sie auch in der Datenbank [Social Sciences Citation Index](https://dbis.ur.de/UBMAN/resources/360) oder direkt in [Journal Citation Reports.](https://dbis.ur.de/UBMAN/resources/359)
+Wenn Sie mehr über die Recherche in Ihrem Fachgebiet erfahren möchten oder Tipps zum wissenschaftlichen Arbeiten brauchen, können Sie unsere Kurse besuchen. Darüber hinaus besteht das Angebot einer individuellen Beratung.
 
 
 ## Kurse und Tutorials
@@ -146,6 +154,11 @@ Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten.
 
 
 
+## Anschaffungsvorschlag
+
+Sollte von Ihnen benötigte Literatur nicht im Bestand vorhanden sein, begrüßen wir Ihren entsprechenden [Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/).
+
+
 ## Kontakt
 
 
@@ -167,4 +180,8 @@ Aufgaben:
 - Telefon: +49 621 181-3388
 - E-Mail: hendrik.platte@uni-mannheim.de
 - ORCID-ID: 0000-0001-7916-2659 (https://orcid.org/0000-0001-7916-2659)
-Vertretung[Dr. Rudolf Nink](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-rudolf-nink/)
+
+
+## Vertretung
+
+[Dr. Rudolf Nink](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-rudolf-nink/)

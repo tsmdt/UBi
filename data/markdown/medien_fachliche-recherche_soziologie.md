@@ -7,7 +7,7 @@
 
 ## Für das Fach Soziologie bieten wir Ihnen Literatur, Datenbanken und weitere Sucheinstiege.
 
-Wenn Sie mehr über die Recherche in Ihrem Fachgebiet erfahren möchten oder Tipps zum wissenschaftlichen Arbeiten brauchen, können Sie unsere Kurse besuchen. Gerne beraten wir Sie auch individuell.
+Wir bieten Ihnen ein breites Spektrum an gedruckter und digitaler**Literatur**, den Zugang zu**fachspezifischen Datenbanken**sowie weitere**Recherche- und Sucheinstiege,**wie auch**Kurse**und**Beratungen**, die Sie bei Studium, Lehre und Forschung im Fach Soziologie umfassend unterstützen.
 
 
 ## Recherchieren
@@ -20,12 +20,18 @@ Eine Übersicht an verfügbaren Datenbanken (Aufsatz-, Fakten-, Referenz- und Vo
 Wesentliche [Literatur-Datenbanken](https://dbis.ur.de/UBMAN/browse/subjects/38/) für das Fach Soziologie sind:
 
 - [Web of Science/Social Sciences Citation Index](https://dbis.uni-regensburg.de/UBMAN/resources/360)Diese Datenbank beinhaltet u. a. Informationen zu den Zitationszahlen eines Artikels und zum Journal Impact Factor einer Zeitschrift.
-- [Sociological Abstracts](https://dbis.uni-regensburg.de/UBMAN/resources/373)
-- [SocioHub – Fachinformationsdienst Soziologie](https://dbis.uni-regensburg.de/UBMAN/resources/102695)
+- [Sociological Abstracts](https://dbis.uni-regensburg.de/UBMAN/resources/373)Eine internationale Fachbibliografie zur theoretischen und angewandten Soziologie sowie zu angrenzenden Disziplinen
+- [SocioHub – Fachinformationsdienst Soziologie](https://dbis.uni-regensburg.de/UBMAN/resources/102695)SocioHub ist das zentrale Online-Portal des Fachinformationsdienstes Soziologie in Deutschland. Die Portalplattform beinhaltet drei zentrale Bausteine (Recherchemodul, Kollaborationsportal und Open Access Komponente) und dient als zentraler Einstiegspunkt für die Informationsversorgung der soziologischen Forschung.
 - [WISO](https://dbis.uni-regensburg.de/UBMAN/resources/1232)Neben Fachzeitschriften und E-Books aus den Sozial- und Wirtschaftswissenschaften können über die Datenbank auch Zeitungsartikel u. a. aus dem Handelsblatt, der WirtschaftsWoche, DIE ZEIT und Der Spiegel abgerufen werden.
 
 
 - Diese Datenbank beinhaltet u. a. Informationen zu den Zitationszahlen eines Artikels und zum Journal Impact Factor einer Zeitschrift.
+
+
+- Eine internationale Fachbibliografie zur theoretischen und angewandten Soziologie sowie zu angrenzenden Disziplinen
+
+
+- SocioHub ist das zentrale Online-Portal des Fachinformationsdienstes Soziologie in Deutschland. Die Portalplattform beinhaltet drei zentrale Bausteine (Recherchemodul, Kollaborationsportal und Open Access Komponente) und dient als zentraler Einstiegspunkt für die Informationsversorgung der soziologischen Forschung.
 
 
 - Neben Fachzeitschriften und E-Books aus den Sozial- und Wirtschaftswissenschaften können über die Datenbank auch Zeitungsartikel u. a. aus dem Handelsblatt, der WirtschaftsWoche, DIE ZEIT und Der Spiegel abgerufen werden.
@@ -35,7 +41,7 @@ Datenbanken für aktuelle Presseinformationen:
 - [Factiva](https://dbis.uni-regensburg.de/UBMAN/resources/4042)
 - [Nexis Uni](https://dbis.uni-regensburg.de/UBMAN/resources/1670)
 
-[Statistische Datenbanken](https://dbis.uni-regensburg.de/UBMAN/search) sind ebenfalls im Datenbank-Infosystem (DBIS) verzeichnet. Für die Soziologie relevante Statistikdatenbanken finden Sie weiter unten unter 'Forschungsdaten'.
+[Statistische Datenbanken](https://dbis.uni-regensburg.de/UBMAN/results?q=&bool%5B%5D=and&field%5B%5D=title&search%5B%5D=&bool%5B%5D=and&field%5B%5D=description&search%5B%5D=&availability-filter-free=on&availability-filter-local=on&keyword-search=&filter-keywords%5B%5D=statistics&filter-entry-date-start=&filter-publication-date-start=&filter-publication-date-end=&filter-report-date-start=&filter-report-date-end=&publisher-search=&main-search-button=) sind ebenfalls im Datenbank-Infosystem (DBIS) verzeichnet. Für die Soziologie relevante Statistikdatenbanken finden Sie weiter unten unter 'Forschungsdaten'.
 
 
 ### E-Journals
@@ -47,7 +53,7 @@ Nach einzelnen E-Journals können Sie außerdem im [Katalog Primo](https://primo
 ### E-Books
 
 Die Universitätsbibliothek hat ein umfangreiches E-Book-Angebot an Fachpublikationen lizenziert.
-Im Fach Soziologie wurde unter anderem eine Auswahl an E-Book Paketen der Verlage [Nomos](http://www.nomos-elibrary.de/?qms=1&qac=&slocal=0&q=&qtt=&qa=&qIdent=&qReihe=&qjv=&qjb=&qs%5B%5D=20000&qs%5B%5D=60000&extSearch=1), [Palgrave](http://link.springer.com/search?facet-discipline=%22Social+Sciences%22&facet-content-type=%22Book%22) und [Springer](http://www.palgraveconnect.com/pc/browse/advancedsearchresults?collection=socialsciences2014&order_by=publish-date) lizenziert.
+Im Fach Soziologie wurde unter anderem eine Auswahl an E-Book Paketen der Verlage [Nomos](https://www.inlibra.com/de/topic/86a566a2-061e-473b-ab41-469ff56ff547), [Palgrave](http://link.springer.com/search?facet-discipline=%22Social+Sciences%22&facet-content-type=%22Book%22) und [Springer](https://link.springer.com/search?facet-discipline=%22Social+Sciences%22&facet-content-type=%22Book%22) lizenziert.
 Zugang zu weiteren E-Books erhalten Sie über die Datenbank [WISO](https://www.wiso-net.de/dosearch/%3A3%3AEBOOKS?searchlater=t&selectedNavigationPath=%3A3%3AEBOOKS).
 Alle an der UB Mannheim verfügbaren E-Books sind über den [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) auffindbar. E-Books erkennen Sie im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) an der Information „Online Zugriff frei“ oder an dem Reiter „Ansehen“. Um ein E-Book zu öffnen, klicken Sie auf den Reiter „Ansehen“ und folgen Sie dem Link. Bei einer thematischen Recherche können Sie die Treffermenge mithilfe der Facetten „Bücher“ und „Online-Ressourcen“ auf „E-Books“ eingrenzen. Weitere Informationen finden Sie auf der Seite [Hinweise zur E-Book Nutzung](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/).
 
@@ -59,14 +65,14 @@ Für die Soziologie relevante**Statistikdatenbanken**sind z. B.
 - [Google Dataset Research](https://datasetsearch.research.google.com/): Eine interdisziplinäre Suchmaschine für Datensätze
 - [PolData](https://github.com/erikgahner/PolData): Eine Sammlung von Datensätzen für die Politikwissenschaft
 - [ICPSR](https://dbis.ur.de/ALL/resources/3668): Inter-University Consortium for Political and Social Research
-- [C](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=100343&cHash=63b1e58ebd8eac5307491b14b8f8e96b)[NTS Data Archive](https://dbis.ur.de/ALL/resources/100343): Daten auf Länderebene
-- [Statista](https://dbis.ur.de/ALL/resources/9808): Statistiken aus den Bereichen Politik und Wirtschaft
+- [C](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=100343&cHash=63b1e58ebd8eac5307491b14b8f8e96b)[NTS Data Archive](https://dbis.ur.de/UBMAN/resources/100343?lang=de): Daten auf Länderebene
+- [Statista](https://dbis.ur.de/UBMAN/resources/9808): Statistiken aus den Bereichen Politik und Wirtschaft
 - [GENESIS-Online](https://dbis.ur.de/ALL/resources/922): Das statistische Informationssystem des Statistischen Bundesamts
 - [GESIS Datensuche](https://search.gesis.org/?source=%7B%22query%22%3A%7B%22bool%22%3A%7B%22must%22%3A%7B%22match_all%22%3A%7B%7D%7D%2C%22filter%22%3A%5B%7B%22term%22%3A%7B%22type%22%3A%22all%22%7D%7D%5D%7D%7D%7D): Forschungsdatensammlung des Leibniz Instituts für Sozialwissenschaften
 - [MADATA](https://madata.bib.uni-mannheim.de/): Forschungsdatenserver der Uni Mannheim
 
 Die Universitätsbibliothek bietet Wissenschaftlerinnen und Wissenschaftlern Unterstützung beim Forschungsdatenmanagement - das heißt beim strukturierten Sammeln und Publizieren ihrer Forschungsdaten. Forschungsdaten können im institutionellen Forschungsdatenrepositorium [Mannheim Research Data Repository (MADATA)](https://madata.bib.uni-mannheim.de) gesichert und dauerhaft archiviert werden.
-Es existieren viele weitere nationale und internationale fachlichen Forschungsdatenrepositorien, wie zum Beispiel [datorium](https://data.gesis.org/sharing/#!Home) des [GESIS – Leibniz-Institut für Sozialwissenschaften](http://www.gesis.org). Datorium ermöglicht eine eigenständige Dokumentation, Sicherung und Veröffentlichung von Forschungsdaten. Erwähnenswert ist außerdem eines der weltweit größten Datenarchive für die Sozialwissenschaften [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.bib.uni-mannheim.de/medien/datenbanken/details/?libconnect%5Btitleid%5D=103932) der University of Michigan. Für die Datennutzung auf dem Campus der Universität Mannheim ist eine persönliche Registrierung und Anerkennung der Nutzungsbedingungen erforderlich.
+Es existieren viele weitere nationale und internationale fachliche Forschungsdatenrepositorien, wie zum Beispiel [Archivierung BASIS](https://data.gesis.org/sharing/#!Home) des [GESIS – Leibniz-Institut für Sozialwissenschaften](http://www.gesis.org). [Archivierung BASIS](https://data.gesis.org/sharing/#!Home) ermöglicht eine eigenständige Dokumentation, Sicherung und Veröffentlichung von Forschungsdaten. Erwähnenswert ist außerdem eines der weltweit größten Datenarchive für die Sozialwissenschaften [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/sites/icpsr/home) der University of Michigan. Für die Datennutzung auf dem Campus der Universität Mannheim ist eine persönliche Registrierung und Anerkennung der Nutzungsbedingungen erforderlich.
 Einen Zusammenschluss dieser fachlichen Repositorien für die Sozialwissenschaften in Europa bildet das [Consortium of European Social Data Archives (CESSDA)](http://cessda.net/).
 Einen genauen Überblick über die Forchungsdatenrepositorien aus allen Fachgebieten bietet das Verzeichnis [Registry of Research Data Repositories](http://www.re3data.org).
 Zugang zu wissenschaftlichen Forschungsdaten erhalten Sie über [DataCite](https://www.datacite.org/).
@@ -92,7 +98,8 @@ Die an der UB vorhandene Literatur können Sie im [Katalog Primo](https://primo.
 ### Journal Rankings
 
 Ein Ranking wissenschaftlicher Zeitschriften findet im Fach Soziologie häufig anhand des Impact Factors der Zeitschriften statt. Der Impact Factor einer Zeitschrift gibt an, wie häufig die Artikel der Zeitschrift in anderen Fachzeitschriften im Schnitt zitiert wurden. Relevante Rankings für die Soziologie sind z. B. das [SCImago Journal Ranking](https://www.scimagojr.com/journalrank.php?category=3312), das [OOIR-Ranking](https://ooir.org/journals.php?category=sociology) oder das [Google Scholar Ranking](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=soc_sociology).
-Impact Factoren und Kontextinformationen finden Sie auch in der Datenbank [Web of Science/Social Sciences Citation Index](http://rzblx10.uni-regensburg.de/dbinfo/detail.php?bib_id=ubman&colors=&ocolors=&lett=fs&tid=0&titel_id=360) oder direkt in [Journal Citation Reports](http://rzblx10.uni-regensburg.de/dbinfo/detail.php?bib_id=ubman&colors=&ocolors=&lett=fs&tid=0&titel_id=359).
+Impact Factoren und Kontextinformationen finden Sie auch in der Datenbank [Web of Science/Social Sciences Citation Index](https://dbis.uni-regensburg.de/UBMAN/resources/360) oder direkt in [Journal Citation Reports](https://dbis.uni-regensburg.de/UBMAN/resources/359).
+Wenn Sie mehr über die Recherche in Ihrem Fachgebiet erfahren möchten oder Tipps zum wissenschaftlichen Arbeiten brauchen, können Sie unsere Kurse besuchen. Darüber hinaus besteht das Angebot einer individuellen Beratung.
 
 
 ## Kurse und Tutorials
@@ -127,6 +134,11 @@ Die UB unterstützt Sie außerdem mit Schulungs- und Beratungsangeboten.
 
 
 
+## Anschaffungsvorschlag
+
+Sollte von Ihnen benötigte Literatur nicht im Bestand vorhanden sein, begrüßen wir Ihren entsprechenden [Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/).
+
+
 ## Kontakt
 
 
@@ -148,4 +160,8 @@ Aufgaben:
 - Telefon: +49 621 181-3388
 - E-Mail: hendrik.platte@uni-mannheim.de
 - ORCID-ID: 0000-0001-7916-2659 (https://orcid.org/0000-0001-7916-2659)
+
+
+## Vertretung
+
 [Dr. Rudolf Nink](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-rudolf-nink/)

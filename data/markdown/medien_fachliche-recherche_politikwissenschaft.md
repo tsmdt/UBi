@@ -7,7 +7,7 @@
 
 ## Für das Fach Politikwissenschaft bieten wir Ihnen Literatur, Datenbanken und weitere Sucheinstiege.
 
-Wenn Sie mehr über die Recherche in Ihrem Fachgebiet erfahren möchten oder Tipps zum wissenschaftlichen Arbeiten brauchen, können Sie unsere Kurse besuchen. Gerne beraten wir Sie auch individuell.
+Wir bieten Ihnen ein breites Spektrum an gedruckter und digitaler**Literatur**, den Zugang zu**fachspezifischen Datenbanken**sowie weitere**Recherche- und Sucheinstiege,**wie auch**Kurse**und**Beratungen**, die Sie bei Studium, Lehre und Forschung im Fach Politikwissenschaft umfassend unterstützen.
 
 
 ## Recherchieren
@@ -96,6 +96,7 @@ Die an der UB vorhandene Literatur können Sie im [Katalog Primo](https://primo.
 
 Ein Ranking wissenschaftlicher Zeitschriften findet im Fach Politikwissenschaft häufig anhand des Impact Factors der Zeitschriften statt. Der Impact Factor einer Zeitschrift gibt an, wie häufig die Artikel der Zeitschrift in anderen Fachzeitschriften im Schnitt zitiert wurden. Relevante Rankings für die Politikwissenschaft sind z. B. das [SCImago Journal Ranking](https://www.scimagojr.com/journalrank.php?category=3320) oder das [Google Scholar Ranking](https://scholar.google.de/citations?view_op=top_venues&hl=de&vq=soc_politicalscience).
 Impact Factoren sowie eine Einordnung finden Sie in der Datenbank [Web of Science/Social Sciences Citation Index](https://dbis.uni-regensburg.de/UBMAN/resources/360) oder direkt in [Journal Citation Reports](https://dbis.uni-regensburg.de/UBMAN/resources/359).
+Wenn Sie mehr über die Recherche in Ihrem Fachgebiet erfahren möchten oder Tipps zum wissenschaftlichen Arbeiten brauchen, können Sie unsere Kurse besuchen. Darüber hinaus besteht das Angebot einer individuellen Beratung.
 
 
 ## Kurse und Tutorials
@@ -130,6 +131,11 @@ Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten.
 
 
 
+## Anschaffungsvorschlag
+
+Sollte von Ihnen benötigte Literatur nicht im Bestand vorhanden sein, begrüßen wir Ihren entsprechenden [Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/).
+
+
 ## Kontakt
 
 
@@ -151,4 +157,8 @@ Aufgaben:
 - Telefon: +49 621 181-3388
 - E-Mail: hendrik.platte@uni-mannheim.de
 - ORCID-ID: 0000-0001-7916-2659 (https://orcid.org/0000-0001-7916-2659)
-Vertretung[Dr. Rudolf Nink](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-rudolf-nink/)
+
+
+## Vertretung
+
+[Dr. Rudolf Nink](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-rudolf-nink/)
