@@ -10,7 +10,6 @@
 - [Datenmanagementpläne & RDMO](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/datenmanagementplaene-rdmo/)
 - [Automatisierte Texterkennung – OCR](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/automatisierte-texterkennung-datenerhebung-via-ocr-htr/)
 - [Automatisierte Spracherkennung](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/automatisierte-spracherkennung/)
-- [Eye Tracking und Facial Expression Analysis](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/eye-tracking-und-facial-expression-analysis-fea-mit-imotions/)
 - [Lizenzierung von Forschungsdaten](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/lizenzierung-von-forschungsdaten/)
 - [MAObjects – Sammlungen mit digitalen Objekten erstellen](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/maobjects/)
 - [MADATA – Publikationsserver für Daten](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/madata/)
