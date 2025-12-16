@@ -9,7 +9,7 @@
 
 
 
-## Gesamtzer Forschungsdatenlebenszyklus
+## Gesamter Forschungsdatenlebenszyklus
 
 - [Beratung zum Forschungsdatenmanagement](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/fdm-beratung/)
 - [Research Skills](https://www.bib.uni-mannheim.de/lehren-und-forschen/research-skills/)
@@ -30,7 +30,7 @@
 
 ## Aufbereitung und Analyse
 
-- [Datenaustausch in einer geschützten Umgebung](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/datenaustausch-in-einer-geschuetzten-umgebung/)
+- [Data Science Services](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/data-science-services/)
 
 
 ## Datenpublikation, Teilen und Archivieren

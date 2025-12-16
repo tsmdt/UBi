@@ -3,43 +3,41 @@ title: Services des Forschungsdatenzentrums (FDZ) der Universitätsbibliothek Ma
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/services-of-the-fdz/
 category: Services
-tags: ['Forschungsdatenmanagement', 'FDZ', 'Datenpublikation', 'Datenmanagementpläne', 'Texterkennung', 'Spracherkennung', 'Datenaustausch', 'Archivierung']
+tags: ['Forschungsdatenmanagement', 'FDZ', 'Datenpublikation', 'Datenmanagementpläne', 'Data Science', 'Automatisierte Texterkennung', 'Datenarchivierung', 'Beratung']
 language: de
 ---
 
-# Services des Forschungsdatenzentrums (FDZ)
+# FDZ-Services
 
-Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim unterstützt Forschende mit vielfältigen Services rund um das Forschungsdatenmanagement.
+Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim unterstützt Forschende mit vielfältigen Services im Bereich Forschungsdatenmanagement entlang des gesamten Forschungsdatenlebenszyklus.
 
-## Unterstützung entlang des Forschungsdatenlebenszyklus
-
-Das FDZ bietet Beratung und Services für alle Phasen des Forschungsdatenmanagements:
+## Services entlang des Forschungsdatenlebenszyklus
 
 ### Beratung und Qualifizierung
 
-- [Beratung zum Forschungsdatenmanagement](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/fdm-beratung/): Individuelle Unterstützung bei allen Fragen zum Umgang mit Forschungsdaten.
-- [Research Skills](https://www.bib.uni-mannheim.de/lehren-und-forschen/research-skills/): Qualifizierungsangebote und Schulungen zum Forschungsdatenmanagement.
+- [Beratung zum Forschungsdatenmanagement](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/fdm-beratung/)
+- [Research Skills](https://www.bib.uni-mannheim.de/lehren-und-forschen/research-skills/)
 
 ### Projektplanung
 
-- [Datenmanagementpläne und RDMO](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/datenmanagementplaene-rdmo/): Unterstützung bei der Erstellung von Datenmanagementplänen und Nutzung des Research Data Management Organizers (RDMO).
+- [Datenmanagementpläne und RDMO](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/datenmanagementplaene-rdmo/)
 
 ### Datenerhebung und Nachnutzung
 
-- [Automatisierte Texterkennung – OCR](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/automatisierte-texterkennung-datenerhebung-via-ocr-htr/): Service zur automatisierten Texterkennung und Datenerhebung.
-- [Automatisierte Spracherkennung](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/automatisierte-spracherkennung/): Unterstützung bei der automatisierten Erfassung und Verarbeitung von Sprachdaten.
-- [Eye Tracking und Facial Expression Analysis](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/eye-tracking-und-facial-expression-analysis-fea-mit-imotions/): Angebote zur Erhebung und Analyse von Blickbewegungen und Gesichtsausdrücken.
-- [Lizenzierung von Forschungsdaten](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/lizenzierung-von-forschungsdaten/): Beratung zur rechtssicheren Lizenzierung von Forschungsdaten.
+- [Automatisierte Texterkennung – OCR](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/automatisierte-texterkennung-datenerhebung-via-ocr-htr/)
+- [Automatisierte Spracherkennung](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/automatisierte-spracherkennung/)
+- [Eye Tracking und Facial Expression Analysis](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/eye-tracking-und-facial-expression-analysis-fea-mit-imotions/)
+- [Lizenzierung von Forschungsdaten](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/lizenzierung-von-forschungsdaten/)
 
 ### Aufbereitung und Analyse
 
-- [Datenaustausch in einer geschützten Umgebung](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/datenaustausch-in-einer-geschuetzten-umgebung/): Sicherer Austausch und Verarbeitung von Forschungsdaten.
+- [Data Science Services](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/data-science-services/)
 
 ### Datenpublikation, Teilen und Archivieren
 
-- [MAObjects – Sammlungen mit digitalen Objekten erstellen](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/maobjects/): Erstellung und Verwaltung digitaler Objektsammlungen.
-- [MADATA – Publikationsserver für Daten](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/madata/): Plattform zur Veröffentlichung und Archivierung von Forschungsdaten.
-- [Datenaustausch in einer geschützten Umgebung](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/datenaustausch-in-einer-geschuetzten-umgebung/): Sicherer Datenaustausch auch im Kontext der Publikation und Archivierung.
+- [MAObjects – Sammlungen mit digitalen Objekten erstellen](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/maobjects/)
+- [MADATA – Publikationsserver für Daten](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/madata/)
+- [Datenaustausch in einer geschützten Umgebung](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/datenaustausch-in-einer-geschuetzten-umgebung/)
 
 ## Kontakt zum Forschungsdatenzentrum (FDZ)
 
