@@ -31,6 +31,8 @@ Sie schreiben Ihre Bachelorarbeit oder Dissertation und wissen nicht mehr weiter
 
 ## Öffnungszeiten
 
+Vom**24. Dezember 2025 bis einschließlich 1. Januar 2026**sind die Bibliotheksbereiche und das Ausleihzentrum**geschlossen**.
+[weitere Infos](https://blog.bib.uni-mannheim.de/Aktuelles/?p=28190)
 **Learning Center**
 | Mo‒Fr | 8–23 Uhr |
 | --- | --- |

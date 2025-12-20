@@ -3,13 +3,13 @@ title: Bibliotheksbereich Schloss Schneckenhof – Öffnungszeiten, Nutzung und 
 source_url_de: https://www.bib.uni-mannheim.de/standorte/bb-schloss-schneckenhof/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/schloss-schneckenhof-library/
 category: Standorte
-tags: ['Schloss Schneckenhof', 'Betriebswirtschaftslehre', 'Öffnungszeiten', 'Arbeitsplätze', 'Kontakt', 'Fachbibliothek', 'Service', 'Universitätsbibliothek']
+tags: ['Schloss Schneckenhof', 'Betriebswirtschaftslehre', 'Öffnungszeiten', 'Arbeitsplätze', 'Kontakt', 'Fachreferenten', 'Bibliotheksnutzung', 'Serviceangebot']
 language: de
 ---
 
 # Bibliotheksbereich Schloss Schneckenhof
 
-Der Bibliotheksbereich Schloss Schneckenhof ist die Fachbibliothek für Betriebswirtschaftslehre an der Universität Mannheim. Die Medien sind frei zugänglich, systematisch aufgestellt und nur vor Ort nutzbar. Wissenschaftliche und hauptamtliche Beschäftigte der Universität können Medien ausleihen.
+Der Bibliotheksbereich Schloss Schneckenhof ist die Fachbibliothek für Betriebswirtschaftslehre an der Universität Mannheim. Die Medien sind frei zugänglich, systematisch aufgestellt und vor Ort nutzbar. Wissenschaftliche und hauptamtliche Beschäftigte der Universität können Medien ausleihen.
 
 ## Öffnungszeiten
 
@@ -21,6 +21,11 @@ Der Bibliotheksbereich Schloss Schneckenhof ist die Fachbibliothek für Betriebs
 **Erweiterte Öffnungszeiten (10. November bis einschließlich 21. Dezember 2025)**
 
 - Montag bis Sonntag und an Feiertagen: 8–24 Uhr
+
+**Schließzeiten**
+
+- Vom 24. Dezember 2025 bis einschließlich 1. Januar 2026 sind alle Bibliotheksbereiche und das Ausleihzentrum geschlossen.
+  [Weitere Infos](https://blog.bib.uni-mannheim.de/Aktuelles/?p=28190)
 
 ## Fachliche Recherche und Services
 

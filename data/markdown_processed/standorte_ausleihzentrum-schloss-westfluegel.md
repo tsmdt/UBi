@@ -3,27 +3,31 @@ title: Ausleihzentrum Schloss Westflügel – Zentrale Ausleihe und Fernleihe de
 source_url_de: https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/central-lending-library-schloss-westfluegel/
 category: Standorte
-tags: ['Ausleihzentrum', 'Fernleihe', 'Lehrbuchsammlung', 'Öffnungszeiten', 'Selbstverbucher', 'Rückgabe', 'Arbeitsplätze', 'Universitätsbibliothek']
+tags: ['Ausleihzentrum', 'Fernleihe', 'Lehrbuchsammlung', 'Öffnungszeiten', 'Rückgabe', 'Arbeitsplätze', 'Service', 'Universitätsbibliothek']
 language: de
 ---
 
 # Ausleihzentrum Schloss Westflügel
 
-Das Ausleihzentrum ist die zentrale Anlaufstelle der Universitätsbibliothek Mannheim für Ausleihen und Fernleihen. Studierende der Universität Mannheim sowie Angehörige kooperierender Einrichtungen können hier die wichtigsten Lehrbücher ausleihen.
+Das Ausleihzentrum Schloss Westflügel ist die zentrale Anlaufstelle der Universitätsbibliothek Mannheim für Ausleihen und Fernleihen. Studierende der Universität Mannheim sowie Angehörige kooperierender Einrichtungen können hier die wichtigsten Lehrbücher ausleihen.
 
-- Bücher werden von den Nutzer\*innen selbst aus dem Regal geholt und an den Selbstverbuchern auf das eigene Konto gebucht.
-- Bestellte oder vorgemerkte Medien stehen im Abholraum bereit.
-- Fernleihen werden an der Infotheke ausgegeben.
+Sie entnehmen die gewünschten Bücher aus dem Regal und buchen sie an den Selbstverbuchern auf Ihr Bibliothekskonto. Bestellte oder vorgemerkte Medien stehen im Abholraum zur Verfügung. Fernleihen erhalten Sie an der Infotheke.
 
-Weitere Informationen: [Informationen zur Ausleihe](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/)
+Weitere Informationen zur Ausleihe finden Sie unter: [Informationen zur Ausleihe](https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/)
 
 ## Öffnungszeiten
 
-**Ausleihzentrum Schloss Westflügel**
-Mo–Fr (außer an Feiertagen): 8–18 Uhr
+**Schließzeiten:**
+Vom 24. Dezember 2025 bis einschließlich 1. Januar 2026 sind alle Bibliotheksbereiche und das Ausleihzentrum geschlossen.
+[Weitere Infos](https://blog.bib.uni-mannheim.de/Aktuelles/?p=28190)
 
-**Zugang zur Rückgabeanlage**
-Mo–Fr: 7–21 Uhr
+**Reguläre Öffnungszeiten Ausleihzentrum Schloss Westflügel:**
+
+- Montag–Freitag (außer an Feiertagen): 8–18 Uhr
+
+**Zugang zur Rückgabeanlage:**
+
+- Montag–Freitag: 7–21 Uhr
 
 ## Services und weiterführende Informationen
 

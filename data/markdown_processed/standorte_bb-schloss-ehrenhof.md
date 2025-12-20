@@ -13,43 +13,45 @@ Der Bibliotheksbereich Schloss Ehrenhof der Universitätsbibliothek Mannheim umf
 
 Die Medien in diesem Bereich sind frei zugänglich, systematisch aufgestellt und nur vor Ort nutzbar. Wissenschaftliche und hauptamtliche Beschäftigte der Universität können hier ausleihen.
 
-Weitere Informationen:
-
-- [Schulungsraum M 218](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/schulungsraum-m-218/)
+Weitere Informationen zu Lern- und Arbeitsplätzen finden Sie im [Schulungsraum M 218](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/schulungsraum-m-218/).
 
 ## Öffnungszeiten
+
+**Schließzeiten:**
+Vom 24. Dezember 2025 bis einschließlich 1. Januar 2026 sind die Bibliotheksbereiche und das Ausleihzentrum geschlossen.
+[Weitere Infos](https://blog.bib.uni-mannheim.de/Aktuelles/?p=28190)
 
 ### Reguläre Öffnungszeiten
 
 **Bibliotheksbereich Schloss Ehrenhof**
 
-- Montag bis Freitag: 8–23 Uhr
-- Samstag, Sonntag und Feiertage: 10–23 Uhr
+- Mo–Fr: 8–23 Uhr
+- Sa/So/Feiertage: 10–23 Uhr
 
 **Eingang Ost**
 
-- Montag bis Freitag: 8–23 Uhr
-- Samstag, Sonntag und Feiertage: 10–23 Uhr
+- Mo–Fr: 8–23 Uhr
+- Sa/So/Feiertage: 10–23 Uhr
 
 **Eingang West**
 
-- Montag bis Freitag: 8–18 Uhr
-- Samstag, Sonntag und Feiertage: 10–18 Uhr
+- Mo–Fr: 8–18 Uhr
+- Sa/So/Feiertage: 10–18 Uhr
 
 ### Erweiterte Öffnungszeiten (10. November bis 21. Dezember 2025)
 
 **Bibliotheksbereich Schloss Ehrenhof**
 
-- Montag bis Sonntag und Feiertage: 8–24 Uhr
+- Mo–So/Feiertage: 8–24 Uhr
 
 **Eingang Ost**
 
-- Montag bis Sonntag und Feiertage: 8–24 Uhr
+- Mo–So/Feiertage: 8–24 Uhr
 
 **Eingang West**
 
-- Montag bis Freitag: 8–18 Uhr
-- Samstag, Sonntag und Feiertage: 10–18 Uhr
+- Mo–Fr: 8–18 Uhr
+- Sa/So/Feiertage: 10–18 Uhr
 
 ## Fachliche Recherche und Services
 
