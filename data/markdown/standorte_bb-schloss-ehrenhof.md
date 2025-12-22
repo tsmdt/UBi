@@ -30,19 +30,6 @@ Vom**24. Dezember 2025 bis einschließlich 1. Januar 2026**sind die Bibliotheksb
 | --- | --- |
 | Sa/So/Feiertage | 10–18 Uhr |
 
-**Erweiterte Öffnungszeiten vom 10. November bis einschließlich 21. Dezember 2025**
-| Mo‒So/Feiertage | 8–24 Uhr |
-| --- | --- |
-
-**Eingang Ost**
-| Mo–So/Feiertage | 8–24 Uhr |
-| --- | --- |
-
-**Eingang West**
-| Mo–Fr | 8–18 Uhr |
-| --- | --- |
-| Sa/So/Feiertage | 10–18 Uhr |
-
 
 
 ## Fachliche Recherche

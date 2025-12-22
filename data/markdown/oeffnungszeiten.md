@@ -32,7 +32,3 @@ Beratung, Neuanmeldung, Ausleihe von mobilen Geräten, Sonderleseplätze, Ausgab
 | --- | --- |
 | Sa/So/Feiertage | 10–23 Uhr |
 
-**Erweiterte Öffnungszeiten vom 10. November bis einschließlich 21. Dezember 2025**
-| Mo‒So und an Feiertagen | 8–24 Uhr |
-| --- | --- |
-

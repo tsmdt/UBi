@@ -1,9 +1,9 @@
 ---
-title: Öffnungszeiten der Universitätsbibliothek Mannheim – Übersicht und Sonderregelungen
+title: Öffnungszeiten der Universitätsbibliothek Mannheim – Übersicht aller Bereiche und Services
 source_url_de: https://www.bib.uni-mannheim.de/oeffnungszeiten/
 source_url_en: https://www.bib.uni-mannheim.de/en/opening-hours/
 category: Öffnungszeiten
-tags: ['Öffnungszeiten', 'Bibliotheksbereiche', 'Ausleihzentrum', 'InfoCenter', 'Feiertage', 'Sonderregelungen', 'Schloss', 'Rückgabe']
+tags: ['Öffnungszeiten', 'Bibliotheksbereiche', 'Ausleihzentrum', 'InfoCenter', 'Rückgabe', 'Servicezeiten', 'Schloss', 'A3']
 language: de
 ---
 
@@ -37,8 +37,3 @@ Beratung, Neuanmeldung, Ausleihe von mobilen Geräten, Sonderleseplätze, Ausgab
 |---------------------------|---------------|
 | Mo–Fr (außer an Feiertagen) | 8–23 Uhr |
 | Sa/So/Feiertage | 10–23 Uhr |
-
-**Erweiterte Öffnungszeiten vom 10. November bis einschließlich 21. Dezember 2025**
-| Wochentag | Öffnungszeiten |
-|---------------------------|---------------|
-| Mo–So und an Feiertagen | 8–24 Uhr |

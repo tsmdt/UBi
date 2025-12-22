@@ -11,51 +11,41 @@ language: de
 
 Der Bibliotheksbereich Schloss Ehrenhof der Universitätsbibliothek Mannheim umfasst die Hasso-Plattner-Bibliothek – Fachbibliothek für Rechtswissenschaft, Volkswirtschaftslehre und Geschichte sowie die Bibliothek für Accounting, Business Taxation and Tax Law.
 
-Die Medien in diesem Bereich sind frei zugänglich, systematisch aufgestellt und nur vor Ort nutzbar. Wissenschaftliche und hauptamtliche Beschäftigte der Universität können hier ausleihen.
+Die Medien in diesem Bereich sind frei zugänglich, systematisch aufgestellt und nur vor Ort nutzbar. Wissenschaftliche und hauptamtliche Beschäftigte der Universität Mannheim können Medien ausleihen.
 
-Weitere Informationen zu Lern- und Arbeitsplätzen finden Sie im [Schulungsraum M 218](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/schulungsraum-m-218/).
+Weitere Informationen:
+
+- [Schulungsraum M 218](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/schulungsraum-m-218/)
 
 ## Öffnungszeiten
 
-**Schließzeiten:**
-Vom 24. Dezember 2025 bis einschließlich 1. Januar 2026 sind die Bibliotheksbereiche und das Ausleihzentrum geschlossen.
+Vom **24. Dezember 2025 bis einschließlich 1. Januar 2026** sind alle Bibliotheksbereiche und das Ausleihzentrum **geschlossen**.
 [Weitere Infos](https://blog.bib.uni-mannheim.de/Aktuelles/?p=28190)
 
-### Reguläre Öffnungszeiten
-
 **Bibliotheksbereich Schloss Ehrenhof**
 
-- Mo–Fr: 8–23 Uhr
-- Sa/So/Feiertage: 10–23 Uhr
+| Tag | Öffnungszeiten |
+|----------------------|----------------|
+| Mo–Fr | 8–23 Uhr |
+| Sa/So/Feiertage | 10–23 Uhr |
 
 **Eingang Ost**
 
-- Mo–Fr: 8–23 Uhr
-- Sa/So/Feiertage: 10–23 Uhr
+| Tag | Öffnungszeiten |
+|----------------------|----------------|
+| Mo–Fr | 8–23 Uhr |
+| Sa/So/Feiertage | 10–23 Uhr |
 
 **Eingang West**
 
-- Mo–Fr: 8–18 Uhr
-- Sa/So/Feiertage: 10–18 Uhr
-
-### Erweiterte Öffnungszeiten (10. November bis 21. Dezember 2025)
-
-**Bibliotheksbereich Schloss Ehrenhof**
-
-- Mo–So/Feiertage: 8–24 Uhr
-
-**Eingang Ost**
-
-- Mo–So/Feiertage: 8–24 Uhr
-
-**Eingang West**
-
-- Mo–Fr: 8–18 Uhr
-- Sa/So/Feiertage: 10–18 Uhr
+| Tag | Öffnungszeiten |
+|----------------------|----------------|
+| Mo–Fr | 8–18 Uhr |
+| Sa/So/Feiertage | 10–18 Uhr |
 
 ## Fachliche Recherche und Services
 
-Unsere [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) beraten Sie individuell zu Ihren Themen.
+Die [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) beraten individuell zu allen Themenbereichen.
 
 Weitere Services:
 

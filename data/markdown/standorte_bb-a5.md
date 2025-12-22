@@ -20,10 +20,6 @@ Vom**24. Dezember 2025 bis einschließlich 1. Januar 2026**sind die Bibliotheksb
 | --- | --- |
 | Sa/So/Feiertage | 10–23 Uhr |
 
-**Erweiterte Öffnungszeiten vom 10. November bis einschließlich 21. Dezember 2025**
-| Mo‒So und Feiertage | 8–24 Uhr |
-| --- | --- |
-
 
 
 ## Fachliche Recherche
