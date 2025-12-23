@@ -86,7 +86,7 @@ Access: [Dun & Bradstreet Hoovers](https://dbis.ur.de/UBMAN/resources/105992)
 
 ## I/B/E/S
 
-**Contents:**The Institutional Brokers Estimates System (I/B/E/S) provides consensus and detail forecasts from security analysts, inclusing earnings per share, revenue, cash flow, long-term growth projections and stock recommendations.
+**Contents:**The Institutional Brokers Estimates System (I/B/E/S) provides consensus and detail forecasts from security analysts, including earnings per share, revenue, cash flow, long-term growth projections and stock recommendations.
 **Help:**For more detailed information on the I/B/ES files, see the documentation and manuals page available via WRDS.
 Access: [via WRDS](https://wrds-www.wharton.upenn.edu/login/) (requires registration)
 
@@ -136,7 +136,7 @@ Access: [Orbis](http://dbis.uni-regensburg.de/warpto.php?bib_id=ubman&color=8&ti
 Extended Access: For bulk download of large datasets („Orbis Generics“) as well as for historic updates an extended access option is available for Orbis. Extended access can be used by professors and academic staff of Mannheim University, including student thesis supervised by these persons. For usage a special username/password is required, which is administered by the Dean's Office of the Business School. Please contact orbis@uni-mannheim.de to reserve access.
 
 
-## SDC Worlwide Mergers, Acquisitions & Alliances (Thomson Financial)
+## SDC Worldwide Mergers, Acquisitions & Alliances (Thomson Financial)
 
 **Contents:**SDC Worldwide M&A provides data regarding worldwide mergers, acquisitions and alliances, and stock repurchases. The data covers approximately 672,000 global M&As from 1985 to the present (data for the U.S. is available since 1979). Corporate stock repurchase programs are recorded from 1994 to the present.
 **Help:**For more detailed information on the SDC files, see the documentation and manuals page available via WRDS.
