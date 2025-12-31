@@ -12,7 +12,6 @@ Die Funktionen der ecUM als Studierenden- bzw. Mitgliedsausweis mit Gültigkeits
 - Zutritt zu verschiedenen Gebäuden und Räumen
 - Bargeldlose Zahlung innerhalb der Mensa, Cafeteria EO und Café Soleil
 - Nutzung der Schließfächer der Bibliothek
-- verschiedene Selbstbedienungsfunktionen an den SB-Terminals
 - Druckkonto aufladen
 
 Die Funktion der ecUM mit Einrichtungs-Gastkarte:
