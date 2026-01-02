@@ -1,5 +1,5 @@
 ---
-title: Bibliotheksbereich A3 – Fachbibliothek für Sprach- und Literaturwissenschaften, Medien- und Kommunikationswissenschaften, Pädagogik, Philosophie, Psychologie und Theologie
+title: Bibliotheksbereich A3 – Fachbibliothek für Sprach- und Literaturwissenschaften, Medien, Pädagogik, Philosophie, Psychologie und Theologie
 source_url_de: https://www.bib.uni-mannheim.de/standorte/bb-a3/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/a3-library/
 category: Standorte
@@ -9,7 +9,7 @@ language: de
 
 # Bibliotheksbereich A3
 
-Der Bibliotheksbereich A3 der Universitätsbibliothek Mannheim ist die Fachbibliothek für Sprach- und Literaturwissenschaften, Medien- und Kommunikationswissenschaften, Pädagogik, Philosophie, Psychologie und Theologie. Zusätzlich umfasst er eine Mediathek, eine Testothek sowie ein Testlabor für Psychologie.
+Der Bibliotheksbereich A3 ist die Fachbibliothek für Sprach- und Literaturwissenschaften, Medien- und Kommunikationswissenschaften, Pädagogik, Philosophie, Psychologie und Theologie. Zusätzlich umfasst er eine Mediathek, eine Testothek sowie ein Testlabor für Psychologie.
 
 Die Medien in diesem Bereich sind frei zugänglich, systematisch aufgestellt und nur vor Ort nutzbar. Wissenschaftliche und hauptamtliche Beschäftigte der Universität Mannheim können Medien ausleihen.
 
@@ -21,9 +21,7 @@ Weitere Informationen:
 
 ## Öffnungszeiten
 
-Vom 24. Dezember 2025 bis einschließlich 1. Januar 2026 sind die Bibliotheksbereiche und das Ausleihzentrum geschlossen. [Weitere Infos](https://blog.bib.uni-mannheim.de/Aktuelles/?p=28190)
-
-**Reguläre Öffnungszeiten Bibliotheksbereich A3:**
+**Bibliotheksbereich A3**
 
 | Wochentag | Öffnungszeiten |
 |--------------------------|---------------|
@@ -32,7 +30,7 @@ Vom 24. Dezember 2025 bis einschließlich 1. Januar 2026 sind die Bibliotheksber
 
 ## Fachliche Recherche und Services
 
-Die [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) beraten individuell zu allen Themen der im Bibliotheksbereich A3 vertretenen Fachgebiete.
+Die [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/) beraten individuell zu allen Themenbereichen des Bibliotheksbereichs A3.
 
 Weitere Services:
 

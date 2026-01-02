@@ -13,13 +13,12 @@ Die Medien in diesem Bibliotheksbereich sind frei zugänglich, systematisch aufg
 
 ## Öffnungszeiten
 
-Vom**24. Dezember 2025 bis einschließlich 1. Januar 2026**sind die Bibliotheksbereiche und das Ausleihzentrum**geschlossen**.
-[weitere Infos](https://blog.bib.uni-mannheim.de/Aktuelles/?p=28190)
 **Bibliotheksbereich Schloss Ehrenhof**
 | Mo‒Fr | 8–23 Uhr |
 | --- | --- |
 | Sa/So/Feiertage | 10–23 Uhr |
 
+Von Freitag, 2. Januar, bis Dienstag, 6. Januar, ist der Bibliotheksbereich Schloss Ehrenhof nur über den**Eingang Ost zugänglich**.
 **Eingang Ost**
 | Mo–Fr | 8–23 Uhr |
 | --- | --- |

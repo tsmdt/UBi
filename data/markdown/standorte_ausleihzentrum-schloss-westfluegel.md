@@ -13,8 +13,6 @@ Sie holen die Bücher aus dem Regal und buchen sie an den Selbstverbuchern auf I
 
 ## Öffnungszeiten
 
-Vom**24. Dezember 2025 bis einschließlich 1. Januar 2026**sind die Bibliotheksbereiche und das Ausleihzentrum**geschlossen**.
-[weitere Infos](https://blog.bib.uni-mannheim.de/Aktuelles/?p=28190)
 **Ausleihzentrum Schloss Westflügel**
 | Mo–Fr außer an Feiertagen | 8–18 Uhr |
 | --- | --- |

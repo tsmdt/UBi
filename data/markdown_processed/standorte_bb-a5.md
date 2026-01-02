@@ -1,33 +1,28 @@
 ---
-title: Bibliotheksbereich A5 – Standortinformationen, Öffnungszeiten und Services der Universitätsbibliothek Mannheim
+title: Bibliotheksbereich A5 – Fachbibliothek für Soziologie, Politikwissenschaft, Mathematik und Informatik, EDZ, MZES
 source_url_de: https://www.bib.uni-mannheim.de/standorte/bb-a5/
 source_url_en: https://www.bib.uni-mannheim.de/en/locations/a5-library/
 category: Standorte
-tags: ['A5', 'Soziologie', 'Politikwissenschaft', 'Mathematik', 'Informatik', 'Öffnungszeiten', 'EDZ', 'MZES']
+tags: ['Bibliotheksbereich A5', 'Soziologie', 'Politikwissenschaft', 'Mathematik', 'Informatik', 'EDZ', 'MZES', 'Öffnungszeiten']
 language: de
 ---
 
 # Bibliotheksbereich A5
 
-Der Bibliotheksbereich A5 der Universitätsbibliothek Mannheim ist die Fachbibliothek für Soziologie, Politikwissenschaft, Mathematik und Informatik. Zudem beherbergt er das [Europäische Dokumentationszentrum (EDZ)](https://www.bib.uni-mannheim.de/standorte/europaeisches-dokumentationszentrum/) sowie die [Bibliothek des Mannheimer Zentrums für Europäische Sozialforschung (MZES)](http://www.mzes.uni-mannheim.de/d7/de/pages/bibliothek).
+Der Bibliotheksbereich A5 ist die Fachbibliothek für Soziologie, Politikwissenschaft, Mathematik und Informatik. Zudem beherbergt er das [Europäische Dokumentationszentrum (EDZ)](https://www.bib.uni-mannheim.de/standorte/europaeisches-dokumentationszentrum/) sowie die [Bibliothek des Mannheimer Zentrums für Europäische Sozialforschung (MZES)](http://www.mzes.uni-mannheim.de/d7/de/pages/bibliothek).
 
 Die Medien in diesem Bereich sind frei zugänglich, systematisch aufgestellt und nur vor Ort nutzbar. Wissenschaftliche und hauptamtliche Beschäftigte der Universität Mannheim können Medien ausleihen.
 
 ## Öffnungszeiten
 
-Vom **24. Dezember 2025 bis einschließlich 1. Januar 2026** sind alle Bibliotheksbereiche und das Ausleihzentrum **geschlossen**.
-[Weitere Informationen](https://blog.bib.uni-mannheim.de/Aktuelles/?p=28190)
-
-**Reguläre Öffnungszeiten Bibliotheksbereich A5:**
-
-| Wochentag | Öffnungszeiten |
-|--------------------------|---------------|
+| Tag | Uhrzeit |
+|----------------------|-------------|
 | Montag–Freitag | 8–23 Uhr |
-| Samstag/Sonntag/Feiertag | 10–23 Uhr |
+| Samstag/Sonntag/Feiertage | 10–23 Uhr |
 
-## Services und Recherche
+## Services und Angebote
 
-- Individuelle Beratung durch [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/)
+- [Fachliche Recherche](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/): Fachreferentinnen und Fachreferenten beraten individuell zu Ihrem Thema.
 - [Arbeitsplätze](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/)
 - [Drucken, kopieren und scannen](https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/)
 - [Anschaffungsvorschlag](https://www.bib.uni-mannheim.de/medien/anschaffungsvorschlag/)

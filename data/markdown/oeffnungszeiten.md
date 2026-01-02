@@ -3,8 +3,6 @@
 
 # [Öffnungszeiten](https://www.bib.uni-mannheim.de/oeffnungszeiten/)
 
-Vom**24. Dezember 2025 bis einschließlich 1. Januar 2026**sind die Bibliotheksbereiche und das Ausleihzentrum**geschlossen**.
-[weitere Infos](https://blog.bib.uni-mannheim.de/Aktuelles/?p=28190)
 
 
 ## Ausleihzentrum Schloss Westflügel
