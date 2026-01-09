@@ -10,7 +10,7 @@
 | Prices | LSEG Workspace,Aktienführer-Archiv | LSEG Workspace | CRSP,LSEG Workspace | LSEG Workspace |
 | --- | --- | --- | --- | --- |
 | Analyst forecasts |  |  |  | I/B/E/S |
-| Mutual funds |  |  | CRSP Mutual Funds,Institutional (13f) Holdings,Mutual Fund Holdings | CRSP Mutual Funds,Mutual Fund Holdings |
+| Mutual funds |  |  | CRSP Mutual Funds,Institutional (13F) Holdings,Mutual Fund Holdings | CRSP Mutual Funds,Mutual Fund Holdings |
 | Accounting data | Orbis | Orbis | COMPUSTAT North America,Orbis | LSEG Workspace,COMPUSTAT Global,Orbis |
 | Banks and financial service industry | Bank Focus,SNL Unlimited (S&P Global) | Bank Focus,SNL Unlimited (S&P Global) | Bank Focus,SNL Unlimited (S&P Global) | Bank Focus,SNL Unlimited (S&P Global) |
 | M&A and ownership structure | Aktienführer data archive,Zephyr | Zephyr | Zephyr | SDC Worldwide M&A,Zephyr |
@@ -91,10 +91,10 @@ Access: [Dun & Bradstreet Hoovers](https://dbis.ur.de/UBMAN/resources/105992)
 Access: [via WRDS](https://wrds-www.wharton.upenn.edu/login/) (requires registration)
 
 
-## Institutional (13f) Holdings
+## Institutional (13F) Holdings
 
-**Contents:**Thomson/Refinitiv Institutional Holdings (13F) Database provides Institutional Common Stock Holdings and Transactions, as reported on Form 13F filed with the SEC. This database contains ownership information by institutional managers with $100 million or more in Assets Under Management (Section 13(f) Securities).
-**Help:**For more detailed information on the Institutional (13f) Holdings files, see the documentation and manuals page available via WRDS.
+**Contents:**Thomson/Refinitiv Institutional Holdings (13F) Database provides Institutional Common Stock Holdings and Transactions, as reported on Form 13F filed with the SEC. This database contains ownership information by institutional managers with $100 million or more in Assets Under Management (Section 13(F) Securities).
+**Help:**For more detailed information on the Institutional (13F) Holdings files, see the documentation and manuals page available via WRDS.
 Access: [via WRDS](https://wrds-www.wharton.upenn.edu/login/) (requires registration)
 
 
@@ -111,9 +111,8 @@ Access: [via WRDS](https://wrds-www.wharton.upenn.edu/login/) (requires registra
 **Access:**
 
 - Access to Workspace is limited to faculty and students of the University of Mannheim.
-- If you wish to use LSEG Workspace frequently, you can [request](https://www.bib.uni-mannheim.de/medien/zugang-zum-lseg-workspace/) a personal account to access the database from your own device. Employees of the University of Mannheim and doctoral students can apply for a personal account for the duration of the semester. Students can apply for a personal account for three months.
-- Short-term remote access is also possible via two virtual terminals. The terminals are managed via the ILIAS group [Finance Databases](https://ilias.uni-mannheim.de/goto.php?target=crs_1227320&client_id=ILIAS).
-- For questions regarding access to Workspace, please contact the [subject librarian for business administration](https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/). For questions regarding the ILIAS group, please contact [Stefan Scharnowski](https://www.bwl.uni-mannheim.de/theissen/team/postdocs-und-doktoranden/stefan-scharnowski/).
+- If you wish to use LSEG Workspace frequently, you can [request a personal account](https://www.bib.uni-mannheim.de/medien/zugang-zum-lseg-workspace/) to access the database from your own device. Employees of the University of Mannheim and doctoral students can apply for a personal account for the duration of the semester. Students can apply for a personal account for three months.
+- For questions regarding access to Workspace, please contact the [subject librarian for business administration](https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/).
 
 
 

@@ -1,11 +1,11 @@
 <en_url>https://www.bib.uni-mannheim.de/en/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenmanagementplan-1/</en_url>
 
 
-# [Datenmanagementplan](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenmanagementplan/)
+# [Forschungsdatenmanagement in Projektanträgen und Datenmanagementpläne](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdm-informationen/datenmanagementplan/)
 
 Ein [Datenmanagementplan (DMP) (PDF)](https://scienceeurope.org/media/4brkxxe5/se_rdm_practical_guide_extended_final.pdf) beschreibt den Umgang mit Forschungsdaten vor Projektbeginn und stellt die Nachvollziehbarkeit der Daten während und nach dem Projekt sicher. DMPs werden oft in formalisierter Form bei der Antragstellung oder während der Projektlaufzeit verlangt, z. B. bei Horizon Europe, ERC Grants. Auch die DFG verlangt Informationen zum Datenmanagement, obwohl es sich dabei nicht explizit um ein DMP handelt.
 Sie können ein DMP mit [MADataPlan](https://fdz.bib.uni-mannheim.de/madataplan) erstellen, unserer Instanz von RDMO, einem DMP-Tool, das Forschende an der Universität Mannheim bei der Erstellung, Verwaltung und Speicherung von DMPs unterstützt.
-Die DMP-Vorlagen der [DFG (PDF, 42 kB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Lehren_u_Forschen/fdz/DMPs/DFG-Data-Management-Plan.pdf) (42 KB, pdf), des [ERC (PDF, 41 kB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Lehren_u_Forschen/fdz/DMPs/ERC_Data_Management_Plan.pdf) (41 KB, pdf), von [Horizon Europe (PDF, 86 kB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Lehren_u_Forschen/fdz/DMPs/Horizon-Europe-Data-Management-Plan.pdf) (87 KB, pdf) und der [Universität Mannheim (PDF, 42 kB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Lehren_u_Forschen/fdz/DMPs/UMA-Data-Management-Plan.pdf) (42 KB, pdf) können ebenfalls unter den entsprechenden Links eingesehen werden.
+Die DMP-Vorlagen der [DFG](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Lehren_u_Forschen/fdz/DMPs/DFG-Data-Management-Plan.pdf) (42 KB, pdf), des [ERC](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Lehren_u_Forschen/fdz/DMPs/ERC_Data_Management_Plan.pdf) (41 KB, pdf), von [Horizon Europe](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Lehren_u_Forschen/fdz/DMPs/Horizon-Europe-Data-Management-Plan.pdf) (87 KB, pdf) und der [Universität Mannheim](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Lehren_u_Forschen/fdz/DMPs/UMA-Data-Management-Plan.pdf) (42 KB, pdf) können ebenfalls unter den entsprechenden Links eingesehen werden.
 
 
 ## DMP und Forschungsförderung in Deutschland und Europa
@@ -48,5 +48,5 @@ Auf der Website des Digital Curation Center (DCC) können Sie sich [Beispiele](h
 
 Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
 - Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
-- Web: [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](/lehren-und-forschen/forschungsdatenzentrum/)
+- Web: [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
 - E-Mail: forschungsdaten@uni-mannheim.de

@@ -16,9 +16,9 @@ language: de
 - Die Nutzung ist je nach Datensatz individuell geregelt.
 - Eintragungen sind nur für Forschende der Universität Mannheim möglich.
 - MADATA-Beiträge werden auf FAIRness (Findability, Accessibility, Interoperability and Reproducibility) geprüft, bevor dem Datensatz ein DOI zugewiesen wird. Diese Prüfung ist in der Regel innerhalb von 5 Arbeitstagen abgeschlossen.
-- Für eine frühere DOI-Zuweisung kontaktieren Sie bitte das Forschungsdatenzentrum per E-Mail.
+- Für eine frühere DOI-Zuweisung kontaktieren Sie bitte das Team unter [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de).
 
-[Zur Ressource MADATA](https://madata.bib.uni-mannheim.de/)
+**Zur Ressource:** [https://madata.bib.uni-mannheim.de/](https://madata.bib.uni-mannheim.de/)
 
 ## Kontakt
 
@@ -26,5 +26,5 @@ language: de
 
 - Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
 - Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
-- Web: [Forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)
+- Web: [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
 - E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)

@@ -9,24 +9,24 @@ language: de
 
 # Datenaustausch in einer geschützten Umgebung
 
-Daten müssen sicher ausgetauscht werden, wenn sensible Informationen wie personenbezogene, finanzielle oder geschäftskritische Daten betroffen sind. Dies ist wichtig, um die Privatsphäre und Sicherheit zu schützen, Missbrauch zu verhindern und rechtliche sowie regulatorische Anforderungen zu erfüllen. Die gemeinsame Nutzung von Daten ist jedoch unerlässlich, um Zusammenarbeit, Innovation und Forschung zu fördern. Ein Datenzugang in den Räumlichkeiten der Universitätsbibliothek Mannheim (On-Site Data Access) über den **Data Cube** kann einen sicheren Umgang mit sensiblen Daten gewährleisten, der sowohl den Schutz der Daten als auch die Vorteile des Datenaustauschs ermöglicht.
+Der sichere Austausch sensibler Daten wie personenbezogener, finanzieller oder geschäftskritischer Informationen ist essenziell, um Privatsphäre und Sicherheit zu gewährleisten, Missbrauch zu verhindern sowie rechtliche und regulatorische Vorgaben einzuhalten. Gleichzeitig ist die gemeinsame Nutzung von Daten ein wichtiger Motor für Zusammenarbeit, Innovation und Forschung. Die Universitätsbibliothek Mannheim bietet mit dem **Data Cube** einen On-Site Data Access Service, der einen geschützten Umgang mit sensiblen Forschungsdaten ermöglicht und so sowohl Datenschutz als auch die Vorteile des Datenaustauschs vereint.
 
-Eine Terminübersicht über die Nutzung des Data Cube finden Sie in diesem [Kalender](https://cal.bib.uni-mannheim.de/calendar.html?specification_url=https://www2.bib.uni-mannheim.de/calendars/gwap_emb.yml).
+Eine Terminübersicht zur Nutzung des Data Cube finden Sie im [Kalender](https://cal.bib.uni-mannheim.de/calendar.html?specification_url=https://www2.bib.uni-mannheim.de/calendars/gwap_emb.yml).
 
 ## Data Cube
 
 ### Daten geschützt teilen
 
-Wenn Sie sensible Daten, z. B. aus einer eigenen Erhebung, in einer geschützten Umgebung teilen möchten, kann der On-Site Data Access Service über den Data Cube geeignet sein. Für weitere Absprachen wenden Sie sich bitte an das Forschungsdatenzentrum (FDZ).
+Forscherinnen und Forscher, die sensible Daten – beispielsweise aus eigenen Erhebungen – in einer geschützten Umgebung teilen möchten, können den On-Site Data Access Service über den Data Cube nutzen. Für individuelle Absprachen wenden Sie sich bitte an das Forschungsdatenzentrum (FDZ).
 
 ### Hinweise zur Datennutzung im Data Cube
 
-- Die Nutzung des Data Cube ist von Montag bis Freitag von 09:00 bis 18:00 Uhr möglich.
-- Samstags, sonntags sowie an Feiertagen ist die Nutzung des Data Cube nicht möglich.
-- Termine zur Nutzung des Data Cube werden nur auf Anfrage vergeben.
-- Eine Terminübersicht finden Sie im [Kalender](https://cal.bib.uni-mannheim.de/calendar.html?specification_url=https://www2.bib.uni-mannheim.de/calendars/gwap_emb.yml).
-- Um Daten des GIP zu nutzen, kontaktieren Sie bitte [gip@uni-mannheim.de](mailto:gip@uni-mannheim.de).
-- Um Daten des GBP zu nutzen, kontaktieren Sie bitte [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de).
+- Nutzung möglich: Montag bis Freitag, 09:00–18:00 Uhr
+- Keine Nutzung: Samstags, sonntags und an Feiertagen
+- Termine werden ausschließlich auf Anfrage vergeben
+- Terminübersicht im [Kalender](https://cal.bib.uni-mannheim.de/calendar.html?specification_url=https://www2.bib.uni-mannheim.de/calendars/gwap_emb.yml)
+- Für GIP-Daten: Kontaktieren Sie [gip@uni-mannheim.de](mailto:gip@uni-mannheim.de)
+- Für GBP-Daten: Kontaktieren Sie [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)
 
 ### Über den Data Cube verfügbare Daten
 
@@ -38,7 +38,7 @@ Weitere Informationen: [GBP](https://gbpanel.org/)
 
 #### German Internet Panel (GIP)
 
-Das GIP der Universität Mannheim erhebt seit 2012 alle zwei Monate Daten zu politischen und wirtschaftlichen Einstellungen. Mehr als 3.500 Teilnehmer werden online befragt, um ein genaues Abbild der Bevölkerung zu erhalten. Die erhobenen Daten stehen der Wissenschaft zur Verfügung. Darüber hinaus besteht die Möglichkeit, eigene Fragen in die Umfrage einzubringen.
+Das GIP der Universität Mannheim erhebt seit 2012 alle zwei Monate Daten zu politischen und wirtschaftlichen Einstellungen. Über 3.500 Teilnehmer werden online befragt, um ein repräsentatives Abbild der Bevölkerung zu erhalten. Die erhobenen Daten stehen der Wissenschaft zur Verfügung. Es besteht zudem die Möglichkeit, eigene Fragen in die Umfrage einzubringen.
 
 Weitere Informationen: [GIP](https://www.uni-mannheim.de/gip/)
 
@@ -46,5 +46,5 @@ Weitere Informationen: [GIP](https://www.uni-mannheim.de/gip/)
 
 **Team:** Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
 **Adresse:** Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
-**Web:** [Forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)
+**Web:** [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
 **E-Mail:** [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)

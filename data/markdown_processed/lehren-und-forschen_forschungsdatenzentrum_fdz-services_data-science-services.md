@@ -1,15 +1,15 @@
 ---
-title: Data Science Services des Forschungsdatenzentrums (FDZ) – Beratung und Unterstützung für datenwissenschaftliche Forschung
+title: Data Science und KI Services des Forschungsdatenzentrums (FDZ) – Beratung, Infrastruktur und Unterstützung für datenwissenschaftliche Forschung
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/data-science-services/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/services-of-the-fdz/data-science-services/
 category: Services
-tags: ['Data Science', 'Forschungsdaten', 'Beratung', 'Open Source', 'Datenanalyse', 'Datenvisualisierung', 'Infrastruktur', 'Kooperation']
+tags: ['Data Science', 'Künstliche Intelligenz', 'Forschungsdaten', 'Beratung', 'Infrastruktur', 'Open Source', 'Datenanalyse', 'FDZ']
 language: de
 ---
 
-# Data Science Services
+# Data Science und KI Services
 
-Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim bietet umfassende Data Science Services zur Unterstützung von Forschungsvorhaben an. Das Angebot richtet sich an Forschende, die datenwissenschaftliche Methoden in ihren Projekten einsetzen möchten.
+Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim bietet umfassende Services rund um Data Science und Künstliche Intelligenz für Forschung und Lehre. Das Angebot richtet sich an Forschende, die datenwissenschaftliche Methoden, Infrastruktur und Beratung benötigen.
 
 ## Förderanträge
 
@@ -17,22 +17,22 @@ Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim bietet umf
 
 ## Data Science Pipeline
 
-- Analyse Ihrer Forschungsfragen aus datenwissenschaftlicher Sicht
-- Unterstützung beim Abrufen von Daten (APIs, Web Scraping, Datenbanken, Dateien)
-- Bereinigung und Aufbereitung Ihrer Daten (Python, R)
+- Analyse von Forschungsfragen aus datenwissenschaftlicher Sicht
+- Unterstützung beim Datenabruf (APIs, Web Scraping, Datenbanken, Dateien)
+- Datenbereinigung und -aufbereitung (Python, R)
 - Explorative Datenanalyse (Python, R)
-- Modellierung Ihrer Daten, einschließlich Training neuronaler Netze (Python, R)
+- Datenmodellierung, inkl. Training neuronaler Netze (Python, R)
 - Datenvisualisierung und Storytelling (Python, R)
-- Beratung zur Veröffentlichung eines Datenpapiers in einem Datenjournal
-- FAIRes Teilen und Archivieren Ihrer Daten, Modelle und Visualisierungen in Datenrepositories
+- Beratung zur Veröffentlichung von Datenpapieren in Datenjournalen
+- FAIRes Teilen und Archivieren von Daten, Modellen und Visualisierungen in Datenrepositories
 
 ## Codes und Algorithmen
 
-- Schreiben eines reproduzierbaren Open-Source-Codes (Python, R)
-- Code-Organisation und Dokumentation bei GitHub
-- Überprüfung Ihres Software-Repository
-- FAIRes Teilen und Archivieren Ihrer Software in Datenrepositories
-- Beratung zur Veröffentlichung eines Software-Artikels in einer Software-Zeitschrift
+- Entwicklung reproduzierbarer Open-Source-Codes (Python, R)
+- Code-Organisation und Dokumentation auf GitHub
+- Überprüfung von Software-Repositories
+- FAIRes Teilen und Archivieren von Software in Datenrepositories
+- Beratung zur Veröffentlichung von Software-Artikeln in Software-Zeitschriften
 
 ## Infrastruktur für Data Science
 
@@ -57,5 +57,5 @@ Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim bietet umf
 **Forschungsdatenzentrum (FDZ), Universitätsbibliothek Mannheim**
 Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
 Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
-Web: [Forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)
+Web: [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
 E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)

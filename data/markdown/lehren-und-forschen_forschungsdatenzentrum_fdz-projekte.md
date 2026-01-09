@@ -79,5 +79,5 @@ Zwischen 2013 und 2019 hat das FDZ im Rahmen von zwei DFG-Projekten das Aktienf�
 
 Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
 - Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
-- Web: [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](/lehren-und-forschen/forschungsdatenzentrum/)
+- Web: [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
 - E-Mail: forschungsdaten@uni-mannheim.de

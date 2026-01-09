@@ -9,7 +9,7 @@ language: de
 
 # Projekte mit FDZ-Beteiligung
 
-Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim unterstützt und beteiligt sich an verschiedenen Projekten rund um das Forschungsdatenmanagement. Die Projekte umfassen Themen wie Digitalisierung, Data Literacy, Knowledge Graphs, Künstliche Intelligenz und Schulungen.
+Das Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim unterstützt und beteiligt sich an verschiedenen Projekten rund um das Forschungsdatenmanagement. Im Folgenden sind aktuelle und abgeschlossene Projekte mit FDZ-Beteiligung aufgeführt.
 
 ## Aktuelle Projekte
 
@@ -28,7 +28,7 @@ Das FDZ unterstützt die Mannheim Research Group in Culture, Research and Entrep
 
 ### TransforMA
 
-Im Projekt TransforMA, Teilprojekt 3 „Technologie“, bringt das FDZ seine Expertise in den Bereichen Künstliche Intelligenz und Forschungsdatenmanagement ein. Ziel ist die Entwicklung von Datenbanken und Chatbots, um die Technologie- und Wissenssuche für die Hochschule Mannheim und die Universität Mannheim zu erleichtern und einen niedrigschwelligen Zugang zu Wissen und Technologien zu ermöglichen.
+Im Projekt TransforMA ist das FDZ im Teilprojekt 3 „Technologie“ beteiligt. Hier bringt das FDZ seine Expertise in den Bereichen Künstliche Intelligenz (KI) und Forschungsdatenmanagement ein. Ziel ist es, durch die Erstellung von Datenbanken und Chatbots die Technologie- und Wissenssuche für die Hochschule Mannheim und die Universität Mannheim zu erleichtern und einen niedrigschwelligen Zugang zu vorhandenem Wissen und Technologien zu ermöglichen.
 
 ### MaDaLi²
 
@@ -36,7 +36,7 @@ Im Projekt „MaDaLi²“ unterstützt das FDZ die Entwicklung eines Data Litera
 
 ### KGI4NFDI
 
-Das Projekt KGI4NFDI entwickelt eine zentrale Infrastruktur für Knowledge Graphen zur Verbesserung der Interoperabilität und zur Unterstützung der Ziele der NFDI. Das FDZ unterstützt die Beratungsdienste und die Ausarbeitung standardisierter Praktiken zur Erstellung von Knowledge Graphen.
+Das Projekt KGI4NFDI entwickelt eine zentrale Infrastruktur für Knowledge Graphen zur Verbesserung der Interoperabilität und zur Unterstützung der Ziele der NFDI. KGI4NFDI bietet Registrierungs- und Zugangsdienste, fördert standardisierte Praktiken und FAIR-Datenprinzipien und ergänzt dies durch Dokumentations- und Beratungsdienste. Das FDZ unterstützt insbesondere die Beratungsdienste und die Ausarbeitung standardisierter Praktiken zur Erstellung von Knowledge Graphen.
 
 ### ENGAGE.EU
 
@@ -44,13 +44,13 @@ ENGAGE.EU ist eine Allianz führender europäischer Universitäten, die Bürger\
 
 ### Finance and Business Research from a Long-Term Perspective (GerHisFin)
 
-Das Projekt erschließt historische deutsche Finanzmarkt- und Unternehmensdaten seit dem 19. Jahrhundert und macht sie digital für die Forschung nutzbar. Die UB Mannheim und das FDZ tragen zur Digitalisierung und Texterkennung (OCR) historischer Quellen bei.
+Das Projekt erschließt historische deutsche Finanzmarkt- und Unternehmensdaten seit dem 19. Jahrhundert und macht sie digital für die Forschung nutzbar. Ziel ist es, langfristige wirtschaftliche Entwicklungen besser zu verstehen. Die Universitätsbibliothek Mannheim und das FDZ tragen zur Digitalisierung und Texterkennung (OCR) historischer Quellen bei.
 
 ## Abgeschlossene Projekte (Auswahl)
 
 ### Aktienführer-Datenarchiv
 
-Zwischen 2013 und 2019 hat das FDZ im Rahmen von zwei DFG-Projekten das Aktienführer-Datenarchiv geschaffen. Alle Aktienführer-Bände aus dem Hoppenstedt-Verlag wurden digitalisiert, strukturiert erfasst und über eine Web-Oberfläche verfügbar gemacht.
+Zwischen 2013 und 2019 hat das FDZ im Rahmen von zwei DFG-Projekten das Aktienführer-Datenarchiv geschaffen. Alle Aktienführer-Bände aus dem Hoppenstedt-Verlag wurden digitalisiert, die Inhalte strukturiert erfasst und über eine Web-Oberfläche verfügbar gemacht.
 
 ## Kontakt
 
@@ -58,5 +58,5 @@ Zwischen 2013 und 2019 hat das FDZ im Rahmen von zwei DFG-Projekten das Aktienf�
 
 Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
 Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
-Web: [Forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)
+Web: [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
 E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)

@@ -9,19 +9,21 @@ language: de
 
 # MAObjects – Digitale Sammlungen erstellen mit Omeka
 
-Die Universitätsbibliothek Mannheim bietet Forschenden mit MAObjects eine Plattform zur Erstellung und Präsentation digitaler Objektsammlungen und virtueller Ausstellungen.
+Die Universitätsbibliothek Mannheim bietet mit MAObjects eine Plattform für Forschende zur Erstellung und Präsentation digitaler Objektsammlungen und virtueller Ausstellungen.
 
 ## Was ist MAObjects?
 
-MAObjects ist ein Service, der es ermöglicht, digitale Objekte wie Bilder, Texte, Video- und Audio-Dateien hochzuladen, zu importieren oder einzubetten. Die Beschreibung der Objekte erfolgt mittels standardisierter Metadaten, was die Durchsuchbarkeit der Sammlungen sicherstellt. Für die ansprechende Präsentation der Objekte steht ein Theme im Corporate Identity (CI) der Universität Mannheim zur Verfügung. Über eine API können die Daten zur weiteren Verwendung im Sinne einer offenen und reproduzierbaren Wissenschaft bereitgestellt werden.
+MAObjects ermöglicht das Hochladen, Importieren oder Einbetten digitaler Objekte wie Bilder, Texte, Video- und Audio-Dateien. Die Beschreibung der Objekte erfolgt mittels standardisierter Metadaten, was die Durchsuchbarkeit der Sammlungen sicherstellt.
+
+Für die ansprechende Präsentation der Objekte steht ein Theme im Corporate Identity (CI) der Universität Mannheim zur Verfügung. Über eine API können die Daten zur weiteren Nutzung im Sinne einer offenen und reproduzierbaren Wissenschaft bereitgestellt werden.
 
 ## Unser Service
 
 Das Forschungsdatenzentrum (FDZ) übernimmt das Hosting und unterstützt Forschende der Universität Mannheim bei der Einrichtung ihrer digitalen Sammlung.
 
-## Software „OMEKA“
+## Software OMEKA
 
-Für die technische Umsetzung der digitalen Sammlungen wird das freie, quelloffene Content-Management-System [OMEKA](https://omeka.org) genutzt. Im Vergleich zu traditioneller institutioneller Repository-Software konzentriert sich OMEKA auf die Anzeige der einzelnen Objekte und verwendet dabei standardisierte Metadaten, zum Beispiel unqualifiziertes Dublin Core.
+Für die technische Umsetzung wird das freie, quelloffene Content-Management-System [OMEKA](https://omeka.org) genutzt. Im Unterschied zu traditioneller institutioneller Repository-Software konzentriert sich OMEKA auf die Anzeige einzelner Objekte und verwendet dabei standardisierte Metadaten, beispielsweise unqualifiziertes Dublin Core.
 
 ## Unsere digitalen Sammlungen
 
@@ -39,5 +41,5 @@ Für die technische Umsetzung der digitalen Sammlungen wird das freie, quelloffe
 **Forschungsdatenzentrum (FDZ)**
 Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
 Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
-Web: [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](/lehren-und-forschen/forschungsdatenzentrum/)
+Web: [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
 E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)

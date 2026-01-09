@@ -17,7 +17,7 @@
 
 ## Projektplanung
 
-- [Datenmanagementpläne und RDMO](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/datenmanagementplaene-rdmo/)
+- [Datenmanagementpläne und MADataPlan](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/datenmanagementplaene-rdmo/)
 
 
 ## Erhebung und Nachnutzung
@@ -30,7 +30,7 @@
 
 ## Aufbereitung und Analyse
 
-- [Data Science Services](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/data-science-services/)
+- [Data Science und KI Services](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/data-science-services/)
 
 
 ## Datenpublikation, Teilen und Archivieren
@@ -44,5 +44,5 @@
 
 Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
 - Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
-- Web: [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](/lehren-und-forschen/forschungsdatenzentrum/)
+- Web: [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
 - E-Mail: forschungsdaten@uni-mannheim.de

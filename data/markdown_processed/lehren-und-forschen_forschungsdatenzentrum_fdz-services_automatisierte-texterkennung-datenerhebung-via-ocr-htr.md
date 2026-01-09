@@ -24,10 +24,10 @@ Mithilfe von maschineller Texterkennung (OCR) werden Texte aus digitalen Bildern
 | Tool | Kostenmodell | Eigenschaften | Besonders geeignet für |
 |----------------|----------------------------|-------------------------------------------------------------------------------|--------------------------------------------------------|
 | ABBYY Finereader | kostenpflichtig/kommerziell | Text- und Layouterkennung; gute Layoutanalyse | Moderne Drucke, komplexes Layout |
-| eScriptorium | Open Source | Grafische Benutzeroberfläche für Kraken; intuitive Nutzung | Historische Drucke und Handschriften, nicht-lateinische Schrift |
+| eScriptorium | Open Source | Graphische Benutzeroberfläche für Kraken; intuitive Nutzung | Historische Drucke und Handschriften, nicht-lateinische Schrift |
 | Google Vision | kostenpflichtig/kommerziell | Texterkennung; Bild- und Videoanalyse; für Handschriften und Drucke | Drucke und Handschriften |
 | Kraken | Open Source | Kommandozeilenbasierte Texterkennungssoftware; optimiert für historisches und nicht-lateinisches Schriftmaterial | Historische Drucke und Handschriften, nicht-lateinische Schrift |
-| OCR4All | Open Source | Grafische Benutzeroberfläche für verschiedene Open Source Texterkennungsprogramme | Historische Drucke und Handschriften |
+| OCR4All | Open Source | Graphische Benutzeroberfläche für verschiedene Open Source Texterkennungsprogramme | Historische Drucke und Handschriften |
 | OCRmyPDF | Open Source | Kommandozeilenprogramm zur Texterkennung von PDF-Dateien; nutzt Tesseract als OCR-Engine | Historische/moderne Drucke |
 | OCR-D | Open Source | Modular aufgebaute, kommandozeilenbasierte Texterkennungssoftware | Historische Drucke |
 | PERO-OCR | Open Source | Webbasierte Texterkennungsplattform; gute Universalmodelle; momentan kein Nachtraining möglich | Historische/moderne Drucke und Handschriften |
@@ -36,11 +36,11 @@ Mithilfe von maschineller Texterkennung (OCR) werden Texte aus digitalen Bildern
 
 ## Zugang und Nutzung von Transkribus und eScriptorium
 
-### Transkribus-Organisationslizenz
+### Transkribus-Organisations-Lizenz
 
-Die Universitätsbibliothek bietet einen institutionellen Zugang zur Texterkennungs- und Transkriptionsplattform [Transkribus](https://www.transkribus.org/de) an. Für die Vergabe eines User Seats ist die Unterzeichnung der Nutzungsbedingungen erforderlich. Anschließend findet ein kurzes Onboarding-Gespräch (ca. 30 Minuten) statt, das folgende Inhalte umfasst:
+Die Universitätsbibliothek bietet einen institutionellen Zugang zur Texterkennungs- und Transkriptionsplattform [Transkribus](https://www.transkribus.org/de) an. Für die Vergabe eines User Seats ist die Unterzeichnung der Nutzungsbedingungen erforderlich. Anschließend findet ein kurzes Onboarding-Gespräch statt.
 
-**Verpflichtend:**
+**Onboarding (ca. 30 Minuten, verpflichtend):**
 
 - Überblick über den institutionellen Transkribus-Account
 - Informationen zu User Seats und Credit-Vergabe
@@ -56,7 +56,7 @@ Bei Interesse an einem Zugang kontaktieren Sie das FDZ.
 
 ### Zugang zur eScriptorium-Instanz
 
-Mitglieder der Universität Mannheim können auf Wunsch einen eigenen Account für die eScriptorium-Instanz der Universitätsbibliothek erhalten. Nach einer kurzen E-Mail wird der Zugang eingerichtet und die entsprechenden [Nutzungshinweise](https://github.com/UB-Mannheim/escriptorium/discussions/9) bereitgestellt. Unterstützung bei den ersten Schritten, Fragen zu Workflows oder weiterführenden Funktionen ist möglich.
+Mitglieder der Universität Mannheim können einen eigenen Account für die [eScriptorium-Instanz](https://ocr-bw.bib.uni-mannheim.de/escriptorium/) der Universitätsbibliothek erhalten. Nach einer kurzen E-Mail wird der Zugang eingerichtet und die entsprechenden [Nutzungshinweise](https://github.com/UB-Mannheim/escriptorium/discussions/9) bereitgestellt. Unterstützung bei den ersten Schritten, Workflows und weiterführenden Funktionen wird angeboten.
 
 ## Anleitungen und Materialien zu OCR-Software
 
@@ -87,7 +87,7 @@ Hier finden Sie Anleitungen und Materialien zu verschiedenen Open-Source-Texterk
 
 ## Hinweise zur Erstellung von Ground-Truth (Trainingsdaten)
 
-Im Projekt OCR-D wurden drei Transkriptionsstufen für die Transkription historischer Dokumente in Transkriptionsrichtlinien festgelegt. Die Stufen unterscheiden sich im Grad der originalgetreuen Wiedergabe. Die Richtlinien sind auf der [OCR-D Projekthomepage](https://ocr-d.de/de/gt-guidelines/trans/index.html) verfügbar. Eine [Leitlinie zur Veröffentlichung eigener Trainingsdaten](https://github.com/OCR-D/gt-repo-template) ist ebenfalls vorhanden.
+Im Projekt OCR-D wurden drei Transkriptionsstufen für die Transkription historischer Dokumente in Transkriptionsrichtlinien festgelegt. Die Stufen unterscheiden sich im Grad der originalgetreuen Wiedergabe. Die Richtlinien sind auf der [OCR-D Projekthomepage](https://ocr-d.de/de/gt-guidelines/trans/index.html) verfügbar. Eine [Leitlinie zur Veröffentlichung eigener Trainingsdaten](https://github.com/OCR-D/gt-repo-template) ist auf Github zu finden.
 
 Ground-Truth-Quellen für das Training/Nachtraining eigener Modelle:
 
@@ -98,7 +98,7 @@ Ground-Truth-Quellen für das Training/Nachtraining eigener Modelle:
 - [Ground-Truth für Digitalisate der UB Tübingen](https://github.com/UB-Mannheim/digitue-gt)
 - [IAM Database für Handschriften](https://fki.tic.heia-fr.ch/databases)
 
-Virtuelle Keyboards für verschiedene Transkriptionsplattformen finden Sie auf [Github](https://github.com/tboenig/keyboardGT).
+Virtuelle Keyboards für verschiedene Transkriptionsplattformen sind auf [Github](https://github.com/tboenig/keyboardGT) verfügbar.
 
 Antworten auf häufig gestellte Fragen zur automatisierten Texterkennung und zur im Projekt [OCR-BW](https://ocr-bw.bib.uni-mannheim.de/projektuebersicht/) genutzten Software finden Sie in den [FAQs](https://ocr-bw.bib.uni-mannheim.de/faq/). Bei weiteren Fragen wenden Sie sich per E-Mail an das FDZ.
 
@@ -107,11 +107,13 @@ Antworten auf häufig gestellte Fragen zur automatisierten Texterkennung und zur
 - Kooperationsprojekt zur Texterkennung und Datenstrukturierung mit dem [Lehrstuhl für Wirtschaftsgeschichte (Prof. Streb)](https://www.vwl.uni-mannheim.de/streb/)
 - Kooperationsprojekt zur Handschriftenerkennung mit dem [Lehrstuhl für Spätmittelalter und Frühe Neuzeit (Prof. Kümper)](https://www.phil.uni-mannheim.de/spaetmittelalter-und-fruehe-neuzeit/)
 
+Bei Unterstützungsbedarf oder Fragen kontaktieren Sie das FDZ.
+
 ## Kontakt
 
-### Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim
+### Forschungsdatenzentrum (FDZ)
 
 Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
 Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
-Web: [www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)
+Web: [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
 E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)

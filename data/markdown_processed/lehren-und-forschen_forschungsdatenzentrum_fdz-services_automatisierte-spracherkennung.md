@@ -3,7 +3,7 @@ title: Automatisierte Spracherkennung mit whisply – Services des Forschungsdat
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/automatisierte-spracherkennung/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/services-of-the-fdz/automated-speech-recognition/
 category: Services
-tags: ['Spracherkennung', 'Transkription', 'Forschungsdatenzentrum', 'whisply', 'Audioverarbeitung', 'Untertitel', 'Beratung', 'Datenverarbeitung']
+tags: ['Spracherkennung', 'Transkription', 'Forschungsdatenzentrum', 'whisply', 'Audioverarbeitung', 'Untertitel', 'Beratung', 'Automatisierung']
 language: de
 ---
 
@@ -29,12 +29,12 @@ Das Forschungsdatenzentrum unterstützt Sie unter anderem in folgenden Bereichen
 - Einrichtung des Transkriptions-Workflows
 - Anpassung der Ausgabeformate von whisply
 - Allgemeine Beratung bei Audio-to-Text
-- Unterstützung bei der Weiterverarbeitung der Transkription, z. B. Umwandlung von unstrukturierten in strukturierte Daten
+- Unterstützung bei der Weiterverarbeitung der Transkription (z. B. Umwandlung von unstrukturierten in strukturierte Daten)
 
 ## Kontakt
 
-**Forschungsdatenzentrum (FDZ) der Universitätsbibliothek Mannheim**
+**Forschungsdatenzentrum (FDZ)**
 Team: Irene Schumm, Jan Kamlah, Phil Kolbe, David Morgan, Thomas Schmidt, Renat Shigapov, Christos Sidiropoulos, Vasilka Paunova, Larissa Will
 Adresse: Universität Mannheim, Universitätsbibliothek Mannheim, Schloss Schneckenhof West, 68161 Mannheim
-Web: [Forschungsdatenzentrum](https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/)
+Web: [fdz.bib.uni-mannheim.de](https://fdz.bib.uni-mannheim.de/)
 E-Mail: [forschungsdaten@uni-mannheim.de](mailto:forschungsdaten@uni-mannheim.de)
