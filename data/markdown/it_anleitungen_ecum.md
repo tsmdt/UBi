@@ -73,14 +73,14 @@ An den dedizierten Drucker müssen Sie die Karte nur einstecken und sie wird bed
 
 ### Wie erhalte ich eine Ersatzkarte?
 
-Bei Verlust, Defekt oder Statuswechsel können Sie eine Ersatzkarte beantragen. Melden Sie sich hierfür bitte direkt  [beim IT Support am IT-Service-Desk (InfoCenter Schloss Schneckenhof)](https://www.uni-mannheim.de/it/support/). Bitte sperren Sie Ihre ecUM bei Verlustverdacht schnellstmöglich über die Seite [MyUni-ID](http://id.uni-mannheim.de).
+Bei Verlust, Defekt oder Statuswechsel können Sie eine Ersatzkarte beantragen. Melden Sie sich hierfür bitte direkt  [beim IT Support am IT-Service-Desk (InfoCenter Schloss Schneckenhof)](https://www.uni-mannheim.de/it/support/). Bitte sperren Sie Ihre ecUM bei Verlustverdacht schnellstmöglich über die Seite [MyUni-ID](http://id.uni-mannheim.de). Bringen Sie nach Möglichkeit Ihre alte ecUM mit zum IT-Service-Desk, da wir sonst von einem Verlust der Karte ausgehen müssen.
 
 
 ### Was kostet meine ecUM?
 
 Ihre ecUM stellen wir Ihnen grundsätzlich kostenlos zur Verfügung.
 Sie haben Ihre Karte verloren? Für eine verlorene ecUM wird gemäß [Gebührensatzung der Universität (PDF)](http://www2.uni-mannheim.de/rum/ueber_uns/arbeitsgruppen/itsms/ecum/aktuelles/01_09_2006_neue_gebuehren_fuer_ecum_chipkarten/gebuehrensatzungaktuell.pdf) eine Gebühr in Höhe von 15 Euro erhoben.
-**Ihr Name hat sich geändert oder Ihre ecUM ist kaputt?**Gerne erstellen wir Ihnen kostenfrei eine neue ecUM.
+**Ihr Name hat sich geändert oder Ihre ecUM ist kaputt?**Gerne erstellen wir Ihnen kostenfrei eine neue ecUM. Bringen Sie dafür bitte Ihre bisherige ecUM mit.
 
 
 ### Bezahlen mit der ecUM: Wo kann ich sie aufladen?
