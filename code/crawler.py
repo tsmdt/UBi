@@ -59,9 +59,9 @@ async def crawl_urls(
                     file.write(url + "\n")
         return clean_urls
     except aiohttp.ClientError as e:
-        utils.error_print(f"[bold red]Error fetching the XML: {e}")
+        utils.print_err(f"[bold red]Error fetching the XML: {e}")
     except ET.ParseError as e:
-        utils.error_print(f"[bold red]Error parsing the XML: {e}")
+        utils.print_err(f"[bold red]Error parsing the XML: {e}")
 
 
 def parse_english_url(element: Tag, url: str) -> list[str]:
@@ -570,7 +570,7 @@ def process_urls(urls: list[str], output_dir: str = "", quiet: bool | None = Non
             # Get main <div class="page content"> and ignore footer tag
             page_content = soup.find("div", id="page-content")
             if page_content is None:
-                utils.error_print(
+                utils.print_err(
                     f"[bold red]Error: page_content not found! Skipping {url} ..."
                 )
                 continue
@@ -600,13 +600,13 @@ def process_urls(urls: list[str], output_dir: str = "", quiet: bool | None = Non
 
         if response.status_code == 404:
             # If markdown file(s) for 404 URL exist locally remove them
-            utils.print_err(f"[bold red]Error 404: {url} not found! Skipping ...")
+            utils.print_info(f"[bold red]Error 404: {url} not found! Skipping ...")
             fpath_md = utils.get_markdown_filepath_for_url(url, CRAWL_DIR)
             fpath_md_proc = utils.get_markdown_filepath_for_url(url, DATA_DIR)
             for fpath in [fpath_md, fpath_md_proc]:
                 if fpath.exists():
                     utils.delete_filepath(fpath)
-                    utils.print_err(f"[bold red]Deleted {fpath} as {url} returns 404 ...")
+                    utils.print_info(f"[bold red]Deleted {fpath} as {url} returns 404 ...")
 
     return changed_files
 
