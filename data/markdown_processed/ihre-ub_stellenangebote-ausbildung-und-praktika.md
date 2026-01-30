@@ -3,7 +3,7 @@ title: Stellenangebote, Ausbildung und Praktika an der Universitätsbibliothek M
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/stellenangebote-ausbildung-und-praktika/
 source_url_en: https://www.bib.uni-mannheim.de/en/about/job-offers-training-and-internships/
 category: Benutzung
-tags: ['Stellenangebote', 'Ausbildung', 'Praktikum', 'Fachangestellte', 'Bibliotheksdienst', 'Berufsorientierung', 'Benutzungsdienste', 'Schulungen']
+tags: ['Stellenangebote', 'Ausbildung', 'Praktikum', 'Bibliotheksmitarbeiter', 'Fachangestellte', 'Benutzungsdienste', 'Schulungen', 'Berufsorientierung']
 language: de
 ---
 
@@ -13,7 +13,13 @@ Die Universitätsbibliothek Mannheim bietet die Informations- und Forschungsinfr
 
 ## Aktuelle Stellenangebote
 
-Vielen Dank für Ihr Interesse. Zur Zeit haben wir keine Stellen zu besetzen.
+### Bibliotheksmitarbeiter\*in (m/w/d)
+
+An der Universitätsbibliothek Mannheim ist zum nächstmöglichen Zeitpunkt eine Vollzeitstelle als Bibliotheksmitarbeiter\*in (m/w/d) (TV-L BW E6) zu besetzen.
+
+- Bewerbungsschluss: 18. Februar 2026
+- Weitere Informationen: [Stellenausschreibung (PDF, 429 KB)](https://www.bib.uni-mannheim.de/media/Einrichtungen/Universitaetsbibliothek/Dokumente/Stellenausschreibungen/UB_422_E6_AuFl_BB_bef.pdf)
+- Informationen zur Erhebung von personenbezogenen Daten bei der betroffenen Person nach Artikel 13 DS-GVO: [Datenschutz bei Bewerbungen](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet-mannheim/stellenanzeigen/datenschutz-bei-bewerbungen/)
 
 ## Ausbildung
 
@@ -30,24 +36,22 @@ Sie begeistern sich für Wissen und Medien, Daten und Digitales? Sie haben Freud
 
 Für Schülerinnen und Schüler ab der 9. Jahrgangsstufe und dem 14. Lebensjahr ist es möglich, an der Universitätsbibliothek ein einwöchiges Praktikum im Rahmen von BORS/BOGY (Praktika zur Berufsorientierung an Realschulen/Gymnasien) zu absolvieren. Während des Praktikums erhalten die Teilnehmenden Einblick in die beruflichen Tätigkeitsfelder einer wissenschaftlichen Bibliothek.
 
-- Das Praktikum dauert normalerweise eine Woche.
-- Die Schülerinnen und Schüler sind im Rahmen von Orientierungspraktika über ihre Schule unfallversichert.
-- Ein Entgelt kann nicht gewährt werden.
-- Bitte bewirb dich möglichst frühzeitig vor Praktikumsbeginn und füge deiner Bewerbung ein kurzes Motivationsschreiben, deinen Lebenslauf sowie dein letztes Schulzeugnis bei.
+- Dauer: in der Regel eine Woche
+- Unfallversicherung: über die Schule im Rahmen von Orientierungspraktika
+- Entgelt: kann nicht gewährt werden
+- Bewerbung: möglichst frühzeitig vor Praktikumsbeginn mit Motivationsschreiben, Lebenslauf und letztem Schulzeugnis
 
 ### Pflichtpraktikum im Rahmen der Ausbildung zum/zur Fachangestellten für Medien- und Informationsdienste (FaMI)
 
-Du bist gerade in der FaMI-Ausbildung und möchtest die Arbeit an einer wissenschaftlichen Bibliothek kennenlernen? Bei uns kannst du in einem ein- bis zweiwöchigen Praktikum die verschiedenen Arbeitsbereiche und Tätigkeitsfelder der Universitätsbibliothek Mannheim näher unter die Lupe nehmen. Ausleihe, Fernleihe, Medienbearbeitung, Digitalisierung und mehr – freue dich auf einen interessanten Einblick in unseren Arbeitsalltag!
+Für Auszubildende im Bereich FaMI besteht die Möglichkeit, in einem ein- bis zweiwöchigen Praktikum die verschiedenen Arbeitsbereiche und Tätigkeitsfelder der Universitätsbibliothek Mannheim kennenzulernen. Dazu gehören Ausleihe, Fernleihe, Medienbearbeitung, Digitalisierung und weitere Bereiche.
 
 ### Pflichtpraktikum im Rahmen von bibliotheks- und informationswissenschaftlichen Studiengängen
 
-Sie möchten im Rahmen Ihres informationswissenschaftlichen Studiengangs ein mehrwöchiges Praktikum oder ein Praxissemester an einer innovativen Universitätsbibliothek absolvieren? Forschungsdaten, Digitalisierung mit OCR, Lernraumgestaltung, Öffentlichkeitsarbeit – was interessiert Sie? Wir bieten Ihnen einen Überblick über die wichtigsten Abteilungen und Arbeitsgebiete der Universitätsbibliothek. Danach können Sie in Arbeitsbereiche tiefer eintauchen, mitarbeiten oder ein eigenes Projekt durchführen.
+Studierende informationswissenschaftlicher Studiengänge können im Rahmen eines mehrwöchigen Praktikums oder Praxissemesters an der Universitätsbibliothek Mannheim praktische Erfahrungen sammeln. Mögliche Themenfelder sind Forschungsdaten, Digitalisierung mit OCR, Lernraumgestaltung, Öffentlichkeitsarbeit und weitere. Nach einem Überblick über die wichtigsten Abteilungen können Praktikant\*innen in Arbeitsbereiche tiefer eintauchen, mitarbeiten oder ein eigenes Projekt durchführen.
 
 ## Kontakt
 
-### Ansprechpartnerinnen für Ausbildung und Praktika
-
-#### Angela Leichtweiß
+### Angela Leichtweiß
 
 - Stellvertretende Leiterin der Abteilung Benutzungsdienste
 - Leiterin Aus- und Fortbildung
@@ -56,11 +60,11 @@ Sie möchten im Rahmen Ihres informationswissenschaftlichen Studiengangs ein meh
 - Telefon: +49 621 181-3335
 - E-Mail: [angela.leichtweiss@uni-mannheim.de](mailto:angela.leichtweiss@uni-mannheim.de)
 
-#### Jessica Kaiser
+### Jessica Kaiser
 
 - Leiterin der Abteilung Benutzungsdienste
 - Stellvertretende Leiterin Aus- und Fortbildung
-- Aufgaben: Fachliche Beratung bei Recherchefragen, Durchführung von Schulungen im Fachbereich, Schreibberatung
+- Aufgaben: fachliche Beratung bei Recherchefragen, Durchführung von Schulungen im Fachbereich, Schreibberatung
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 288, 68161 Mannheim
 - Telefon: +49 621 181-2920
 - E-Mail: [jessica.kaiser@uni-mannheim.de](mailto:jessica.kaiser@uni-mannheim.de)
