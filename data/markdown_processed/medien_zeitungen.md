@@ -1,9 +1,9 @@
 ---
-title: Zeitungen – Zugang zu gedruckten und elektronischen Zeitungen an der Universitätsbibliothek Mannheim
+title: Zeitungen an der Universitätsbibliothek Mannheim – Zugang zu gedruckten und elektronischen Zeitungen
 source_url_de: https://www.bib.uni-mannheim.de/medien/zeitungen/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/newspapers/
 category: Medien
-tags: ['Zeitungen', 'Tageszeitungen', 'Wochenzeitungen', 'Pressearchive', 'Online-Zeitungen', 'Mikrofilme', 'InfoCenter', 'Katalog Primo']
+tags: ['Zeitungen', 'Datenbanken', 'Pressearchive', 'Online-Zeitungen', 'Druckausgaben', 'Katalog Primo', 'InfoCenter', 'Mikrofilme']
 language: de
 ---
 
@@ -24,19 +24,23 @@ Für eine gezielte Suche nach Zeitungen empfiehlt es sich, in der **Erweiterten 
 
 Die Universitätsbibliothek Mannheim bietet Zugang zu folgenden lizenzierten Pressearchiven und Zeitungsportalen:
 
-- [F.A.Z.-Bibliotheksportal](https://dbis.ur.de/UBMAN/resources/5333)
-- [Süddeutsche Zeitung Archiv](https://dbis.ur.de/UBMAN/resources/7881)
 - [ABI/INFORM Collection](https://dbis.ur.de/UBMAN/resources/8056)
   Enthält u.a.: The Economist, Financial Times, Wall Street Journal
 - [Europresse](https://dbis.ur.de/UBMAN/resources/10797)
   Enthält u.a.: L'Express, Le Figaro, Libération, Le Monde, Le Monde diplomatique
 - [Factiva](https://dbis.ur.de/UBMAN/resources/4042)
   Enthält u.a.: The New York Times, Financial Times, The Guardian
+- [F.A.Z.-Bibliotheksportal](https://dbis.ur.de/UBMAN/resources/5333)
 - [Nexis](https://dbis.ur.de/UBMAN/resources/1670)
   Enthält u.a.: The New York Times, The Guardian
+- [ProQuest One Business](https://dbis.ur.de/UBMAN/resources/104539)
+- [Süddeutsche Zeitung Archiv](https://dbis.ur.de/UBMAN/resources/7881)
+- [The Economist](https://dbis.ur.de/UBMAN/resources/6842)
+- [The New York Times](https://dbis.ur.de/UBMAN/resources/102727)
 - [WISO](https://dbis.ur.de/UBMAN/resources/1232)
   Enthält u.a.: Handelsblatt, WirtschaftsWoche, DIE ZEIT
 
-## Kontakt
+## Hinweise
 
-Für weitere Informationen oder bei Fragen zur Nutzung von Zeitungen und Mikrofilmen wenden Sie sich bitte an das [InfoCenter](https://www.bib.uni-mannheim.de/standorte/infocenter/).
+- Für den Zugriff auf lizenzierte Online-Zeitungen ist in der Regel ein Hochschulzugang erforderlich.
+- Bei Fragen zur Nutzung von Zeitungen oder Pressearchiven wenden Sie sich bitte an das [InfoCenter](https://www.bib.uni-mannheim.de/standorte/infocenter/).
