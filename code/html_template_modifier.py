@@ -106,6 +106,20 @@ def create_modified_template(frontend_path):
         preconnect_links, "<!-- External preconnect links removed -->"
     )
 
+    # Update Viewport for better mobile keyboard handling
+    viewport_pattern = re.compile(r'<meta name="viewport" content="[^"]+" />')
+    viewport_replacement = (
+        '<meta name="viewport" content="width=device-width, initial-scale=1, interactive-widget=resizes-content" />'
+    )
+    if viewport_pattern.search(modified_content):
+        modified_content = viewport_pattern.sub(viewport_replacement, modified_content)
+    else:
+        # If not found, inject it in head
+        modified_content = modified_content.replace(
+            "<head>",
+            f"<head>\n    {viewport_replacement}"
+        )
+
     # Add bundle.js
     bundle_js_script = '<script src="/public/bundle.js" defer></script>'
     if bundle_js_script not in modified_content:
