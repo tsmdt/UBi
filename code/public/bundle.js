@@ -1,7 +1,7 @@
 // This script should only run once.
 // We set a flag on the window object to prevent re-execution if the script is loaded twice.
 if (window.aimaBundleLoaded) {
-    console.warn("AIMA: bundle.js already loaded. Aborting duplicate execution.");
+    console.warn("UBi: bundle.js already loaded. Aborting duplicate execution.");
 } else {
     window.aimaBundleLoaded = true;
 
@@ -274,7 +274,7 @@ if (window.aimaBundleLoaded) {
     window.setCookieConfig = setCookieConfig;
     window.loadTermsCSS = loadTermsCSS;
 
-    // --- AIMA UI Initialization ---
+    // --- UBi UI Initialization ---
 
     // Define global variables for UI elements to be accessible by helper functions
     let footer;
@@ -293,14 +293,14 @@ if (window.aimaBundleLoaded) {
                     window.aimaConfig = config; // Expose config globally
                     updateWelcomeText(); // Update text if welcome screen is already visible
                 } else {
-                    console.error('AIMA: Failed to fetch ui_config.json:', configResponse.statusText);
+                    console.error('UBi: Failed to fetch ui_config.json:', configResponse.statusText);
                 }
                 const varsResponse = await fetch('/public/ui_vars.json');
                 if (varsResponse.ok) {
                     uiVars = await varsResponse.json();
                 }
             } catch (error) {
-                console.error('AIMA: Error fetching configuration files:', error);
+                console.error('UBi: Error fetching configuration files:', error);
             }
 
             // 2. Determine the correct last_updated value with clear priority
@@ -344,7 +344,7 @@ if (window.aimaBundleLoaded) {
 
         } catch (error) {
             // On error, the default cookieConfig will be used.
-            console.error('AIMA: Error initializing UI from config:', error);
+            console.error('UBi: Error initializing UI from config:', error);
         }
     });
 
@@ -404,7 +404,8 @@ if (window.aimaBundleLoaded) {
 
         // Determine the version/date string from the definitive value passed in
         let versionText = "";
-        if (lastUpdated) {
+        // Only show version on desktop/tablet > 768px
+        if (lastUpdated && window.innerWidth > 768) {
             versionText = `· v${lastUpdated}`;
         }
 
@@ -418,15 +419,16 @@ if (window.aimaBundleLoaded) {
 
     // 4. Update Footer Styling (handles dark mode)
     function updateFooterStyle(footerElement) {
-        const footerHeight = 18;
+        const footerHeight = 40;
         const root = document.querySelector("#root") || document.body;
         const appBackgroundColor = getComputedStyle(root).backgroundColor;
         const footerColor = "rgb(102, 102, 102)";
 
         Object.assign(footerElement.style, {
             position: "fixed", bottom: "0", left: "0", width: "100%",
-            background: appBackgroundColor,
+            background: "hsl(var(--background))",
             color: footerColor,
+            marginTop: "10px",
             borderTop: "0px solid transparent",
             fontSize: "12px", zIndex: "1000", height: `${footerHeight}px`,
             display: "flex", justifyContent: "center", alignItems: "center", gap: "10px"
@@ -536,7 +538,7 @@ if (window.aimaBundleLoaded) {
             position: absolute;
             top: 0;
             left: 0;
-            z-index: 150;
+            z-index: -150;
             margin-top: 60px;
             margin-left: 5%;
         }
@@ -556,11 +558,47 @@ if (window.aimaBundleLoaded) {
                 height: 49px;
             }
         }
+        #message-composer {
+            margin-bottom: 20px !important;
+        }
+
+        @media (max-width: 768px) {
+            .avatar {
+                width: 120px !important;
+            }
+            .speech-bubble {
+                margin-top: 10px !important;
+                margin-left: 0 !important;
+            }
+            .header-logo {
+                height: 40px;
+                margin-top: 80px !important; /* Push below the 66px header */
+            }
+            .custom-welcome-container {
+                padding-top: 140px; /* Push content below the logo */
+            }
+            #message-composer {
+                margin-bottom: 80px !important;
+            }
+            #starters {
+                margin-bottom: 80px !important;
+                margin-top: -80px !important;
+            }
+            
+            /* Move the close button (readme/drawer) down on mobile to avoid navbar overlap */
+            button.absolute.right-4.top-4 {
+                top: 40px !important;
+            }
+        }
+
+        @media (max-height: 400px) {
+            #app-footer {
+            }
+        }
 
         @media (max-width: 400px) {
             .header-logo {
-                height: 24px;
-            }
+                height: 30px;
         }
     `;
         document.head.appendChild(style);
@@ -640,51 +678,46 @@ if (window.aimaBundleLoaded) {
             if (readmeBtn) {
                 readmeBtn.click();
             } else {
-                console.warn('AIMA: readme-button not found.');
+                console.warn('UBi: readme-button not found.');
             }
         }
     });
 
     // ... existing observer code ...
     function customizeWelcomeScreen() {
-        const allButtons = Array.from(document.querySelectorAll('button'));
+        // Find the default starter div
+        const startersContainer = document.getElementById("starters");
 
-        // Find the default starter button (Öffnungszeiten)
-        // Since we are not replacing the container anymore, the default button will be present.
-        const defaultStarter = allButtons.find(btn => btn.textContent.includes("Öffnungszeiten"));
+        if (startersContainer) {
+            let targetContainer = startersContainer;
+            // Traverse up to find the main container
+            let depth = 0;
+            while (targetContainer && targetContainer.parentElement && !targetContainer.classList.contains('flex-col') && depth < 5) {
+                targetContainer = targetContainer.parentElement;
+                depth++;
+            }
 
-        if (defaultStarter) {
-            const startersContainer = defaultStarter.parentElement;
-            if (startersContainer) {
-                let targetContainer = startersContainer;
-                // Traverse up to find the main container
-                let depth = 0;
-                while (targetContainer && targetContainer.parentElement && !targetContainer.classList.contains('flex-col') && depth < 5) {
-                    targetContainer = targetContainer.parentElement;
-                    depth++;
-                }
+            // The structure is usually: Button -> Div (Starters) -> Div (Welcome)
+            const containerToModify = startersContainer.parentElement;
 
-                // The structure is usually: Button -> Div (Starters) -> Div (Welcome)
-                const containerToModify = startersContainer.parentElement;
+            if (containerToModify && !containerToModify.getAttribute('data-custom-welcome')) {
+                containerToModify.setAttribute('data-custom-welcome', 'true');
+                injectWelcomeStyles();
+                // Prepend the custom welcome header to the existing content
+                containerToModify.insertAdjacentHTML('afterbegin', getWelcomeHTML());
 
-                if (containerToModify && !containerToModify.getAttribute('data-custom-welcome')) {
-                    containerToModify.setAttribute('data-custom-welcome', 'true');
-                    injectWelcomeStyles();
-                    // Prepend the custom welcome header to the existing content
-                    containerToModify.insertAdjacentHTML('afterbegin', getWelcomeHTML());
-
-                    // We don't need setupWelcomeScreenInteractions anymore as we are using default items
-                }
+                // We don't need setupWelcomeScreenInteractions anymore as we are using default items
             }
         }
     }
-
-    const welcomeObserver = new MutationObserver((mutations) => {
-        customizeWelcomeScreen();
-    });
-
-    welcomeObserver.observe(document.body, {
-        childList: true,
-        subtree: true
-    });
 }
+
+const welcomeObserver = new MutationObserver((mutations) => {
+    customizeWelcomeScreen();
+});
+
+welcomeObserver.observe(document.body, {
+    childList: true,
+    subtree: true
+});
+
