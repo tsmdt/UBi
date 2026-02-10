@@ -404,7 +404,8 @@ if (window.aimaBundleLoaded) {
 
         // Determine the version/date string from the definitive value passed in
         let versionText = "";
-        if (lastUpdated) {
+        // Only show version on desktop/tablet > 768px
+        if (lastUpdated && window.innerWidth > 768) {
             versionText = `· v${lastUpdated}`;
         }
 
@@ -563,7 +564,7 @@ if (window.aimaBundleLoaded) {
 
         @media (max-width: 768px) {
             .avatar {
-                width: 100px !important;
+                width: 120px !important;
             }
             .speech-bubble {
                 margin-top: 10px !important;
@@ -582,6 +583,11 @@ if (window.aimaBundleLoaded) {
             #starters {
                 margin-bottom: 80px !important;
                 margin-top: -80px !important;
+            }
+            
+            /* Move the close button (readme/drawer) down on mobile to avoid navbar overlap */
+            button.absolute.right-4.top-4 {
+                top: 40px !important;
             }
         }
 
