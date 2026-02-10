@@ -6,6 +6,20 @@ if (window.aimaBundleLoaded) {
     window.aimaBundleLoaded = true;
 
     // Terms and Conditions Cookie Handler
+    // --- Matomo Tracking ---
+    var _paq = window._paq = window._paq || [];
+    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function () {
+        var u = "https://ub-monitor.bib.uni-mannheim.de/matomo/";
+        _paq.push(['setTrackerUrl', u + 'matomo.php']);
+        _paq.push(['setSiteId', '52']);
+        var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+        g.async = true; g.src = u + 'matomo.js'; s.parentNode.insertBefore(g, s);
+    })();
+    // -----------------------
+
     // Initialize with default values. These will be overwritten by ui_config.json if it loads.
     let cookieConfig = {
         name: "accepted_terms",
@@ -710,14 +724,16 @@ if (window.aimaBundleLoaded) {
             }
         }
     }
+
+    const welcomeObserver = new MutationObserver((mutations) => {
+        customizeWelcomeScreen();
+    });
+
+    welcomeObserver.observe(document.body, {
+        childList: true,
+        subtree: true
+    });
 }
 
-const welcomeObserver = new MutationObserver((mutations) => {
-    customizeWelcomeScreen();
-});
 
-welcomeObserver.observe(document.body, {
-    childList: true,
-    subtree: true
-});
 
