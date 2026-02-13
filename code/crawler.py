@@ -490,6 +490,71 @@ def find_specified_tags(
     return clean_tags
 
 
+def cleanup_removed_urls(
+    urls: list[str],
+    crawl_dir: str = str(CRAWL_DIR),
+    data_dir: str = str(DATA_DIR),
+) -> list[str]:
+    """
+    Remove markdown files from crawl_dir and data_dir that no longer
+    correspond to any URL in the current URL list. This handles the case
+    where a URL was removed from urls.txt — the stale markdown files are
+    deleted from both the crawl output and the processed data directory.
+
+    Args:
+        urls: Current list of URLs to crawl.
+        crawl_dir: Directory containing crawled markdown files.
+        data_dir: Directory containing processed markdown files.
+
+    Returns:
+        List of filenames that were removed.
+    """
+    crawl_path = Path(crawl_dir)
+    if not crawl_path.exists():
+        return []
+
+    # Build set of expected filenames from current URLs
+    expected_files = {
+        utils.get_markdown_filepath_for_url(url, crawl_dir).name
+        for url in urls
+    }
+
+    # Find existing .md files in crawl_dir
+    existing_files = {f.name for f in crawl_path.glob("*.md")}
+
+    # Stale files: exist on disk but are not expected from any current URL
+    stale_files = existing_files - expected_files
+    if not stale_files:
+        return []
+
+    removed = []
+    for filename in sorted(stale_files):
+        # Remove from crawl_dir
+        crawl_file = crawl_path / filename
+        if crawl_file.exists():
+            utils.delete_filepath(crawl_file)
+            utils.print_info(
+                f"[bold blue]Removed {filename} from {crawl_dir} "
+                f"(URL no longer in URL list)"
+            )
+
+        # Remove corresponding file from data_dir
+        data_file = Path(data_dir) / filename
+        if data_file.exists():
+            utils.delete_filepath(data_file)
+            utils.print_info(
+                f"[bold blue]Removed {filename} from {data_dir} "
+                f"(URL no longer in URL list)"
+            )
+
+        removed.append(filename)
+
+    utils.print_info(
+        f"[bold green]Cleaned up {len(removed)} stale file(s) from removed URLs"
+    )
+    return removed
+
+
 def process_urls(urls: list[str], output_dir: str = "", quiet: bool | None = None):
     """
     Processes a list of URLs by fetching their content and extracting specific
@@ -617,12 +682,13 @@ def process_urls(urls: list[str], output_dir: str = "", quiet: bool | None = Non
     help="Only print errors to stdout. Suppresses progress bars and info messages.",
 )
 @click.option(
-    "--write-hashes-only",
+    "--write-snapshot",
     "-w",
+    is_flag=True,
     default=False,
     help="Only write file hashes for CRAWL_DIR and exit.",
 )
-def main(quiet: bool, write_hashes_only: bool) -> Optional[list[str] | list[Path]]:
+def main(quiet: bool, write_snapshot: bool) -> Optional[list[str] | list[Path]]:
     """
     Main crawling function.
     """
@@ -631,7 +697,7 @@ def main(quiet: bool, write_hashes_only: bool) -> Optional[list[str] | list[Path
         utils.set_quiet_mode(True)
 
     # Write hashes only and exit
-    if write_hashes_only:
+    if write_snapshot:
         utils.write_hashes_for_directory(CRAWL_DIR)
         return
 
@@ -674,6 +740,9 @@ def main(quiet: bool, write_hashes_only: bool) -> Optional[list[str] | list[Path
             output_dir=CRAWL_DIR,
             quiet=quiet or utils.is_quiet_mode(),
         )
+
+        # Clean up markdown files for URLs that were removed from urls.txt
+        cleanup_removed_urls(urls=urls, crawl_dir=str(CRAWL_DIR), data_dir=str(DATA_DIR))
     else:
         utils.print_err("[bold red]No URLs found to crawl. Exiting.")
         return

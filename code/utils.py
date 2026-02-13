@@ -215,6 +215,49 @@ def get_current_hashes(directory) -> dict:
     return hashes
 
 
+def get_files_missing_from_output(
+    source_dir,
+    output_dir,
+    return_path_objects: bool = False,
+) -> list[str] | list[Path]:
+    """
+    Find .md files that exist in source_dir but are missing from output_dir.
+
+    This acts as a sanity check: files that were deleted from the output
+    directory (e.g. by post-processing merge steps like process_standorte)
+    but still exist in the source directory need to be reprocessed via LLM
+    so that downstream merge steps can run successfully.
+
+    Args:
+        source_dir: Directory containing source .md files (e.g. CRAWL_DIR)
+        output_dir: Directory that should contain processed .md files (e.g. DATA_DIR)
+        return_path_objects: If True, return resolved Path objects rooted in
+                             source_dir; if False, return plain filenames.
+
+    Returns:
+        List of filenames or Path objects for files present in source_dir
+        but absent from output_dir.
+    """
+    source_path = Path(source_dir)
+    output_path = Path(output_dir)
+
+    if not source_path.exists() or not output_path.exists():
+        return []
+
+    source_files = {f.name for f in source_path.glob("*.md")}
+    output_files = {f.name for f in output_path.glob("*.md")}
+
+    missing = source_files - output_files
+
+    if not missing:
+        return []
+
+    if return_path_objects:
+        return [(source_path / fname).resolve() for fname in sorted(missing)]
+    else:
+        return sorted(missing)
+
+
 def get_new_or_modified_files_by_hash(
     directory, hash_file="md_hashes.json", return_path_objects: bool = False
 ) -> list[str] | list[Path]:
