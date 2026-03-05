@@ -1,15 +1,17 @@
 ---
-title: Lern- und Arbeitsplätze in der Universitätsbibliothek Mannheim – Ausstattung, Gruppenarbeit, Sonderleseplätze und Services
+title: Lern- und Arbeitsplätze in den Bibliotheksbereichen der Universitätsbibliothek Mannheim – Ausstattung, Gruppenarbeit, Sonderleseplätze und Services
 source_url_de: https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/
 source_url_en: https://www.bib.uni-mannheim.de/en/services/study-and-work-spaces/
 category: Services
-tags: ['Arbeitsplätze', 'Gruppenarbeit', 'Ausstattung', 'Schließfächer', 'Wasserspender', 'Schulungsräume', 'Sonderleseplätze', 'Bibliotheksbereiche']
+tags: ['Arbeitsplätze', 'Gruppenarbeit', 'Ausstattung', 'Schulungsräume', 'Sonderleseplätze', 'Schließfächer', 'Wasserspender', 'Bibliotheksbereiche']
 language: de
 ---
 
 # Lern- und Arbeitsplätze
 
-In den Bibliotheksbereichen der Universitätsbibliothek Mannheim stehen rund 1.850 Gruppen- und Einzelarbeitsplätze zur Verfügung. Die technische Ausstattung unterstützt Sie beim Arbeiten und Lernen. Unter [„Freie Sitzplätze“](https://www.bib.uni-mannheim.de/standorte/freie-sitzplaetze/) können Sie die aktuelle Belegung der Bibliotheksbereiche einsehen. Die Einzel- und Gruppenarbeitsplätze sind frei zugänglich und nicht reservierbar.
+In den Bibliotheksbereichen der Universitätsbibliothek Mannheim stehen rund 1.850 Gruppen- und Einzelarbeitsplätze zur Verfügung. Die technische Ausstattung unterstützt Sie beim Arbeiten und Lernen.
+
+Unter [Freie Sitzplätze](https://www.bib.uni-mannheim.de/standorte/freie-sitzplaetze/) können Sie die aktuelle Belegung der Bibliotheksbereiche einsehen. Die Einzel- und Gruppenarbeitsplätze sind frei zugänglich und nicht reservierbar.
 
 ## Ausstattung
 
@@ -26,7 +28,7 @@ In den Bibliotheksbereichen der Universitätsbibliothek Mannheim stehen rund 1.8
 - [Bibliotheksbereich A5](https://www.bib.uni-mannheim.de/standorte/bb-a5/): Offener Bereich im EG und UG
 - [Bibliotheksbereich Schloss Ehrenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-ehrenhof/): 6 Räume im 3. OG West
 - [Bibliotheksbereich Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/bb-schloss-schneckenhof/): 5 Räume im 2. OG und offener Gruppenarbeitsbereich EG
-- [Bibliotheksbereich Schloss Schneckenhof – Learning Center](https://www.bib.uni-mannheim.de/standorte/learning-center-schloss-schneckenhof/): Offener Bereich im 1. OG West (vom 10. November bis zum 21. Dezember 2025 als Ruhearbeitsbereich)
+- [Bibliotheksbereich Schloss Schneckenhof – Learning Center](https://www.bib.uni-mannheim.de/standorte/learning-center-schloss-schneckenhof/): Offener Bereich im 1. OG West
 - [Bibliotheksbereich Schloss Schneckenhof – ExpLAB](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/): Offener Bereich im EG
 
 ## Schulungsräume
@@ -45,7 +47,7 @@ Für Medien, die nicht nach Hause ausgeliehen werden können, stehen Sonderlesep
 
 ## Wasserspender
 
-In den Bibliotheksbereichen Schloss Ehrenhof, Schloss Schneckenhof und A5 stehen Wasserspender zum Auffüllen von Trinkflaschen bereit.
+In den Bibliotheksbereichen Schloss Ehrenhof, Schloss Schneckenhof und A5 stehen Wasserspender zum Auffüllen von Trinkflaschen zur Verfügung.
 
 ## Weitere Informationen
 
