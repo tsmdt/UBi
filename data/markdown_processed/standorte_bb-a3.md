@@ -53,24 +53,24 @@ E-Mail: [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de)
 
 ### Weitere Ansprechpersonen
 
-Der Bibliotheksbereich A3 der Universitätsbibliothek Mannheim bietet Service und Beratung vor Ort. Hier finden Sie die Ansprechpartnerinnen für alle Anliegen rund um diesen Standort.
+Der Bibliotheksbereich A3 der Universitätsbibliothek Mannheim bietet Service und Beratung für Nutzerinnen und Nutzer. Für alle Anliegen rund um den Bibliotheksbereich A3 stehen folgende Ansprechpartnerinnen zur Verfügung:
 
 #### Ansprechpartnerinnen
 
 ##### Barbara Dreisiebner
 
-**Teamleiterin Bibliotheksbereich A3**
+Teamleiterin Bibliotheksbereich A3
 Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 106/108, 68159 Mannheim
 Telefon: +49 621 181-2989
 E-Mail: [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de)
 
 ##### Isabelle Otto
 
-**Stellvertretende Teamleiterin Bibliotheksbereich A3**
+Stellvertretende Teamleiterin Bibliotheksbereich A3
 Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 106/108, 68159 Mannheim
 Telefon: +49 621 181-3058
 E-Mail: [a3.ub@uni-mannheim.de](mailto:a3.ub@uni-mannheim.de)
-[KI-Chatbot](https://chat.bib.uni-mannheim.de/)
+Weitere Unterstützung: [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
 
 #### Kontakt
 
