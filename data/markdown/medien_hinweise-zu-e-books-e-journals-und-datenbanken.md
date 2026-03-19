@@ -30,7 +30,7 @@ Wenn Sie zum wissenschaftlichen Personal der Universität Mannheim gehören, kö
 ## Fernzugriff einrichten
 
 Um den Fernzugriff einzurichten, müssen Sie sich auf dem Campus befinden. Registrieren Sie sich kostenlos bei beck-online mit Ihrer universitären E-Mail-Adresse und aktivieren Sie in Ihrem beck-online-Account die Zwei-Faktor-Authentifizierung. Sie benötigen eine Authentifizierungs-App Ihrer Wahl für Ihren PC/Mac oder Ihr Smartphone.
-Eine Anleitung finden Sie auf der [Website von beck-online](https://rsw.beck.de/beck-online-service/services/studenten/studenten-2fa).
+Eine Anleitung finden Sie auf der [Website von beck-online](https://beck-online.de/service/studierende/zugangsverfahren-via-2fa/).
 
 
 ## Fernzugriff nutzen
