@@ -123,7 +123,7 @@ Bitte beachten Sie:
 
 Weitere Hinweise:
 
-- Die [Informationen zum Datenschutz](https://www.uni-mannheim.de/datenschutzerklaerung/datenschutzinformationen-der-universitaetsbibliothek/) stehen zur Verfügung.
-- Die [Informationen zum Datenschutz der Universitätsbibliothek](https://www.uni-mannheim.de/datenschutzerklaerung/universitaetsbibliothek-hinweise/) wurden bereitgestellt.
+- Die [Informationen zum Datenschutz](https://www.uni-mannheim.de/datenschutzerklaerung/datenschutzinformationen-der-universitaetsbibliothek/) wurden zur Verfügung gestellt.
+- Zusätzliche Datenschutzinformationen finden Sie unter: [Universitätsbibliothek Hinweise](https://www.uni-mannheim.de/datenschutzerklaerung/universitaetsbibliothek-hinweise/).
 
-Für weitere Unterstützung steht der [KI-Chatbot](https://chat.bib.uni-mannheim.de/) zur Verfügung.
+Für Unterstützung steht der [KI-Chatbot](https://chat.bib.uni-mannheim.de/) zur Verfügung.

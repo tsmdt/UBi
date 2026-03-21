@@ -45,19 +45,27 @@ E-Mail: [ausleihe.ub@uni-mannheim.de](mailto:ausleihe.ub@uni-mannheim.de)
 
 ### Weitere Ansprechpersonen
 
-#### Michael Wagner
+#### Teamleitung
 
-**Teamleiter Ausleihe und Fernleihe**
+##### Michael Wagner
+
+Teamleiter Ausleihe und Fernleihe
 Universität Mannheim, Universitätsbibliothek
 Schloss Schneckenhof West – Raum S 047
 68161 Mannheim
 Telefon: +49 621 181-3166
 E-Mail: [westfluegel.ub@uni-mannheim.de](mailto:westfluegel.ub@uni-mannheim.de)
+
+##### Stephanie Pellkofer
+
+Stellvertretende Teamleiterin Ausleihe und Fernleihe
+Universität Mannheim, Universitätsbibliothek
+Schloss Schneckenhof West – Raum S 063
+68161 Mannheim
+Telefon: +49 621 181-2720
+E-Mail: [westfluegel.ub@uni-mannheim.de](mailto:westfluegel.ub@uni-mannheim.de)
 [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
 
-**Zuständig für:**
+#### Kontakt für Ausleihe und Fernleihe
 
-- Ausleihe
-- Fernleihe
-
-**Kontaktieren Sie Michael Wagner für alle Fragen rund um die Ausleihe und Fernleihe an der Universitätsbibliothek Mannheim.**
+Für alle Anliegen rund um Ausleihe und Fernleihe wenden Sie sich bitte an das Team der Universitätsbibliothek Mannheim. Die Teamleitung und die stellvertretende Teamleitung stehen Ihnen als Ansprechpartner zur Verfügung. Kontaktieren Sie uns per E-Mail, telefonisch oder nutzen Sie unseren [KI-Chatbot](https://chat.bib.uni-mannheim.de/) für schnelle Hilfe.

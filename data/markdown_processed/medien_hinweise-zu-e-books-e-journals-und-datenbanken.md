@@ -85,18 +85,16 @@ Nicht alle Anbieter unterstützen Shibboleth. Aktuell ist der Shibboleth-Zugang 
 
 ## Shibboleth-Zugang zu digitalen Medien
 
-## Shibboleth-Zugang zu digitalen Medien
+## Shibboleth
 
-Studierende sowie Mitarbeiterinnen und Mitarbeiter der Universität Mannheim können das Authentifizierungsverfahren Shibboleth nutzen, um komfortabel von außerhalb des Campus auf digitale Medien zuzugreifen – ohne VPN.
+Studierende sowie Mitarbeiterinnen und Mitarbeiter der Universität Mannheim können das Shibboleth-Verfahren nutzen, um komfortabel von außerhalb des Campus auf digitale Medien zuzugreifen – ohne VPN.
 
-Shibboleth ermöglicht den Zugriff auf lizenzierte elektronische Angebote auf Plattformen von Verlagen oder anderen Anbietern außerhalb des Campus. Der Zugang wird auf den Seiten der Anbieter beispielsweise als **Institutionelles Login** bezeichnet.
+Shibboleth ist ein Authentifizierungsverfahren, das den Zugriff auf lizenzierte elektronische Angebote auf Plattformen von Verlagen oder anderen Anbietern außerhalb des Campus ermöglicht. Der Zugang wird auf den Seiten der Anbieter beispielsweise als **Institutionelles Login** bezeichnet.
 
-Als Studierende, Mitarbeiterinnen oder Mitarbeiter der Universität Mannheim wählen Sie auf der jeweiligen Plattform die Universität Mannheim aus einer Liste aus. Anschließend melden Sie sich über die Anmeldemaske der Universität mit Ihrer Uni-ID an.
+Als Studierende, Mitarbeiterinnen oder Mitarbeiter der Universität Mannheim wählen Sie auf der Anbieterseite die Universität Mannheim aus einer Liste aus. Anschließend können Sie sich über eine Anmeldemaske der Universität mit Ihrer Uni-ID authentifizieren.
 
 **Beispiel:** Cambridge University Press
 
-Bitte beachten Sie, dass nicht alle Anbieter Shibboleth unterstützen. Der Shibboleth-Zugang über die Universitätsbibliothek Mannheim ist aktuell auf den folgenden Plattformen möglich:
-
-### Übersicht der Anbieter
+Nicht alle Anbieter unterstützen Shibboleth. Aktuell ist der Shibboleth-Zugang über die Universitätsbibliothek Mannheim auf folgenden Plattformen möglich:
 
 - [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
