@@ -83,8 +83,6 @@ Nicht alle Anbieter unterstützen Shibboleth. Aktuell ist der Shibboleth-Zugang 
 
 - [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
 
-## Shibboleth-Zugang zu digitalen Medien
-
 ## Shibboleth
 
 Studierende sowie Mitarbeiterinnen und Mitarbeiter der Universität Mannheim können das Shibboleth-Verfahren nutzen, um komfortabel von außerhalb des Campus auf digitale Medien zuzugreifen – ohne VPN.
@@ -98,3 +96,28 @@ Als Studierende, Mitarbeiterinnen oder Mitarbeiter der Universität Mannheim wä
 Nicht alle Anbieter unterstützen Shibboleth. Aktuell ist der Shibboleth-Zugang über die Universitätsbibliothek Mannheim auf folgenden Plattformen möglich:
 
 - [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
+
+## Shibboleth-Zugang zu digitalen Medien
+
+## Shibboleth – Authentifizierter Fernzugriff auf digitale Medien
+
+Studierende sowie Mitarbeiterinnen und Mitarbeiter der Universität Mannheim können das Authentifizierungsverfahren Shibboleth nutzen, um komfortabel von außerhalb des Campus auf lizenzierte elektronische Medien zuzugreifen – ganz ohne VPN.
+
+Shibboleth ermöglicht den Zugang zu lizenzierten E-Books, E-Journals und Datenbanken direkt auf den Plattformen von Verlagen oder anderen Anbietern. Der Zugang wird auf den Seiten der Anbieter häufig als **Institutionelles Login** bezeichnet.
+
+### So funktioniert der Zugang
+
+1. Wählen Sie auf der Plattform des Anbieters die Universität Mannheim aus einer Liste aus.
+1. Melden Sie sich anschließend mit Ihrer Uni-ID über die Anmeldemaske der Universität an.
+
+**Beispiel:** Cambridge University Press
+
+Bitte beachten Sie, dass nicht alle Anbieter Shibboleth unterstützen.
+
+### Unterstützte Anbieter
+
+Aktuell ist der Shibboleth-Zugang über die Universitätsbibliothek Mannheim auf folgenden Plattformen möglich:
+
+- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
+
+Weitere Informationen und eine vollständige Liste der unterstützten Anbieter finden Sie auf den Seiten der Universitätsbibliothek Mannheim.
