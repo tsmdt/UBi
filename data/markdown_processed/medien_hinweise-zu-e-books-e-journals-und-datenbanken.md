@@ -65,9 +65,6 @@ Bei Fragen oder Problemen: [e-medien.ub@uni-mannheim.de](mailto:e-medien.ub@uni-
 - Versuchen Sie einen anderen Browser oder öffnen Sie ein privates Fenster.
 - Prüfen Sie Ihre Datenschutzeinstellungen. Tracking-Schutz („Bounce Tracking Protection“) kann verhindern, dass Sie als Angehörige\*r der Universität Mannheim erkannt werden.
 
-
-## Shibboleth-Zugang zu digitalen Medien
-
 ## Shibboleth
 
 Studierende sowie Mitarbeiterinnen und Mitarbeiter der Universität Mannheim können das Shibboleth-Verfahren nutzen, um von außerhalb des Campus komfortabel auf digitale Medien zuzugreifen – ohne VPN.
@@ -83,3 +80,26 @@ Nicht alle Anbieter unterstützen Shibboleth. Aktuell ist der Shibboleth-Zugang 
 ### Übersicht der Anbieter
 
 *(Hinweis: Die konkrete Liste der Anbieter ist im Originaldokument nicht enthalten. Bitte besuchen Sie die Website der Universitätsbibliothek Mannheim für eine aktuelle Übersicht.)*
+
+## Shibboleth-Zugang zu digitalen Medien
+
+## Shibboleth-Zugang zu digitalen Medien
+
+Studierende sowie Mitarbeiterinnen und Mitarbeiter der Universität Mannheim können das Authentifizierungsverfahren Shibboleth nutzen, um komfortabel von außerhalb des Campus auf lizenzierte digitale Medien zuzugreifen – ohne VPN.
+
+Shibboleth ermöglicht den Zugang zu elektronischen Angeboten auf Plattformen von Verlagen oder anderen Anbietern. Der Zugang wird auf den Seiten der Anbieter häufig als **Institutionelles Login** bezeichnet.
+
+### So funktioniert der Zugang
+
+1. Wählen Sie auf der Plattform des Anbieters die Universität Mannheim aus einer Liste aus.
+1. Melden Sie sich anschließend mit Ihrer Uni-ID über die Anmeldemaske der Universität Mannheim an.
+
+**Beispiel:** Cambridge University Press
+
+Bitte beachten Sie, dass nicht alle Anbieter Shibboleth unterstützen.
+
+### Unterstützte Anbieter
+
+Der Shibboleth-Zugang über die Universitätsbibliothek Mannheim ist aktuell auf ausgewählten Plattformen möglich. Eine Übersicht der unterstützten Anbieter finden Sie auf der Website der Universitätsbibliothek Mannheim.
+
+[Weitere Informationen zu Shibboleth und unterstützten Anbietern](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/shibboleth/)
