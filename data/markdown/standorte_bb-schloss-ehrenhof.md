@@ -15,19 +15,10 @@ Die Medien in diesem Bibliotheksbereich sind frei zugänglich, systematisch aufg
 
 ## Öffnungszeiten
 
-**Bibliotheksbereich Schloss Ehrenhof**
-| Mo‒Fr | 8–23 Uhr |
-| --- | --- |
-| Sa/So/Feiertage | 10–23 Uhr |
-
 **Eingang Ost**
 | Mo–Fr | 8–23 Uhr |
 | --- | --- |
 | Sa/So/Feiertage | 10–23 Uhr |
-
-**Eingang West**
-| Mo–Fr | 8–18 Uhr |
-| --- | --- |
 
 
 
