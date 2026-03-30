@@ -81,8 +81,6 @@ Nicht alle Anbieter unterstützen Shibboleth. Aktuell ist der Shibboleth-Zugang 
 
 *(Hinweis: Die konkrete Liste der Anbieter ist im Originaldokument nicht enthalten. Bitte besuchen Sie die Website der Universitätsbibliothek Mannheim für eine aktuelle Übersicht.)*
 
-## Shibboleth-Zugang zu digitalen Medien
-
 ## Shibboleth
 
 Studierende sowie Mitarbeiterinnen und Mitarbeiter der Universität Mannheim können das Shibboleth-Verfahren nutzen, um komfortabel von außerhalb des Campus auf digitale Medien zuzugreifen – ohne VPN.
@@ -100,3 +98,21 @@ Bitte beachten Sie, dass nicht alle Anbieter Shibboleth unterstützen. Aktuell i
 Eine aktuelle Liste der unterstützten Anbieter finden Sie auf der Website der Universitätsbibliothek Mannheim.
 
 [Weitere Informationen zu Shibboleth und unterstützten Anbietern](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/shibboleth/)
+
+## Shibboleth-Zugang zu digitalen Medien
+
+## Shibboleth-Zugang zu digitalen Medien
+
+Studierende sowie Mitarbeiterinnen und Mitarbeiter der Universität Mannheim können das Authentifizierungsverfahren Shibboleth nutzen, um komfortabel von außerhalb des Campus auf lizenzierte digitale Medien zuzugreifen – ohne VPN.
+
+Shibboleth ermöglicht den Zugang zu elektronischen Angeboten auf Plattformen von Verlagen oder anderen Anbietern. Der Zugang wird auf den Seiten der Anbieter häufig als **Institutionelles Login** bezeichnet. Wählen Sie dort die Universität Mannheim aus einer Liste aus und melden Sie sich anschließend mit Ihrer Uni-ID über die Anmeldemaske der Universität an.
+
+**Beispiel:** Cambridge University Press
+
+Bitte beachten Sie, dass nicht alle Anbieter Shibboleth unterstützen. Der Shibboleth-Zugang über die Universitätsbibliothek Mannheim ist aktuell auf ausgewählten Plattformen möglich.
+
+### Übersicht der Anbieter
+
+Eine aktuelle Liste der unterstützten Anbieter finden Sie auf der Website der Universitätsbibliothek Mannheim.
+
+[Weitere Informationen zu Shibboleth auf der UB Mannheim Website](https://www.bib.uni-mannheim.de/medien/hinweise-zu-e-books-e-journals-und-datenbanken/shibboleth/)
