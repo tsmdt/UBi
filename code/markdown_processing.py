@@ -210,6 +210,9 @@ def validate_and_format_markdown(content: str) -> str:
     body = "\n".join(f"{k}: {v}" for k, v in yaml_data.items())
     markdown_final = f"---\n{body}\n---\n\n{markdown_clean}"
 
+    # Re-format markdown
+    markdown_clean = mdformat.text(markdown_final)
+
     return markdown_final
 
 
