@@ -1,4 +1,5 @@
 import datetime
+import re
 import os
 import chainlit as cl
 from dotenv import load_dotenv
@@ -191,26 +192,32 @@ async def handle_openai_vectorstore_query(
                 {
                     "type": "file_search",
                     "vector_store_ids": [OPENAI_VECTORSTORE_ID],
-                    "max_num_results": 6,
+                    "max_num_results": 8,
                 }
             ],
             include=["file_search_call.results"] if not _quiet_mode else None,
             instructions=get_instructions(detected_language),
             stream=True,
             reasoning={"effort": "low"},
-            temperature=0,
-            service_tier="priority",
+            text={"verbosity": "high"},
+            service_tier="auto",
         )
+        tool_use_detected = False
         async for event in stream:
             if event.type == "response.completed" and not _quiet_mode:
                 results_data, usage_data = extract_openai_response_data(
                     event.response
                 )
                 print_openai_extracted_data(results_data, usage_data)
+            if (
+                event.type == "response.output_item.added"
+                and getattr(event.item, "type", "") == "file_search_call"
+            ):
+                tool_use_detected = True
             if event.type == "response.output_text.delta" and event.delta:
-                token = event.delta
-                await msg.stream_token(token)
-                full_answer += token
+                if tool_use_detected:
+                    await msg.stream_token(event.delta)
+                    full_answer += event.delta
     except Exception as e:
         error_response = (
             f"{translate('openai_api_error', detected_language)}: {e}"
