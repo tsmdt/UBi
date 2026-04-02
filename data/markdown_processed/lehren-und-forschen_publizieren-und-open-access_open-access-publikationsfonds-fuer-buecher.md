@@ -9,14 +9,14 @@ language: de
 
 # Open-Access-Publikationsfonds für Bücher
 
-Die Universität Mannheim bietet einen Open-Access-Publikationsfonds zur anteiligen Übernahme der anfallenden Open-Access-Gebühren für Buchpublikationen an. Ziel ist es, die Veröffentlichung ganzer Bücher im Open Access zu fördern.
+Die Universität Mannheim bietet einen Open-Access-Publikationsfonds zur anteiligen Übernahme der anfallenden Open-Access-Gebühren für die Veröffentlichung ganzer Bücher an. Ziel ist es, die Open-Access-Publikation von Büchern zu fördern und die Sichtbarkeit wissenschaftlicher Arbeiten zu erhöhen.
 
 ## Voraussetzungen für die Förderung
 
 ### 1. Antragsberechtigung
 
-- Hauptberuflich an der Universität Mannheim tätige Personen oder Promovierende können eine anteilige Kostenübernahme für die Open-Access-Publikationsgebühr eines Buches (BPC) beantragen.
-- Antragstellende müssen als Herausgeber*in oder Buchautor*in für das gesamte Buch (mit-)verantwortlich sein.
+- Hauptberuflich an der Universität Mannheim tätige Personen oder Promovierende können eine anteilige Kostenübernahme für die Open-Access-Publikationsgebühr eines Buches (Book Processing Charge, BPC) beantragen.
+- Antragsteller*innen müssen als Herausgeber*in oder Buchautor\*in für das gesamte Buch (mit-)verantwortlich sein.
 - Pro Buch kann nur ein Antrag gestellt werden, auch wenn mehrere Herausgeber*innen oder Autor*innen mit der Universität Mannheim affiliiert sind.
 
 ### 2. Anforderungen an das Open-Access-Buch
@@ -30,7 +30,7 @@ Die Universität Mannheim bietet einen Open-Access-Publikationsfonds zur anteili
 
 - Dem Antrag ist ein konkretes Verlagsangebot mit Kostenkalkulation beizulegen.
 - Das Angebot muss klar und verständlich die erbrachten Leistungen und die Kosten für Herausgeber*innen bzw. Autor*innen ausweisen.
-- Spezielle Anforderungen oder Pflichten an die Autor*innen bzw. Herausgeber*innen sind zu benennen.
+- Spezielle Anforderungen oder Pflichten für Autor*innen bzw. Herausgeber*innen sind zu benennen.
 - Die Kostenkalkulation muss transparent und nachvollziehbar sein, insbesondere im Hinblick auf nicht förderfähige Kosten wie Druckkosten.
 
 ### 4. Kostengrenze und förderfähige Kosten
@@ -43,12 +43,12 @@ Die Universität Mannheim bietet einen Open-Access-Publikationsfonds zur anteili
 
 ### 5. Qualitätsstandards für Open-Access-Bücher
 
-- Die Universität Mannheim erwartet von den Verlagen, dass die [Qualitätsstandards für Open-Access-Bücher](https://doi.org/10.5281/zenodo.7075760) möglichst umfassend eingehalten werden.
+- Von den Verlagen wird erwartet, dass sie die [Qualitätsstandards für Open-Access-Bücher](https://doi.org/10.5281/zenodo.7075760) möglichst umfassend erfüllen.
 
 ### 6. Nachweis in MADOC
 
 - Die Universitätsbibliothek weist das Buch in der Universitätsbibliographie auf dem Publikationsserver MADOC nach.
-- Der Volltext wird auf MADOC archiviert und zur Verfügung gestellt.
+- Der Volltext wird auf MADOC archiviert und bereitgestellt.
 - Publikationsdaten und Kosteninformationen werden an [openAPC](https://treemaps.intact-project.org/apcdata/openapc/) und an die DFG übermittelt.
 
 [Antrag auf Übernahme von Open-Access-Publikationskosten (Bücher)](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-publikationsfonds-fuer-buecher/antrag-oa-buecher/)
@@ -70,4 +70,3 @@ Adresse: Universität Mannheim, Universitätsbibliothek, Schneckenhof West – R
 Telefon: +49 621 181-3006
 E-Mail: [philipp.zumstein@uni-mannheim.de](mailto:philipp.zumstein@uni-mannheim.de)
 ORCID: [0000-0002-6485-9434](https://orcid.org/0000-0002-6485-9434)
-[KI-Chatbot](https://chat.bib.uni-mannheim.de/)

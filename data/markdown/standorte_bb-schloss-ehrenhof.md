@@ -1,5 +1,5 @@
 <en_url>https://www.bib.uni-mannheim.de/en/locations/schloss-ehrenhof-library/</en_url>
-Ab dem**30. März 2026**wird der Bibliotheksbereich Schloss Ehrenhof nur noch über den**Eingang Ost**zugänglich sein. Der Eingang West wird bis auf Weiteres geschlossen.
+Der Bibliotheksbereich Schloss Ehrenhof ist nur noch über den**Eingang Ost**zugänglich. Der Eingang West bleibt bis auf Weiteres geschlossen.
 Weitere Infos findet ihr im [Blog](https://blog.bib.uni-mannheim.de/Aktuelles/?p=28405).
 
 
@@ -15,19 +15,10 @@ Die Medien in diesem Bibliotheksbereich sind frei zugänglich, systematisch aufg
 
 ## Öffnungszeiten
 
-**Bibliotheksbereich Schloss Ehrenhof**
-| Mo‒Fr | 8–23 Uhr |
-| --- | --- |
-| Sa/So/Feiertage | 10–23 Uhr |
-
-**Eingang Ost**
+**Bibliotheksbereich Schloss Ehrenhof****Eingang Ost**
 | Mo–Fr | 8–23 Uhr |
 | --- | --- |
 | Sa/So/Feiertage | 10–23 Uhr |
-
-**Eingang West**
-| Mo–Fr | 8–18 Uhr |
-| --- | --- |
 
 
 
@@ -48,4 +39,3 @@ Unsere [Fachreferentinnen und Fachreferenten](https://www.bib.uni-mannheim.de/me
 - Telefon: +49 621 181-3000
 - E-Mail: ehrenhof.ub@uni-mannheim.de
 [Ansprechpersonen](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/bibliotheksbereich-schloss-ehrenhof/)
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

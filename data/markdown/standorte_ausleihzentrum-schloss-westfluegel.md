@@ -35,4 +35,3 @@ Sie holen die Bücher aus dem Regal und buchen sie an den Selbstverbuchern auf I
 - Telefon: +49 621 181-2949
 - E-Mail: ausleihe.ub@uni-mannheim.de
 [Ansprechpersonen](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/bibliotheksbereiche/ausleihe-und-fernleihe/)
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

@@ -1,4 +1,4 @@
-
+<en_url>https://www.bib.uni-mannheim.de/en/</en_url>
 
 
 # [Open Access in den Geschichtswissenschaften](https://www.bib.uni-mannheim.de/lehren-und-forschen/publizieren-und-open-access/open-access-in-den-geschichtswissenschaften/)
@@ -258,4 +258,3 @@ Aufgaben:
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
 - Telefon: +49 621 181-2938
 - E-Mail: viktor.boecking@uni-mannheim.de
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

@@ -130,4 +130,3 @@ Stellvertretende Leiterin der Abteilung Medienbearbeitung | Fachreferentin für 
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Ehrenhof – Raum M 305, 68161 Mannheim
 - Telefon: +49 621 181-3024
 - E-Mail: marion.francken-welz@uni-mannheim.de
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

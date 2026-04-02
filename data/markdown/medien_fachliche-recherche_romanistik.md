@@ -124,4 +124,3 @@ Aufgaben:
 - Telefon: +49 621 181-2997
 - E-Mail: jorge.murcia@uni-mannheim.de
 Vertretung[Angela Leichtweiß](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/angela-leichtweiss/)
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

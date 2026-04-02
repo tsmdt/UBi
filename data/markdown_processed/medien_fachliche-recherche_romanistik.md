@@ -3,13 +3,13 @@ title: Fachliche Recherche und Services der UB Mannheim für Romanistik
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/romanistik/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/romance-studies/
 category: Medien
-tags: ['Romanistik', 'Fachrecherche', 'Datenbanken', 'E-Journals', 'E-Books', 'Schulungen', 'Wissenschaftliches Arbeiten', 'Kontakt']
+tags: ['Romanistik', 'Fachrecherche', 'Datenbanken', 'E-Books', 'E-Journals', 'Schulungen', 'Informationskompetenz', 'Kontakt']
 language: de
 ---
 
 # Romanistik an der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim bietet für das Fach Romanistik umfangreiche Literatur, Datenbanken und weitere Recherchetools. Für individuelle Beratung oder Unterstützung beim wissenschaftlichen Arbeiten stehen Ihnen verschiedene Angebote zur Verfügung.
+Die Universitätsbibliothek Mannheim bietet für das Fach Romanistik umfangreiche Literatur, Datenbanken und weitere Recherchezugänge. Für Unterstützung bei der Recherche oder beim wissenschaftlichen Arbeiten stehen Ihnen individuelle Beratung und verschiedene Kurse zur Verfügung.
 
 ## Recherchieren
 
@@ -39,7 +39,7 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Romanistik umfangreich
 - [Elektronische Zeitschriftenbibliothek (EZB)](http://ezb.uni-regensburg.de/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=I)
 - [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB)
 
-**Ergänzende elektronische Zeitschriften:**
+**Ergänzende Fachgebiete:**
 
 - [Allgemeines](http://ezb.uni-regensburg.de/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=AZ)
 - [Allgemeine und vergleichende Sprach- und Literaturwissenschaft](http://ezb.uni-regensburg.de/fl.phtml?bibid=UBMAN&colors=7&lang=de%C2%ACation=E)
@@ -72,7 +72,7 @@ Die Universitätsbibliothek Mannheim bietet für das Fach Romanistik umfangreich
 
 ## Kurse und Tutorials
 
-Die UB bietet regelmäßig Schulungen zur Recherche im Fach Romanistik an. Tutorials können jederzeit online absolviert werden. Individuelle Beratung ist möglich.
+Die UB bietet regelmäßig Schulungen zur Recherche im Fach Romanistik an. Tutorials können jederzeit online absolviert werden. Individuelle Beratung ist ebenfalls möglich.
 
 - [Kursangebot](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Kursreihe Study Skills](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/study-skills/)
@@ -120,5 +120,5 @@ Die UB unterstützt Sie mit Schulungs- und Beratungsangeboten:
 - Adresse: Universität Mannheim, Universitätsbibliothek, A3 – Raum 105, 68159 Mannheim
 - Telefon: +49 621 181-2997
 - E-Mail: [jorge.murcia@uni-mannheim.de](mailto:jorge.murcia@uni-mannheim.de)
-- Vertretung: [Angela Leichtweiß](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/angela-leichtweiss/)
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
+
+**Vertretung:** [Angela Leichtweiß](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/angela-leichtweiss/)

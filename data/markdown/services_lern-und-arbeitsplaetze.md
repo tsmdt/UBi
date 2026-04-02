@@ -48,10 +48,9 @@ Für Medien, die nicht nach Hause ausgeliehen werden können, finden Sie Sonderl
 
 ## Schließfächer
 
-In den Bibliotheksbereichen stehen Ihnen [Schließfächer](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/schliessfaecher/) zur Verfügung, die Sie mit Ihrer ecUM oder UB-Chipkarte schließen können.
+In den Bibliotheksbereichen stehen Ihnen [Schließfächer](https://www.bib.uni-mannheim.de/services/lern-und-arbeitsplaetze/schliessfaecher/) zur Verfügung, die Sie mit Ihrer ecUM oder UB-Chipkarte schließen können. Das Mitnehmen von Taschen und Jacken in die Bibliotheksbereiche ist erlaubt.
 
 
 ## Wasserspender
 
 In den Bibliotheksbereichen Schloss Ehrenhof, Schloss Schneckenhof und A5 stehen Ihnen Wasserspender zum Auffüllen von Trinkflaschen zur Verfügung.
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

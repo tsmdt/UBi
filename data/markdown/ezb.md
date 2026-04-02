@@ -132,4 +132,3 @@ Für den Abruf der Volltexte benötigen Sie folgende Zugangsdaten:
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Ehrenhof, 68161 Mannheim
 - Telefon: +49 621 181-2989
 - E-Mail: zeitschriften.ub@uni-mannheim.de
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

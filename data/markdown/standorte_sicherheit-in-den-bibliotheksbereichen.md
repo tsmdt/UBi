@@ -29,4 +29,3 @@ Die Bibliotheksbereiche sind öffentlich zugängliche Räume. Bitte lassen Sie k
 - Web: [www.bib.uni-mannheim.de](https://www.bib.uni-mannheim.de/)
 - Telefon: +49 621 181-2948
 - E-Mail: info.ub@uni-mannheim.de
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

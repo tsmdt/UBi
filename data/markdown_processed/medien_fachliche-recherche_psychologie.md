@@ -3,24 +3,26 @@ title: Fachliche Recherche Psychologie – Literatur, Datenbanken, Beratung und 
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/psychologie/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/psychology/
 category: Medien
-tags: ['Psychologie', 'Fachinformation', 'Datenbanken', 'E-Books', 'E-Journals', 'Forschungsdaten', 'Schulungen', 'Literaturstandorte']
+tags: ['Psychologie', 'Fachinformation', 'Datenbanken', 'E-Books', 'E-Journals', 'Forschungsdaten', 'Schulungen', 'Kontakt']
 language: de
 ---
 
 # Psychologie – Fachliche Recherche an der Universitätsbibliothek Mannheim
 
-Die Universitätsbibliothek Mannheim bietet für das Fach Psychologie ein breites Spektrum an gedruckter und digitaler Literatur, den Zugang zu fachspezifischen Datenbanken sowie weitere Recherche- und Sucheinstiege. Ergänzt wird das Angebot durch Kurse und Beratungen, die Studium, Lehre und Forschung im Fach Psychologie umfassend unterstützen.
+Für das Fach Psychologie bietet die Universitätsbibliothek Mannheim ein breites Spektrum an gedruckter und digitaler Literatur, den Zugang zu fachspezifischen Datenbanken sowie weitere Recherche- und Sucheinstiege. Ergänzt wird das Angebot durch Kurse und Beratungen, die Studium, Lehre und Forschung umfassend unterstützen.
 
 ## Recherchieren
 
-### Wichtige Datenbanken
+### Datenbanken
+
+Zentrale und fachspezifische Datenbanken für die Psychologie:
 
 - [APA PsycINFO](https://dbis.ur.de/UBMAN/resources/149): Zentrale Datenbank für englischsprachige Zeitschriftenartikel zur Psychologie.
 - [PSYNDEX](https://dbis.ur.de/UBMAN/resources/86): Bibliographische Datenbank zu psychologischer Literatur und Testverfahren aus den deutschsprachigen Ländern.
 - [Web of Science/Social Sciences Citation Index](https://dbis.ur.de/UBMAN/resources/360): Enthält u. a. Informationen zu Zitationszahlen und Journal Impact Factor.
 - [ERIC](https://dbis.ur.de/UBMAN/resources/363): Literaturdatenbank für die pädagogische Psychologie.
 - [PsycTHERAPY](https://dbis.ur.de/UBMAN/resources/11210): Enthält zahlreiche Demonstrations-Videos von Therapien mit Einzelpersonen, Paaren und Familien.
-- [PubMed](https://dbis.ur.de/UBMAN/resources/294): Datenbank primär für Medizin, umfasst auch psychologische Publikationen.
+- [PubMed](https://dbis.ur.de/UBMAN/resources/294): Datenbank primär für medizinische Bereiche, umfasst aber auch Publikationen aus der Psychologie.
 
 Weitere [Datenbanken zur Psychologie](https://dbis.ur.de/UBMAN/browse/subjects/34/?availability-filter-free=on&availability-filter-local=on) und zu anderen Fachgebieten finden Sie über das [Datenbank-Infosystem (DBIS)](https://dbis.ur.de/UBMAN/browse/subjects/).
 
@@ -30,7 +32,7 @@ Die E-Journals für das Fach Psychologie finden Sie in der [Elektronischen Zeits
 
 ### E-Books
 
-Die UB Mannheim bietet ein umfangreiches E-Book-Angebot an Fachpublikationen. Alle verfügbaren E-Books sind über den Katalog [Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) auffindbar. Für Psychologie relevante E-Bookpakete sind z. B.:
+Die Universitätsbibliothek Mannheim bietet ein umfangreiches E-Book-Angebot an Fachpublikationen. Alle verfügbaren E-Books sind über den Katalog [Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) auffindbar. Für das Fach Psychologie relevante E-Bookpakete sind beispielsweise:
 
 - [Oxford](https://academic.oup.com/books/search-results?q=&tax=AcademicSubjects%2fSCI02100&sort=Date+%e2%80%93+Newest+First)
 - [Springer: Psychologie (ab 2015)](https://link.springer.com/search?package=40904&facet-content-type=%22Book)
@@ -38,9 +40,9 @@ Die UB Mannheim bietet ein umfangreiches E-Book-Angebot an Fachpublikationen. Al
 
 ### Forschungsdaten
 
-Forschungsdaten der Universität Mannheim können im [Mannheim Research Data Repository (MADATA)](https://madata.bib.uni-mannheim.de/) gesichert und archiviert werden. Fachspezifische Repositorien sind z. B.:
+Forschungsdaten der Universität Mannheim können im institutionellen Forschungsdatenrepositorium [Mannheim Research Data Repository (MADATA)](https://madata.bib.uni-mannheim.de/) gesichert und archiviert werden. Fachspezifische Forschungsdatenrepositorien sind z. B.:
 
-- [Forschungsdatenzentrum (FDZ) am Leibniz-Institut für Psychologie (ZPID)](https://rdc-psychology.org/de)
+- [Forschungsdatenzentrum (FDZ)](https://rdc-psychology.org/de) am Leibniz-Institut für Psychologie (ZPID)
 - [Archivierung BASIS](https://data.gesis.org/sharing/#!Home) der [GESIS – Leibniz-Institut für Sozialwissenschaften](https://www.gesis.org/home)
 
 Einen Überblick über Forschungsdatenrepositorien bietet das Verzeichnis [Registry of Research Data Repositories](http://www.re3data.org/). Zugang zu wissenschaftlichen Forschungsdaten erhalten Sie über [DataCite](https://www.datacite.org/).
@@ -75,8 +77,8 @@ Einen Überblick über Forschungsdatenrepositorien bietet das Verzeichnis [Regis
 ### Literaturstandorte
 
 - Im [Bibliotheksbereich A3](https://www.bib.uni-mannheim.de/standorte/bb-a3/) finden Sie Literatur zum Fach Psychologie.
-- Im [Bibliotheksbereich A5](https://www.bib.uni-mannheim.de/standorte/bb-a5/) gibt es Literatur speziell zur Sozialpsychologie.
-  - Die Medien in A3 und A5 sind frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
+- Im [Bibliotheksbereich A5](https://www.bib.uni-mannheim.de/standorte/bb-a5/) steht Literatur speziell zur Sozialpsychologie bereit.
+- Die Medien in A3 und A5 sind frei zugänglich und nach [Themengebieten](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) aufgestellt. Ausleihen aus diesem Bestand sind nur für wissenschaftliches Personal der Universität Mannheim möglich.
 - Im [Ausleihzentrum Schloss Westflügel](https://www.bib.uni-mannheim.de/standorte/ausleihzentrum-schloss-westfluegel/) gibt es weitere Literatur zur Psychologie, die mit ecUM oder UB-Chipkarte ausgeliehen werden kann.
 - In der Lehrbuchsammlung im Ausleihzentrum Schloss Westflügel stehen die wichtigsten Lehrbücher für Studierende der Universität Mannheim und kooperierender Einrichtungen zur Ausleihe bereit.
 - Die an der UB vorhandene Literatur ist im [Katalog Primo](https://primo.bib.uni-mannheim.de/primo-explore/search?vid=MAN_UB) recherchierbar.
@@ -90,17 +92,17 @@ Einen Überblick über Forschungsdatenrepositorien bietet das Verzeichnis [Regis
 
 ### Journal Rankings
 
-Im Fach Psychologie werden wissenschaftliche Zeitschriften häufig anhand des Impact Faktors bewertet. Relevante Rankings sind z. B.:
+Im Fach Psychologie werden wissenschaftliche Zeitschriften häufig anhand des Impact Faktors bewertet. Relevante Rankings sind:
 
 - [SCImago Journal Ranking](https://www.scimagojr.com/journalrank.php?area=3200)
 - [Google Scholar Ranking](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=med_psychology)
 - Impact Faktoren und Kontextinformationen finden Sie auch im [Social Sciences Citation Index](https://dbis.ur.de/UBMAN/resources/360) oder in den [Journal Citation Reports](https://dbis.ur.de/UBMAN/resources/359).
 
-Für weiterführende Recherche oder Tipps zum wissenschaftlichen Arbeiten besuchen Sie unsere Kurse oder nutzen Sie die individuelle Beratung.
+Für weiterführende Informationen zur Recherche oder zum wissenschaftlichen Arbeiten stehen Kurse und individuelle Beratungen zur Verfügung.
 
 ## Kurse und Tutorials
 
-Die UB bietet regelmäßig Schulungen zur Recherche im Fach Psychologie an. Tutorials sind jederzeit online verfügbar. Individuelle Beratung ist möglich.
+Die Universitätsbibliothek bietet regelmäßig Schulungen zur Recherche im Fach Psychologie an. Tutorials sind jederzeit online verfügbar. Individuelle Beratung ist ebenfalls möglich.
 
 - [Kursangebot](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/kurse/)
 - [Tutorials](https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/)
@@ -152,6 +154,4 @@ Fachreferent für Politikwissenschaft, Soziologie und Psychologie | Ansprechpart
 **E-Mail:** [hendrik.platte@uni-mannheim.de](mailto:hendrik.platte@uni-mannheim.de)
 **ORCID:** [0000-0001-7916-2659](https://orcid.org/0000-0001-7916-2659)
 
-**Vertretung:**
-[Dr. Rudolf Nink](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-rudolf-nink/)
-[KI-Chatbot](https://chat.bib.uni-mannheim.de/)
+**Vertretung:** [Dr. Rudolf Nink](https://www.bib.uni-mannheim.de/ihre-ub/ansprechpersonen/dr-rudolf-nink/)

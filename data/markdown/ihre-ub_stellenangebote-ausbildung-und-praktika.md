@@ -21,8 +21,8 @@ Sie begeistern sich für Wissen und Medien, Daten und Digitales? Sie haben Freud
 
 ## Unser Ausbildungsangebot
 
-[Fachangestellte*r für Medien- und Informationsdienste](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet-mannheim/ausbildung-duales-studium-praktikum/ausbildung/fach-angestellter-fuer-medien-und-informations-dienste/)
-[Ausbildung für den höheren Bibliotheksdienst an wissenschaftlichen Bibliotheken](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet-mannheim/ausbildung-duales-studium-praktikum/ausbildung/bibliotheksreferendariat/)
+[Fachangestellte*r für Medien- und Informationsdienste](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/ausbildung-duales-studium-praktikum/ausbildung/fach-angestellte-r-fuer-medien-und-informations-dienste/)
+[Ausbildung für den höheren Bibliotheksdienst an wissenschaftlichen Bibliotheken](https://www.uni-mannheim.de/universitaet/arbeiten-an-der-universitaet/ausbildung-duales-studium-praktikum/ausbildung/bibliotheksreferendariat/)
 
 
 ## Praktika
@@ -84,4 +84,3 @@ Aufgaben:
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 288, 68161 Mannheim
 - Telefon: +49 621 181-2920
 - E-Mail: jessica.kaiser@uni-mannheim.de
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)

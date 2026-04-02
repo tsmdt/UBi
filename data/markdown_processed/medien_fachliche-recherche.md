@@ -3,13 +3,13 @@ title: Fachliche Recherche – Fachreferent:innen und Kontaktinformationen der U
 source_url_de: https://www.bib.uni-mannheim.de/medien/fachliche-recherche/
 source_url_en: https://www.bib.uni-mannheim.de/en/resources/subject-specific-research/
 category: Services
-tags: ['Fachreferenten', 'Fachberatung', 'Recherche', 'Kontakt', 'Fachgebiete', 'Universitätsbibliothek', 'Datenbanken', 'Literatur']
+tags: ['Fachreferenten', 'Fachberatung', 'Recherche', 'Kontakt', 'Fachgebiete', 'Universitätsbibliothek', 'Informationskompetenz', 'Datenbanken']
 language: de
 ---
 
 # Fachliche Recherche an der Universitätsbibliothek Mannheim
 
-Für Ihr Fach bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken, weitere Sucheinstiege sowie fachspezifische Recherchekurse. Für individuelle Auskünfte oder Beratungen stehen Ihnen die Fachreferentinnen und Fachreferenten zur Verfügung.
+Für Ihr Fach bietet die Universitätsbibliothek Mannheim Literatur, Datenbanken, weitere Sucheinstiege sowie fachspezifische Recherchekurse an. Für individuelle Auskünfte oder Beratungen stehen Ihnen die Fachreferentinnen und Fachreferenten zur Verfügung.
 
 ## Fachreferent:innen und ihre Fachgebiete
 
@@ -38,7 +38,6 @@ Fachreferentin für:
 Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SN 272, 68161 Mannheim
 Telefon: +49 621 181-3753
 E-Mail: [xiuwen.ye@uni-mannheim.de](mailto:xiuwen.ye@uni-mannheim.de)
-Weitere Unterstützung: [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
 
 ### Dr. Philipp Zumstein
 
@@ -119,6 +118,7 @@ E-Mail: [jorge.murcia@uni-mannheim.de](mailto:jorge.murcia@uni-mannheim.de)
 
 Für jedes Fachgebiet stehen eigene Rechercheportale und weiterführende Informationen zur Verfügung:
 
+- [Allgemeine Sprach- und Literaturwissenschaft](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/allgemeine-sprach-und-literaturwissenschaft/)
 - [Anglistik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/anglistik/)
 - [Betriebswirtschaftslehre](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/betriebswirtschaftslehre/)
 - [Germanistik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/germanistik/)
@@ -133,7 +133,7 @@ Für jedes Fachgebiet stehen eigene Rechercheportale und weiterführende Informa
 - [Rechtswissenschaft](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/rechtswissenschaft/)
 - [Romanistik](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/romanistik/)
 - [Soziologie](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/soziologie/)
-- [Allgemeine Sprach- und Literaturwissenschaft](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/allgemeine-sprach-und-literaturwissenschaft/)
+- [Sprachpraxis](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/romanistik/)
 - [Volkswirtschaftslehre](https://www.bib.uni-mannheim.de/medien/fachliche-recherche/volkswirtschaftslehre/)
 
 Für weitere Informationen und individuelle Beratung wenden Sie sich bitte an die zuständigen Fachreferent:innen.

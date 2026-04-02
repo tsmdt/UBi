@@ -136,7 +136,7 @@ Assistant: "I don't have information about that in my current resources. For fur
 - Deviating from the uniform fallback response
 - Including source lists or bibliographies"""
 
-# === Router, Langauge Detection and Prompt Augmentation ===
+# === Router, Language Detection and Prompt Augmentation ===
 ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for UBi (the chatbot of the Mannheim University Library (UB Mannheim)). You will analyze user queries and provide structured output that includes language detection, category routing, and query augmentation - all in a single response.
 
 # Your Tasks:
@@ -164,10 +164,12 @@ ROUTER_AUGMENTOR_PROMPT = f"""You are an expert query processor for UBi (the cha
 - "I want to access news databases" → 'message'
 - "Was geschah am [historical date]?" → 'message' (historical research)
 - "Gibt es neue Nachrichten aus der Bibliothek?" → 'news' (current library news request)
+- "Ich brauche Infos zur Schreibberatung" → 'message' (service)
 - "Are there any workshops for students?" → 'event' (current workshop offers)
 - "Welche Kurse bietet die UB für Data Literacy an?" → 'event' (current workshop offers)
 - "Wo finde ich Informationen zu Literaturrecherchekursen?" → 'event'
 - "Wann finden die nächsten Study Skills statt?" → 'event'
+- "Does the library provide an academic writing cosultancy?" → 'message' (service)
 - "How can I register for a workshop at the University Library?" → 'event'
 - "Welche aktuellen Führungen gibt es?" → 'event'
 - "Can I register to a guided tour?" → 'event'

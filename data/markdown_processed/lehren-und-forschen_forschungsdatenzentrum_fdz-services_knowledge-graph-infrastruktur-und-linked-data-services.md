@@ -1,9 +1,9 @@
 ---
-title: Knowledge Graph Infrastruktur und Linked Data Services – Services und Beratung des Forschungsdatenzentrums
+title: Knowledge Graph Infrastruktur und Linked Data Services – Services und Beratung des Forschungsdatenzentrums (FDZ) der Universitätsbibliothek Mannheim
 source_url_de: https://www.bib.uni-mannheim.de/lehren-und-forschen/forschungsdatenzentrum/fdz-services/knowledge-graph-infrastruktur-und-linked-data-services/
 source_url_en: https://www.bib.uni-mannheim.de/en/teaching-and-research/research-data-center-fdz/services-of-the-fdz/knowledge-graph-infrastructure-and-linked-data-services/
 category: Services
-tags: ['Knowledge Graph', 'Linked Data', 'FAIR', 'Metadaten', 'Ontologien', 'Forschungsdaten', 'Beratung', 'Wikidata']
+tags: ['Knowledge Graph', 'Linked Data', 'FAIR', 'Metadaten', 'Ontologien', 'Forschungsdaten', 'Beratung', 'Universitätsbibliothek']
 language: de
 ---
 
@@ -24,8 +24,8 @@ Kontaktieren Sie uns und wir helfen Ihnen bei der Erstellung und dem Hosting ein
 ### Verlinkungsdienst
 
 - Verknüpfen Sie Ihre Metadaten und Daten mit Entitäten in öffentlichen Datenbanken und Wissensgraphen mithilfe der Verknüpfung benannter Entitäten und [OpenRefine](https://openrefine.org).
-- Unterstützung bei der Erstellung eines annotierten Korpus zur Erkennung und Verknüpfung benannter Entitäten mit der Open-Source-Software [INCEpTION](https://inception-project.github.io).
-- Training von Deep-Learning-Modellen für die Erkennung und Verknüpfung benannter Entitäten.
+- Unterstützung bei der Erstellung eines annotierten Korpus zur Erkennung und Verknüpfung benannter Entitäten mithilfe der Open-Source-Software [INCEpTION](https://inception-project.github.io).
+- Training von Deep-Learning-Modellen für die Erkennung und Verknüpfung benannter Entitäten
 
 ### Hochladen Ihrer Metadaten und/oder Daten in den allgemeinen offenen Wikidata-Wissensgraphen
 

@@ -43,4 +43,3 @@ Dissertationen
 - Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 286, 68161 Mannheim
 - Telefon: +49 621 181-2933
 - E-Mail: diss.ub@uni-mannheim.de
-- [KI-Chatbot](https://chat.bib.uni-mannheim.de/)
