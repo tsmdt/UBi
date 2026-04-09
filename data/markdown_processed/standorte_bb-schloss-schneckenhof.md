@@ -43,18 +43,22 @@ E-Mail: [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de
 
 Der Bibliotheksbereich Schloss Schneckenhof ist Teil der Universitätsbibliothek Mannheim und befindet sich im Schloss Schneckenhof West.
 
-#### Teamleitung und Kontakt
+#### Ansprechpartner
 
-##### Beate Ulbrich
+##### Teamleitung
 
+**Beate Ulbrich**
 Teamleiterin Bibliotheksbereich Schloss Schneckenhof
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 287, 68161 Mannheim
+Universität Mannheim, Universitätsbibliothek
+Schloss Schneckenhof West – Raum SW 287
+68161 Mannheim
 Telefon: +49 621 181-2972
 E-Mail: [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de)
 
-##### Elisabeth Wagner
-
+**Elisabeth Wagner**
 Stellvertretende Teamleiterin Bibliotheksbereich Schloss Schneckenhof
-Adresse: Universität Mannheim, Universitätsbibliothek, Schloss Schneckenhof West – Raum SW 287, 68161 Mannheim
+Universität Mannheim, Universitätsbibliothek
+Schloss Schneckenhof West – Raum SW 287
+68161 Mannheim
 Telefon: +49 621 181-2835
 E-Mail: [schneckenhof.ub@uni-mannheim.de](mailto:schneckenhof.ub@uni-mannheim.de)

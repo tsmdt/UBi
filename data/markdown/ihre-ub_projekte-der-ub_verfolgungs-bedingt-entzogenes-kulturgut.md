@@ -49,6 +49,12 @@ Ressource-Gesellschaft
 
 
 
+### [Zum Tag der Provenienzforschung 2026](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/zum-tag-der-provenienzforschung-2026/)
+
+Zum Tag der Provenienzforschung 2026
+
+
+
 ## Kontakt
 
 Sie haben Fragen zum Projekt? Sprechen Sie uns gerne an.
