@@ -188,6 +188,7 @@ async def get_vectorstore_fileids_and_metadata(
             payload = {
                 "file_id": f.id,
                 "attributes": attributes,
+                "status": f.status,
                 "file_missing": missing_file,
             }
             if original_filename:
@@ -235,9 +236,10 @@ def list_vectorstore_files(as_json: bool = False) -> None:
         payload = {
             (idx + 1): {
                 "vectorstore_filename": filename,
-                "vectorstore_fileid": info["file_id"],
+                "vectorstore_fileid": info.get("file_id"),
+                "vectorstore_file_status": info.get("status"),
                 "original_filename": info.get("original_filename"),
-                "missing": str(info["file_missing"]),
+                "missing": str(info.get("file_missing")),
             }
             for idx, (filename, info) in enumerate(vectorstore_filenames.items())
         }
@@ -250,14 +252,16 @@ def list_vectorstore_files(as_json: bool = False) -> None:
     )
     table.add_column("vectorstore_filename", overflow="fold")
     table.add_column("vectorstore_fileid", overflow="fold")
+    table.add_column("vectorstore_file_status", overflow="fold")
     table.add_column("original_filename", overflow="fold")
     table.add_column("missing_file?", overflow="fold")
     for filename in sorted(vectorstore_filenames):
         table.add_row(
             filename,
-            vectorstore_filenames[filename]["file_id"],
+            vectorstore_filenames[filename].get("file_id"),
+            vectorstore_filenames[filename].get("status"),
             vectorstore_filenames[filename].get("original_filename"),
-            str(vectorstore_filenames[filename]["file_missing"])
+            str(vectorstore_filenames[filename].get("file_missing")),
         )
     Console().print(table)
 
