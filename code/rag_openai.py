@@ -256,13 +256,26 @@ def list_vectorstore_files(as_json: bool = False) -> None:
     table.add_column("original_filename", overflow="fold")
     table.add_column("missing_file?", overflow="fold")
     for filename in sorted(vectorstore_filenames):
-        table.add_row(
-            filename,
-            vectorstore_filenames[filename].get("file_id"),
-            vectorstore_filenames[filename].get("status"),
-            vectorstore_filenames[filename].get("original_filename"),
-            str(vectorstore_filenames[filename].get("file_missing")),
-        )
+        if (
+            vectorstore_filenames[filename].get("status") != "completed"
+            or str(vectorstore_filenames[filename].get("file_missing")) != "False"
+        ):
+            table.add_row(
+                filename,
+                vectorstore_filenames[filename].get("file_id"),
+                vectorstore_filenames[filename].get("status"),
+                vectorstore_filenames[filename].get("original_filename"),
+                str(vectorstore_filenames[filename].get("file_missing")),
+                style="bold red"
+            )
+        else:
+            table.add_row(
+                filename,
+                vectorstore_filenames[filename].get("file_id"),
+                vectorstore_filenames[filename].get("status"),
+                vectorstore_filenames[filename].get("original_filename"),
+                str(vectorstore_filenames[filename].get("file_missing")),
+            )
     Console().print(table)
 
 
