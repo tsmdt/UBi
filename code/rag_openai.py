@@ -96,59 +96,80 @@ async def async_upload_files_to_vectorstore(
     md_files: list,
 ):
     """
-    Async upload new or updated files to vectorstore, with progress bar.
+    Async upload (5 workers) of new or updated files to vectorstore, with
+    progress bar.
+
+    If a file in the vectorstore is found that has the same filename as the
+    file to be uploaded, it gets unlinked and deleted in the vectorstore first
+    and then reuploaded (this is the main sync workflow for locally updated
+    markdown files that need to be updated in the vectorstore).
+
+    After the file upload, the function polls the vectorstore until the
+    file_status == "processed" and can securley be linked to the vectorstore.
+    404 errors would arise if the function would link the files immediately
+    to the vectostore when they still have a file_status == "pending".
     """
-    pbar_up = tqdm(total=len(md_files), desc="Uploading files", leave=False)
+    semaphore = asyncio.Semaphore(5)
 
     async def upload_file(md_file):
-        filename = md_file.name
-        if filename in vectorstore_filenames:
-            vectorstore_file_id = vectorstore_filenames[filename]["file_id"]
+        async with semaphore:
+            filename = md_file.name
+            if filename in vectorstore_filenames:
+                vectorstore_file_id = vectorstore_filenames[filename]["file_id"]
 
-            # Delete the file that gets replaced in the vectorstore first
+                # Delete the file that gets replaced in the vectorstore first
+                try:
+                    # Unlink file from vectorstore
+                    await asyncio.to_thread(
+                        client.vector_stores.files.delete,
+                        vector_store_id=str(vectorstore_id),
+                        file_id=vectorstore_file_id,
+                    )
+                    # Delete file from vectorstore
+                    utils.print_info(f"[bold]Deleting old {filename} from vectorstore ...")
+                    await asyncio.to_thread(
+                        client.files.delete, file_id=vectorstore_file_id
+                    )
+                except Exception as e:
+                    utils.print_err(f"[bold]Error deleting {filename} from vectorstore: {e}")
+
+            # File Upload
             try:
-                # Unlink file from vectorstore
+                # Parse YAML header for attributes
+                yaml_data = utils.parse_yaml_header(md_file) or {}
+
+                # Persist local filename in vectorstore attributes for health checks
+                yaml_data["local_filename"] = filename
+
+                # Upload the updated local file to vectorstore
+                utils.print_info(f"[bold]Uploading updated {filename} to vectorstore ...")
+                with open(md_file, "rb") as f:
+                    uploaded_file = await asyncio.to_thread(
+                        client.files.create, file=f, purpose="user_data"
+                    )
+
+                # 404 Prevention: Poll until file is processed on OpenAI's side
+                while True:
+                    file_status = await asyncio.to_thread(
+                        client.files.retrieve, uploaded_file.id
+                    )
+                    if file_status.status == "processed":
+                        break
+                    if file_status.status == "error":
+                        raise RuntimeError(f"File processing failed for {filename}")
+                    await asyncio.sleep(1)
+
+                # Finally: Link uploaded file to vectorstore
                 await asyncio.to_thread(
-                    client.vector_stores.files.delete,
+                    client.vector_stores.files.create,
                     vector_store_id=str(vectorstore_id),
-                    file_id=vectorstore_file_id,
-                )
-                # Delete file from vectorstore
-                utils.print_info(f"[bold]Deleting old {filename} from vectorstore ...")
-                await asyncio.to_thread(
-                    client.files.delete, file_id=vectorstore_file_id
+                    file_id=uploaded_file.id,
+                    attributes=yaml_data,
                 )
             except Exception as e:
-                utils.print_err(f"[bold]Error deleting {filename} from vectorstore: {e}")
-
-        # File Upload
-        try:
-            # Parse YAML header for attributes
-            yaml_data = utils.parse_yaml_header(md_file) or {}
-
-            # Persist local filename in vectorstore attributes for health checks
-            yaml_data["local_filename"] = filename
-
-            # Upload the updated local file to vectorstore
-            utils.print_info(f"[bold]Uploading updated {filename} to vectorstore ...")
-            with open(md_file, "rb") as f:
-                uploaded_file = await asyncio.to_thread(
-                    client.files.create, file=f, purpose="user_data"
-                )
-
-            # Link uploaded file to vectorstore
-            await asyncio.to_thread(
-                client.vector_stores.files.create,
-                vector_store_id=str(vectorstore_id),
-                file_id=uploaded_file.id,
-                attributes=yaml_data,
-            )
-        except Exception as e:
-            utils.print_err(f"Error uploading {filename}: {e}")
-        pbar_up.update(1)
+                utils.print_err(f"Error uploading {filename}: {e}")
 
     await asyncio.gather(*(upload_file(md_file) for md_file in md_files))
-    pbar_up.close()
 
 
 async def get_vectorstore_fileids_and_metadata(
