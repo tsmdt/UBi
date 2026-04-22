@@ -5,7 +5,6 @@ from pathlib import Path
 
 from dotenv import load_dotenv, set_key
 from openai import OpenAI
-from tqdm import tqdm
 
 import utils
 from config import DATA_DIR, ENV_PATH
@@ -59,34 +58,35 @@ async def async_delete_files_from_vectorstore(
     files_to_delete: set,
 ):
     """
-    Async delete files from vectorstore and OpenAI storage, with progress bar.
+    Async delete files from vectorstore and OpenAI storage.
     """
-    pbar_del = tqdm(
-        total=len(files_to_delete), desc="Deleting files", leave=False
-    )
+    semaphore = asyncio.Semaphore(5)
 
     async def delete_file(filename):
-        remote_file_id = vectorstore_filenames[filename]["file_id"]
-        try:
-            await asyncio.to_thread(
-                client.vector_stores.files.delete,
-                vector_store_id=str(vectorstore_id),
-                file_id=remote_file_id,
-            )
-            utils.print_info(f"[bold]Deleted {filename} from vectorstore.")
-            await asyncio.to_thread(
-                client.files.delete, file_id=remote_file_id
-            )
-        except Exception as e:
-            utils.print_err(
-                f"[bold]Error deleting {filename} from vectorstore/OpenAI storage: {e}"
-            )
-        pbar_del.update(1)
+        async with semaphore:
+            remote_file_id = vectorstore_filenames[filename]["file_id"]
+            is_missing = vectorstore_filenames[filename].get("file_missing", False)
+            try:
+                await asyncio.to_thread(
+                    client.vector_stores.files.delete,
+                    vector_store_id=str(vectorstore_id),
+                    file_id=remote_file_id,
+                )
+                utils.print_info(f"[bold]Deleted {filename} from vectorstore.")
+
+                # Only delete from OpenAI storage if the file actually exists
+                if not is_missing:
+                    await asyncio.to_thread(
+                        client.files.delete, file_id=remote_file_id
+                    )
+            except Exception as e:
+                utils.print_err(
+                    f"[bold]Error deleting {filename} from vectorstore/OpenAI storage: {e}"
+                )
 
     await asyncio.gather(
         *(delete_file(filename) for filename in files_to_delete)
     )
-    pbar_del.close()
 
 
 async def async_upload_files_to_vectorstore(
@@ -116,6 +116,7 @@ async def async_upload_files_to_vectorstore(
             filename = md_file.name
             if filename in vectorstore_filenames:
                 vectorstore_file_id = vectorstore_filenames[filename]["file_id"]
+                is_missing = vectorstore_filenames[filename].get("file_missing", False)
 
                 # Delete the file that gets replaced in the vectorstore first
                 try:
@@ -125,11 +126,12 @@ async def async_upload_files_to_vectorstore(
                         vector_store_id=str(vectorstore_id),
                         file_id=vectorstore_file_id,
                     )
-                    # Delete file from vectorstore
+                    # Only delete from OpenAI storage if the file actually exists
                     utils.print_info(f"[bold]Deleting old {filename} from vectorstore ...")
-                    await asyncio.to_thread(
-                        client.files.delete, file_id=vectorstore_file_id
-                    )
+                    if not is_missing:
+                        await asyncio.to_thread(
+                            client.files.delete, file_id=vectorstore_file_id
+                        )
                 except Exception as e:
                     utils.print_err(f"[bold]Error deleting {filename} from vectorstore: {e}")
 
