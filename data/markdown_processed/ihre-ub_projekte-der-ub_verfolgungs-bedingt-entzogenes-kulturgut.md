@@ -1,8 +1,9 @@
 ---
 title: Provenienzforschung zu NS-Raubgut im Bestand der Universitätsbibliothek Mannheim (2024–2026)
 source_url_de: https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/
+source_url_en: https://www.bib.uni-mannheim.de/en/
 category: Projekte
-tags: ['Provenienzforschung', 'NS-Raubgut', 'Restitution', 'Kulturgut', 'Bibliotheksprojekte', 'Forschungsförderung', 'Universitätsbibliothek', 'Geschichte']
+tags: ['Provenienzforschung', 'NS-Raubgut', 'Kulturgut', 'Restitution', 'Universitätsbibliothek', 'Forschungsprojekt', 'Kooperationen', 'Sammlungen']
 language: de
 ---
 
@@ -28,6 +29,7 @@ Zu diesem Zweck werden die Eingangsjournale der Wissenschaftlichen Stadtbiblioth
 - [Bernhard-Kahn-Lesehalle 1907-1933](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/bkl/)
 - [Israelitisches Kranken- und Pfründnerhaus Mannheim](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/israelitisches-kranken-und-pfruendnerhaus-mannheim/)
 - [Ressource-Gesellschaft](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/ressource-gesellschaft/)
+- [Zum Tag der Provenienzforschung 2026](https://www.bib.uni-mannheim.de/ihre-ub/projekte-der-ub/verfolgungs-bedingt-entzogenes-kulturgut/zum-tag-der-provenienzforschung-2026/)
 
 ## Kontakt
 
@@ -45,9 +47,7 @@ E-Mail: [ellen.wendel@uni-mannheim.de](mailto:ellen.wendel@uni-mannheim.de)
 
 ### Viktor Boecking, M.A.
 
-Leiter der Abteilung Kommunikation
-Fachreferent für Geschichte
-E-Learning
+Leiter der Abteilung Kommunikation, Fachreferent für Geschichte, E-Learning
 Universität Mannheim, Universitätsbibliothek
 Schloss Schneckenhof West – Raum SW 284, 68161 Mannheim
 Telefon: +49 621 181-2938

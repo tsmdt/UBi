@@ -106,6 +106,7 @@ https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/
 https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/ausleihe-mobiler-geraete/
 https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/bibliotheksgebuehren/
 https://www.bib.uni-mannheim.de/medien/informationen-zur-ausleihe/buch-nicht-am-standort/
+https://www.bib.uni-mannheim.de/medien/primo-suchtipps/
 https://www.bib.uni-mannheim.de/medien/sammlungen/
 https://www.bib.uni-mannheim.de/medien/weitere-kataloge/
 https://www.bib.uni-mannheim.de/medien/zeitungen/
@@ -120,6 +121,7 @@ https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-f
 https://www.bib.uni-mannheim.de/services/bibliotheksausweis/bibliotheksausweis-fuer-privatpersonen/
 https://www.bib.uni-mannheim.de/services/drucken-kopieren-und-scannen/
 https://www.bib.uni-mannheim.de/services/internetzugang/
+https://www.bib.uni-mannheim.de/services/ki-an-der-ub/
 https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/
 https://www.bib.uni-mannheim.de/services/kurse-und-tutorials/angebote-fuer-schulen/
 https://www.bib.uni-mannheim.de/services/literaturverwaltungsprogramme/
@@ -147,3 +149,4 @@ https://www.uni-mannheim.de/gip/
 https://www.uni-mannheim.de/gip/ueber-uns/team/
 https://www.uni-mannheim.de/gip/ueber-uns/haeufig-gestellte-fragen/
 https://www.uni-mannheim.de/gip/fragen-im-gip-stellen/
+https://www.uni-mannheim.de/universitaet/lehre/lehrprojekte/data-literacy/
