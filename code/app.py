@@ -105,7 +105,7 @@ async def set_starters(user=None, _language=None):
     return [
         cl.Starter(
             label="Öffnungszeiten",
-            message="Welche Bibliotheksbereiche der UB Mannheim haben jetzt geöffnet? Gib mir eine Übersicht über alle Öffnungszeiten der Bibliotheksbereiche und einen Link zur Öffnungszeiten-Webseite.",
+            message="Welche Bibliotheksbereiche der UB Mannheim haben geöffnet? Gib mir eine Übersicht über alle Öffnungszeiten der Bibliotheksbereiche und einen Link zur Öffnungszeiten-Webseite.",
         ),
         cl.Starter(
             label="Sitzplätze",
@@ -113,7 +113,7 @@ async def set_starters(user=None, _language=None):
         ),
         cl.Starter(
             label="Services",
-            message="Liste alle Dienstleistungen und Services der UB Mannheim für Studierende und Forschende auf.",
+            message="Erstelle eine übersichtliche Tabelle mit allen Dienstleistungen und Services der UB Mannheim für Studierende und Forschende in dieser Struktur: [Service](Link) | Erklärung.",
         ),
         cl.Starter(
             label="Standorte",
@@ -188,31 +188,38 @@ async def handle_openai_vectorstore_query(
     full_answer = ""
     try:
         stream = await client.responses.create(
-            model=os.getenv("CHAT_MODEL", "gpt-4.1-mini-2025-04-14"),
+            model=os.getenv("CHAT_MODEL", "gpt-5.4-mini"),
             input=chat_history,
             tools=[
                 {
                     "type": "file_search",
                     "vector_store_ids": [OPENAI_VECTORSTORE_ID],
-                    "max_num_results": 6,
+                    "max_num_results": 8,
                 }
             ],
             include=["file_search_call.results"] if not _quiet_mode else None,
             instructions=get_instructions(detected_language),
             stream=True,
-            temperature=0,
-            service_tier="priority",
+            reasoning={"effort": "low"},
+            text={"verbosity": "low"},
+            service_tier="auto",
         )
+        tool_use_detected = False
         async for event in stream:
             if event.type == "response.completed" and not _quiet_mode:
                 results_data, usage_data = extract_openai_response_data(
                     event.response
                 )
                 print_openai_extracted_data(results_data, usage_data)
+            if (
+                event.type == "response.output_item.added"
+                and getattr(event.item, "type", "") == "file_search_call"
+            ):
+                tool_use_detected = True
             if event.type == "response.output_text.delta" and event.delta:
-                token = event.delta
-                await msg.stream_token(token)
-                full_answer += token
+                if tool_use_detected:
+                    await msg.stream_token(event.delta)
+                    full_answer += event.delta
     except Exception as e:
         error_response = (
             f"{translate('openai_api_error', detected_language)}: {e}"
